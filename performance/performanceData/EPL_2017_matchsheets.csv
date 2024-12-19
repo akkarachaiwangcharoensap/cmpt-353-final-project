@@ -1,0 +1,761 @@
+home_team,away_team,is_home,season,venue,attendance,total_shots,fouls_committed,yellow_cards,won_corners,red_cards,saves,possession_pct,accurate_passes,total_passes,accurate_crosses,total_crosses,longball_pct,blocked_shots,effective_tackles,total_tackles,interceptions,total_clearance
+Arsenal,Leicester City,True,2017,Emirates Stadium,59387,27,9,0,9,0,0,70,538,632,6,20,0.7,8,17,23,0,30
+Arsenal,Leicester City,False,2017,Emirates Stadium,59387,6,12,1,4,0,6,30,167,263,4,18,0.5,0,8,17,0,24
+Brighton & Hove Albion,Manchester City,True,2017,American Express Stadium,30415,6,6,0,3,0,3,21.8,130,213,2,8,0.4,2,8,10,0,39
+Brighton & Hove Albion,Manchester City,False,2017,American Express Stadium,30415,14,9,2,10,0,2,78.2,691,768,4,27,0.7,5,6,10,0,8
+Chelsea,Burnley,False,2017,Stamford Bridge,41616,10,11,3,5,0,4,38.1,241,320,8,16,0.5,1,4,8,0,42
+Chelsea,Burnley,True,2017,Stamford Bridge,41616,19,16,3,8,2,2,61.9,446,521,4,26,0.5,7,8,10,0,22
+Crystal Palace,Huddersfield Town,True,2017,Selhurst Park,25448,14,7,1,12,0,4,56.7,304,391,6,27,0.5,3,19,24,0,18
+Crystal Palace,Huddersfield Town,False,2017,Selhurst Park,25448,9,19,3,9,0,4,43.3,199,306,3,14,0.4,0,19,28,0,29
+Everton,Stoke City,True,2017,Goodison Park,39045,9,13,1,6,0,1,61.6,392,497,9,18,0.4,2,12,17,0,43
+Everton,Stoke City,False,2017,Goodison Park,39045,9,10,1,7,0,3,38.4,211,292,1,27,0.3,2,12,18,0,24
+Southampton,Swansea City,True,2017,St. Mary's Stadium,31447,29,10,2,13,0,0,59.6,432,518,12,35,0.4,11,10,12,0,11
+Southampton,Swansea City,False,2017,St. Mary's Stadium,31447,4,13,1,0,0,2,40.4,284,365,2,8,0.5,2,8,11,0,38
+Watford,Liverpool,False,2017,Vicarage Road,20407,14,8,3,3,0,1,54.4,352,477,4,14,0.4,1,15,20,0,22
+Watford,Liverpool,True,2017,Vicarage Road,20407,9,14,0,3,0,2,45.6,277,395,2,16,0.4,1,12,19,0,28
+West Bromwich Albion,AFC Bournemouth,False,2017,The Hawthorns,25011,9,3,1,2,0,5,71.3,527,612,5,24,0.4,5,13,16,0,17
+West Bromwich Albion,AFC Bournemouth,True,2017,The Hawthorns,25011,16,15,3,8,0,2,28.7,157,242,6,16,0.3,1,15,19,0,26
+Manchester United,West Ham United,True,2017,Old Trafford,74928,21,19,2,11,0,1,55.4,417,493,5,20,0.5,8,8,14,0,19
+Manchester United,West Ham United,False,2017,Old Trafford,74928,9,7,2,1,0,1,44.6,316,397,1,14,0.5,2,16,21,0,26
+Newcastle United,Tottenham Hotspur,True,2017,St. James' Park,52077,6,6,1,5,1,4,26.9,157,245,1,19,0.4,0,9,12,0,29
+Newcastle United,Tottenham Hotspur,False,2017,St. James' Park,52077,18,10,2,7,0,2,73.1,628,702,3,19,0.5,7,11,16,0,22
+AFC Bournemouth,Watford,True,2017,Vitality Stadium,10501,6,6,1,8,0,5,55.8,338,438,4,15,0.5,3,7,11,0,31
+AFC Bournemouth,Watford,False,2017,Vitality Stadium,10501,19,14,3,5,0,2,44.2,265,338,4,20,0.5,5,13,20,0,28
+Burnley,West Bromwich Albion,True,2017,Turf Moor,19619,20,11,1,6,0,0,67.8,374,471,8,33,0.5,5,8,9,0,33
+Burnley,West Bromwich Albion,False,2017,Turf Moor,19619,8,11,0,5,1,0,32.2,127,228,4,13,0.3,2,3,9,0,36
+Leicester City,Brighton & Hove Albion,False,2017,King Power Stadium,31902,5,10,0,2,0,2,54.8,435,526,2,17,0.6,3,6,11,0,20
+Leicester City,Brighton & Hove Albion,True,2017,King Power Stadium,31902,14,8,1,6,0,2,45.2,332,427,4,19,0.4,6,9,11,0,16
+Liverpool,Crystal Palace,False,2017,Anfield,53138,4,13,3,2,0,12,27.6,181,273,1,6,0.4,1,11,21,0,26
+Liverpool,Crystal Palace,True,2017,Anfield,53138,23,12,1,4,0,1,72.4,603,712,7,22,0.6,5,16,24,0,11
+Southampton,West Ham United,True,2017,St. Mary's Stadium,31424,14,18,1,7,0,6,66.1,487,569,4,26,0.4,3,7,10,0,19
+Southampton,West Ham United,False,2017,St. Mary's Stadium,31424,16,10,1,2,1,2,33.9,192,287,10,18,0.4,2,9,12,0,38
+Stoke City,Arsenal,False,2017,bet365 Stadium,29459,18,11,0,9,0,3,77.1,639,731,9,24,0.5,6,11,15,0,9
+Stoke City,Arsenal,True,2017,bet365 Stadium,29459,11,6,0,2,0,6,22.9,137,213,5,10,0.4,2,11,19,0,35
+Swansea City,Manchester United,False,2017,Swansea.com Stadium,20862,17,11,1,5,0,0,59,523,601,3,20,0.5,3,11,16,0,26
+Swansea City,Manchester United,True,2017,Swansea.com Stadium,20862,5,12,1,3,0,4,41,315,406,6,22,0.4,0,14,21,0,28
+Huddersfield Town,Newcastle United,True,2017,John Smith's Stadium,24128,7,13,3,7,0,5,52.7,353,456,1,20,0.4,1,13,24,0,29
+Huddersfield Town,Newcastle United,False,2017,John Smith's Stadium,24128,13,10,4,3,0,2,47.3,296,415,4,14,0.4,5,13,18,0,27
+Tottenham Hotspur,Chelsea,False,2017,Wembley Stadium,73587,9,21,3,4,0,6,32.3,195,280,6,15,0.4,3,22,31,0,40
+Tottenham Hotspur,Chelsea,True,2017,Wembley Stadium,73587,18,14,4,14,0,0,67.7,501,592,7,37,0.7,6,9,14,0,14
+Manchester City,Everton,False,2017,Etihad Stadium,54009,7,9,2,1,1,5,34.6,198,301,3,9,0.3,0,12,19,0,30
+Manchester City,Everton,True,2017,Etihad Stadium,54009,19,7,1,7,1,1,65.4,461,560,6,24,0.6,4,8,12,0,6
+AFC Bournemouth,Manchester City,True,2017,Vitality Stadium,10419,9,13,5,2,0,6,29.8,152,258,1,9,0.1,3,13,20,0,31
+AFC Bournemouth,Manchester City,False,2017,Vitality Stadium,10419,19,14,4,5,1,2,70.2,524,604,6,27,0.7,4,8,13,0,35
+Crystal Palace,Swansea City,True,2017,Selhurst Park,23477,16,9,4,1,0,1,53.1,416,504,6,22,0.4,1,11,16,0,9
+Crystal Palace,Swansea City,False,2017,Selhurst Park,23477,7,6,1,1,0,3,46.9,369,464,4,5,0.5,2,15,20,0,28
+Huddersfield Town,Southampton,True,2017,John Smith's Stadium,23548,16,10,0,5,0,3,44.7,265,378,7,32,0.4,6,14,17,0,19
+Huddersfield Town,Southampton,False,2017,John Smith's Stadium,23548,6,10,1,4,0,6,55.3,382,502,1,8,0.3,0,11,16,0,29
+Manchester United,Leicester City,False,2017,Old Trafford,75021,11,7,2,3,0,5,30.9,208,300,3,10,0.4,2,14,22,0,41
+Manchester United,Leicester City,True,2017,Old Trafford,75021,22,8,1,9,0,4,69.1,576,662,8,38,0.5,8,8,9,0,17
+Newcastle United,West Ham United,True,2017,St. James' Park,52093,17,17,1,7,0,3,37.5,169,271,7,21,0.5,3,12,14,0,21
+Newcastle United,West Ham United,False,2017,St. James' Park,52093,8,11,3,5,0,5,62.5,358,473,2,15,0.5,0,13,17,0,22
+Watford,Brighton & Hove Albion,False,2017,Vicarage Road,20181,16,18,1,11,0,0,57.8,359,433,8,31,0.6,6,9,12,0,22
+Watford,Brighton & Hove Albion,True,2017,Vicarage Road,20181,8,7,0,3,1,2,42.2,244,334,3,11,0.4,3,4,10,0,36
+Chelsea,Everton,True,2017,Stamford Bridge,41382,18,12,2,6,0,0,56.7,500,583,2,18,0.5,7,9,14,0,23
+Chelsea,Everton,False,2017,Stamford Bridge,41382,7,7,2,3,0,5,43.3,355,437,1,16,0.4,2,12,17,0,28
+Liverpool,Arsenal,False,2017,Anfield,53206,8,9,4,3,0,6,51.4,438,539,1,7,0.4,2,11,13,0,21
+Liverpool,Arsenal,True,2017,Anfield,53206,18,6,2,4,0,0,48.6,411,507,7,16,0.3,3,16,19,0,19
+Tottenham Hotspur,Burnley,False,2017,Wembley Stadium,67862,13,9,0,7,0,4,32.7,193,272,7,20,0.4,2,9,16,0,36
+Tottenham Hotspur,Burnley,True,2017,Wembley Stadium,67862,28,9,0,10,0,2,67.3,503,588,8,26,0.5,17,7,9,0,19
+West Bromwich Albion,Stoke City,False,2017,The Hawthorns,22704,16,9,2,4,0,1,57.2,380,438,7,22,0.5,5,11,20,0,40
+West Bromwich Albion,Stoke City,True,2017,The Hawthorns,22704,10,10,2,10,0,1,42.8,239,314,9,34,0.3,0,13,17,0,24
+Arsenal,AFC Bournemouth,False,2017,Emirates Stadium,59262,7,10,1,3,0,6,41.6,291,401,7,20,0.2,0,8,11,0,19
+Arsenal,AFC Bournemouth,True,2017,Emirates Stadium,59262,17,14,0,10,0,2,58.4,464,583,3,12,0.4,4,12,16,0,20
+Brighton & Hove Albion,West Bromwich Albion,True,2017,American Express Stadium,30381,12,9,2,2,0,2,48.6,363,448,3,13,0.4,3,11,17,0,35
+Brighton & Hove Albion,West Bromwich Albion,False,2017,American Express Stadium,30381,12,4,0,6,0,3,51.4,377,461,5,35,0.5,3,4,8,0,26
+Everton,Tottenham Hotspur,True,2017,Goodison Park,38835,12,14,3,7,0,3,50.7,375,464,8,26,0.4,6,10,17,0,22
+Everton,Tottenham Hotspur,False,2017,Goodison Park,38835,15,14,1,3,0,1,49.3,367,458,5,17,0.5,3,9,13,0,31
+Leicester City,Chelsea,False,2017,King Power Stadium,31923,16,8,0,9,0,1,59.6,434,521,4,21,0.5,5,16,20,0,20
+Leicester City,Chelsea,True,2017,King Power Stadium,31923,8,11,1,2,0,4,40.4,259,347,3,21,0.6,3,17,18,0,21
+Manchester City,Liverpool,False,2017,Etihad Stadium,54172,7,9,2,3,1,5,33.9,288,372,2,9,0.4,2,12,15,0,22
+Manchester City,Liverpool,True,2017,Etihad Stadium,54172,13,10,2,8,0,3,66.1,658,730,7,19,0.6,0,10,14,0,14
+Southampton,Watford,True,2017,St. Mary's Stadium,31435,9,8,0,7,0,1,52.7,304,423,3,22,0.4,5,9,19,0,22
+Southampton,Watford,False,2017,St. Mary's Stadium,31435,12,11,0,4,0,1,47.3,276,384,3,9,0.4,4,13,19,0,34
+Stoke City,Manchester United,False,2017,bet365 Stadium,29320,18,10,0,11,0,3,63.2,490,564,6,30,0.5,5,7,9,0,15
+Stoke City,Manchester United,True,2017,bet365 Stadium,29320,10,10,0,5,0,6,36.8,252,332,4,14,0.4,1,13,19,0,24
+Burnley,Crystal Palace,True,2017,Turf Moor,18862,4,7,1,3,0,4,35.3,160,254,1,12,0.4,0,13,18,0,52
+Burnley,Crystal Palace,False,2017,Turf Moor,18862,23,14,1,13,0,1,64.7,342,450,9,37,0.3,13,7,12,0,20
+Swansea City,Newcastle United,False,2017,Swansea.com Stadium,20872,16,15,3,5,0,4,38.2,240,329,5,19,0.4,5,15,21,0,34
+Swansea City,Newcastle United,True,2017,Swansea.com Stadium,20872,10,11,2,8,0,7,61.8,424,525,9,31,0.5,1,10,14,0,28
+West Ham United,Huddersfield Town,False,2017,London Stadium,56977,10,14,2,3,0,1,56.5,330,426,3,19,0.3,7,14,19,0,44
+West Ham United,Huddersfield Town,True,2017,London Stadium,56977,19,11,1,10,0,2,43.5,216,311,7,32,0.5,6,11,21,0,23
+AFC Bournemouth,Brighton & Hove Albion,True,2017,Vitality Stadium,10369,15,5,0,6,0,1,62.5,573,647,1,18,0.6,7,8,12,0,14
+AFC Bournemouth,Brighton & Hove Albion,False,2017,Vitality Stadium,10369,9,12,0,4,0,1,37.5,290,390,5,13,0.5,2,16,19,0,25
+Crystal Palace,Southampton,True,2017,Selhurst Park,24199,14,14,5,5,0,3,45.6,311,410,3,22,0.4,2,12,15,0,22
+Crystal Palace,Southampton,False,2017,Selhurst Park,24199,13,13,1,5,0,3,54.4,404,503,4,16,0.5,5,11,15,0,36
+Huddersfield Town,Leicester City,True,2017,John Smith's Stadium,24169,15,6,1,8,0,0,59.8,383,486,10,38,0.5,6,11,16,0,31
+Huddersfield Town,Leicester City,False,2017,John Smith's Stadium,24169,10,6,1,4,0,2,40.2,247,344,3,9,0.4,5,4,8,0,38
+Liverpool,Burnley,False,2017,Anfield,53231,5,9,2,2,0,8,28.7,183,277,3,7,0.4,0,6,11,0,37
+Liverpool,Burnley,True,2017,Anfield,53231,35,7,1,12,0,3,71.3,581,676,6,34,0.5,12,5,6,0,9
+Newcastle United,Stoke City,True,2017,St. James' Park,51795,14,13,3,7,0,3,42.1,207,291,5,18,0.4,5,14,25,0,37
+Newcastle United,Stoke City,False,2017,St. James' Park,51795,13,11,1,5,0,1,57.9,304,405,5,14,0.4,2,11,15,0,25
+Tottenham Hotspur,Swansea City,False,2017,Wembley Stadium,65366,4,9,3,1,0,8,25.1,164,257,1,9,0.4,0,14,17,0,44
+Tottenham Hotspur,Swansea City,True,2017,Wembley Stadium,65366,26,11,1,11,0,0,74.9,674,757,7,42,0.7,4,8,14,0,11
+Watford,Manchester City,False,2017,Vicarage Road,20305,28,6,0,11,0,1,67.4,576,637,7,26,0.7,8,13,19,0,24
+Watford,Manchester City,True,2017,Vicarage Road,20305,7,8,2,3,0,4,32.6,236,312,4,10,0.5,1,3,7,0,22
+West Bromwich Albion,West Ham United,True,2017,The Hawthorns,24942,6,15,2,2,0,1,36.8,212,290,6,15,0.3,2,7,7,0,24
+West Bromwich Albion,West Ham United,False,2017,The Hawthorns,24942,9,7,2,3,0,1,63.2,414,487,8,33,0.6,3,6,11,0,16
+Chelsea,Arsenal,False,2017,Stamford Bridge,41478,11,15,3,1,0,4,49.4,411,520,2,8,0.4,4,15,19,0,24
+Chelsea,Arsenal,True,2017,Stamford Bridge,41478,13,11,2,5,1,2,50.6,416,532,2,16,0.4,6,10,13,0,21
+Manchester United,Everton,False,2017,Old Trafford,75042,7,14,1,1,0,3,50.8,415,510,2,7,0.5,2,17,22,0,29
+Manchester United,Everton,True,2017,Old Trafford,75042,16,15,1,4,0,3,49.2,403,476,4,28,0.5,4,10,14,0,13
+Burnley,Huddersfield Town,True,2017,Turf Moor,20759,4,9,3,3,0,2,52,333,456,2,12,0.5,1,9,15,0,22
+Burnley,Huddersfield Town,False,2017,Turf Moor,20759,9,14,2,4,0,2,48,316,417,2,18,0.4,2,21,25,0,35
+Everton,AFC Bournemouth,False,2017,Goodison Park,38133,8,11,1,6,0,1,49.4,321,415,5,21,0.5,2,11,13,0,22
+Everton,AFC Bournemouth,True,2017,Goodison Park,38133,12,12,3,4,0,3,50.6,334,426,7,24,0.4,4,13,19,0,24
+Leicester City,Liverpool,True,2017,King Power Stadium,32004,12,13,3,3,0,3,43.3,237,360,5,26,0.3,3,14,15,0,26
+Leicester City,Liverpool,False,2017,King Power Stadium,32004,23,14,3,6,0,5,56.7,352,486,6,17,0.4,8,9,14,0,34
+Manchester City,Crystal Palace,False,2017,Etihad Stadium,53526,5,7,1,2,0,4,28.1,205,281,2,11,0.4,3,9,16,0,30
+Manchester City,Crystal Palace,True,2017,Etihad Stadium,53526,25,6,3,8,0,0,71.9,656,724,7,24,0.7,9,3,6,0,6
+Southampton,Manchester United,False,2017,St. Mary's Stadium,31930,9,9,4,4,0,4,39.4,288,368,3,9,0.5,2,9,16,0,40
+Southampton,Manchester United,True,2017,St. Mary's Stadium,31930,14,12,1,8,0,3,60.6,453,544,7,31,0.5,4,13,18,0,10
+Stoke City,Chelsea,False,2017,bet365 Stadium,29661,7,14,2,0,0,2,55.9,466,547,0,5,0.4,0,24,26,0,29
+Stoke City,Chelsea,True,2017,bet365 Stadium,29661,13,5,2,5,0,0,44.1,319,407,4,27,0.4,4,12,18,0,8
+Swansea City,Watford,True,2017,Swansea.com Stadium,20372,10,9,1,6,0,2,50.8,323,429,8,33,0.4,4,19,21,0,17
+Swansea City,Watford,False,2017,Swansea.com Stadium,20372,8,16,3,4,0,2,49.2,340,433,2,12,0.4,2,7,17,0,43
+West Ham United,Tottenham Hotspur,False,2017,London Stadium,56988,15,20,2,3,1,2,51.1,293,394,3,16,0.4,3,13,19,0,39
+West Ham United,Tottenham Hotspur,True,2017,London Stadium,56988,10,10,4,4,0,2,48.9,261,367,5,26,0.5,1,15,19,0,23
+Brighton & Hove Albion,Newcastle United,True,2017,American Express Stadium,30468,7,6,2,2,0,5,48.8,339,438,3,21,0.5,2,8,16,0,40
+Brighton & Hove Albion,Newcastle United,False,2017,American Express Stadium,30468,17,8,1,8,0,2,51.2,365,458,3,20,0.3,5,10,14,0,29
+Arsenal,West Bromwich Albion,True,2017,Emirates Stadium,59134,16,8,1,7,0,3,69.1,537,615,3,18,0.7,4,9,15,0,24
+Arsenal,West Bromwich Albion,False,2017,Emirates Stadium,59134,7,17,4,4,0,4,30.9,188,272,3,13,0.4,1,12,16,0,23
+AFC Bournemouth,Leicester City,True,2017,Vitality Stadium,10444,19,6,1,7,0,1,60.9,436,540,1,27,0.6,5,9,12,0,31
+AFC Bournemouth,Leicester City,False,2017,Vitality Stadium,10444,8,10,0,5,0,4,39.1,221,347,1,15,0.3,3,13,19,0,38
+Chelsea,Manchester City,True,2017,Stamford Bridge,41530,4,8,0,4,0,5,38.1,311,395,3,14,0.4,0,13,19,0,20
+Chelsea,Manchester City,False,2017,Stamford Bridge,41530,17,13,2,8,0,2,61.9,578,653,7,20,0.6,5,17,19,0,20
+Huddersfield Town,Tottenham Hotspur,True,2017,John Smith's Stadium,24169,6,7,1,4,0,3,40.5,269,368,0,23,0.5,3,16,25,0,25
+Huddersfield Town,Tottenham Hotspur,False,2017,John Smith's Stadium,24169,14,4,1,7,0,1,59.5,452,558,5,16,0.5,2,11,16,0,31
+Manchester United,Crystal Palace,False,2017,Old Trafford,75118,6,9,0,5,0,3,40.7,295,377,5,21,0.4,1,11,20,0,18
+Manchester United,Crystal Palace,True,2017,Old Trafford,75118,18,6,0,6,0,1,59.3,474,566,8,19,0.5,5,7,17,0,18
+Stoke City,Southampton,False,2017,bet365 Stadium,29285,21,10,2,6,0,4,70.5,533,620,7,27,0.4,6,10,14,0,19
+Stoke City,Southampton,True,2017,bet365 Stadium,29285,17,11,1,5,0,2,29.5,171,262,3,10,0.4,10,7,14,0,42
+West Bromwich Albion,Watford,False,2017,The Hawthorns,24606,15,11,0,6,0,2,65.1,464,552,3,27,0.6,6,13,21,0,22
+West Bromwich Albion,Watford,True,2017,The Hawthorns,24606,9,12,3,7,0,1,34.9,205,295,2,18,0.4,2,18,25,0,45
+West Ham United,Swansea City,False,2017,London Stadium,56922,6,13,2,1,0,3,56.8,412,501,1,21,0.4,2,14,14,0,18
+West Ham United,Swansea City,True,2017,London Stadium,56922,9,15,3,2,0,1,43.2,287,375,9,26,0.5,2,17,22,0,25
+Arsenal,Brighton & Hove Albion,True,2017,Emirates Stadium,59378,25,7,0,6,0,1,65.2,612,697,3,12,0.5,6,11,15,0,23
+Arsenal,Brighton & Hove Albion,False,2017,Emirates Stadium,59378,9,8,2,5,0,9,34.8,269,357,4,18,0.3,3,6,10,0,22
+Everton,Burnley,False,2017,Goodison Park,38448,5,7,2,3,0,4,36.8,179,295,3,17,0.4,2,10,18,0,60
+Everton,Burnley,True,2017,Goodison Park,38448,25,14,2,9,0,1,63.2,398,501,7,34,0.4,8,5,8,0,43
+Newcastle United,Liverpool,False,2017,St. James' Park,52303,17,6,1,5,0,4,67.8,515,613,8,27,0.6,6,10,16,0,14
+Newcastle United,Liverpool,True,2017,St. James' Park,52303,8,11,1,1,0,1,32.2,196,295,0,10,0.4,2,10,14,0,35
+Burnley,West Ham United,True,2017,Turf Moor,20945,20,11,2,7,0,5,62.1,356,454,10,22,0.5,7,6,12,0,15
+Burnley,West Ham United,False,2017,Turf Moor,20945,8,14,2,4,1,4,37.9,189,285,1,10,0.4,1,6,9,0,30
+Crystal Palace,Chelsea,False,2017,Selhurst Park,25480,15,6,1,8,0,4,57,459,559,4,21,0.8,4,13,23,0,37
+Crystal Palace,Chelsea,True,2017,Selhurst Park,25480,14,7,2,5,0,4,43,309,431,2,11,0.2,3,14,23,0,24
+Liverpool,Manchester United,True,2017,Anfield,52912,19,7,0,7,0,1,62.2,500,580,5,26,0.4,6,15,17,0,24
+Liverpool,Manchester United,False,2017,Anfield,52912,6,13,2,3,0,5,37.8,267,354,0,14,0.4,3,12,21,0,28
+Manchester City,Stoke City,True,2017,Etihad Stadium,54128,20,5,0,5,0,0,79.3,814,892,3,14,0.7,0,11,12,0,6
+Manchester City,Stoke City,False,2017,Etihad Stadium,54128,5,8,1,0,0,4,20.7,152,231,1,2,0.3,1,9,12,0,16
+Swansea City,Huddersfield Town,False,2017,Swansea.com Stadium,20657,7,16,5,3,0,1,59.8,458,539,2,20,0.5,4,12,16,0,16
+Swansea City,Huddersfield Town,True,2017,Swansea.com Stadium,20657,7,12,1,5,0,2,40.2,280,360,2,17,0.5,2,9,15,0,15
+Tottenham Hotspur,AFC Bournemouth,False,2017,Wembley Stadium,73502,5,7,3,5,0,5,27.1,169,254,4,11,0.3,1,10,11,0,31
+Tottenham Hotspur,AFC Bournemouth,True,2017,Wembley Stadium,73502,18,9,1,9,0,1,72.9,613,688,7,32,0.7,8,9,19,0,18
+Watford,Arsenal,False,2017,Vicarage Road,20384,9,10,0,5,0,0,53.9,442,552,2,13,0.5,0,12,18,0,36
+Watford,Arsenal,True,2017,Vicarage Road,20384,11,8,1,2,0,5,46.1,365,465,5,19,0.4,3,12,15,0,24
+Brighton & Hove Albion,Everton,True,2017,American Express Stadium,30565,12,12,4,7,0,5,46.9,285,385,5,27,0.4,6,9,18,0,26
+Brighton & Hove Albion,Everton,False,2017,American Express Stadium,30565,13,10,1,1,0,2,53.1,354,451,2,14,0.5,2,15,20,0,31
+Southampton,Newcastle United,False,2017,St. Mary's Stadium,31437,19,12,2,8,0,0,38.2,260,347,3,26,0.3,6,9,14,0,39
+Southampton,Newcastle United,True,2017,St. Mary's Stadium,31437,12,11,1,3,0,3,61.8,495,583,3,21,0.5,4,11,11,0,32
+Leicester City,West Bromwich Albion,True,2017,King Power Stadium,30203,11,13,2,4,0,0,57,367,486,4,29,0.4,4,14,21,0,18
+Leicester City,West Bromwich Albion,False,2017,King Power Stadium,30203,5,6,2,1,0,2,43,271,378,2,13,0.4,1,8,15,0,28
+West Ham United,Brighton & Hove Albion,False,2017,London Stadium,56977,7,13,0,3,0,2,35,251,337,3,10,0.5,1,7,10,0,45
+West Ham United,Brighton & Hove Albion,True,2017,London Stadium,56977,16,5,1,10,0,2,65,506,604,7,39,0.6,9,10,15,0,3
+Chelsea,Watford,True,2017,Stamford Bridge,41467,14,13,2,6,0,3,52.5,377,462,4,19,0.4,1,16,22,0,28
+Chelsea,Watford,False,2017,Stamford Bridge,41467,16,16,3,6,0,4,47.5,324,406,6,22,0.5,5,12,17,0,13
+Huddersfield Town,Manchester United,True,2017,John Smith's Stadium,24169,5,10,4,4,0,2,22.1,116,210,2,9,0.2,2,20,27,0,49
+Huddersfield Town,Manchester United,False,2017,John Smith's Stadium,24169,9,12,2,7,0,1,77.9,643,741,5,30,0.7,3,8,13,0,17
+Manchester City,Burnley,False,2017,Etihad Stadium,54118,6,6,3,5,0,7,22.6,150,227,3,12,0.4,3,10,14,0,20
+Manchester City,Burnley,True,2017,Etihad Stadium,54118,15,10,2,4,0,0,77.4,723,803,3,17,0.6,1,5,9,0,17
+Newcastle United,Crystal Palace,False,2017,St. James' Park,52251,10,14,2,5,0,2,44.7,261,365,5,18,0.3,3,14,16,0,28
+Newcastle United,Crystal Palace,True,2017,St. James' Park,52251,7,12,4,3,0,0,55.3,361,453,1,17,0.5,3,12,16,0,30
+Southampton,West Bromwich Albion,True,2017,St. Mary's Stadium,29947,20,10,0,8,0,2,65.7,492,589,5,29,0.5,3,16,21,8,30
+Southampton,West Bromwich Albion,False,2017,St. Mary's Stadium,29947,7,8,1,3,0,5,34.3,206,307,2,17,0.4,1,7,10,12,31
+Stoke City,AFC Bournemouth,False,2017,bet365 Stadium,29500,7,10,1,3,0,2,47.7,282,391,2,9,0.3,1,13,17,0,42
+Stoke City,AFC Bournemouth,True,2017,bet365 Stadium,29500,11,17,0,8,0,1,52.3,287,407,9,33,0.3,2,10,11,0,9
+Swansea City,Leicester City,False,2017,Swansea.com Stadium,20521,11,9,1,6,0,3,44.2,276,381,4,17,0.4,2,16,23,0,29
+Swansea City,Leicester City,True,2017,Swansea.com Stadium,20521,19,6,0,7,0,5,55.8,379,463,11,35,0.5,7,12,17,0,21
+Everton,Arsenal,False,2017,Goodison Park,39189,30,14,1,7,0,1,67.6,516,616,3,15,0.6,8,9,12,0,23
+Everton,Arsenal,True,2017,Goodison Park,39189,9,14,1,0,1,9,32.4,199,287,5,13,0.4,2,7,8,0,30
+Tottenham Hotspur,Liverpool,False,2017,Wembley Stadium,80827,12,8,1,5,0,2,63.8,545,629,4,28,0.7,4,17,26,0,12
+Tottenham Hotspur,Liverpool,True,2017,Wembley Stadium,80827,14,2,0,3,0,6,36.2,274,359,1,11,0.4,3,19,22,0,29
+AFC Bournemouth,Chelsea,True,2017,Vitality Stadium,10998,7,5,2,5,0,4,41.7,376,459,3,15,0.5,3,6,7,0,19
+AFC Bournemouth,Chelsea,False,2017,Vitality Stadium,10998,18,5,0,5,0,1,58.3,569,653,5,19,0.6,6,12,16,0,13
+Arsenal,Swansea City,True,2017,Emirates Stadium,59493,17,9,0,5,0,1,72.9,701,805,3,18,0.6,4,13,16,0,13
+Arsenal,Swansea City,False,2017,Emirates Stadium,59493,4,9,0,2,0,3,27.1,218,300,0,7,0.3,0,7,14,0,38
+Crystal Palace,West Ham United,True,2017,Selhurst Park,25242,20,18,1,11,0,0,55.9,316,410,8,30,0.5,3,15,21,0,17
+Crystal Palace,West Ham United,False,2017,Selhurst Park,25242,6,15,2,2,0,7,44.1,238,331,2,17,0.4,1,13,23,0,36
+Liverpool,Huddersfield Town,False,2017,Anfield,53268,1,8,1,2,0,5,26.6,174,280,0,6,0.3,0,10,13,0,27
+Liverpool,Huddersfield Town,True,2017,Anfield,53268,16,10,0,9,0,0,73.4,660,766,5,22,0.5,2,13,14,0,14
+Manchester United,Tottenham Hotspur,True,2017,Old Trafford,75034,11,12,1,6,0,4,44.8,283,405,3,24,0.4,3,4,9,0,30
+Manchester United,Tottenham Hotspur,False,2017,Old Trafford,75034,13,14,0,3,0,2,55.2,394,509,2,17,0.4,4,6,11,0,33
+Watford,Stoke City,False,2017,Vicarage Road,20087,6,9,4,1,0,0,29.8,150,249,2,3,0.3,1,14,18,0,57
+Watford,Stoke City,True,2017,Vicarage Road,20087,15,10,4,8,0,1,70.2,456,561,7,30,0.5,8,9,11,0,14
+West Bromwich Albion,Manchester City,False,2017,The Hawthorns,24003,15,7,3,2,0,2,78.3,843,929,1,10,0.6,2,11,16,0,21
+West Bromwich Albion,Manchester City,True,2017,The Hawthorns,24003,7,10,2,1,0,2,21.7,151,254,2,6,0.3,2,11,21,0,16
+Brighton & Hove Albion,Southampton,True,2017,American Express Stadium,30564,7,9,3,2,0,0,51.9,395,490,5,21,0.5,1,11,18,0,20
+Brighton & Hove Albion,Southampton,False,2017,American Express Stadium,30564,6,10,1,7,0,1,48.1,360,450,2,21,0.4,3,10,16,0,17
+Leicester City,Everton,False,2017,King Power Stadium,31891,15,10,2,10,0,1,59.6,374,470,8,27,0.5,6,12,19,0,25
+Leicester City,Everton,True,2017,King Power Stadium,31891,9,6,0,3,0,2,40.4,214,324,3,12,0.4,1,8,14,0,31
+Burnley,Newcastle United,True,2017,Turf Moor,21031,12,9,3,5,0,5,47.1,343,451,5,26,0.4,4,11,14,0,29
+Burnley,Newcastle United,False,2017,Turf Moor,21031,12,10,0,3,0,4,52.9,409,521,2,16,0.5,4,6,10,0,27
+Huddersfield Town,West Bromwich Albion,True,2017,John Smith's Stadium,24169,7,8,1,3,1,3,50.1,339,421,2,16,0.5,1,12,20,0,33
+Huddersfield Town,West Bromwich Albion,False,2017,John Smith's Stadium,24169,9,15,4,5,0,2,49.9,330,417,6,21,0.5,4,10,13,0,18
+Newcastle United,AFC Bournemouth,False,2017,St. James' Park,52237,16,12,2,9,0,4,52,308,407,4,25,0.5,4,9,10,0,24
+Newcastle United,AFC Bournemouth,True,2017,St. James' Park,52237,16,11,2,11,0,5,48,276,373,6,26,0.4,3,12,19,0,28
+Southampton,Burnley,False,2017,St. Mary's Stadium,30491,5,4,0,1,0,3,37.2,239,344,2,11,0.4,2,7,11,0,35
+Southampton,Burnley,True,2017,St. Mary's Stadium,30491,13,4,0,9,0,0,62.8,466,575,4,26,0.4,4,11,15,0,18
+Stoke City,Leicester City,False,2017,bet365 Stadium,29602,14,8,0,10,0,5,52.8,337,424,6,21,0.4,5,11,14,0,24
+Stoke City,Leicester City,True,2017,bet365 Stadium,29602,11,12,0,4,0,2,47.2,284,379,5,20,0.5,1,11,15,0,18
+Swansea City,Brighton & Hove Albion,False,2017,Swansea.com Stadium,20822,5,12,1,7,0,2,43.9,267,371,2,20,0.4,1,10,17,0,36
+Swansea City,Brighton & Hove Albion,True,2017,Swansea.com Stadium,20822,12,13,2,8,0,1,56.1,379,468,4,31,0.5,7,7,12,0,19
+West Ham United,Liverpool,False,2017,London Stadium,56961,15,13,0,3,0,0,52,381,488,1,5,0.4,1,16,20,0,20
+West Ham United,Liverpool,True,2017,London Stadium,56961,6,9,3,2,0,3,48,335,442,3,12,0.4,0,5,10,0,14
+Chelsea,Manchester United,True,2017,Stamford Bridge,41615,18,16,1,4,0,2,54,370,471,2,19,0.5,4,10,14,0,16
+Chelsea,Manchester United,False,2017,Stamford Bridge,41615,10,20,3,7,0,7,46,301,396,6,21,0.5,5,5,13,0,22
+Everton,Watford,True,2017,Goodison Park,38609,9,14,0,2,0,1,37.9,196,294,3,11,0.4,2,17,20,0,37
+Everton,Watford,False,2017,Goodison Park,38609,11,12,2,5,0,2,62.1,356,472,6,25,0.5,2,11,14,0,23
+Manchester City,Arsenal,False,2017,Etihad Stadium,54286,6,15,6,5,0,2,41.8,369,450,1,8,0.5,0,10,16,0,13
+Manchester City,Arsenal,True,2017,Etihad Stadium,54286,9,15,1,5,0,2,58.2,544,624,4,13,0.5,2,12,18,0,22
+Tottenham Hotspur,Crystal Palace,False,2017,Wembley Stadium,65270,11,7,2,9,0,1,31.6,185,268,5,16,0.4,3,13,19,0,41
+Tottenham Hotspur,Crystal Palace,True,2017,Wembley Stadium,65270,12,6,0,10,0,3,68.4,491,583,2,30,0.7,4,10,20,0,30
+AFC Bournemouth,Huddersfield Town,True,2017,Vitality Stadium,10879,9,13,3,8,1,3,30.7,147,246,5,10,0.3,0,12,12,0,48
+AFC Bournemouth,Huddersfield Town,False,2017,Vitality Stadium,10879,19,10,2,11,0,1,69.3,441,539,9,46,0.5,6,11,19,0,10
+Arsenal,Tottenham Hotspur,True,2017,Emirates Stadium,59530,14,11,4,7,0,4,42.1,281,399,2,16,0.5,5,10,18,0,37
+Arsenal,Tottenham Hotspur,False,2017,Emirates Stadium,59530,14,16,1,4,0,3,57.9,436,549,4,20,0.4,2,7,12,0,22
+Burnley,Swansea City,True,2017,Turf Moor,18895,17,12,1,8,0,1,39.2,204,296,5,27,0.4,6,15,23,0,18
+Burnley,Swansea City,False,2017,Turf Moor,18895,14,12,1,6,0,5,60.8,379,471,4,26,0.5,4,9,10,0,29
+Crystal Palace,Everton,True,2017,Selhurst Park,25526,16,9,2,9,0,3,68.7,439,539,8,29,0.4,4,9,12,0,16
+Crystal Palace,Everton,False,2017,Selhurst Park,25526,8,26,3,4,0,5,31.3,159,248,3,12,0.3,1,26,34,0,46
+Leicester City,Manchester City,True,2017,King Power Stadium,31908,2,8,1,1,0,2,25.3,175,266,1,4,0.4,1,7,11,0,24
+Leicester City,Manchester City,False,2017,King Power Stadium,31908,12,10,1,7,0,0,74.7,705,784,1,14,0.7,2,10,13,0,17
+Liverpool,Southampton,True,2017,Anfield,53256,21,15,1,10,0,0,61.1,472,562,3,20,0.5,7,9,11,0,20
+Liverpool,Southampton,False,2017,Anfield,53256,5,9,1,2,0,5,38.9,261,362,3,12,0.4,2,20,26,0,36
+Manchester United,Newcastle United,True,2017,Old Trafford,75035,16,10,1,11,0,4,64.7,542,620,7,37,0.6,3,12,15,0,20
+Manchester United,Newcastle United,False,2017,Old Trafford,75035,12,9,1,4,0,3,35.3,260,344,4,12,0.4,1,13,18,0,34
+West Bromwich Albion,Chelsea,False,2017,The Hawthorns,23592,11,12,3,4,0,2,61.4,529,610,3,17,0.6,2,8,14,0,20
+West Bromwich Albion,Chelsea,True,2017,The Hawthorns,23592,7,13,2,3,0,3,38.6,307,378,3,21,0.5,0,13,18,0,16
+Watford,West Ham United,True,2017,Vicarage Road,20018,17,13,1,3,0,6,58.5,515,614,4,21,0.5,2,9,13,0,24
+Watford,West Ham United,False,2017,Vicarage Road,20018,10,10,4,1,0,5,41.5,336,434,5,16,0.5,0,5,6,0,26
+Brighton & Hove Albion,Stoke City,True,2017,American Express Stadium,29676,9,13,1,6,0,4,53.8,364,462,5,23,0.5,0,8,14,0,17
+Brighton & Hove Albion,Stoke City,False,2017,American Express Stadium,29676,13,5,0,7,0,1,46.2,316,396,6,23,0.5,5,7,10,0,27
+West Ham United,Leicester City,False,2017,London Stadium,56897,7,12,1,5,0,3,50.7,313,404,1,18,0.5,0,16,24,0,35
+West Ham United,Leicester City,True,2017,London Stadium,56897,8,9,1,5,0,1,49.3,300,381,5,31,0.4,1,12,19,0,14
+Crystal Palace,Stoke City,True,2017,Selhurst Park,23723,10,9,1,5,0,2,54,379,492,3,23,0.4,3,21,27,0,19
+Crystal Palace,Stoke City,False,2017,Selhurst Park,23723,10,5,1,2,0,3,46,327,425,3,15,0.4,1,15,20,0,29
+Liverpool,Chelsea,False,2017,Anfield,53225,11,7,0,8,0,3,46.5,411,497,7,26,0.5,3,15,23,0,22
+Liverpool,Chelsea,True,2017,Anfield,53225,16,10,0,7,0,2,53.5,504,587,6,18,0.5,9,11,19,0,30
+Manchester United,Brighton & Hove Albion,False,2017,Old Trafford,75018,8,9,2,0,0,4,41.7,311,404,4,17,0.5,3,14,18,0,30
+Manchester United,Brighton & Hove Albion,True,2017,Old Trafford,75018,15,9,0,5,0,2,58.3,478,565,5,27,0.5,4,7,10,0,14
+Newcastle United,Watford,True,2017,St. James' Park,52188,12,8,1,6,0,2,52.4,378,480,3,24,0.4,5,8,12,0,22
+Newcastle United,Watford,False,2017,St. James' Park,52188,12,13,2,3,0,2,47.6,315,441,4,15,0.4,1,19,27,0,34
+Swansea City,AFC Bournemouth,False,2017,Swansea.com Stadium,20228,9,6,2,5,0,1,51.8,390,472,2,22,0.4,2,11,16,0,31
+Swansea City,AFC Bournemouth,True,2017,Swansea.com Stadium,20228,10,18,4,4,0,5,48.2,350,447,2,18,0.5,3,13,17,0,25
+Tottenham Hotspur,West Bromwich Albion,True,2017,Wembley Stadium,65905,25,10,1,8,0,1,72.5,601,689,6,35,0.7,10,12,15,0,9
+Tottenham Hotspur,West Bromwich Albion,False,2017,Wembley Stadium,65905,5,13,4,0,0,4,27.5,190,266,2,9,0.5,0,14,20,0,41
+Burnley,Arsenal,False,2017,Turf Moor,21722,18,14,0,5,0,2,63.7,531,636,2,17,0.4,7,9,11,0,25
+Burnley,Arsenal,True,2017,Turf Moor,21722,8,8,2,5,0,1,36.3,269,350,4,19,0.4,3,12,13,0,33
+Huddersfield Town,Manchester City,True,2017,John Smith's Stadium,24121,4,10,2,3,1,3,20.5,94,184,3,10,0.3,1,11,16,0,25
+Huddersfield Town,Manchester City,False,2017,John Smith's Stadium,24121,14,10,3,7,0,0,79.5,642,733,2,16,0.6,2,15,21,0,17
+Southampton,Everton,False,2017,St. Mary's Stadium,30461,5,13,0,2,0,1,32.8,232,329,0,7,0.4,0,6,12,0,30
+Southampton,Everton,True,2017,St. Mary's Stadium,30461,17,6,0,7,0,1,67.2,564,663,8,32,0.5,5,13,19,0,20
+Brighton & Hove Albion,Crystal Palace,True,2017,American Express Stadium,29889,10,13,2,10,0,4,53.2,334,452,7,29,0.4,2,10,19,0,18
+Brighton & Hove Albion,Crystal Palace,False,2017,American Express Stadium,29889,10,8,0,5,0,4,46.8,295,405,1,16,0.3,1,7,9,0,24
+Leicester City,Tottenham Hotspur,True,2017,King Power Stadium,31950,7,7,1,4,0,5,37.4,240,336,2,14,0.4,0,14,23,0,45
+Leicester City,Tottenham Hotspur,False,2017,King Power Stadium,31950,18,10,2,9,0,2,62.6,465,561,7,27,0.5,3,12,19,0,16
+Watford,Manchester United,False,2017,Vicarage Road,20552,15,10,1,5,0,1,40.6,257,346,2,10,0.4,5,10,14,0,38
+Watford,Manchester United,True,2017,Vicarage Road,20552,12,12,2,5,0,3,59.4,411,496,4,25,0.4,4,12,16,0,24
+West Bromwich Albion,Newcastle United,False,2017,The Hawthorns,25534,14,12,0,6,0,2,52.1,342,435,7,21,0.4,5,16,18,0,29
+West Bromwich Albion,Newcastle United,True,2017,The Hawthorns,25534,8,13,0,1,0,3,47.9,305,401,3,21,0.4,2,18,22,0,29
+AFC Bournemouth,Burnley,True,2017,Vitality Stadium,10302,11,9,0,4,0,2,62.1,453,567,7,30,0.5,5,12,14,0,18
+AFC Bournemouth,Burnley,False,2017,Vitality Stadium,10302,10,11,1,6,0,1,37.9,247,345,3,20,0.5,4,16,22,0,30
+Arsenal,Huddersfield Town,True,2017,Emirates Stadium,59285,21,10,0,7,0,2,70.3,716,813,2,11,0.7,6,12,19,0,13
+Arsenal,Huddersfield Town,False,2017,Emirates Stadium,59285,7,12,1,2,0,2,29.7,259,337,2,10,0.5,2,7,13,0,30
+Chelsea,Swansea City,True,2017,Stamford Bridge,41365,21,10,1,15,0,0,61.1,518,608,9,42,0.7,4,15,22,0,15
+Chelsea,Swansea City,False,2017,Stamford Bridge,41365,2,7,0,1,0,9,38.9,315,404,0,11,0.5,1,10,16,0,42
+Everton,West Ham United,True,2017,Goodison Park,38242,8,16,2,2,0,3,43.9,325,411,3,14,0.4,1,14,19,0,49
+Everton,West Ham United,False,2017,Goodison Park,38242,7,6,1,6,0,1,56.1,406,511,2,31,0.4,1,7,11,0,13
+Manchester City,Southampton,True,2017,Etihad Stadium,53407,26,12,1,6,0,1,74.3,668,778,4,21,0.6,6,8,16,0,12
+Manchester City,Southampton,False,2017,Etihad Stadium,53407,7,11,1,5,0,10,25.7,157,270,5,8,0.2,2,13,15,0,32
+Stoke City,Liverpool,False,2017,bet365 Stadium,29423,14,10,5,10,0,1,60.1,445,548,2,14,0.3,4,10,14,0,31
+Stoke City,Liverpool,True,2017,bet365 Stadium,29423,10,8,1,5,0,4,39.9,244,349,4,21,0.5,5,11,16,0,21
+Arsenal,Manchester United,True,2017,Emirates Stadium,59547,33,11,3,12,0,1,75.1,562,656,2,26,0.5,11,14,18,0,10
+Arsenal,Manchester United,False,2017,Emirates Stadium,59547,8,10,2,1,1,15,24.9,147,222,2,4,0.3,3,7,15,0,67
+Brighton & Hove Albion,Liverpool,True,2017,American Express Stadium,30634,6,8,1,2,0,2,42.8,398,489,2,13,0.6,1,13,18,0,15
+Brighton & Hove Albion,Liverpool,False,2017,American Express Stadium,30634,12,7,0,2,0,1,57.2,583,662,2,12,0.5,2,12,17,0,19
+Chelsea,Newcastle United,True,2017,Stamford Bridge,41538,23,8,0,11,0,1,65.6,647,743,6,26,0.6,6,12,17,0,13
+Chelsea,Newcastle United,False,2017,Stamford Bridge,41538,8,13,1,4,0,6,34.4,299,390,2,11,0.4,2,10,17,0,37
+Everton,Huddersfield Town,True,2017,Goodison Park,39167,6,12,2,2,0,3,47.1,252,367,3,7,0.4,1,10,13,0,42
+Everton,Huddersfield Town,False,2017,Goodison Park,39167,5,9,1,5,0,2,52.9,281,396,3,27,0.4,0,15,23,0,34
+Leicester City,Burnley,False,2017,King Power Stadium,30714,14,11,2,7,0,2,48.4,282,382,10,24,0.3,3,15,23,0,27
+Leicester City,Burnley,True,2017,King Power Stadium,30714,16,3,0,10,0,4,51.6,302,415,2,25,0.4,7,7,7,0,24
+Stoke City,Swansea City,True,2017,bet365 Stadium,28261,10,12,2,2,0,2,44.1,295,377,2,12,0.6,1,9,13,0,35
+Stoke City,Swansea City,False,2017,bet365 Stadium,28261,10,10,0,6,0,1,55.9,372,458,3,31,0.5,5,13,24,0,21
+Watford,Tottenham Hotspur,False,2017,Vicarage Road,20278,8,8,1,2,1,1,49.5,329,404,1,15,0.7,2,13,21,0,30
+Watford,Tottenham Hotspur,True,2017,Vicarage Road,20278,6,16,4,7,0,1,50.5,316,399,4,26,0.7,2,12,20,0,24
+West Bromwich Albion,Crystal Palace,False,2017,The Hawthorns,23531,10,10,1,7,0,6,48.9,271,380,7,22,0.4,5,12,15,0,30
+West Bromwich Albion,Crystal Palace,True,2017,The Hawthorns,23531,20,11,3,3,0,2,51.1,288,395,10,26,0.5,6,9,15,0,21
+AFC Bournemouth,Southampton,True,2017,Vitality Stadium,10764,16,6,2,5,0,3,47.8,330,415,4,22,0.4,4,5,12,0,29
+AFC Bournemouth,Southampton,False,2017,Vitality Stadium,10764,15,12,1,4,0,4,52.2,371,458,6,23,0.5,2,17,23,0,17
+Manchester City,West Ham United,True,2017,Etihad Stadium,54203,24,5,2,10,0,3,77,664,753,6,28,0.7,11,18,22,0,9
+Manchester City,West Ham United,False,2017,Etihad Stadium,54203,7,7,2,4,0,6,23,158,220,3,14,0.4,0,12,20,0,37
+Burnley,Watford,True,2017,Turf Moor,19479,8,10,1,3,0,2,49,251,377,5,23,0.5,1,5,8,0,38
+Burnley,Watford,False,2017,Turf Moor,19479,11,12,0,5,1,4,51,276,394,9,21,0.3,1,3,10,0,34
+Crystal Palace,AFC Bournemouth,False,2017,Selhurst Park,24823,11,14,2,3,0,6,54.9,352,442,2,15,0.6,3,8,19,10,34
+Crystal Palace,AFC Bournemouth,True,2017,Selhurst Park,24823,24,14,5,6,0,3,45.1,257,345,11,28,0.6,8,9,18,15,18
+Huddersfield Town,Brighton & Hove Albion,False,2017,John Smith's Stadium,24018,7,10,0,1,0,4,41.6,267,391,0,11,0.4,3,12,17,0,24
+Huddersfield Town,Brighton & Hove Albion,True,2017,John Smith's Stadium,24018,19,6,0,8,0,2,58.4,403,541,5,28,0.4,5,20,23,0,16
+Newcastle United,Leicester City,False,2017,St. James' Park,52117,13,8,1,5,0,2,62.2,446,562,5,16,0.4,1,13,20,0,16
+Newcastle United,Leicester City,True,2017,St. James' Park,52117,10,10,2,6,0,3,37.8,230,337,3,12,0.4,2,15,21,0,22
+Swansea City,West Bromwich Albion,True,2017,Swansea.com Stadium,19580,18,8,2,6,0,1,54.3,365,461,5,29,0.5,7,17,20,0,24
+Swansea City,West Bromwich Albion,False,2017,Swansea.com Stadium,19580,7,18,5,3,0,2,45.7,298,396,3,17,0.4,3,8,15,0,29
+Tottenham Hotspur,Stoke City,False,2017,Wembley Stadium,62202,4,9,0,6,0,7,29.2,172,268,3,16,0.4,0,12,17,0,29
+Tottenham Hotspur,Stoke City,True,2017,Wembley Stadium,62202,20,12,1,12,0,2,70.8,579,657,5,26,0.7,3,11,18,0,16
+West Ham United,Chelsea,False,2017,London Stadium,56953,19,10,1,3,0,1,69.4,586,683,3,21,0.7,9,16,24,0,17
+West Ham United,Chelsea,True,2017,London Stadium,56953,5,10,6,4,0,2,30.6,219,299,0,13,0.3,2,14,22,0,32
+Liverpool,Everton,False,2017,Anfield,53082,3,11,3,1,0,2,20.6,99,197,0,5,0.3,0,12,21,0,49
+Liverpool,Everton,True,2017,Anfield,53082,23,8,1,12,0,1,79.4,644,736,9,45,0.7,8,11,13,0,8
+Manchester United,Manchester City,False,2017,Old Trafford,74847,14,10,2,8,0,4,64.6,502,606,2,10,0.4,4,12,18,0,15
+Manchester United,Manchester City,True,2017,Old Trafford,74847,8,16,4,2,0,5,35.4,225,329,3,6,0.4,1,16,22,0,17
+Southampton,Arsenal,False,2017,St. Mary's Stadium,31643,11,10,2,5,0,2,67,664,758,3,17,0.6,1,8,13,0,13
+Southampton,Arsenal,True,2017,St. Mary's Stadium,31643,6,12,2,4,0,5,33,296,375,1,11,0.3,1,10,14,0,36
+Burnley,Stoke City,True,2017,Turf Moor,19909,10,6,0,6,0,7,51,251,392,6,17,0.3,3,9,14,0,36
+Burnley,Stoke City,False,2017,Turf Moor,19909,14,14,0,4,0,1,49,240,380,3,14,0.4,1,14,17,0,36
+Crystal Palace,Watford,True,2017,Selhurst Park,23566,14,14,2,4,0,1,53.6,318,415,2,14,0.4,4,8,13,0,45
+Crystal Palace,Watford,False,2017,Selhurst Park,23566,7,18,1,6,1,2,46.4,242,352,4,20,0.4,2,8,21,0,26
+Huddersfield Town,Chelsea,False,2017,John Smith's Stadium,24169,12,4,0,3,0,1,64.2,707,769,4,21,0.8,3,6,10,0,14
+Huddersfield Town,Chelsea,True,2017,John Smith's Stadium,24169,7,11,0,1,0,2,35.8,363,431,1,9,0.4,1,4,8,0,16
+Liverpool,West Bromwich Albion,True,2017,Anfield,53243,14,16,1,5,0,1,70.2,611,711,2,16,0.7,6,11,20,0,24
+Liverpool,West Bromwich Albion,False,2017,Anfield,53243,6,6,1,7,0,5,29.8,195,291,3,19,0.4,1,15,24,0,31
+Manchester United,AFC Bournemouth,False,2017,Old Trafford,74798,14,12,2,9,0,1,43.6,342,427,4,25,0.5,3,7,10,0,18
+Manchester United,AFC Bournemouth,True,2017,Old Trafford,74798,9,14,1,4,0,7,56.4,482,570,1,17,0.4,4,10,13,0,18
+Newcastle United,Everton,False,2017,St. James' Park,51042,7,11,2,1,0,4,45,312,426,3,7,0.3,0,18,25,0,49
+Newcastle United,Everton,True,2017,St. James' Park,51042,16,10,1,4,1,3,55,392,509,4,24,0.4,8,10,17,0,7
+Southampton,Leicester City,False,2017,St. Mary's Stadium,27714,16,9,0,9,0,3,46.6,278,369,4,13,0.5,3,15,23,0,17
+Southampton,Leicester City,True,2017,St. Mary's Stadium,27714,11,13,1,9,0,7,53.4,334,413,7,25,0.5,2,14,19,0,18
+Swansea City,Manchester City,False,2017,Swansea.com Stadium,20870,23,6,0,5,0,3,78.5,763,834,5,16,0.6,3,14,17,0,14
+Swansea City,Manchester City,True,2017,Swansea.com Stadium,20870,7,12,0,2,0,6,21.5,149,223,3,8,0.3,2,10,12,0,18
+Tottenham Hotspur,Brighton & Hove Albion,False,2017,Wembley Stadium,55124,7,10,1,2,0,6,24.9,161,248,4,8,0.4,1,9,13,0,37
+Tottenham Hotspur,Brighton & Hove Albion,True,2017,Wembley Stadium,55124,25,5,1,10,0,4,75.1,663,749,6,26,0.5,11,9,15,0,4
+West Ham United,Arsenal,False,2017,London Stadium,56921,22,9,0,7,0,0,70.1,607,704,7,23,0.7,11,11,17,0,24
+West Ham United,Arsenal,True,2017,London Stadium,56921,6,9,2,1,0,3,29.9,214,300,2,10,0.4,2,5,11,0,38
+Arsenal,Newcastle United,True,2017,Emirates Stadium,59379,23,13,2,7,0,2,71.3,649,761,3,10,0.7,7,6,17,0,24
+Arsenal,Newcastle United,False,2017,Emirates Stadium,59379,10,9,1,5,0,4,28.7,201,299,4,14,0.5,4,12,21,0,41
+Brighton & Hove Albion,Burnley,True,2017,American Express Stadium,29921,12,13,4,8,0,7,57.8,375,475,3,36,0.5,4,8,11,0,37
+Brighton & Hove Albion,Burnley,False,2017,American Express Stadium,29921,11,13,2,2,0,2,42.2,243,358,5,15,0.4,4,9,12,0,28
+Chelsea,Southampton,True,2017,Stamford Bridge,41562,24,8,1,8,0,2,53.6,467,545,4,15,0.6,8,10,13,0,17
+Chelsea,Southampton,False,2017,Stamford Bridge,41562,6,16,3,4,0,7,46.4,386,474,2,13,0.5,2,16,20,0,25
+Leicester City,Crystal Palace,False,2017,King Power Stadium,31081,13,13,2,4,0,2,43.9,275,368,5,12,0.3,4,18,25,0,35
+Leicester City,Crystal Palace,True,2017,King Power Stadium,31081,11,12,2,6,1,3,56.1,357,452,6,31,0.6,4,13,16,0,12
+Manchester City,Tottenham Hotspur,True,2017,Etihad Stadium,54214,20,13,2,5,0,1,52.9,370,456,4,11,0.6,2,11,18,0,7
+Manchester City,Tottenham Hotspur,False,2017,Etihad Stadium,54214,7,20,4,1,0,7,47.1,327,412,1,7,0.6,1,10,17,0,13
+Stoke City,West Ham United,True,2017,bet365 Stadium,29265,17,12,2,7,0,4,54.7,333,432,8,30,0.5,9,19,25,0,14
+Stoke City,West Ham United,False,2017,bet365 Stadium,29265,14,13,1,9,0,0,45.3,295,372,1,11,0.4,1,6,7,0,47
+Watford,Huddersfield Town,False,2017,Vicarage Road,20026,15,17,2,7,1,2,40.6,225,310,4,17,0.4,2,15,24,0,20
+Watford,Huddersfield Town,True,2017,Vicarage Road,20026,13,12,2,8,1,5,59.4,356,452,4,22,0.5,3,9,18,0,14
+AFC Bournemouth,Liverpool,True,2017,Vitality Stadium,10780,6,5,1,2,0,3,44,414,511,0,11,0.3,2,3,9,0,17
+AFC Bournemouth,Liverpool,False,2017,Vitality Stadium,10780,21,10,1,3,0,2,56,576,655,8,19,0.6,2,8,12,0,18
+West Bromwich Albion,Manchester United,False,2017,The Hawthorns,24782,8,7,3,3,0,4,56.9,484,588,2,12,0.4,3,7,12,0,20
+West Bromwich Albion,Manchester United,True,2017,The Hawthorns,24782,12,14,1,6,0,1,43.1,341,433,8,22,0.4,4,9,15,0,14
+Everton,Swansea City,True,2017,Goodison Park,37580,12,12,2,6,0,2,51.1,349,445,2,15,0.5,2,13,17,0,17
+Everton,Swansea City,False,2017,Goodison Park,37580,8,12,3,3,0,4,48.9,332,431,2,10,0.4,1,10,14,0,22
+Arsenal,Liverpool,True,2017,Emirates Stadium,59409,11,9,1,7,0,6,53.5,380,503,2,14,0.4,4,14,18,0,17
+Arsenal,Liverpool,False,2017,Emirates Stadium,59409,14,11,0,8,0,1,46.5,334,436,5,20,0.4,0,15,21,0,30
+Brighton & Hove Albion,Watford,True,2017,American Express Stadium,30473,14,8,0,6,0,1,51.7,328,426,8,21,0.5,3,11,14,0,18
+Brighton & Hove Albion,Watford,False,2017,American Express Stadium,30473,12,11,0,4,0,2,48.3,288,397,5,19,0.5,5,10,19,0,27
+Burnley,Tottenham Hotspur,True,2017,Turf Moor,21650,5,10,1,4,0,5,40.4,233,350,5,18,0.3,0,5,11,0,29
+Burnley,Tottenham Hotspur,False,2017,Turf Moor,21650,18,10,2,4,0,2,59.6,419,527,3,11,0.5,5,8,9,0,37
+Everton,Chelsea,False,2017,Goodison Park,39191,25,4,0,7,0,0,67.8,569,679,4,35,0.6,8,10,19,0,8
+Everton,Chelsea,True,2017,Goodison Park,39191,5,8,3,2,0,8,32.2,230,327,4,10,0.4,2,14,18,0,57
+Leicester City,Manchester United,True,2017,King Power Stadium,32202,11,19,2,4,1,4,49.7,354,448,1,15,0.4,5,3,8,0,16
+Leicester City,Manchester United,False,2017,King Power Stadium,32202,19,8,2,6,0,1,50.3,371,448,4,21,0.5,4,12,17,0,29
+Manchester City,AFC Bournemouth,False,2017,Etihad Stadium,54270,5,7,1,6,0,1,21.2,163,232,3,13,0.3,2,7,10,0,27
+Manchester City,AFC Bournemouth,True,2017,Etihad Stadium,54270,14,8,0,4,0,1,78.8,825,901,3,18,0.6,4,16,19,0,10
+Southampton,Huddersfield Town,False,2017,St. Mary's Stadium,29675,10,9,1,1,0,5,47.4,223,345,6,21,0.4,4,11,17,0,25
+Southampton,Huddersfield Town,True,2017,St. Mary's Stadium,29675,12,16,2,9,0,1,52.6,269,384,3,23,0.2,2,6,14,0,30
+Stoke City,West Bromwich Albion,True,2017,bet365 Stadium,29057,9,9,1,1,0,6,43.6,259,357,5,18,0.4,2,11,27,0,43
+Stoke City,West Bromwich Albion,False,2017,bet365 Stadium,29057,17,11,0,11,0,2,56.4,338,445,12,41,0.4,5,10,16,0,16
+Swansea City,Crystal Palace,False,2017,Swansea.com Stadium,20354,13,11,3,3,0,1,35.7,257,336,5,12,0.4,4,14,21,0,21
+Swansea City,Crystal Palace,True,2017,Swansea.com Stadium,20354,7,13,2,6,0,4,64.3,505,594,1,27,0.6,2,11,18,0,13
+West Ham United,Newcastle United,False,2017,London Stadium,56955,11,12,1,3,0,4,36.5,155,249,1,14,0.3,2,15,23,0,56
+West Ham United,Newcastle United,True,2017,London Stadium,56955,19,9,1,6,0,1,63.5,329,426,8,33,0.6,8,12,16,0,29
+AFC Bournemouth,West Ham United,True,2017,Vitality Stadium,10596,25,12,3,7,0,2,56.5,330,424,13,27,0.4,5,12,15,0,12
+AFC Bournemouth,West Ham United,False,2017,Vitality Stadium,10596,10,14,4,4,0,7,43.5,236,333,5,18,0.4,2,19,22,0,33
+Chelsea,Brighton & Hove Albion,False,2017,Stamford Bridge,41568,8,8,1,1,0,6,32.9,264,341,3,8,0.6,3,9,13,0,32
+Chelsea,Brighton & Hove Albion,True,2017,Stamford Bridge,41568,25,8,0,13,0,1,67.1,614,695,5,20,0.6,7,10,12,0,13
+Huddersfield Town,Stoke City,True,2017,John Smith's Stadium,24047,18,9,2,8,0,6,58.3,416,500,5,34,0.6,3,11,17,0,20
+Huddersfield Town,Stoke City,False,2017,John Smith's Stadium,24047,15,12,4,5,0,6,41.7,274,372,7,13,0.6,3,19,31,0,41
+Liverpool,Swansea City,True,2017,Anfield,52850,22,5,0,4,0,4,55,530,601,2,18,0.5,6,13,20,0,7
+Liverpool,Swansea City,False,2017,Anfield,52850,7,8,1,2,0,4,45,422,496,4,9,0.6,1,7,13,0,21
+Manchester United,Burnley,False,2017,Old Trafford,75046,3,14,7,2,0,4,28.7,157,270,1,9,0.2,0,12,14,0,56
+Manchester United,Burnley,True,2017,Old Trafford,75046,24,10,3,12,0,0,71.3,534,638,13,50,0.6,11,11,11,0,18
+Tottenham Hotspur,Southampton,False,2017,Wembley Stadium,57297,16,15,2,8,0,2,43,265,359,4,22,0.5,3,19,28,0,17
+Tottenham Hotspur,Southampton,True,2017,Wembley Stadium,57297,16,8,0,3,0,4,57,408,493,2,9,0.6,2,5,12,0,29
+Watford,Leicester City,False,2017,Vicarage Road,20308,11,13,3,8,0,0,50.2,244,359,9,23,0.4,3,8,15,0,22
+Watford,Leicester City,True,2017,Vicarage Road,20308,11,7,3,8,0,4,49.8,234,355,5,20,0.4,3,14,20,0,30
+West Bromwich Albion,Everton,False,2017,The Hawthorns,25364,7,13,0,2,0,3,47.3,238,344,3,19,0.4,0,10,16,0,36
+West Bromwich Albion,Everton,True,2017,The Hawthorns,25364,17,14,2,10,0,3,52.7,263,370,11,41,0.5,4,6,13,0,23
+Newcastle United,Manchester City,False,2017,,52311,38,4,0,17,0,0,78,0,0,0,0,0.0,0,0,0,0,0
+Newcastle United,Manchester City,True,2017,,52311,12,10,1,1,0,0,22,0,0,0,0,0.0,0,0,0,0,0
+Crystal Palace,Arsenal,False,2017,Selhurst Park,25762,16,7,1,4,0,0,65.2,553,654,1,15,0.5,4,14,21,0,28
+Crystal Palace,Arsenal,True,2017,Selhurst Park,25762,16,12,1,5,0,6,34.8,249,336,5,22,0.5,5,12,26,0,28
+AFC Bournemouth,Everton,True,2017,Vitality Stadium,10497,18,8,0,4,0,0,47.2,290,416,9,19,0.3,4,5,8,0,23
+AFC Bournemouth,Everton,False,2017,Vitality Stadium,10497,6,13,0,4,0,5,52.8,348,471,2,15,0.4,2,10,14,0,28
+Chelsea,Stoke City,True,2017,Stamford Bridge,41433,21,5,1,7,0,1,58.5,592,653,6,23,0.6,2,6,9,0,9
+Chelsea,Stoke City,False,2017,Stamford Bridge,41433,1,10,1,0,0,7,41.5,395,474,0,5,0.4,0,18,27,0,22
+Huddersfield Town,Burnley,False,2017,John Smith's Stadium,24095,11,14,1,4,0,1,43.1,179,294,5,12,0.3,2,12,17,0,22
+Huddersfield Town,Burnley,True,2017,John Smith's Stadium,24095,3,14,2,5,0,4,56.9,284,384,2,22,0.4,0,11,16,0,33
+Liverpool,Leicester City,False,2017,Anfield,53226,7,3,2,1,0,4,39.4,258,371,0,12,0.3,5,9,16,0,32
+Liverpool,Leicester City,True,2017,Anfield,53226,18,7,3,7,0,0,60.6,456,566,1,19,0.5,5,12,15,0,27
+Manchester United,Southampton,True,2017,Old Trafford,75051,15,12,2,10,0,3,54.5,427,500,7,34,0.5,7,12,14,0,29
+Manchester United,Southampton,False,2017,Old Trafford,75051,8,13,4,7,0,3,45.5,329,423,2,21,0.2,1,11,19,0,31
+Newcastle United,Brighton & Hove Albion,False,2017,St. James' Park,52209,10,10,2,6,0,2,54.7,396,505,6,22,0.5,2,10,13,0,37
+Newcastle United,Brighton & Hove Albion,True,2017,St. James' Park,52209,11,11,2,3,0,3,45.3,292,411,4,19,0.4,4,8,12,0,20
+Watford,Swansea City,False,2017,Vicarage Road,20002,9,13,2,8,0,3,48.9,396,478,3,16,0.5,1,12,19,0,13
+Watford,Swansea City,True,2017,Vicarage Road,20002,9,14,4,1,0,2,51.1,412,500,4,16,0.5,1,16,21,0,20
+Crystal Palace,Manchester City,True,2017,Selhurst Park,25804,10,14,5,7,0,4,25.5,124,205,3,17,0.4,4,9,19,0,31
+Crystal Palace,Manchester City,False,2017,Selhurst Park,25804,15,11,4,8,0,2,74.5,550,626,3,20,0.5,7,11,14,0,26
+West Bromwich Albion,Arsenal,False,2017,The Hawthorns,26223,14,9,3,6,0,2,65.3,544,647,1,10,0.6,5,10,12,0,23
+West Bromwich Albion,Arsenal,True,2017,The Hawthorns,26223,14,14,3,5,0,4,34.7,244,322,8,28,0.5,7,8,14,0,31
+Brighton & Hove Albion,AFC Bournemouth,False,2017,American Express Stadium,30152,26,9,1,12,0,4,50.9,329,403,7,24,0.4,13,2,6,0,27
+Brighton & Hove Albion,AFC Bournemouth,True,2017,American Express Stadium,30152,15,13,2,5,0,6,49.1,300,394,3,20,0.5,6,10,23,0,35
+Burnley,Liverpool,True,2017,Turf Moor,21756,13,4,0,3,0,3,42.1,266,377,5,17,0.3,3,9,13,0,27
+Burnley,Liverpool,False,2017,Turf Moor,21756,19,12,0,9,0,3,57.9,410,511,8,24,0.4,7,12,14,0,30
+Everton,Manchester United,True,2017,Goodison Park,39188,12,11,2,6,0,4,39.8,282,365,6,21,0.4,6,9,12,0,32
+Everton,Manchester United,False,2017,Goodison Park,39188,21,10,0,6,0,0,60.2,495,585,0,7,0.4,7,8,12,0,28
+Leicester City,Huddersfield Town,False,2017,King Power Stadium,31748,6,9,1,1,0,2,48.6,369,455,1,17,0.5,2,18,29,0,43
+Leicester City,Huddersfield Town,True,2017,King Power Stadium,31748,11,7,1,4,0,1,51.4,387,482,3,20,0.5,0,9,14,0,19
+Stoke City,Newcastle United,False,2017,bet365 Stadium,28471,14,11,1,5,0,4,41.2,223,335,4,12,0.3,3,12,17,0,39
+Stoke City,Newcastle United,True,2017,bet365 Stadium,28471,11,10,3,10,0,5,58.8,352,463,6,28,0.5,4,8,14,0,27
+Manchester City,Watford,True,2017,Etihad Stadium,53556,18,8,1,9,0,3,76.7,784,854,5,21,0.7,3,7,14,0,7
+Manchester City,Watford,False,2017,Etihad Stadium,53556,7,12,1,1,0,5,23.3,182,261,1,3,0.3,1,20,25,0,22
+Southampton,Crystal Palace,False,2017,St. Mary's Stadium,28411,11,11,1,7,0,2,38.9,246,350,3,17,0.3,3,11,15,0,18
+Southampton,Crystal Palace,True,2017,St. Mary's Stadium,28411,10,8,0,4,0,2,61.1,444,560,3,16,0.5,0,19,26,0,23
+Swansea City,Tottenham Hotspur,True,2017,Swansea.com Stadium,20615,8,12,2,6,0,3,32.3,232,313,4,17,0.4,2,10,18,0,19
+Swansea City,Tottenham Hotspur,False,2017,Swansea.com Stadium,20615,12,9,2,5,0,1,67.7,593,675,5,18,0.7,2,14,21,0,21
+West Ham United,West Bromwich Albion,False,2017,London Stadium,56888,12,12,2,4,0,3,47.4,327,413,4,23,0.5,3,10,16,9,37
+West Ham United,West Bromwich Albion,True,2017,London Stadium,56888,13,12,3,3,0,2,52.6,372,449,8,29,0.6,3,11,15,7,32
+Arsenal,Chelsea,True,2017,Emirates Stadium,59379,14,11,3,10,0,4,58.3,515,599,5,20,0.6,5,12,16,0,14
+Arsenal,Chelsea,False,2017,Emirates Stadium,59379,19,11,2,8,0,4,41.7,348,422,4,19,0.5,3,11,18,0,29
+Tottenham Hotspur,West Ham United,True,2017,Wembley Stadium,50034,31,10,0,7,0,0,70.7,558,669,3,27,0.6,14,15,19,0,15
+Tottenham Hotspur,West Ham United,False,2017,Wembley Stadium,50034,3,6,2,1,0,7,29.3,186,283,1,7,0.3,0,9,18,0,41
+Chelsea,Leicester City,True,2017,Stamford Bridge,41552,17,14,2,6,0,1,55.5,427,511,4,24,0.5,6,11,13,0,15
+Chelsea,Leicester City,False,2017,Stamford Bridge,41552,14,13,2,3,1,7,44.5,329,415,3,10,0.6,7,11,14,0,24
+Crystal Palace,Burnley,False,2017,Selhurst Park,24696,8,10,3,2,0,1,55.8,310,415,7,20,0.5,1,10,19,0,21
+Crystal Palace,Burnley,True,2017,Selhurst Park,24696,17,16,0,3,0,2,44.2,212,324,9,19,0.3,7,13,18,0,27
+Huddersfield Town,West Ham United,True,2017,John Smith's Stadium,24105,8,7,1,7,0,2,64.8,443,548,4,23,0.4,2,9,13,0,20
+Huddersfield Town,West Ham United,False,2017,John Smith's Stadium,24105,8,9,1,3,0,1,35.2,209,306,2,5,0.3,1,15,21,0,30
+Newcastle United,Swansea City,True,2017,St. James' Park,51444,12,11,0,4,0,4,42.2,276,369,5,15,0.4,1,16,22,0,19
+Newcastle United,Swansea City,False,2017,St. James' Park,51444,8,10,3,5,0,3,57.8,401,500,9,21,0.5,1,5,8,0,20
+Tottenham Hotspur,Everton,False,2017,Wembley Stadium,76251,7,15,2,3,0,6,38.5,258,360,2,11,0.4,3,14,17,0,24
+Tottenham Hotspur,Everton,True,2017,Wembley Stadium,76251,20,11,0,3,0,0,61.5,484,579,2,18,0.6,4,10,18,0,22
+Watford,Southampton,False,2017,Vicarage Road,20018,10,13,5,4,0,2,44.4,256,376,3,19,0.4,2,12,15,0,32
+Watford,Southampton,True,2017,Vicarage Road,20018,16,11,0,5,0,2,55.6,350,464,7,28,0.5,2,11,14,0,21
+West Bromwich Albion,Brighton & Hove Albion,False,2017,The Hawthorns,25240,13,15,0,6,0,2,55.9,348,450,4,23,0.5,5,13,17,0,35
+West Bromwich Albion,Brighton & Hove Albion,True,2017,The Hawthorns,25240,15,8,0,10,0,1,44.1,244,355,7,22,0.4,5,6,9,0,25
+AFC Bournemouth,Arsenal,True,2017,Vitality Stadium,10836,13,8,2,4,0,2,40.5,232,366,2,14,0.2,3,10,24,0,24
+AFC Bournemouth,Arsenal,False,2017,Vitality Stadium,10836,12,10,2,5,0,3,59.5,410,551,2,13,0.3,4,16,21,0,30
+Liverpool,Manchester City,True,2017,Anfield,53285,16,10,2,5,0,1,35.7,277,367,1,12,0.3,5,22,33,0,18
+Liverpool,Manchester City,False,2017,Anfield,53285,11,7,3,6,0,3,64.3,571,667,3,13,0.5,4,11,24,0,21
+Manchester United,Stoke City,True,2017,Old Trafford,74726,20,14,2,6,0,5,60.3,542,604,2,12,0.7,5,10,15,0,12
+Manchester United,Stoke City,False,2017,Old Trafford,74726,11,10,1,1,0,6,39.7,326,395,3,9,0.5,1,8,16,0,16
+Arsenal,Crystal Palace,True,2017,Emirates Stadium,59386,16,6,0,5,0,4,63,642,727,3,9,0.8,5,11,19,0,30
+Arsenal,Crystal Palace,False,2017,Emirates Stadium,59386,9,8,0,10,0,6,37,336,406,7,29,0.5,3,9,15,0,20
+Brighton & Hove Albion,Chelsea,True,2017,American Express Stadium,30600,10,12,3,5,0,6,41.7,287,362,6,29,0.5,2,8,11,0,14
+Brighton & Hove Albion,Chelsea,False,2017,American Express Stadium,30600,14,5,0,3,0,3,58.3,462,535,1,10,0.5,3,4,13,0,22
+Burnley,Manchester United,True,2017,Turf Moor,21841,14,7,3,5,0,1,48.2,309,423,7,23,0.3,3,18,24,0,23
+Burnley,Manchester United,False,2017,Turf Moor,21841,12,13,3,4,0,3,51.8,363,461,2,18,0.5,6,6,13,0,37
+Everton,West Bromwich Albion,True,2017,Goodison Park,39061,9,15,2,0,0,4,56.8,341,474,2,14,0.4,3,13,21,0,25
+Everton,West Bromwich Albion,False,2017,Goodison Park,39061,15,10,1,3,0,3,43.2,223,356,4,18,0.4,1,8,15,0,21
+Leicester City,Watford,True,2017,King Power Stadium,31891,9,11,0,4,0,3,53.4,331,422,2,12,0.5,1,5,15,0,26
+Leicester City,Watford,False,2017,King Power Stadium,31891,11,10,0,5,0,3,46.6,254,356,3,21,0.4,4,16,27,0,21
+Manchester City,Newcastle United,True,2017,Etihad Stadium,54452,21,5,0,18,0,3,80.5,723,799,4,32,0.8,2,9,23,0,20
+Manchester City,Newcastle United,False,2017,Etihad Stadium,54452,6,10,1,0,0,6,19.5,114,193,2,7,0.3,1,13,18,0,41
+Stoke City,Huddersfield Town,False,2017,bet365 Stadium,29785,6,13,1,2,0,4,51.5,194,353,3,17,0.3,0,11,14,0,17
+Stoke City,Huddersfield Town,True,2017,bet365 Stadium,29785,11,18,1,3,0,3,48.5,199,330,4,15,0.4,1,15,22,0,25
+West Ham United,AFC Bournemouth,False,2017,London Stadium,56948,8,7,1,3,0,3,52.2,335,434,1,10,0.5,0,9,15,0,39
+West Ham United,AFC Bournemouth,True,2017,London Stadium,56948,12,8,3,6,0,2,47.8,281,386,5,26,0.4,2,9,13,0,21
+Southampton,Tottenham Hotspur,True,2017,St. Mary's Stadium,31361,10,8,2,2,0,1,41.1,237,343,3,15,0.3,1,16,21,0,17
+Southampton,Tottenham Hotspur,False,2017,St. Mary's Stadium,31361,17,15,3,9,0,4,58.9,407,491,8,24,0.4,5,10,16,0,18
+Swansea City,Liverpool,False,2017,Swansea.com Stadium,20886,21,9,2,9,0,1,71.8,662,756,5,28,0.4,6,10,15,0,11
+Swansea City,Liverpool,True,2017,Swansea.com Stadium,20886,3,5,0,3,0,4,28.2,204,295,1,10,0.4,0,11,15,0,40
+Huddersfield Town,Liverpool,True,2017,John Smith's Stadium,24121,5,8,0,1,0,4,25.3,214,308,1,8,0.4,2,10,11,0,38
+Huddersfield Town,Liverpool,False,2017,John Smith's Stadium,24121,14,8,0,4,0,1,74.7,809,913,3,20,0.7,4,8,13,0,17
+Swansea City,Arsenal,False,2017,Swansea.com Stadium,20819,9,8,3,3,0,1,74.3,824,894,5,21,0.7,1,0,11,0,15
+Swansea City,Arsenal,True,2017,Swansea.com Stadium,20819,12,4,0,4,0,3,25.7,225,306,2,12,0.4,4,7,13,0,24
+West Ham United,Crystal Palace,False,2017,London Stadium,56911,9,15,3,3,0,2,59.6,371,454,7,23,0.5,1,5,9,0,20
+West Ham United,Crystal Palace,True,2017,London Stadium,56911,8,11,1,5,0,2,40.4,204,296,9,30,0.5,1,15,25,0,24
+Chelsea,AFC Bournemouth,False,2017,Stamford Bridge,41464,11,12,0,5,0,5,34.3,241,329,2,7,0.3,4,10,23,0,36
+Chelsea,AFC Bournemouth,True,2017,Stamford Bridge,41464,21,5,1,8,0,2,65.7,517,618,9,25,0.5,8,10,16,0,9
+Everton,Leicester City,True,2017,Goodison Park,38390,9,10,0,5,0,1,44.3,231,347,4,15,0.3,1,19,24,0,25
+Everton,Leicester City,False,2017,Goodison Park,38390,8,10,2,5,0,2,55.7,319,440,5,20,0.4,2,9,17,0,33
+Manchester City,West Bromwich Albion,True,2017,Etihad Stadium,53241,19,10,1,9,0,1,74.3,614,695,0,20,0.7,2,13,16,0,7
+Manchester City,West Bromwich Albion,False,2017,Etihad Stadium,53241,3,10,3,1,0,7,25.7,162,246,0,2,0.4,1,12,17,0,27
+Newcastle United,Burnley,False,2017,St. James' Park,50174,11,15,2,4,0,3,47.5,241,364,2,17,0.4,3,13,18,0,28
+Newcastle United,Burnley,True,2017,St. James' Park,50174,14,15,1,7,0,2,52.5,280,397,4,19,0.4,3,11,17,0,43
+Southampton,Brighton & Hove Albion,False,2017,St. Mary's Stadium,30034,9,10,1,2,0,2,34.2,215,315,1,13,0.5,3,9,20,0,35
+Southampton,Brighton & Hove Albion,True,2017,St. Mary's Stadium,30034,18,8,3,7,0,1,65.8,484,588,7,37,0.4,7,8,12,0,16
+Stoke City,Watford,True,2017,bet365 Stadium,27458,11,12,4,2,0,2,48.4,161,279,4,13,0.4,3,4,10,0,39
+Stoke City,Watford,False,2017,bet365 Stadium,27458,11,12,3,6,0,4,51.6,185,300,2,14,0.4,4,9,13,0,38
+Tottenham Hotspur,Manchester United,False,2017,Wembley Stadium,81978,6,13,2,3,0,5,47.4,372,470,3,12,0.5,1,15,25,0,15
+Tottenham Hotspur,Manchester United,True,2017,Wembley Stadium,81978,22,10,2,6,0,3,52.6,432,527,3,16,0.4,7,14,26,0,19
+AFC Bournemouth,Stoke City,True,2017,Vitality Stadium,10614,15,14,2,8,0,3,57.3,317,439,5,20,0.3,4,5,10,0,20
+AFC Bournemouth,Stoke City,False,2017,Vitality Stadium,10614,13,19,3,1,0,6,42.7,221,328,4,15,0.5,3,20,28,0,36
+Arsenal,Everton,True,2017,Emirates Stadium,59306,15,8,2,4,0,1,58.4,468,553,2,10,0.4,5,19,22,0,27
+Arsenal,Everton,False,2017,Emirates Stadium,59306,10,8,0,6,0,2,41.6,306,376,3,24,0.6,4,4,11,0,26
+Brighton & Hove Albion,West Ham United,True,2017,American Express Stadium,30589,21,11,3,4,0,0,54.4,338,452,7,21,0.5,5,5,8,0,15
+Brighton & Hove Albion,West Ham United,False,2017,American Express Stadium,30589,4,7,1,1,0,2,45.6,283,380,6,17,0.4,1,12,17,0,36
+Burnley,Manchester City,True,2017,Turf Moor,21658,8,9,4,3,0,6,29.2,178,278,5,13,0.4,1,5,9,0,26
+Burnley,Manchester City,False,2017,Turf Moor,21658,20,6,1,13,0,2,70.8,605,695,1,16,0.6,7,6,13,0,25
+Leicester City,Swansea City,True,2017,King Power Stadium,31179,13,9,1,3,0,0,60.1,427,521,3,22,0.6,3,14,16,0,19
+Leicester City,Swansea City,False,2017,King Power Stadium,31179,3,8,0,3,0,4,39.9,248,340,6,16,0.4,1,10,14,0,42
+Manchester United,Huddersfield Town,False,2017,Old Trafford,74742,4,19,4,2,0,5,25.7,190,265,3,11,0.4,3,16,22,0,33
+Manchester United,Huddersfield Town,True,2017,Old Trafford,74742,16,5,2,5,0,0,74.3,697,786,7,17,0.7,5,9,15,0,17
+West Bromwich Albion,Southampton,False,2017,The Hawthorns,25911,13,10,1,7,0,1,61.1,404,522,6,22,0.4,3,8,14,0,27
+West Bromwich Albion,Southampton,True,2017,The Hawthorns,25911,9,12,2,5,0,2,38.9,214,322,6,24,0.5,2,7,11,0,14
+Crystal Palace,Newcastle United,True,2017,Selhurst Park,25746,20,11,1,5,0,7,54.3,335,424,8,27,0.5,4,11,20,0,25
+Crystal Palace,Newcastle United,False,2017,Selhurst Park,25746,12,8,1,6,0,5,45.7,253,363,4,18,0.4,2,7,11,0,30
+Liverpool,Tottenham Hotspur,True,2017,Anfield,53213,9,15,3,3,0,4,34.1,204,302,4,15,0.4,2,11,17,0,41
+Liverpool,Tottenham Hotspur,False,2017,Anfield,53213,13,9,1,7,0,1,65.9,473,590,2,27,0.5,5,8,16,0,18
+Watford,Chelsea,False,2017,Vicarage Road,20157,7,8,2,2,1,4,55.4,422,512,1,9,0.5,2,10,16,0,21
+Watford,Chelsea,True,2017,Vicarage Road,20157,21,11,2,6,0,2,44.6,326,407,6,18,0.7,4,10,19,0,11
+Everton,Crystal Palace,False,2017,Goodison Park,39139,16,15,1,7,0,2,47.1,265,345,5,21,0.4,7,4,10,0,37
+Everton,Crystal Palace,True,2017,Goodison Park,39139,11,14,1,8,0,3,52.9,298,389,3,22,0.5,4,10,16,0,27
+Manchester City,Leicester City,False,2017,Etihad Stadium,54416,2,12,3,2,0,6,29.5,193,288,1,8,0.3,0,11,18,0,29
+Manchester City,Leicester City,True,2017,Etihad Stadium,54416,19,10,2,8,0,1,70.5,616,705,2,18,0.7,2,8,11,0,13
+Stoke City,Brighton & Hove Albion,False,2017,bet365 Stadium,29876,14,10,0,4,0,2,42.9,235,365,3,12,0.4,1,21,28,0,46
+Stoke City,Brighton & Hove Albion,True,2017,bet365 Stadium,29876,15,6,0,7,0,5,57.1,354,468,4,31,0.5,6,8,9,0,29
+Swansea City,Burnley,False,2017,Swansea.com Stadium,20179,13,9,1,2,0,3,42.7,243,352,4,14,0.4,4,12,17,0,30
+Swansea City,Burnley,True,2017,Swansea.com Stadium,20179,13,10,2,5,0,1,57.3,366,465,4,22,0.5,7,9,12,0,21
+Tottenham Hotspur,Arsenal,False,2017,Wembley Stadium,83222,6,9,1,2,0,5,50.1,413,509,3,12,0.4,2,9,12,0,22
+Tottenham Hotspur,Arsenal,True,2017,Wembley Stadium,83222,18,13,2,10,0,1,49.9,411,494,10,34,0.6,1,8,14,0,23
+West Ham United,Watford,False,2017,London Stadium,56197,11,7,1,7,0,2,63.8,323,442,9,29,0.3,4,10,16,0,26
+West Ham United,Watford,True,2017,London Stadium,56197,8,11,1,8,0,4,36.2,150,246,2,21,0.3,2,14,21,0,48
+Huddersfield Town,AFC Bournemouth,False,2017,John Smith's Stadium,23823,7,12,3,6,0,1,49,289,415,2,14,0.4,3,13,18,0,27
+Huddersfield Town,AFC Bournemouth,True,2017,John Smith's Stadium,23823,15,12,0,2,0,1,51,319,438,5,18,0.4,6,15,21,0,22
+Newcastle United,Manchester United,False,2017,St. James' Park,52309,13,15,2,10,0,2,64.1,503,630,5,25,0.5,6,9,12,0,17
+Newcastle United,Manchester United,True,2017,St. James' Park,52309,10,12,0,0,0,4,35.9,251,361,1,8,0.3,2,13,20,0,47
+Southampton,Liverpool,False,2017,St. Mary's Stadium,31915,16,8,2,1,0,4,47.8,399,510,2,9,0.3,4,9,14,0,22
+Southampton,Liverpool,True,2017,St. Mary's Stadium,31915,6,5,1,3,0,2,52.2,427,545,5,21,0.5,0,9,15,0,11
+Chelsea,West Bromwich Albion,True,2017,Stamford Bridge,41071,20,11,0,8,0,1,57,486,583,5,15,0.6,6,10,21,0,20
+Chelsea,West Bromwich Albion,False,2017,Stamford Bridge,41071,8,11,2,7,0,5,43,341,428,3,25,0.5,0,6,12,0,15
+AFC Bournemouth,Newcastle United,True,2017,Vitality Stadium,10808,18,12,1,8,0,2,63.2,449,551,6,37,0.7,4,12,16,0,22
+AFC Bournemouth,Newcastle United,False,2017,Vitality Stadium,10808,15,10,4,1,0,3,36.8,234,338,1,7,0.3,5,15,21,0,50
+Brighton & Hove Albion,Swansea City,True,2017,American Express Stadium,30523,16,17,1,3,0,1,47.8,309,408,3,10,0.4,2,11,24,0,25
+Brighton & Hove Albion,Swansea City,False,2017,American Express Stadium,30523,11,6,0,5,0,1,52.2,334,434,2,16,0.4,4,10,20,0,11
+Burnley,Southampton,True,2017,Turf Moor,20982,9,8,1,7,0,5,50.1,258,371,4,26,0.5,3,5,8,0,29
+Burnley,Southampton,False,2017,Turf Moor,20982,13,14,0,5,0,2,49.9,253,378,5,15,0.3,4,16,23,0,37
+Leicester City,Stoke City,True,2017,King Power Stadium,31769,19,10,1,13,0,1,66.2,358,483,1,38,0.4,2,13,19,0,10
+Leicester City,Stoke City,False,2017,King Power Stadium,31769,6,16,3,1,0,9,33.8,138,257,0,9,0.4,2,9,19,0,51
+Liverpool,West Ham United,True,2017,Anfield,53256,21,7,0,8,0,3,68.3,609,712,6,25,0.4,2,21,27,0,19
+Liverpool,West Ham United,False,2017,Anfield,53256,7,7,2,2,0,8,31.7,235,337,0,4,0.4,1,13,19,0,34
+Watford,Everton,False,2017,Vicarage Road,20430,7,9,1,5,0,4,45.7,232,350,7,22,0.3,1,18,26,0,28
+Watford,Everton,True,2017,Vicarage Road,20430,13,10,3,6,0,2,54.3,316,428,4,15,0.5,4,14,19,0,28
+West Bromwich Albion,Huddersfield Town,False,2017,The Hawthorns,25920,16,9,1,3,0,2,46.7,231,360,2,12,0.3,5,17,29,0,38
+West Bromwich Albion,Huddersfield Town,True,2017,The Hawthorns,25920,10,11,1,6,0,5,53.3,274,405,3,18,0.4,2,7,13,0,30
+Crystal Palace,Tottenham Hotspur,True,2017,Selhurst Park,25287,5,12,0,3,0,3,23.8,119,205,1,10,0.4,1,20,28,0,41
+Crystal Palace,Tottenham Hotspur,False,2017,Selhurst Park,25287,14,5,1,13,0,3,76.2,566,662,3,28,0.7,4,9,14,0,17
+Manchester United,Chelsea,False,2017,Old Trafford,75060,14,12,2,4,0,3,55.7,475,552,2,14,0.5,3,12,22,0,15
+Manchester United,Chelsea,True,2017,Old Trafford,75060,10,13,2,3,0,6,44.3,352,432,5,18,0.6,4,14,20,0,18
+Arsenal,Manchester City,True,2017,Emirates Stadium,58420,10,11,1,6,0,2,45.8,425,538,1,14,0.5,3,17,24,0,11
+Arsenal,Manchester City,False,2017,Emirates Stadium,58420,9,11,1,1,0,5,54.2,556,653,0,3,0.5,3,5,11,0,31
+Burnley,Everton,True,2017,Turf Moor,20802,21,9,1,10,0,3,54.5,285,396,8,33,0.5,10,9,16,0,31
+Burnley,Everton,False,2017,Turf Moor,20802,10,12,1,4,1,6,45.5,228,342,3,20,0.3,0,10,11,0,44
+Leicester City,AFC Bournemouth,False,2017,King Power Stadium,31384,8,7,1,1,0,3,44.6,244,374,1,8,0.4,1,7,12,0,50
+Leicester City,AFC Bournemouth,True,2017,King Power Stadium,31384,23,11,2,13,0,2,55.4,295,438,11,36,0.4,10,14,21,0,13
+Liverpool,Newcastle United,True,2017,Anfield,53287,14,7,0,8,0,2,70.9,658,772,7,16,0.7,8,18,26,0,12
+Liverpool,Newcastle United,False,2017,Anfield,53287,7,9,0,3,0,1,29.1,208,315,2,7,0.3,3,7,12,0,18
+Southampton,Stoke City,True,2017,St. Mary's Stadium,30335,18,8,0,15,0,3,65.2,329,422,10,44,0.4,7,10,18,0,13
+Southampton,Stoke City,False,2017,St. Mary's Stadium,30335,12,13,1,4,0,6,34.8,162,240,3,12,0.4,0,9,13,0,47
+Swansea City,West Ham United,True,2017,Swansea.com Stadium,20829,9,9,0,4,0,1,45.3,331,440,2,10,0.4,0,9,18,0,25
+Swansea City,West Ham United,False,2017,Swansea.com Stadium,20829,7,14,3,5,0,4,54.7,420,522,0,16,0.4,4,11,20,0,20
+Tottenham Hotspur,Huddersfield Town,False,2017,Wembley Stadium,68311,3,8,1,1,0,5,25.5,169,267,1,14,0.4,0,16,29,0,36
+Tottenham Hotspur,Huddersfield Town,True,2017,Wembley Stadium,68311,15,6,1,8,0,3,74.5,701,806,8,20,0.6,5,8,10,0,18
+Watford,West Bromwich Albion,True,2017,Vicarage Road,20022,15,11,2,4,0,2,53.3,290,412,5,16,0.4,5,7,12,0,24
+Watford,West Bromwich Albion,False,2017,Vicarage Road,20022,9,12,0,6,0,3,46.7,228,346,8,30,0.4,2,14,17,0,39
+Brighton & Hove Albion,Arsenal,False,2017,American Express Stadium,30620,15,12,3,11,0,4,68.1,516,614,10,25,0.4,6,8,10,0,17
+Brighton & Hove Albion,Arsenal,True,2017,American Express Stadium,30620,13,13,3,6,0,6,31.9,208,287,5,16,0.5,2,12,21,0,38
+Manchester City,Chelsea,False,2017,Etihad Stadium,54328,3,9,1,2,0,2,28.8,303,392,0,8,0.3,0,7,11,0,15
+Manchester City,Chelsea,True,2017,Etihad Stadium,54328,13,8,2,5,0,0,71.2,902,976,5,19,0.7,5,8,11,0,10
+Crystal Palace,Manchester United,True,2017,Selhurst Park,25840,10,10,1,3,0,5,30.5,185,278,5,20,0.3,1,9,19,0,41
+Crystal Palace,Manchester United,False,2017,Selhurst Park,25840,17,8,3,7,0,2,69.5,554,654,1,18,0.5,6,6,9,0,28
+Chelsea,Crystal Palace,True,2017,Stamford Bridge,40800,27,8,1,12,0,1,62.3,518,593,8,33,0.6,7,11,17,0,20
+Chelsea,Crystal Palace,False,2017,Stamford Bridge,40800,9,9,2,3,0,10,37.7,288,361,5,18,0.4,2,13,19,0,34
+Everton,Brighton & Hove Albion,False,2017,Goodison Park,39199,10,14,1,3,1,2,41,190,302,1,11,0.4,1,9,14,0,35
+Everton,Brighton & Hove Albion,True,2017,Goodison Park,39199,13,10,0,10,0,4,59,330,425,6,30,0.5,3,7,9,0,22
+Huddersfield Town,Swansea City,True,2017,John Smith's Stadium,23567,30,9,2,12,0,0,81.2,608,679,13,64,0.8,11,8,10,0,10
+Huddersfield Town,Swansea City,False,2017,John Smith's Stadium,23567,0,9,3,0,1,4,18.8,88,169,2,4,0.3,0,13,17,0,67
+Manchester United,Liverpool,False,2017,Old Trafford,74855,14,16,1,13,0,0,67.9,483,584,5,33,0.5,7,10,13,0,12
+Manchester United,Liverpool,True,2017,Old Trafford,74855,5,10,2,1,0,2,32.1,194,283,3,6,0.3,2,15,22,0,40
+Newcastle United,Southampton,True,2017,St. James' Park,52246,7,10,0,2,0,2,37,188,305,2,9,0.3,0,10,15,0,35
+Newcastle United,Southampton,False,2017,St. James' Park,52246,6,10,2,6,0,2,63,374,509,5,24,0.4,1,10,14,0,12
+West Bromwich Albion,Leicester City,False,2017,The Hawthorns,23558,14,7,3,6,0,1,56.2,363,474,6,19,0.4,3,8,17,0,24
+West Bromwich Albion,Leicester City,True,2017,The Hawthorns,23558,6,6,1,7,0,2,43.8,267,362,2,21,0.4,1,10,17,0,16
+West Ham United,Burnley,False,2017,London Stadium,56904,7,7,2,1,0,4,48.3,287,372,2,12,0.5,1,6,11,0,37
+West Ham United,Burnley,True,2017,London Stadium,56904,13,13,2,5,0,1,51.7,303,385,8,30,0.5,3,10,14,0,16
+AFC Bournemouth,Tottenham Hotspur,True,2017,Vitality Stadium,10623,14,10,1,4,0,4,37,226,331,4,10,0.4,4,13,22,0,25
+AFC Bournemouth,Tottenham Hotspur,False,2017,Vitality Stadium,10623,12,7,1,5,0,2,63,465,559,4,24,0.5,3,14,22,0,19
+Arsenal,Watford,True,2017,Emirates Stadium,59131,11,12,2,4,0,4,59.7,417,502,2,9,0.5,0,13,21,0,32
+Arsenal,Watford,False,2017,Emirates Stadium,59131,11,9,1,9,0,4,40.3,245,324,3,24,0.5,2,4,13,0,16
+Stoke City,Manchester City,False,2017,bet365 Stadium,29138,17,8,0,10,0,0,77.1,762,847,2,10,0.6,3,11,16,0,21
+Stoke City,Manchester City,True,2017,bet365 Stadium,29138,3,6,1,3,0,4,22.9,165,245,1,10,0.4,2,12,19,0,16
+AFC Bournemouth,West Bromwich Albion,True,2017,Vitality Stadium,10242,17,6,1,3,0,5,60.6,441,544,2,18,0.6,8,10,19,0,23
+AFC Bournemouth,West Bromwich Albion,False,2017,Vitality Stadium,10242,11,9,2,2,0,3,39.4,247,350,8,19,0.4,4,12,21,0,25
+Huddersfield Town,Crystal Palace,False,2017,John Smith's Stadium,23980,18,12,2,7,0,2,45.4,275,393,4,14,0.5,7,18,29,0,34
+Huddersfield Town,Crystal Palace,True,2017,John Smith's Stadium,23980,6,11,3,4,0,4,54.6,326,470,1,19,0.4,1,14,24,0,18
+Liverpool,Watford,True,2017,Anfield,53287,13,5,1,6,0,1,58,476,581,4,13,0.5,2,13,18,0,13
+Liverpool,Watford,False,2017,Anfield,53287,4,4,0,1,0,5,42,304,420,2,12,0.3,1,28,30,0,24
+Stoke City,Everton,False,2017,bet365 Stadium,30022,16,12,1,9,0,3,56.5,346,431,7,26,0.3,2,11,19,0,14
+Stoke City,Everton,True,2017,bet365 Stadium,30022,9,13,1,1,1,7,43.5,256,344,0,11,0.4,3,12,19,0,17
+Brighton & Hove Albion,Leicester City,True,2017,American Express Stadium,30629,15,11,2,6,0,2,46.4,273,374,4,25,0.4,5,6,11,0,21
+Brighton & Hove Albion,Leicester City,False,2017,American Express Stadium,30629,6,13,4,1,1,3,53.6,340,448,2,14,0.3,0,10,14,0,29
+Crystal Palace,Liverpool,True,2017,Selhurst Park,25807,6,6,2,4,0,4,32.2,195,312,0,15,0.3,0,17,25,0,25
+Crystal Palace,Liverpool,False,2017,Selhurst Park,25807,16,8,2,6,0,2,67.8,550,660,8,29,0.5,6,12,16,0,21
+Everton,Manchester City,True,2017,Goodison Park,39221,6,10,0,2,0,1,18,133,202,5,15,0.4,0,10,13,0,22
+Everton,Manchester City,False,2017,Goodison Park,39221,18,8,0,11,0,1,82,905,976,2,12,0.6,6,6,8,0,13
+Manchester United,Swansea City,True,2017,Old Trafford,75038,11,5,0,3,0,2,66.5,675,746,3,19,0.6,2,12,17,0,13
+Manchester United,Swansea City,False,2017,Old Trafford,75038,3,13,0,3,0,3,33.5,290,366,5,14,0.4,1,12,17,0,25
+Newcastle United,Huddersfield Town,False,2017,St. James' Park,52261,4,10,4,3,0,2,37,222,339,4,13,0.4,2,18,24,0,34
+Newcastle United,Huddersfield Town,True,2017,St. James' Park,52261,18,9,1,3,0,0,63,467,582,4,17,0.5,6,11,16,0,27
+Watford,AFC Bournemouth,False,2017,Vicarage Road,20393,13,6,0,4,0,3,50.1,338,426,6,16,0.5,3,13,20,0,37
+Watford,AFC Bournemouth,True,2017,Vicarage Road,20393,16,16,4,7,0,4,49.9,322,424,3,24,0.5,7,12,18,0,10
+West Bromwich Albion,Burnley,False,2017,The Hawthorns,23455,11,9,3,6,0,2,52.5,369,461,4,21,0.5,1,8,10,0,31
+West Bromwich Albion,Burnley,True,2017,The Hawthorns,23455,8,12,1,1,0,2,47.5,300,414,8,26,0.5,2,13,20,0,28
+West Ham United,Southampton,False,2017,London Stadium,56882,9,16,3,9,0,2,51.9,293,404,6,19,0.3,4,12,17,0,28
+West Ham United,Southampton,True,2017,London Stadium,56882,12,9,0,5,0,0,48.1,261,374,3,17,0.4,3,12,19,0,23
+Arsenal,Stoke City,True,2017,Emirates Stadium,59371,24,9,1,6,0,2,69.6,549,647,5,16,0.5,5,9,16,0,10
+Arsenal,Stoke City,False,2017,Emirates Stadium,59371,8,13,2,5,0,8,30.4,178,273,4,17,0.4,2,6,11,0,20
+Chelsea,Tottenham Hotspur,True,2017,Stamford Bridge,41364,14,4,0,5,0,3,48.7,384,494,4,21,0.6,3,21,27,0,15
+Chelsea,Tottenham Hotspur,False,2017,Stamford Bridge,41364,12,11,1,5,0,3,51.3,435,528,2,14,0.5,3,16,20,0,28
+AFC Bournemouth,Crystal Palace,True,2017,Vitality Stadium,10730,21,8,2,11,0,4,52.7,380,472,14,39,0.7,4,5,7,0,12
+AFC Bournemouth,Crystal Palace,False,2017,Vitality Stadium,10730,13,9,2,3,0,3,47.3,355,445,2,16,0.4,4,11,15,0,35
+Brighton & Hove Albion,Huddersfield Town,True,2017,American Express Stadium,30501,13,13,1,5,1,4,40.8,234,360,8,15,0.4,3,12,17,0,30
+Brighton & Hove Albion,Huddersfield Town,False,2017,American Express Stadium,30501,15,7,0,3,0,4,59.2,412,525,8,25,0.4,5,12,19,0,20
+Everton,Liverpool,True,2017,Goodison Park,39220,6,12,0,3,0,3,38.1,245,359,4,15,0.3,1,9,16,0,31
+Everton,Liverpool,False,2017,Goodison Park,39220,10,7,0,2,0,1,61.9,472,588,2,17,0.5,3,8,12,0,19
+Leicester City,Newcastle United,True,2017,King Power Stadium,32066,8,7,1,7,0,2,66.3,413,518,7,33,0.5,2,7,9,0,14
+Leicester City,Newcastle United,False,2017,King Power Stadium,32066,8,14,3,5,0,0,33.7,162,272,2,11,0.3,1,6,13,0,27
+Manchester City,Manchester United,True,2017,Etihad Stadium,54259,20,17,6,8,0,1,64.8,516,596,8,16,0.5,5,6,11,0,14
+Manchester City,Manchester United,False,2017,Etihad Stadium,54259,5,9,3,4,0,4,35.2,244,318,3,13,0.3,0,6,11,0,14
+Stoke City,Tottenham Hotspur,True,2017,bet365 Stadium,29515,10,19,4,6,0,2,33.3,159,263,6,20,0.3,1,15,24,0,29
+Stoke City,Tottenham Hotspur,False,2017,bet365 Stadium,29515,15,8,3,3,0,3,66.7,454,550,4,13,0.4,6,13,15,0,28
+Watford,Burnley,False,2017,Vicarage Road,20044,7,12,2,1,0,4,39.5,179,292,2,9,0.4,1,8,13,0,49
+Watford,Burnley,True,2017,Vicarage Road,20044,14,18,2,11,0,2,60.5,319,435,5,31,0.3,5,4,9,0,23
+West Bromwich Albion,Swansea City,False,2017,The Hawthorns,23297,7,5,2,1,0,2,48.3,357,452,3,13,0.4,1,11,13,0,25
+West Bromwich Albion,Swansea City,True,2017,The Hawthorns,23297,15,15,3,6,0,0,51.7,395,479,7,25,0.5,8,7,13,0,20
+Arsenal,Southampton,True,2017,Emirates Stadium,59374,13,11,2,8,1,6,64.6,597,699,3,18,0.4,2,6,11,0,33
+Arsenal,Southampton,False,2017,Emirates Stadium,59374,15,7,1,6,1,4,35.4,266,370,3,23,0.4,3,7,12,0,24
+Chelsea,West Ham United,True,2017,Stamford Bridge,41324,23,7,0,10,0,1,59.5,504,594,10,25,0.5,6,11,14,0,18
+Chelsea,West Ham United,False,2017,Stamford Bridge,41324,5,11,1,6,0,5,40.5,308,409,0,15,0.4,3,12,17,0,19
+Burnley,Leicester City,True,2017,Turf Moor,21727,8,9,2,4,0,5,38.7,171,292,2,12,0.3,3,10,14,0,31
+Burnley,Leicester City,False,2017,Turf Moor,21727,15,10,1,8,0,1,61.3,325,449,9,34,0.3,5,6,11,0,18
+Crystal Palace,Brighton & Hove Albion,False,2017,Selhurst Park,24656,12,16,2,6,0,5,49.8,249,347,8,30,0.5,3,6,14,0,27
+Crystal Palace,Brighton & Hove Albion,True,2017,Selhurst Park,24656,15,12,3,5,0,1,50.2,282,367,2,12,0.4,5,8,12,0,35
+Huddersfield Town,Watford,True,2017,John Smith's Stadium,23961,9,9,2,9,0,2,48.7,254,365,3,24,0.4,5,10,18,0,22
+Huddersfield Town,Watford,False,2017,John Smith's Stadium,23961,4,8,2,6,0,0,51.3,294,405,1,11,0.3,2,16,20,0,36
+Liverpool,AFC Bournemouth,False,2017,Anfield,52959,6,9,1,5,0,4,38.2,290,375,3,14,0.5,3,7,15,0,34
+Liverpool,AFC Bournemouth,True,2017,Anfield,52959,20,9,1,7,0,1,61.8,535,619,1,20,0.6,3,18,26,0,25
+Southampton,Chelsea,False,2017,St. Mary's Stadium,31764,17,14,3,7,0,5,58,420,518,4,25,0.4,8,8,11,0,16
+Southampton,Chelsea,True,2017,St. Mary's Stadium,31764,10,13,5,4,0,2,42,277,377,7,20,0.3,1,12,14,0,29
+Swansea City,Everton,False,2017,Swansea.com Stadium,20933,12,11,1,3,0,6,49.4,331,437,4,16,0.4,4,11,17,0,41
+Swansea City,Everton,True,2017,Swansea.com Stadium,20933,17,10,1,6,0,3,50.6,336,447,7,21,0.3,5,13,25,0,22
+Tottenham Hotspur,Manchester City,False,2017,Wembley Stadium,80811,17,12,4,7,0,2,52,426,511,3,12,0.5,6,9,14,0,31
+Tottenham Hotspur,Manchester City,True,2017,Wembley Stadium,80811,8,11,3,5,0,3,48,371,464,3,24,0.5,4,15,22,0,15
+Manchester United,West Bromwich Albion,True,2017,Old Trafford,75095,14,8,1,4,0,3,70.3,658,742,1,22,0.8,4,6,15,0,11
+Manchester United,West Bromwich Albion,False,2017,Old Trafford,75095,10,13,1,4,0,4,29.7,218,312,4,14,0.4,2,7,9,0,38
+Newcastle United,Arsenal,False,2017,St. James' Park,52210,15,9,0,5,0,2,71.8,590,695,3,22,0.5,4,15,25,0,13
+Newcastle United,Arsenal,True,2017,St. James' Park,52210,8,11,1,2,0,2,28.2,173,274,1,7,0.3,2,16,22,0,29
+West Ham United,Stoke City,False,2017,London Stadium,56795,11,21,3,1,0,5,37.5,198,287,4,11,0.5,3,8,13,0,61
+West Ham United,Stoke City,True,2017,London Stadium,56795,18,15,2,10,0,6,62.5,373,466,2,31,0.5,9,7,9,0,23
+Brighton & Hove Albion,Tottenham Hotspur,True,2017,American Express Stadium,30440,8,6,1,3,0,5,35.9,251,357,2,14,0.4,1,11,22,0,29
+Brighton & Hove Albion,Tottenham Hotspur,False,2017,American Express Stadium,30440,16,5,0,5,0,4,64.1,537,634,1,18,0.5,5,6,10,0,14
+AFC Bournemouth,Manchester United,True,2017,Vitality Stadium,10952,13,9,3,8,0,2,44.4,352,428,5,23,0.6,5,4,10,0,26
+AFC Bournemouth,Manchester United,False,2017,Vitality Stadium,10952,13,8,1,5,0,2,55.6,474,556,0,17,0.6,8,16,19,0,25
+Burnley,Chelsea,True,2017,Turf Moor,21264,5,9,1,3,0,4,39.2,288,389,4,13,0.4,1,7,13,0,25
+Burnley,Chelsea,False,2017,Turf Moor,21264,16,11,0,2,0,1,60.8,514,609,3,13,0.5,6,7,8,0,28
+Leicester City,Southampton,True,2017,King Power Stadium,31160,11,10,0,11,0,2,54.4,360,452,2,28,0.6,4,12,17,0,29
+Leicester City,Southampton,False,2017,King Power Stadium,31160,6,10,0,3,0,3,45.6,280,384,3,20,0.4,0,8,17,0,33
+Watford,Crystal Palace,False,2017,Vicarage Road,20401,6,13,5,3,0,4,48.2,238,341,3,10,0.3,2,8,16,0,44
+Watford,Crystal Palace,True,2017,Vicarage Road,20401,14,17,3,4,0,1,51.8,248,357,2,22,0.6,0,12,25,0,22
+West Bromwich Albion,Liverpool,False,2017,The Hawthorns,24520,9,5,1,4,0,4,61.6,494,585,4,13,0.6,2,7,12,0,33
+West Bromwich Albion,Liverpool,True,2017,The Hawthorns,24520,13,12,0,7,0,1,38.4,242,344,10,29,0.3,1,8,14,0,19
+Arsenal,West Ham United,True,2017,Emirates Stadium,59422,20,11,3,8,0,3,67.7,552,629,6,27,0.5,4,3,4,0,15
+Arsenal,West Ham United,False,2017,Emirates Stadium,59422,11,9,2,6,0,4,32.3,201,297,3,16,0.3,3,4,10,0,22
+Manchester City,Swansea City,True,2017,Etihad Stadium,54387,19,6,0,6,0,1,82.9,942,1015,3,19,0.6,3,10,14,0,8
+Manchester City,Swansea City,False,2017,Etihad Stadium,54387,4,8,1,1,0,7,17.1,142,203,1,6,0.4,1,6,11,0,26
+Stoke City,Burnley,False,2017,bet365 Stadium,29532,16,5,1,8,0,2,57.2,303,428,8,33,0.4,4,6,9,0,33
+Stoke City,Burnley,True,2017,bet365 Stadium,29532,8,15,2,3,0,6,42.8,189,326,4,22,0.3,1,13,18,0,41
+Everton,Newcastle United,True,2017,Goodison Park,39061,9,10,2,4,0,2,56.5,365,478,4,18,0.4,3,8,13,0,42
+Everton,Newcastle United,False,2017,Goodison Park,39061,9,11,1,6,0,0,43.5,230,362,5,23,0.3,3,13,19,0,30
+Burnley,Brighton & Hove Albion,False,2017,Turf Moor,19459,10,17,2,4,0,4,55.5,321,432,1,23,0.4,4,8,11,0,28
+Burnley,Brighton & Hove Albion,True,2017,Turf Moor,19459,10,5,0,3,0,2,44.5,218,339,4,22,0.3,4,9,9,0,25
+Crystal Palace,Leicester City,True,2017,Selhurst Park,25750,15,11,1,8,0,1,50.5,346,415,3,12,0.4,2,8,12,0,22
+Crystal Palace,Leicester City,False,2017,Selhurst Park,25750,6,9,1,2,1,4,49.5,315,393,4,24,0.6,3,15,21,0,19
+Huddersfield Town,Everton,False,2017,John Smith's Stadium,24121,7,8,0,3,0,2,46.3,293,431,5,11,0.3,1,18,23,0,41
+Huddersfield Town,Everton,True,2017,John Smith's Stadium,24121,9,9,1,5,0,3,53.7,382,499,2,16,0.4,5,11,15,0,15
+Liverpool,Stoke City,True,2017,Anfield,53255,20,7,1,9,0,1,71.9,525,632,4,29,0.5,10,2,6,0,11
+Liverpool,Stoke City,False,2017,Anfield,53255,5,14,2,2,0,2,28.1,141,252,0,8,0.3,1,13,22,0,43
+Newcastle United,West Bromwich Albion,True,2017,St. James' Park,52283,17,8,1,5,0,1,63.5,467,580,11,32,0.4,6,13,23,0,15
+Newcastle United,West Bromwich Albion,False,2017,St. James' Park,52283,9,13,3,1,0,2,36.5,227,342,6,10,0.4,1,13,18,0,32
+Southampton,AFC Bournemouth,False,2017,St. Mary's Stadium,31778,14,11,1,8,0,4,59.7,397,504,5,25,0.5,2,6,11,0,19
+Southampton,AFC Bournemouth,True,2017,St. Mary's Stadium,31778,14,12,5,5,0,6,40.3,251,350,1,12,0.2,4,17,21,0,31
+Swansea City,Chelsea,False,2017,Swansea.com Stadium,20900,11,9,1,2,0,3,48.9,497,571,3,11,0.6,3,7,12,0,27
+Swansea City,Chelsea,True,2017,Swansea.com Stadium,20900,10,13,1,1,0,2,51.1,506,584,2,26,0.5,2,13,20,0,10
+Manchester United,Arsenal,False,2017,Old Trafford,75035,8,7,1,0,0,1,40.8,358,438,3,6,0.5,1,19,28,0,32
+Manchester United,Arsenal,True,2017,Old Trafford,75035,16,12,0,9,0,2,59.2,543,609,6,34,0.5,7,10,16,0,7
+West Ham United,Manchester City,False,2017,London Stadium,56904,19,11,1,7,0,0,75.4,807,876,3,13,0.7,4,11,15,0,14
+West Ham United,Manchester City,True,2017,London Stadium,56904,4,5,0,0,0,5,24.6,201,280,3,10,0.3,1,15,23,0,20
+Tottenham Hotspur,Watford,True,2017,Wembley Stadium,52675,13,11,1,4,0,5,61.5,479,557,4,20,0.6,4,10,19,0,22
+Tottenham Hotspur,Watford,False,2017,Wembley Stadium,52675,13,10,0,0,0,1,38.5,256,354,2,7,0.4,3,15,19,0,22
+Brighton & Hove Albion,Manchester United,True,2017,American Express Stadium,30611,11,5,2,5,0,3,31.7,219,313,2,10,0.5,3,11,19,0,22
+Brighton & Hove Albion,Manchester United,False,2017,American Express Stadium,30611,16,3,0,6,0,3,68.3,598,675,4,16,0.6,6,5,8,0,19
+AFC Bournemouth,Swansea City,True,2017,Vitality Stadium,10820,13,10,1,11,0,3,45.2,277,365,5,20,0.5,2,3,5,0,45
+AFC Bournemouth,Swansea City,False,2017,Vitality Stadium,10820,12,10,4,6,0,4,54.8,326,446,8,23,0.4,3,17,23,0,23
+Everton,Southampton,True,2017,Goodison Park,38225,9,14,2,3,0,4,54.4,325,415,9,26,0.5,1,6,11,0,19
+Everton,Southampton,False,2017,Goodison Park,38225,11,12,4,4,1,2,45.6,264,358,1,12,0.3,4,12,17,0,29
+Leicester City,West Ham United,True,2017,King Power Stadium,32013,13,8,1,8,0,1,54,328,417,3,27,0.5,7,14,23,0,26
+Leicester City,West Ham United,False,2017,King Power Stadium,32013,13,9,2,3,0,2,46,269,363,2,15,0.4,7,11,20,0,36
+Stoke City,Crystal Palace,False,2017,bet365 Stadium,29687,13,12,2,7,0,1,58.9,315,411,3,13,0.4,4,5,7,0,26
+Stoke City,Crystal Palace,True,2017,bet365 Stadium,29687,7,18,5,1,0,0,41.1,185,283,6,13,0.6,1,9,18,0,29
+Watford,Newcastle United,False,2017,Vicarage Road,20375,9,11,1,5,0,6,60.8,474,577,8,30,0.6,4,5,8,0,16
+Watford,Newcastle United,True,2017,Vicarage Road,20375,11,9,2,2,0,0,39.2,288,384,1,11,0.4,2,10,14,0,41
+West Bromwich Albion,Tottenham Hotspur,False,2017,The Hawthorns,23685,18,12,1,9,0,0,73.8,518,615,9,30,0.7,6,9,13,0,25
+West Bromwich Albion,Tottenham Hotspur,True,2017,The Hawthorns,23685,9,13,4,5,0,5,26.2,126,210,6,17,0.4,2,8,16,0,45
+Arsenal,Burnley,True,2017,Emirates Stadium,59540,16,6,0,4,0,2,63.6,591,662,1,14,0.6,3,8,12,0,20
+Arsenal,Burnley,False,2017,Emirates Stadium,59540,6,7,1,5,0,3,36.4,296,372,5,18,0.5,2,5,11,0,23
+Chelsea,Liverpool,True,2017,Stamford Bridge,41314,12,12,3,3,0,5,31.6,253,354,5,10,0.4,2,10,15,0,37
+Chelsea,Liverpool,False,2017,Stamford Bridge,41314,10,9,2,1,0,3,68.4,668,763,5,22,0.7,0,6,12,0,10
+Manchester City,Huddersfield Town,False,2017,Etihad Stadium,54350,5,4,3,1,0,2,20.8,108,193,0,8,0.3,0,10,18,0,55
+Manchester City,Huddersfield Town,True,2017,Etihad Stadium,54350,15,9,0,10,0,3,79.2,630,720,7,37,0.7,3,12,14,0,9
+Swansea City,Southampton,False,2017,Swansea.com Stadium,20858,13,15,1,6,0,3,46.7,253,372,10,18,0.3,2,7,14,0,56
+Swansea City,Southampton,True,2017,Swansea.com Stadium,20858,11,7,2,7,0,7,53.3,300,416,3,28,0.4,3,8,11,0,17
+Chelsea,Huddersfield Town,True,2017,Stamford Bridge,38910,22,7,0,10,0,1,77.9,722,831,6,40,0.7,11,9,13,0,7
+Chelsea,Huddersfield Town,False,2017,Stamford Bridge,38910,3,10,1,0,0,4,22.1,137,243,1,4,0.3,0,17,24,0,64
+Leicester City,Arsenal,False,2017,King Power Stadium,32095,14,12,2,6,1,7,59.6,386,477,4,17,0.5,3,13,18,0,22
+Leicester City,Arsenal,True,2017,King Power Stadium,32095,19,7,2,6,0,6,40.4,241,310,3,22,0.6,3,13,16,0,20
+Manchester City,Brighton & Hove Albion,False,2017,Etihad Stadium,54013,2,1,0,0,0,0,25.2,65,86,1,1,0.3,0,3,4,0,9
+Manchester City,Brighton & Hove Albion,True,2017,Etihad Stadium,54013,5,2,0,0,0,0,74.8,228,253,1,5,0.7,1,4,4,0,1
+Tottenham Hotspur,Newcastle United,False,2017,Wembley Stadium,54923,14,8,3,4,0,6,37.1,211,319,8,16,0.4,2,15,21,0,22
+Tottenham Hotspur,Newcastle United,True,2017,Wembley Stadium,54923,11,10,2,6,0,3,62.9,459,551,3,18,0.5,1,7,12,0,33
+West Ham United,Manchester United,False,2017,London Stadium,56902,16,12,1,6,0,2,55.8,519,601,4,14,0.4,3,11,16,0,14
+West Ham United,Manchester United,True,2017,London Stadium,56902,9,12,1,1,0,6,44.2,395,476,1,11,0.5,1,10,15,0,17
+Burnley,AFC Bournemouth,False,2017,Turf Moor,20720,16,9,0,8,0,3,48.6,305,401,4,20,0.5,6,5,10,0,33
+Burnley,AFC Bournemouth,True,2017,Turf Moor,20720,10,14,0,7,0,3,51.4,303,416,8,32,0.4,1,12,16,0,17
+Crystal Palace,West Bromwich Albion,True,2017,Selhurst Park,25357,11,10,2,4,0,1,59.2,485,560,3,11,0.5,2,20,28,0,18
+Crystal Palace,West Bromwich Albion,False,2017,Selhurst Park,25357,7,11,3,2,0,3,40.8,300,379,2,15,0.5,0,20,34,0,14
+Huddersfield Town,Arsenal,False,2017,John Smith's Stadium,24122,9,7,0,4,0,3,55,414,519,1,5,0.4,2,9,11,0,36
+Huddersfield Town,Arsenal,True,2017,John Smith's Stadium,24122,19,11,1,7,0,3,45,308,399,11,33,0.5,5,12,18,0,19
+Liverpool,Brighton & Hove Albion,False,2017,Anfield,50752,2,6,0,3,0,7,27.7,194,275,1,12,0.4,1,11,17,0,30
+Liverpool,Brighton & Hove Albion,True,2017,Anfield,50752,22,3,0,7,0,1,72.3,658,737,5,18,0.5,6,7,10,0,7
+Manchester United,Watford,True,2017,Old Trafford,75049,7,6,4,6,0,3,51.4,370,460,2,14,0.5,2,18,25,0,23
+Manchester United,Watford,False,2017,Old Trafford,75049,7,11,0,5,0,0,48.6,355,429,6,21,0.5,1,13,20,0,24
+Newcastle United,Chelsea,False,2017,St. James' Park,52294,6,10,1,2,0,3,58.1,486,569,5,14,0.7,1,6,18,0,37
+Newcastle United,Chelsea,True,2017,St. James' Park,52294,16,11,0,4,0,2,41.9,316,406,1,15,0.4,5,10,19,0,10
+Southampton,Manchester City,False,2017,St. Mary's Stadium,31882,13,10,2,12,0,3,69.7,506,583,2,27,0.7,6,9,13,0,21
+Southampton,Manchester City,True,2017,St. Mary's Stadium,31882,8,8,3,1,0,1,30.3,173,259,2,11,0.3,0,13,24,0,30
+Swansea City,Stoke City,False,2017,Swansea.com Stadium,20673,8,9,2,0,0,9,42.4,336,414,3,5,0.5,1,12,21,18,43
+Swansea City,Stoke City,True,2017,Swansea.com Stadium,20673,27,12,1,6,0,3,57.6,472,544,6,31,0.7,11,12,16,8,4
+Tottenham Hotspur,Leicester City,False,2017,Wembley Stadium,77841,17,13,2,4,0,2,36,193,265,4,9,0.5,1,13,23,16,19
+Tottenham Hotspur,Leicester City,True,2017,Wembley Stadium,77841,14,9,1,4,0,5,64,393,480,2,13,0.5,3,14,20,9,17
+West Ham United,Everton,False,2017,London Stadium,56926,14,13,1,6,0,1,43.4,283,365,3,13,0.4,4,5,10,0,21
+West Ham United,Everton,True,2017,London Stadium,56926,15,10,0,6,0,6,56.6,396,479,2,13,0.5,6,7,11,0,20

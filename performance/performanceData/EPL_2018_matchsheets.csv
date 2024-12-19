@@ -1,0 +1,761 @@
+home_team,away_team,is_home,season,venue,attendance,total_shots,fouls_committed,yellow_cards,won_corners,red_cards,saves,possession_pct,accurate_passes,total_passes,accurate_crosses,total_crosses,longball_pct,blocked_shots,effective_tackles,total_tackles,interceptions,total_clearance
+Manchester United,Leicester City,FALSE,2018,Old Trafford,74439,13,8,1,5,0,4,53.7,450,543,2,27,0.6,6,11,14,12,14
+Manchester United,Leicester City,TRUE,2018,Old Trafford,74439,8,11,2,2,0,3,46.3,399,485,1,12,0.6,1,13,26,17,37
+AFC Bournemouth,Cardiff City,TRUE,2018,Vitality Stadium,10353,12,11,1,7,0,1,62.9,397,502,5,11,0.5,2,5,11,4,37
+AFC Bournemouth,Cardiff City,FALSE,2018,Vitality Stadium,10353,10,9,1,4,0,2,37.1,175,287,4,18,0.3,4,12,22,15,30
+Fulham,Crystal Palace,FALSE,2018,Craven Cottage,24821,12,11,2,5,0,6,33.7,258,347,4,12,0.4,2,14,21,14,30
+Fulham,Crystal Palace,TRUE,2018,Craven Cottage,24821,15,9,1,5,0,8,66.3,591,672,8,32,0.6,5,19,25,15,22
+Huddersfield Town,Chelsea,FALSE,2018,John Smith's Stadium,24121,13,8,1,5,0,1,62.8,582,658,5,11,0.6,6,6,12,9,21
+Huddersfield Town,Chelsea,TRUE,2018,John Smith's Stadium,24121,6,9,2,2,0,1,37.2,281,372,6,23,0.5,1,21,25,16,13
+Newcastle United,Tottenham Hotspur,TRUE,2018,St. James' Park,51749,15,11,2,3,0,3,40.4,268,387,3,12,0.4,5,10,15,21,17
+Newcastle United,Tottenham Hotspur,FALSE,2018,St. James' Park,51749,15,12,2,5,0,1,59.6,467,573,7,17,0.4,3,16,27,10,43
+Watford,Brighton & Hove Albion,FALSE,2018,Vicarage Road,20051,6,16,2,2,0,3,46.8,297,385,4,15,0.5,1,11,17,17,26
+Watford,Brighton & Hove Albion,TRUE,2018,Vicarage Road,20051,19,10,2,8,0,0,53.2,328,437,7,20,0.4,5,11,17,11,11
+Wolverhampton Wanderers,Everton,FALSE,2018,Molineux Stadium,31231,8,7,1,6,1,2,42.6,307,409,3,15,0.3,0,15,23,11,28
+Wolverhampton Wanderers,Everton,TRUE,2018,Molineux Stadium,31231,11,8,0,3,0,3,57.4,452,547,5,25,0.5,2,7,13,9,23
+Arsenal,Manchester City,TRUE,2018,Emirates Stadium,59934,9,11,2,2,0,6,42,320,401,1,12,0.5,2,14,22,12,23
+Arsenal,Manchester City,FALSE,2018,Emirates Stadium,59934,17,14,2,10,0,3,58,467,555,1,15,0.5,4,5,6,12,9
+Liverpool,West Ham United,TRUE,2018,Anfield,53235,18,14,1,5,0,2,64.8,606,673,7,21,0.7,3,14,19,9,8
+Liverpool,West Ham United,FALSE,2018,Anfield,53235,5,9,2,4,0,4,35.2,297,360,2,12,0.5,1,14,23,11,20
+Southampton,Burnley,FALSE,2018,St. Mary's Stadium,30784,16,9,1,5,0,3,52.3,311,408,3,20,0.5,4,7,9,5,35
+Southampton,Burnley,TRUE,2018,St. Mary's Stadium,30784,18,10,0,8,0,6,47.7,280,369,8,20,0.4,9,7,16,4,31
+Cardiff City,Newcastle United,TRUE,2018,Cardiff City Stadium,30720,12,14,2,5,0,6,51.3,202,314,7,23,0.4,5,12,22,12,41
+Cardiff City,Newcastle United,FALSE,2018,Cardiff City Stadium,30720,12,16,2,5,1,0,48.7,182,305,3,11,0.2,5,9,12,8,25
+Chelsea,Arsenal,FALSE,2018,Stamford Bridge,40491,15,9,2,1,0,8,37.7,353,429,4,12,0.5,3,6,14,12,22
+Chelsea,Arsenal,TRUE,2018,Stamford Bridge,40491,24,12,0,5,0,4,62.3,641,720,1,15,0.6,6,9,16,7,11
+Everton,Southampton,TRUE,2018,Goodison Park,38601,13,8,0,2,0,3,58,313,423,5,19,0.3,3,10,18,14,18
+Everton,Southampton,FALSE,2018,Goodison Park,38601,15,20,5,6,0,5,42,185,299,3,16,0.3,5,5,11,13,23
+Leicester City,Wolverhampton Wanderers,TRUE,2018,King Power Stadium,32043,6,10,2,1,1,2,42.8,316,382,1,13,0.5,2,16,24,13,33
+Leicester City,Wolverhampton Wanderers,FALSE,2018,King Power Stadium,32043,11,8,1,9,0,1,57.2,404,500,4,29,0.5,1,9,18,11,15
+Tottenham Hotspur,Fulham,FALSE,2018,Wembley Stadium,58297,10,5,0,3,0,8,40.4,356,435,2,7,0.5,2,8,13,10,39
+Tottenham Hotspur,Fulham,TRUE,2018,Wembley Stadium,58297,25,9,0,6,0,2,59.6,557,629,8,27,0.7,4,8,12,12,8
+West Ham United,AFC Bournemouth,FALSE,2018,London Stadium,56888,12,10,2,4,0,4,39,246,321,3,11,0.4,4,9,11,6,31
+West Ham United,AFC Bournemouth,TRUE,2018,London Stadium,56888,11,14,6,6,0,3,61,399,494,4,23,0.5,3,6,21,9,18
+Brighton & Hove Albion,Manchester United,TRUE,2018,American Express Stadium,30592,6,16,1,3,0,1,33.4,183,283,3,13,0.3,0,13,28,10,16
+Brighton & Hove Albion,Manchester United,FALSE,2018,American Express Stadium,30592,9,13,1,5,0,0,66.6,485,572,2,17,0.5,2,5,12,4,18
+Burnley,Watford,TRUE,2018,Turf Moor,18822,8,8,1,5,0,3,58.4,347,461,5,32,0.4,2,10,15,10,21
+Burnley,Watford,FALSE,2018,Turf Moor,18822,9,19,2,2,0,2,41.6,233,345,3,7,0.3,3,10,18,13,29
+Manchester City,Huddersfield Town,FALSE,2018,Etihad Stadium,54021,5,4,2,3,0,9,23.1,146,224,1,12,0.4,2,7,16,7,29
+Manchester City,Huddersfield Town,TRUE,2018,Etihad Stadium,54021,32,9,0,10,0,0,76.9,706,760,5,24,0.8,9,3,5,5,24
+Crystal Palace,Liverpool,TRUE,2018,Selhurst Park,25750,8,6,1,6,1,4,36.8,280,359,4,16,0.5,1,9,14,14,25
+Crystal Palace,Liverpool,FALSE,2018,Selhurst Park,25750,16,13,1,7,0,2,63.2,559,625,3,23,0.8,6,14,22,10,17
+AFC Bournemouth,Everton,TRUE,2018,Vitality Stadium,10654,17,12,0,6,1,1,49.9,301,382,6,22,0.4,2,12,18,8,13
+AFC Bournemouth,Everton,FALSE,2018,Vitality Stadium,10654,11,10,3,2,1,3,50.1,303,389,6,15,0.4,3,12,21,13,30
+Arsenal,West Ham United,TRUE,2018,Emirates Stadium,59830,17,16,1,7,0,4,61.5,461,544,3,21,0.6,5,11,15,6,26
+Arsenal,West Ham United,FALSE,2018,Emirates Stadium,59830,13,13,3,2,0,9,38.5,257,341,4,15,0.5,3,10,14,17,24
+Huddersfield Town,Cardiff City,FALSE,2018,John Smith's Stadium,21193,14,10,1,7,0,1,42,194,289,2,15,0.4,4,13,19,11,30
+Huddersfield Town,Cardiff City,TRUE,2018,John Smith's Stadium,21193,5,8,0,7,1,4,58,301,396,2,26,0.4,2,9,14,6,24
+Liverpool,Brighton & Hove Albion,FALSE,2018,Anfield,53294,6,14,1,5,0,6,30,238,327,5,11,0.2,2,9,21,29,33
+Liverpool,Brighton & Hove Albion,TRUE,2018,Anfield,53294,22,8,1,8,0,2,70,669,765,4,24,0.6,7,13,21,9,12
+Southampton,Leicester City,FALSE,2018,St. Mary's Stadium,29925,8,11,1,3,0,4,48.3,352,425,1,15,0.5,0,6,14,8,37
+Southampton,Leicester City,TRUE,2018,St. Mary's Stadium,29925,11,13,1,11,1,3,51.7,373,447,6,28,0.6,2,10,18,13,13
+Wolverhampton Wanderers,Manchester City,FALSE,2018,Molineux Stadium,31322,18,8,2,9,0,1,71.1,577,644,4,30,0.6,6,8,9,7,11
+Wolverhampton Wanderers,Manchester City,TRUE,2018,Molineux Stadium,31322,11,13,1,5,0,5,28.9,177,260,5,14,0.4,3,10,19,10,35
+Fulham,Burnley,FALSE,2018,Craven Cottage,23438,12,8,1,4,0,8,36.2,223,301,5,27,0.5,5,10,21,11,20
+Fulham,Burnley,TRUE,2018,Craven Cottage,23438,25,11,2,6,0,0,63.8,488,572,5,16,0.5,3,8,9,4,25
+Newcastle United,Chelsea,FALSE,2018,St. James' Park,51791,15,8,1,5,0,1,81.1,839,913,3,23,0.7,5,8,17,5,20
+Newcastle United,Chelsea,TRUE,2018,St. James' Park,51791,6,16,3,4,0,2,18.9,131,200,7,17,0.5,2,8,21,17,36
+Watford,Crystal Palace,FALSE,2018,Vicarage Road,20014,9,11,2,3,0,3,56.3,326,436,3,9,0.5,1,12,19,5,28
+Watford,Crystal Palace,TRUE,2018,Vicarage Road,20014,13,14,4,6,0,2,43.7,227,331,5,18,0.4,4,16,26,19,16
+Manchester United,Tottenham Hotspur,TRUE,2018,Old Trafford,74400,23,11,2,5,0,2,57,375,488,9,26,0.6,6,6,11,10,14
+Manchester United,Tottenham Hotspur,FALSE,2018,Old Trafford,74400,9,16,3,2,0,5,43,259,382,3,6,0.3,2,16,23,21,26
+Brighton & Hove Albion,Fulham,TRUE,2018,American Express Stadium,30526,15,12,3,7,0,3,41.5,284,370,8,29,0.4,3,12,17,18,8
+Brighton & Hove Albion,Fulham,FALSE,2018,American Express Stadium,30526,10,14,3,1,0,3,58.5,466,551,1,10,0.6,2,12,14,9,26
+Chelsea,AFC Bournemouth,FALSE,2018,Stamford Bridge,40178,8,7,2,6,0,4,27.4,175,252,3,15,0.4,1,8,14,13,35
+Chelsea,AFC Bournemouth,TRUE,2018,Stamford Bridge,40178,24,10,2,7,0,1,72.6,616,704,3,25,0.5,12,7,12,7,23
+Crystal Palace,Southampton,TRUE,2018,Selhurst Park,25495,20,11,1,7,0,5,50.7,338,432,9,24,0.5,7,11,16,12,26
+Crystal Palace,Southampton,FALSE,2018,Selhurst Park,25495,19,12,1,4,0,6,49.3,326,423,9,22,0.5,7,8,19,9,34
+Everton,Huddersfield Town,TRUE,2018,Goodison Park,38767,11,13,3,4,0,5,57.6,385,464,6,19,0.5,2,12,15,8,32
+Everton,Huddersfield Town,FALSE,2018,Goodison Park,38767,9,14,3,3,0,0,42.4,252,335,4,20,0.5,2,21,30,17,18
+Leicester City,Liverpool,TRUE,2018,King Power Stadium,32149,12,9,3,4,0,2,51.2,401,496,4,17,0.5,4,16,23,6,27
+Leicester City,Liverpool,FALSE,2018,King Power Stadium,32149,10,12,2,4,0,4,48.8,374,473,3,8,0.4,2,13,18,10,23
+Manchester City,Newcastle United,TRUE,2018,Etihad Stadium,53946,24,5,0,4,0,1,78.1,688,767,5,21,0.7,7,6,9,6,9
+Manchester City,Newcastle United,FALSE,2018,Etihad Stadium,53946,3,13,0,0,0,6,21.9,137,217,0,4,0.5,0,12,18,17,39
+West Ham United,Wolverhampton Wanderers,TRUE,2018,London Stadium,56947,13,10,2,4,0,5,47.7,356,444,5,18,0.5,5,15,22,9,19
+West Ham United,Wolverhampton Wanderers,FALSE,2018,London Stadium,56947,15,11,1,4,0,3,52.3,414,495,2,16,0.6,2,17,25,12,19
+Burnley,Manchester United,TRUE,2018,Turf Moor,21525,4,5,2,1,0,6,43.3,283,351,1,15,0.4,1,8,12,7,22
+Burnley,Manchester United,FALSE,2018,Turf Moor,21525,16,10,1,4,1,0,56.7,406,467,5,16,0.6,5,3,5,3,22
+Cardiff City,Arsenal,FALSE,2018,Cardiff City Stadium,32316,17,14,4,9,0,1,72.3,535,635,6,19,0.5,2,9,11,11,21
+Cardiff City,Arsenal,TRUE,2018,Cardiff City Stadium,32316,14,12,3,3,0,8,27.7,155,234,4,19,0.4,1,8,12,15,32
+Watford,Tottenham Hotspur,FALSE,2018,Vicarage Road,20141,11,8,1,10,0,1,65.6,420,532,6,32,0.5,2,15,23,8,19
+Watford,Tottenham Hotspur,TRUE,2018,Vicarage Road,20141,7,9,2,3,0,2,34.4,187,289,5,11,0.4,1,13,15,21,49
+AFC Bournemouth,Leicester City,TRUE,2018,Vitality Stadium,10543,2,3,1,0,0,1,52.5,122,162,0,3,0.3,0,5,7,1,8
+AFC Bournemouth,Leicester City,FALSE,2018,Vitality Stadium,10543,4,7,1,0,0,0,47.5,110,142,1,9,0.5,1,3,7,5,9
+Chelsea,Cardiff City,FALSE,2018,Stamford Bridge,40499,3,7,0,4,0,2,24,51,95,2,8,0.5,0,4,6,8,11
+Chelsea,Cardiff City,TRUE,2018,Stamford Bridge,40499,12,5,0,4,0,0,76,270,314,3,10,0.8,2,2,3,1,8
+Huddersfield Town,Crystal Palace,FALSE,2018,John Smith's Stadium,23696,4,9,2,0,0,0,47.2,193,225,0,5,0.4,2,1,2,4,13
+Huddersfield Town,Crystal Palace,TRUE,2018,John Smith's Stadium,23696,3,4,1,0,0,1,52.8,212,247,4,10,0.7,0,3,8,4,5
+Manchester City,Fulham,FALSE,2018,Etihad Stadium,53307,5,6,0,3,0,5,39.2,155,200,0,4,0.5,0,2,3,11,14
+Manchester City,Fulham,TRUE,2018,Etihad Stadium,53307,12,3,0,7,0,2,60.8,270,310,3,11,0.7,2,6,8,8,7
+Newcastle United,Arsenal,FALSE,2018,St. James' Park,52165,2,4,0,1,0,0,60.6,176,214,1,7,0.6,0,4,6,2,14
+Newcastle United,Arsenal,TRUE,2018,St. James' Park,52165,1,4,0,7,0,0,39.4,90,134,3,11,0.5,1,6,8,2,6
+Tottenham Hotspur,Liverpool,FALSE,2018,Wembley Stadium,80188,17,16,0,4,0,2,39.6,267,356,2,10,0.4,2,11,17,6,21
+Tottenham Hotspur,Liverpool,TRUE,2018,Wembley Stadium,80188,11,17,0,5,0,8,60.4,443,549,2,12,0.5,3,4,9,6,17
+Watford,Manchester United,FALSE,2018,Vicarage Road,20537,9,11,1,8,1,4,57.1,419,520,5,21,0.6,2,6,11,11,31
+Watford,Manchester United,TRUE,2018,Vicarage Road,20537,14,9,2,6,0,4,42.9,291,387,3,21,0.4,6,18,25,9,28
+Everton,West Ham United,TRUE,2018,Goodison Park,39161,16,15,2,4,0,1,55.9,352,458,6,22,0.5,6,13,22,10,9
+Everton,West Ham United,FALSE,2018,Goodison Park,39161,9,12,5,2,0,3,44.1,283,380,1,5,0.5,3,14,19,15,28
+Wolverhampton Wanderers,Burnley,FALSE,2018,Molineux Stadium,30406,7,9,4,2,0,5,41.1,297,395,2,12,0.4,0,5,17,12,22
+Wolverhampton Wanderers,Burnley,TRUE,2018,Molineux Stadium,30406,30,10,2,8,0,2,58.9,469,567,7,24,0.6,10,7,13,9,18
+Southampton,Brighton & Hove Albion,FALSE,2018,St. Mary's Stadium,28811,12,13,3,4,0,2,48.8,337,442,7,18,0.5,3,9,14,13,21
+Southampton,Brighton & Hove Albion,TRUE,2018,St. Mary's Stadium,28811,14,10,2,1,0,2,51.2,369,468,3,13,0.4,3,10,16,20,13
+Brighton & Hove Albion,Tottenham Hotspur,TRUE,2018,American Express Stadium,30531,8,15,2,5,0,5,28.6,189,255,3,14,0.6,1,8,13,13,14
+Brighton & Hove Albion,Tottenham Hotspur,FALSE,2018,American Express Stadium,30531,16,9,1,7,0,3,71.4,583,658,5,15,0.5,4,14,16,14,15
+Burnley,AFC Bournemouth,FALSE,2018,Turf Moor,18636,18,6,0,13,0,0,62,0,0,0,0,0,0,0,0,0,0
+Burnley,AFC Bournemouth,TRUE,2018,Turf Moor,18636,11,17,2,0,0,0,37,0,0,0,0,0,0,0,0,0,0
+Cardiff City,Manchester City,TRUE,2018,Cardiff City Stadium,32321,2,6,1,1,0,5,21.4,146,218,1,7,0.3,0,6,16,14,24
+Cardiff City,Manchester City,FALSE,2018,Cardiff City Stadium,32321,21,4,1,10,0,2,78.6,725,799,8,23,0.6,7,10,12,11,10
+Crystal Palace,Newcastle United,TRUE,2018,Selhurst Park,25679,16,8,1,9,0,3,61.9,378,481,5,21,0.4,5,25,29,8,15
+Crystal Palace,Newcastle United,FALSE,2018,Selhurst Park,25679,6,11,1,5,0,4,38.1,205,299,4,15,0.4,0,16,25,17,33
+Fulham,Watford,TRUE,2018,Craven Cottage,23418,15,11,2,8,0,5,60.7,399,524,6,26,0.5,6,9,14,14,35
+Fulham,Watford,FALSE,2018,Craven Cottage,23418,11,9,1,8,0,2,39.3,218,335,2,26,0.4,1,5,11,18,25
+Leicester City,Huddersfield Town,FALSE,2018,King Power Stadium,31676,9,16,1,1,0,5,38,261,357,2,14,0.4,2,8,11,12,13
+Leicester City,Huddersfield Town,TRUE,2018,King Power Stadium,31676,18,10,2,3,0,1,62,505,589,4,15,0.6,3,13,23,11,27
+Liverpool,Southampton,TRUE,2018,Anfield,50965,12,7,0,5,0,1,60.6,648,750,3,13,0.6,3,10,14,7,12
+Liverpool,Southampton,FALSE,2018,Anfield,50965,7,10,2,4,0,1,39.4,388,479,3,14,0.5,5,11,21,16,35
+Manchester United,Wolverhampton Wanderers,TRUE,2018,Old Trafford,74489,15,5,1,5,0,7,64.5,583,684,4,23,0.5,6,11,16,5,13
+Manchester United,Wolverhampton Wanderers,FALSE,2018,Old Trafford,74489,11,17,1,4,0,5,35.5,282,379,3,9,0.4,0,7,13,17,28
+Arsenal,Everton,TRUE,2018,Emirates Stadium,59964,9,17,2,5,0,6,62.5,460,555,3,15,0.6,3,12,19,9,27
+Arsenal,Everton,FALSE,2018,Emirates Stadium,59964,10,12,1,9,0,3,37.5,238,315,6,27,0.5,2,11,20,18,28
+West Ham United,Chelsea,FALSE,2018,London Stadium,56875,17,9,1,8,0,1,71.8,664,758,6,28,0.6,5,3,8,8,8
+West Ham United,Chelsea,TRUE,2018,London Stadium,56875,6,11,2,1,0,6,28.2,221,297,2,11,0.4,1,8,22,15,44
+Arsenal,Watford,TRUE,2018,Emirates Stadium,60019,9,11,2,6,0,5,63.5,447,542,3,22,0.4,1,5,10,7,35
+Arsenal,Watford,FALSE,2018,Emirates Stadium,60019,14,17,2,6,0,1,36.5,207,298,7,27,0.4,2,10,20,15,22
+Chelsea,Liverpool,TRUE,2018,Stamford Bridge,40625,10,7,0,4,0,3,47.2,465,558,3,12,0.6,2,9,13,12,23
+Chelsea,Liverpool,FALSE,2018,Stamford Bridge,40625,13,9,2,4,0,3,52.8,516,616,7,20,0.5,1,8,15,12,16
+Everton,Fulham,TRUE,2018,Goodison Park,38788,19,13,0,12,0,0,51.2,314,388,6,30,0.5,7,18,26,21,14
+Everton,Fulham,FALSE,2018,Goodison Park,38788,6,13,3,1,0,3,48.8,313,391,1,8,0.4,0,10,18,14,33
+Huddersfield Town,Tottenham Hotspur,TRUE,2018,John Smith's Stadium,23885,9,17,2,3,0,4,52.7,308,420,5,21,0.5,1,16,24,15,10
+Huddersfield Town,Tottenham Hotspur,FALSE,2018,John Smith's Stadium,23885,10,16,2,0,0,5,47.3,282,388,4,8,0.4,0,12,16,13,40
+Manchester City,Brighton & Hove Albion,FALSE,2018,Etihad Stadium,54152,4,10,3,3,0,6,19.9,137,210,4,8,0.3,2,9,15,10,34
+Manchester City,Brighton & Hove Albion,TRUE,2018,Etihad Stadium,54152,28,4,0,10,0,1,80.1,789,850,8,29,0.6,7,10,15,12,7
+Newcastle United,Leicester City,FALSE,2018,St. James' Park,51523,12,5,0,9,0,1,58.5,416,525,7,23,0.5,3,17,22,9,12
+Newcastle United,Leicester City,TRUE,2018,St. James' Park,51523,6,11,0,5,0,3,41.5,271,376,3,14,0.4,1,21,24,10,30
+West Ham United,Manchester United,FALSE,2018,London Stadium,56938,9,12,1,9,0,1,51,392,457,8,35,0.5,4,7,9,9,16
+West Ham United,Manchester United,TRUE,2018,London Stadium,56938,8,12,0,4,0,3,49,374,455,5,17,0.4,1,14,25,9,26
+Wolverhampton Wanderers,Southampton,FALSE,2018,Molineux Stadium,31147,17,7,1,6,0,4,51.2,365,444,2,18,0.4,7,19,32,13,16
+Wolverhampton Wanderers,Southampton,TRUE,2018,Molineux Stadium,31147,14,11,3,8,0,6,48.8,352,425,5,15,0.6,2,8,19,11,24
+Cardiff City,Burnley,FALSE,2018,Cardiff City Stadium,30411,3,15,3,2,0,3,45.7,159,287,2,8,0.3,0,6,12,10,66
+Cardiff City,Burnley,TRUE,2018,Cardiff City Stadium,30411,20,11,1,10,0,0,54.3,197,318,8,31,0.4,6,8,9,8,24
+AFC Bournemouth,Crystal Palace,TRUE,2018,Vitality Stadium,10199,11,9,3,3,0,1,44.4,335,425,8,13,0.5,2,8,12,9,25
+AFC Bournemouth,Crystal Palace,FALSE,2018,Vitality Stadium,10199,10,12,4,3,0,3,55.6,449,532,3,16,0.5,4,10,19,12,15
+Brighton & Hove Albion,West Ham United,TRUE,2018,American Express Stadium,30544,9,12,3,2,0,4,35.4,192,282,4,11,0.4,1,12,17,12,28
+Brighton & Hove Albion,West Ham United,FALSE,2018,American Express Stadium,30544,17,8,2,9,0,3,64.6,431,514,5,18,0.5,6,9,12,8,17
+Burnley,Huddersfield Town,TRUE,2018,Turf Moor,20533,6,9,2,1,0,1,31.8,169,275,5,14,0.4,3,9,17,11,42
+Burnley,Huddersfield Town,FALSE,2018,Turf Moor,20533,18,11,2,10,0,2,68.2,463,580,10,37,0.5,9,5,10,10,7
+Crystal Palace,Wolverhampton Wanderers,TRUE,2018,Selhurst Park,25715,11,11,3,6,0,1,67.1,530,641,7,20,0.5,3,13,17,10,17
+Crystal Palace,Wolverhampton Wanderers,FALSE,2018,Selhurst Park,25715,7,13,4,3,0,4,32.9,213,314,1,8,0.4,0,11,20,17,24
+Leicester City,Everton,FALSE,2018,King Power Stadium,32007,17,11,1,10,0,1,48.7,313,423,5,26,0.5,4,7,11,13,16
+Leicester City,Everton,TRUE,2018,King Power Stadium,32007,8,10,2,2,1,6,51.3,347,461,4,11,0.5,1,8,13,6,33
+Manchester United,Newcastle United,TRUE,2018,Old Trafford,74519,18,16,2,10,0,6,73,509,610,12,44,0.6,3,8,11,4,19
+Manchester United,Newcastle United,FALSE,2018,Old Trafford,74519,13,8,2,6,0,7,27,129,222,5,18,0.4,0,6,18,20,52
+Tottenham Hotspur,Cardiff City,FALSE,2018,Wembley Stadium,43268,8,11,1,2,1,5,24.5,138,222,1,8,0.4,0,8,16,16,37
+Tottenham Hotspur,Cardiff City,TRUE,2018,Wembley Stadium,43268,19,7,3,6,0,5,75.5,590,685,4,17,0.6,6,10,18,5,24
+Watford,AFC Bournemouth,FALSE,2018,Vicarage Road,20139,10,9,1,7,0,2,52.8,355,426,5,14,0.5,0,6,9,8,37
+Watford,AFC Bournemouth,TRUE,2018,Vicarage Road,20139,14,11,3,10,1,3,47.2,291,374,2,24,0.5,10,11,18,8,12
+Fulham,Arsenal,FALSE,2018,Craven Cottage,25401,9,12,0,2,0,3,51.1,398,504,3,7,0.5,0,14,21,14,19
+Fulham,Arsenal,TRUE,2018,Craven Cottage,25401,21,11,2,4,0,2,48.9,383,473,4,17,0.5,9,8,16,10,21
+Liverpool,Manchester City,TRUE,2018,Anfield,52117,7,10,1,2,0,2,49.4,430,515,4,18,0.6,1,11,17,9,18
+Liverpool,Manchester City,FALSE,2018,Anfield,52117,6,10,3,6,0,2,50.6,439,528,1,12,0.6,1,11,16,13,25
+Southampton,Chelsea,FALSE,2018,St. Mary's Stadium,27077,21,11,0,12,0,6,65.3,575,651,6,27,0.7,12,4,13,2,18
+Southampton,Chelsea,TRUE,2018,St. Mary's Stadium,27077,15,13,6,4,0,3,34.7,273,346,1,11,0.4,3,14,21,15,36
+AFC Bournemouth,Southampton,TRUE,2018,Vitality Stadium,10986,9,11,1,6,0,4,57.3,350,458,3,22,0.4,2,7,9,5,30
+AFC Bournemouth,Southampton,FALSE,2018,Vitality Stadium,10986,8,14,2,4,0,2,42.7,250,346,3,18,0.4,2,11,18,14,29
+Cardiff City,Fulham,TRUE,2018,Cardiff City Stadium,29681,22,15,3,4,0,2,40.5,200,313,12,22,0.3,7,9,12,14,21
+Cardiff City,Fulham,FALSE,2018,Cardiff City Stadium,29681,9,16,3,4,0,1,59.5,368,479,4,9,0.5,2,7,16,6,32
+Chelsea,Manchester United,TRUE,2018,Stamford Bridge,40721,21,9,2,5,0,2,62.3,543,611,5,18,0.4,7,8,12,9,23
+Chelsea,Manchester United,FALSE,2018,Stamford Bridge,40721,7,17,5,3,0,4,37.7,282,371,1,9,0.4,0,14,21,14,29
+Huddersfield Town,Liverpool,TRUE,2018,John Smith's Stadium,24263,13,9,0,2,0,1,47.8,419,521,7,27,0.5,6,14,20,12,21
+Huddersfield Town,Liverpool,FALSE,2018,John Smith's Stadium,24263,11,6,2,4,0,1,52.2,473,585,3,14,0.4,5,8,14,9,32
+Manchester City,Burnley,FALSE,2018,Etihad Stadium,54094,5,5,2,1,0,5,30.9,226,302,3,9,0.4,1,6,12,12,19
+Manchester City,Burnley,TRUE,2018,Etihad Stadium,54094,24,11,2,10,0,0,69.1,597,679,7,19,0.5,8,8,15,7,10
+Newcastle United,Brighton & Hove Albion,FALSE,2018,St. James' Park,50329,8,17,2,2,0,6,32,151,247,4,10,0.3,2,13,19,8,49
+Newcastle United,Brighton & Hove Albion,TRUE,2018,St. James' Park,50329,27,13,0,10,0,1,68,414,504,9,41,0.6,9,9,17,4,15
+West Ham United,Tottenham Hotspur,FALSE,2018,London Stadium,56921,10,10,0,6,0,4,56,437,506,2,15,0.6,4,7,13,7,25
+West Ham United,Tottenham Hotspur,TRUE,2018,London Stadium,56921,13,8,3,10,0,1,44,307,377,11,30,0.6,2,15,31,14,14
+Wolverhampton Wanderers,Watford,FALSE,2018,Molineux Stadium,31144,9,13,1,3,0,1,55.2,463,550,0,4,0.4,4,12,17,9,29
+Wolverhampton Wanderers,Watford,TRUE,2018,Molineux Stadium,31144,10,23,3,8,0,1,44.8,325,420,10,27,0.5,3,12,22,11,13
+Everton,Crystal Palace,FALSE,2018,Goodison Park,38668,7,17,1,5,0,2,40.2,254,350,1,13,0.4,0,17,23,13,22
+Everton,Crystal Palace,TRUE,2018,Goodison Park,38668,20,13,2,10,0,4,59.8,424,510,8,29,0.6,7,13,21,11,18
+Arsenal,Leicester City,TRUE,2018,Emirates Stadium,59886,19,10,2,6,0,2,69.1,602,703,2,11,0.6,2,11,20,10,12
+Arsenal,Leicester City,FALSE,2018,Emirates Stadium,59886,8,10,2,4,0,3,30.9,228,309,2,12,0.5,3,5,14,20,18
+Brighton & Hove Albion,Wolverhampton Wanderers,TRUE,2018,American Express Stadium,30654,7,11,3,1,0,7,39.9,262,362,3,9,0.4,1,13,19,5,33
+Brighton & Hove Albion,Wolverhampton Wanderers,FALSE,2018,American Express Stadium,30654,25,8,0,10,0,0,60.1,439,523,9,36,0.5,10,5,11,19,10
+Fulham,AFC Bournemouth,FALSE,2018,Craven Cottage,25071,12,3,1,5,0,1,48,421,495,6,23,0.5,1,4,7,10,24
+Fulham,AFC Bournemouth,TRUE,2018,Craven Cottage,25071,11,16,2,5,1,2,52,453,547,4,16,0.4,1,8,10,13,34
+Leicester City,West Ham United,TRUE,2018,King Power Stadium,31848,21,17,1,8,0,2,64.2,457,552,9,45,0.6,3,10,16,14,6
+Leicester City,West Ham United,FALSE,2018,King Power Stadium,31848,11,5,1,0,1,7,35.8,227,327,2,6,0.3,2,8,21,15,47
+Liverpool,Cardiff City,FALSE,2018,Anfield,53373,2,4,0,0,0,2,20.4,122,207,0,7,0.3,0,8,14,20,41
+Liverpool,Cardiff City,TRUE,2018,Anfield,53373,19,6,0,8,0,0,79.6,727,818,5,24,0.5,6,7,12,6,11
+Southampton,Newcastle United,FALSE,2018,St. Mary's Stadium,30736,6,12,1,2,0,4,49.8,297,414,2,15,0.3,2,6,16,13,48
+Southampton,Newcastle United,TRUE,2018,St. Mary's Stadium,30736,22,9,0,7,0,0,50.2,302,405,9,31,0.4,5,4,13,19,23
+Watford,Huddersfield Town,FALSE,2018,Vicarage Road,20457,13,13,2,3,0,3,51.9,399,498,5,13,0.5,2,18,26,27,13
+Watford,Huddersfield Town,TRUE,2018,Vicarage Road,20457,12,9,1,3,0,7,48.1,366,467,2,7,0.5,0,11,19,9,23
+Burnley,Chelsea,TRUE,2018,Turf Moor,21430,7,14,4,4,0,4,30.2,266,325,2,23,0.6,2,5,13,12,14
+Burnley,Chelsea,FALSE,2018,Turf Moor,21430,24,10,2,4,0,1,69.8,720,796,3,8,0.7,7,5,9,5,23
+Crystal Palace,Arsenal,FALSE,2018,Selhurst Park,25718,7,16,2,4,0,1,57.8,463,555,1,10,0.5,2,12,25,14,33
+Crystal Palace,Arsenal,TRUE,2018,Selhurst Park,25718,16,10,1,6,0,0,42.2,311,399,1,15,0.4,2,11,22,14,9
+Manchester United,Everton,FALSE,2018,Old Trafford,74525,14,12,1,4,0,8,46.3,332,413,4,20,0.5,1,7,16,8,24
+Manchester United,Everton,TRUE,2018,Old Trafford,74525,14,15,2,8,0,5,53.7,391,486,2,17,0.5,1,9,15,7,10
+Tottenham Hotspur,Manchester City,FALSE,2018,Wembley Stadium,56854,13,13,2,6,0,1,52,429,514,1,12,0.4,5,6,12,14,22
+Tottenham Hotspur,Manchester City,TRUE,2018,Wembley Stadium,56854,4,13,2,3,0,4,48,382,476,2,13,0.5,0,7,17,7,20
+AFC Bournemouth,Manchester United,TRUE,2018,Vitality Stadium,10792,18,12,4,9,0,4,48.7,317,412,5,23,0.4,8,10,20,7,34
+AFC Bournemouth,Manchester United,FALSE,2018,Vitality Stadium,10792,18,12,3,5,0,6,51.3,356,447,0,13,0.4,4,9,17,5,29
+Arsenal,Liverpool,TRUE,2018,Emirates Stadium,59993,12,7,1,5,0,3,61.8,501,586,5,16,0.6,3,11,20,12,28
+Arsenal,Liverpool,FALSE,2018,Emirates Stadium,59993,13,7,1,8,0,3,38.2,276,356,3,16,0.4,4,10,13,8,29
+Cardiff City,Leicester City,TRUE,2018,Cardiff City Stadium,30877,11,13,2,6,0,3,40.1,166,271,6,18,0.3,1,7,13,16,27
+Cardiff City,Leicester City,FALSE,2018,Cardiff City Stadium,30877,13,12,2,12,0,2,59.9,305,403,7,27,0.4,4,6,11,10,38
+Everton,Brighton & Hove Albion,FALSE,2018,Goodison Park,38966,5,17,1,4,0,0,38.5,215,315,2,11,0.4,2,8,16,10,30
+Everton,Brighton & Hove Albion,TRUE,2018,Goodison Park,38966,14,9,0,6,0,2,61.5,408,491,5,34,0.5,2,12,18,12,15
+Newcastle United,Watford,TRUE,2018,St. James' Park,49157,10,12,1,8,0,1,41.9,221,326,5,19,0.3,4,14,20,14,29
+Newcastle United,Watford,FALSE,2018,St. James' Park,49157,16,11,5,9,0,1,58.1,359,452,4,20,0.5,5,3,8,11,35
+West Ham United,Burnley,FALSE,2018,London Stadium,56862,6,9,4,4,0,5,37.2,197,312,2,9,0.4,2,14,19,7,34
+West Ham United,Burnley,TRUE,2018,London Stadium,56862,22,7,1,10,0,1,62.8,426,527,2,15,0.4,6,7,14,7,25
+Wolverhampton Wanderers,Tottenham Hotspur,FALSE,2018,Molineux Stadium,31185,10,8,2,1,0,5,51.4,417,505,4,7,0.4,1,12,21,7,23
+Wolverhampton Wanderers,Tottenham Hotspur,TRUE,2018,Molineux Stadium,31185,16,11,1,5,0,5,48.6,374,458,6,25,0.6,5,12,22,9,7
+Chelsea,Crystal Palace,TRUE,2018,Stamford Bridge,40407,15,6,0,4,0,1,73.7,799,883,5,17,0.8,4,12,21,2,11
+Chelsea,Crystal Palace,FALSE,2018,Stamford Bridge,40407,7,13,1,2,0,3,26.3,242,313,0,5,0.4,3,8,21,19,16
+Manchester City,Southampton,TRUE,2018,Etihad Stadium,53916,18,14,1,4,0,5,67.3,664,729,5,12,0.6,5,7,12,11,17
+Manchester City,Southampton,FALSE,2018,Etihad Stadium,53916,13,9,1,4,0,3,32.7,269,341,8,20,0.5,2,6,19,14,19
+Huddersfield Town,Fulham,FALSE,2018,John Smith's Stadium,17082,8,8,2,4,0,2,54.9,350,490,4,7,0.3,4,11,17,7,17
+Huddersfield Town,Fulham,TRUE,2018,John Smith's Stadium,17082,10,11,1,5,0,1,45.1,261,387,3,26,0.5,2,20,25,25,10
+Cardiff City,Brighton & Hove Albion,FALSE,2018,Cardiff City Stadium,29402,7,21,1,1,1,3,39.4,202,315,2,5,0.3,2,9,14,9,36
+Cardiff City,Brighton & Hove Albion,TRUE,2018,Cardiff City Stadium,29402,20,7,2,4,0,2,60.6,362,472,2,20,0.3,5,7,12,9,7
+Crystal Palace,Tottenham Hotspur,TRUE,2018,Selhurst Park,25685,11,12,1,10,0,1,35.4,203,306,3,24,0.4,1,12,20,18,25
+Crystal Palace,Tottenham Hotspur,FALSE,2018,Selhurst Park,25685,11,9,1,6,0,5,64.6,484,581,6,23,0.5,3,10,18,11,32
+Huddersfield Town,West Ham United,TRUE,2018,John Smith's Stadium,24069,15,9,1,5,0,2,43.9,257,354,3,16,0.5,1,12,18,10,26
+Huddersfield Town,West Ham United,FALSE,2018,John Smith's Stadium,24069,12,8,1,6,0,6,56.1,345,448,3,20,0.4,3,12,18,10,22
+Leicester City,Burnley,FALSE,2018,King Power Stadium,32184,6,10,0,1,0,4,37,189,298,4,11,0.4,2,5,9,7,36
+Leicester City,Burnley,TRUE,2018,King Power Stadium,32184,22,13,2,12,0,1,63,377,479,10,42,0.4,8,7,13,7,17
+Newcastle United,AFC Bournemouth,FALSE,2018,St. James' Park,49266,14,11,1,10,0,5,60.7,401,505,7,22,0.5,5,10,18,10,40
+Newcastle United,AFC Bournemouth,TRUE,2018,St. James' Park,49266,18,9,2,7,0,3,39.3,222,323,6,22,0.5,4,14,18,15,33
+Southampton,Watford,TRUE,2018,St. Mary's Stadium,28153,14,13,3,7,0,5,42.3,210,305,3,17,0.3,4,11,17,19,37
+Southampton,Watford,FALSE,2018,St. Mary's Stadium,28153,12,13,2,6,0,3,57.7,302,420,2,17,0.5,3,7,11,8,16
+Arsenal,Wolverhampton Wanderers,TRUE,2018,Emirates Stadium,60030,10,9,2,11,0,4,71.7,635,733,2,27,0.6,4,10,13,7,4
+Arsenal,Wolverhampton Wanderers,FALSE,2018,Emirates Stadium,60030,13,16,2,2,0,2,28.3,207,291,2,7,0.4,2,8,18,28,26
+Chelsea,Everton,TRUE,2018,Stamford Bridge,40345,15,7,4,5,0,1,68.7,615,688,3,16,0.4,4,11,19,4,13
+Chelsea,Everton,FALSE,2018,Stamford Bridge,40345,6,11,3,5,0,4,31.3,233,309,5,10,0.5,2,11,21,14,21
+Liverpool,Fulham,FALSE,2018,Anfield,53128,8,9,1,3,0,5,27,186,263,0,11,0.4,1,8,15,14,32
+Liverpool,Fulham,TRUE,2018,Anfield,53128,21,11,1,6,0,3,73,631,725,4,20,0.6,7,11,18,8,13
+Manchester City,Manchester United,TRUE,2018,Etihad Stadium,54316,17,12,1,6,0,0,64.9,642,700,4,25,0.7,6,12,13,8,14
+Manchester City,Manchester United,FALSE,2018,Etihad Stadium,54316,6,12,1,1,0,2,35.1,319,380,1,11,0.5,4,9,18,6,29
+Brighton & Hove Albion,Leicester City,TRUE,2018,American Express Stadium,30553,14,10,3,6,0,2,54.6,336,431,5,25,0.5,3,13,19,12,11
+Brighton & Hove Albion,Leicester City,FALSE,2018,American Express Stadium,30553,8,7,1,1,1,2,45.4,274,369,3,12,0.5,2,12,17,15,20
+Everton,Cardiff City,FALSE,2018,Goodison Park,39139,7,13,3,3,0,6,29.3,115,220,2,7,0.3,2,7,16,14,35
+Everton,Cardiff City,TRUE,2018,Goodison Park,39139,16,12,0,7,0,1,70.7,412,517,7,26,0.4,3,5,12,10,23
+Fulham,Southampton,TRUE,2018,Craven Cottage,24603,10,10,2,2,0,6,37.2,264,370,5,11,0.4,2,9,20,8,43
+Fulham,Southampton,FALSE,2018,Craven Cottage,24603,19,6,3,5,0,2,62.8,480,600,7,33,0.4,5,13,19,7,11
+Manchester United,Crystal Palace,FALSE,2018,Old Trafford,74516,13,12,2,3,0,5,40.2,264,351,1,8,0.4,2,11,13,13,39
+Manchester United,Crystal Palace,TRUE,2018,Old Trafford,74516,12,13,1,10,0,2,59.8,421,509,3,31,0.7,3,13,23,5,17
+Tottenham Hotspur,Chelsea,FALSE,2018,Wembley Stadium,55465,13,12,3,4,0,6,60.1,467,549,5,21,0.7,6,7,15,22,8
+Tottenham Hotspur,Chelsea,TRUE,2018,Wembley Stadium,55465,18,19,0,4,0,1,39.9,279,369,5,9,0.5,3,7,12,10,22
+Watford,Liverpool,FALSE,2018,Vicarage Road,20540,10,13,0,5,1,1,63.7,526,637,6,18,0.4,0,9,13,13,22
+Watford,Liverpool,TRUE,2018,Vicarage Road,20540,5,12,0,5,0,4,36.3,250,360,3,13,0.4,0,9,14,15,25
+West Ham United,Manchester City,FALSE,2018,London Stadium,56886,9,3,0,1,0,1,69.3,747,839,0,4,0.6,1,10,13,18,14
+West Ham United,Manchester City,TRUE,2018,London Stadium,56886,9,6,0,8,0,2,30.7,269,359,2,13,0.5,3,9,21,14,11
+AFC Bournemouth,Arsenal,TRUE,2018,Vitality Stadium,10792,11,6,2,5,0,3,41.3,295,394,5,22,0.4,4,7,14,13,30
+AFC Bournemouth,Arsenal,FALSE,2018,Vitality Stadium,10792,20,9,1,8,0,5,58.7,464,574,2,21,0.3,5,15,20,8,20
+Wolverhampton Wanderers,Huddersfield Town,FALSE,2018,Molineux Stadium,30130,14,8,2,5,0,2,55.2,434,547,4,19,0.5,4,19,28,25,19
+Wolverhampton Wanderers,Huddersfield Town,TRUE,2018,Molineux Stadium,30130,12,9,1,3,0,4,44.8,332,443,2,13,0.5,3,13,21,16,18
+Burnley,Newcastle United,TRUE,2018,Turf Moor,20628,14,6,0,5,0,1,56.5,487,585,5,27,0.6,2,8,15,8,21
+Burnley,Newcastle United,FALSE,2018,Turf Moor,20628,17,11,1,5,0,3,43.5,365,450,5,20,0.5,6,8,12,13,45
+Cardiff City,Wolverhampton Wanderers,TRUE,2018,Cardiff City Stadium,30213,17,3,1,7,0,3,47.9,190,312,6,20,0.3,6,12,26,12,21
+Cardiff City,Wolverhampton Wanderers,FALSE,2018,Cardiff City Stadium,30213,15,12,2,6,0,0,52.1,236,345,3,18,0.5,2,13,21,8,48
+Crystal Palace,Burnley,FALSE,2018,Selhurst Park,25098,4,10,1,2,0,7,41.4,268,357,5,23,0.5,2,9,18,15,33
+Crystal Palace,Burnley,TRUE,2018,Selhurst Park,25098,29,9,1,10,0,0,58.6,415,518,3,15,0.6,9,6,9,10,19
+Huddersfield Town,Brighton & Hove Albion,FALSE,2018,John Smith's Stadium,22973,14,12,2,7,0,1,67.9,478,568,6,17,0.6,5,8,15,11,29
+Huddersfield Town,Brighton & Hove Albion,TRUE,2018,John Smith's Stadium,22973,7,10,0,2,1,4,32.1,182,265,1,12,0.3,2,6,13,13,18
+Leicester City,Watford,TRUE,2018,King Power Stadium,31353,7,7,2,4,0,0,37.7,208,303,1,11,0.4,1,16,27,16,48
+Leicester City,Watford,FALSE,2018,King Power Stadium,31353,8,6,1,8,1,1,62.3,406,496,5,25,0.5,2,7,14,12,16
+Manchester City,AFC Bournemouth,FALSE,2018,Etihad Stadium,54409,4,3,0,4,0,3,26.9,210,286,1,9,0.4,1,6,6,12,36
+Manchester City,AFC Bournemouth,TRUE,2018,Etihad Stadium,54409,16,9,0,8,0,0,73.1,712,786,5,17,0.7,5,12,14,11,21
+Newcastle United,West Ham United,TRUE,2018,St. James' Park,51853,16,10,3,7,0,1,58.7,405,492,6,33,0.5,5,5,11,14,12
+Newcastle United,West Ham United,FALSE,2018,St. James' Park,51853,7,10,3,3,0,4,41.3,250,358,3,12,0.5,0,17,26,9,39
+Southampton,Manchester United,FALSE,2018,St. Mary's Stadium,30187,11,13,4,5,0,4,59.7,436,520,5,24,0.5,2,14,24,10,15
+Southampton,Manchester United,TRUE,2018,St. Mary's Stadium,30187,16,12,4,3,0,3,40.3,278,358,4,13,0.3,4,14,20,16,23
+Arsenal,Tottenham Hotspur,TRUE,2018,Emirates Stadium,59973,22,15,3,8,0,4,59.3,404,477,8,22,0.6,4,16,27,12,20
+Arsenal,Tottenham Hotspur,FALSE,2018,Emirates Stadium,59973,11,17,3,5,1,2,40.7,237,331,2,11,0.3,2,9,21,10,17
+Chelsea,Fulham,TRUE,2018,Stamford Bridge,40551,16,8,2,4,0,4,66,647,725,1,14,0.7,6,12,18,11,17
+Chelsea,Fulham,FALSE,2018,Stamford Bridge,40551,9,17,1,6,0,7,34,262,360,4,18,0.5,1,12,23,9,18
+Liverpool,Everton,FALSE,2018,Anfield,51756,9,7,2,1,0,2,42.4,282,388,4,12,0.3,2,12,16,11,42
+Liverpool,Everton,TRUE,2018,Anfield,51756,16,12,3,8,0,3,57.6,415,521,5,21,0.4,3,8,21,7,17
+AFC Bournemouth,Huddersfield Town,TRUE,2018,Vitality Stadium,9980,6,14,4,4,0,5,32.8,218,304,2,11,0.4,0,8,14,14,55
+AFC Bournemouth,Huddersfield Town,FALSE,2018,Vitality Stadium,9980,23,11,2,8,0,0,67.2,501,608,13,45,0.5,7,9,22,12,8
+Brighton & Hove Albion,Crystal Palace,TRUE,2018,American Express Stadium,29663,9,14,2,4,1,3,31.5,189,269,2,12,0.3,3,15,30,16,33
+Brighton & Hove Albion,Crystal Palace,FALSE,2018,American Express Stadium,29663,18,12,3,5,0,0,68.5,502,591,5,17,0.5,5,11,17,5,13
+Watford,Manchester City,FALSE,2018,Vicarage Road,20389,15,8,1,12,0,5,70.1,627,714,5,21,0.5,3,11,16,6,28
+Watford,Manchester City,TRUE,2018,Vicarage Road,20389,11,4,0,3,0,5,29.9,204,308,3,8,0.4,2,15,18,8,35
+West Ham United,Cardiff City,FALSE,2018,London Stadium,56811,9,10,2,4,0,8,39,203,295,2,12,0.4,2,7,14,14,20
+West Ham United,Cardiff City,TRUE,2018,London Stadium,56811,17,10,1,10,0,3,61,354,461,6,19,0.5,3,9,12,14,11
+Burnley,Liverpool,TRUE,2018,Turf Moor,21741,10,10,1,5,0,8,25.8,136,228,2,15,0.3,1,11,13,16,22
+Burnley,Liverpool,FALSE,2018,Turf Moor,21741,18,3,0,9,0,5,74.2,582,681,5,20,0.5,4,3,5,6,15
+Everton,Newcastle United,TRUE,2018,Goodison Park,39350,19,7,0,14,0,4,76.3,543,646,8,52,0.6,8,10,14,4,8
+Everton,Newcastle United,FALSE,2018,Goodison Park,39350,8,18,5,2,0,2,23.7,129,204,5,11,0.3,0,12,25,15,63
+Fulham,Leicester City,TRUE,2018,Craven Cottage,22881,25,12,0,10,0,4,45.5,209,315,7,24,0.4,8,5,7,14,13
+Fulham,Leicester City,FALSE,2018,Craven Cottage,22881,13,7,0,8,0,6,54.5,258,385,5,21,0.4,2,5,14,15,25
+Manchester United,Arsenal,FALSE,2018,Old Trafford,74507,9,10,3,4,0,5,55.2,446,545,4,13,0.5,3,6,12,7,21
+Manchester United,Arsenal,TRUE,2018,Old Trafford,74507,10,13,3,4,0,3,44.8,354,447,4,11,0.4,3,8,15,19,18
+Tottenham Hotspur,Southampton,FALSE,2018,Wembley Stadium,33012,18,5,0,6,0,5,47.9,381,473,8,26,0.4,4,10,15,9,21
+Tottenham Hotspur,Southampton,TRUE,2018,Wembley Stadium,33012,13,7,0,8,0,4,52.1,435,527,5,15,0.5,2,6,9,7,29
+Wolverhampton Wanderers,Chelsea,FALSE,2018,Molineux Stadium,31300,17,10,4,5,0,0,70.1,597,678,3,18,0.6,4,10,14,11,18
+Wolverhampton Wanderers,Chelsea,TRUE,2018,Molineux Stadium,31300,6,18,4,1,0,2,29.9,209,284,2,13,0.5,1,12,16,23,18
+AFC Bournemouth,Liverpool,TRUE,2018,Vitality Stadium,10752,8,9,2,6,0,1,40.5,328,424,2,17,0.4,3,10,14,16,16
+AFC Bournemouth,Liverpool,FALSE,2018,Vitality Stadium,10752,10,11,1,6,0,2,59.5,531,634,2,13,0.5,2,6,13,7,18
+Arsenal,Huddersfield Town,TRUE,2018,Emirates Stadium,59893,14,13,5,7,0,0,61.9,424,525,3,16,0.4,4,10,17,11,14
+Arsenal,Huddersfield Town,FALSE,2018,Emirates Stadium,59893,6,20,4,1,0,2,38.1,218,323,4,11,0.5,1,9,16,15,22
+Burnley,Brighton & Hove Albion,FALSE,2018,Turf Moor,18497,14,11,0,7,0,3,62.6,387,515,9,21,0.4,1,6,11,13,20
+Burnley,Brighton & Hove Albion,TRUE,2018,Turf Moor,18497,14,11,2,2,0,1,37.4,200,307,5,15,0.3,6,6,12,11,21
+Cardiff City,Southampton,TRUE,2018,Cardiff City Stadium,30067,13,9,2,7,0,1,36.2,149,248,5,16,0.3,1,7,13,14,28
+Cardiff City,Southampton,FALSE,2018,Cardiff City Stadium,30067,12,10,2,7,0,3,63.8,332,448,4,16,0.4,5,11,17,15,34
+Chelsea,Manchester City,TRUE,2018,Stamford Bridge,40571,8,12,2,1,0,4,38.7,334,410,3,6,0.5,2,14,28,19,31
+Chelsea,Manchester City,FALSE,2018,Stamford Bridge,40571,14,11,0,13,0,3,61.3,563,640,3,23,0.7,4,15,19,8,11
+Leicester City,Tottenham Hotspur,TRUE,2018,King Power Stadium,31957,11,12,3,6,0,0,42.2,327,410,1,23,0.7,3,13,20,13,18
+Leicester City,Tottenham Hotspur,FALSE,2018,King Power Stadium,31957,7,7,1,5,0,3,57.8,466,578,4,14,0.6,1,13,23,15,29
+Manchester United,Fulham,FALSE,2018,Old Trafford,74523,10,15,1,3,1,7,37.3,285,376,1,14,0.4,2,12,18,7,26
+Manchester United,Fulham,TRUE,2018,Old Trafford,74523,20,11,1,10,0,3,62.7,540,625,5,25,0.6,3,6,15,16,15
+West Ham United,Crystal Palace,FALSE,2018,London Stadium,56995,8,8,2,3,0,3,51.7,376,474,3,16,0.4,2,15,19,8,21
+West Ham United,Crystal Palace,TRUE,2018,London Stadium,56995,13,10,1,5,0,2,48.3,348,430,6,24,0.7,2,10,19,13,20
+Newcastle United,Wolverhampton Wanderers,TRUE,2018,St. James' Park,50223,12,10,2,4,1,4,50.4,337,425,9,30,0.4,3,10,13,7,23
+Newcastle United,Wolverhampton Wanderers,FALSE,2018,St. James' Park,50223,13,17,5,6,0,3,49.6,340,425,5,19,0.4,2,9,13,7,30
+Everton,Watford,TRUE,2018,Goodison Park,38400,12,13,1,6,0,2,56.6,320,412,10,24,0.5,2,11,22,8,29
+Everton,Watford,FALSE,2018,Goodison Park,38400,15,13,1,6,0,3,43.4,217,321,2,15,0.4,5,13,25,13,27
+Crystal Palace,Leicester City,TRUE,2018,Selhurst Park,24738,8,10,2,4,0,2,43.3,283,384,2,13,0.4,2,19,27,12,31
+Crystal Palace,Leicester City,FALSE,2018,Selhurst Park,24738,12,8,1,4,0,0,56.7,388,495,5,25,0.6,3,9,24,13,9
+Fulham,West Ham United,TRUE,2018,Craven Cottage,24081,16,14,2,6,0,1,56,399,498,4,26,0.5,3,11,16,5,19
+Fulham,West Ham United,FALSE,2018,Craven Cottage,24081,6,10,1,4,0,4,44,293,391,5,20,0.4,1,15,22,18,36
+Huddersfield Town,Newcastle United,TRUE,2018,John Smith's Stadium,24036,15,5,1,10,0,4,73.5,503,624,12,41,0.6,3,10,19,14,13
+Huddersfield Town,Newcastle United,FALSE,2018,John Smith's Stadium,24036,8,13,1,1,0,5,26.5,129,233,0,4,0.3,1,7,17,16,61
+Manchester City,Everton,FALSE,2018,Etihad Stadium,54173,9,9,2,2,0,3,33,260,335,4,15,0.5,2,6,11,15,19
+Manchester City,Everton,TRUE,2018,Etihad Stadium,54173,13,7,1,6,0,1,67,613,705,3,18,0.6,4,11,15,5,14
+Tottenham Hotspur,Burnley,FALSE,2018,Wembley Stadium,41645,4,8,2,3,0,2,29.7,162,264,3,12,0.4,2,11,23,11,34
+Tottenham Hotspur,Burnley,TRUE,2018,Wembley Stadium,41645,15,7,0,8,0,0,70.3,530,623,5,26,0.5,6,3,7,6,10
+Watford,Cardiff City,FALSE,2018,Vicarage Road,20032,10,5,0,0,0,5,28.5,158,255,3,13,0.4,3,11,17,12,26
+Watford,Cardiff City,TRUE,2018,Vicarage Road,20032,17,7,0,5,0,1,71.5,548,663,1,9,0.5,3,6,13,6,14
+Wolverhampton Wanderers,AFC Bournemouth,FALSE,2018,Molineux Stadium,30997,13,7,2,3,0,2,62.2,535,633,5,19,0.5,5,4,8,11,18
+Wolverhampton Wanderers,AFC Bournemouth,TRUE,2018,Molineux Stadium,30997,10,15,1,5,0,3,37.8,281,389,0,9,0.4,3,13,21,16,25
+Brighton & Hove Albion,Chelsea,TRUE,2018,American Express Stadium,30645,6,14,2,4,0,1,41.7,363,455,4,16,0.6,1,11,24,16,14
+Brighton & Hove Albion,Chelsea,FALSE,2018,American Express Stadium,30645,10,6,2,1,0,1,58.3,573,654,1,7,0.5,3,8,15,11,11
+Liverpool,Manchester United,TRUE,2018,Anfield,52908,36,6,0,13,0,2,64.5,458,562,6,29,0.4,14,8,12,4,9
+Liverpool,Manchester United,FALSE,2018,Anfield,52908,6,14,2,2,0,7,35.5,211,321,1,7,0.3,1,15,27,21,41
+Southampton,Arsenal,FALSE,2018,St. Mary's Stadium,29497,13,10,1,5,0,4,66.2,544,629,4,18,0.6,5,8,15,12,14
+Southampton,Arsenal,TRUE,2018,St. Mary's Stadium,29497,12,12,3,4,0,2,33.8,234,317,4,14,0.2,4,13,20,15,20
+Wolverhampton Wanderers,Liverpool,FALSE,2018,Molineux Stadium,31358,15,3,0,10,0,5,61.7,574,675,2,15,0.6,5,11,16,5,18
+Wolverhampton Wanderers,Liverpool,TRUE,2018,Molineux Stadium,31358,11,7,0,1,0,5,38.3,316,420,2,7,0.5,2,18,26,22,15
+AFC Bournemouth,Brighton & Hove Albion,TRUE,2018,Vitality Stadium,10491,14,8,2,6,0,5,57.2,439,541,5,13,0.4,4,5,11,7,15
+AFC Bournemouth,Brighton & Hove Albion,FALSE,2018,Vitality Stadium,10491,10,18,0,5,1,1,42.8,291,392,4,19,0.5,1,11,19,16,19
+Arsenal,Burnley,TRUE,2018,Emirates Stadium,59493,11,10,2,1,0,1,60.1,476,553,1,5,0.6,4,8,17,8,18
+Arsenal,Burnley,FALSE,2018,Emirates Stadium,59493,7,14,5,3,0,3,39.9,271,357,3,13,0.5,2,10,17,13,12
+Cardiff City,Manchester United,TRUE,2018,Cardiff City Stadium,33028,9,13,2,4,0,4,25.7,137,209,5,16,0.3,1,11,17,13,15
+Cardiff City,Manchester United,FALSE,2018,Cardiff City Stadium,33028,17,13,1,7,0,2,74.3,554,640,2,9,0.5,4,12,17,5,14
+Chelsea,Leicester City,TRUE,2018,Stamford Bridge,40558,17,10,0,9,0,2,72.1,609,693,3,36,0.6,4,12,18,9,13
+Chelsea,Leicester City,FALSE,2018,Stamford Bridge,40558,8,9,2,5,0,5,27.9,179,262,5,20,0.5,3,14,23,17,37
+Huddersfield Town,Southampton,TRUE,2018,John Smith's Stadium,22384,16,12,2,8,0,3,62.3,395,523,8,31,0.4,6,8,16,21,14
+Huddersfield Town,Southampton,FALSE,2018,John Smith's Stadium,22384,13,9,3,2,0,4,37.7,215,329,1,5,0.3,1,9,12,12,46
+Manchester City,Crystal Palace,FALSE,2018,Etihad Stadium,54340,5,6,4,0,0,3,21.7,119,213,1,2,0.2,0,14,23,16,46
+Manchester City,Crystal Palace,TRUE,2018,Etihad Stadium,54340,19,7,0,13,0,0,78.3,649,733,13,45,0.8,5,7,17,6,3
+Newcastle United,Fulham,FALSE,2018,St. James' Park,51237,4,12,2,0,0,0,46.5,362,463,0,6,0.4,2,7,9,10,40
+Newcastle United,Fulham,TRUE,2018,St. James' Park,51237,9,9,1,6,0,2,53.5,405,499,8,36,0.5,4,15,22,7,10
+West Ham United,Watford,FALSE,2018,London Stadium,56833,11,11,2,4,0,7,48.4,278,380,1,10,0.4,5,11,25,14,38
+West Ham United,Watford,TRUE,2018,London Stadium,56833,18,9,3,10,0,3,51.6,291,381,8,32,0.5,6,5,19,13,26
+Everton,Tottenham Hotspur,TRUE,2018,Goodison Park,39319,10,13,0,2,0,2,41.5,313,412,3,18,0.6,2,5,11,15,9
+Everton,Tottenham Hotspur,FALSE,2018,Goodison Park,39319,17,9,2,1,0,1,58.5,503,605,2,3,0.5,2,6,14,10,29
+Brighton & Hove Albion,Arsenal,FALSE,2018,American Express Stadium,30608,7,4,1,9,0,2,68,636,711,2,17,0.5,2,6,7,10,12
+Brighton & Hove Albion,Arsenal,TRUE,2018,American Express Stadium,30608,12,10,2,4,0,3,32,240,324,5,16,0.5,1,12,19,13,22
+Burnley,Everton,TRUE,2018,Turf Moor,21484,11,11,2,5,0,2,49,273,401,5,18,0.4,1,10,17,2,20
+Burnley,Everton,FALSE,2018,Turf Moor,21484,13,19,4,7,0,2,51,301,417,3,19,0.4,4,6,10,6,31
+Crystal Palace,Cardiff City,FALSE,2018,Selhurst Park,25206,9,11,3,1,0,5,37.6,203,303,4,10,0.3,1,6,20,13,47
+Crystal Palace,Cardiff City,TRUE,2018,Selhurst Park,25206,31,9,0,12,0,4,62.4,398,487,5,27,0.6,14,5,10,10,13
+Fulham,Wolverhampton Wanderers,TRUE,2018,Craven Cottage,24382,11,9,2,2,0,4,29.8,202,286,3,12,0.4,1,8,15,16,28
+Fulham,Wolverhampton Wanderers,FALSE,2018,Craven Cottage,24382,14,6,1,0,0,3,70.2,586,685,5,21,0.6,2,15,23,11,4
+Leicester City,Manchester City,TRUE,2018,King Power Stadium,32090,10,5,2,3,0,3,33.9,228,320,2,11,0.4,1,10,22,8,47
+Leicester City,Manchester City,FALSE,2018,King Power Stadium,32090,11,8,2,7,1,3,66.1,532,613,1,35,0.5,3,9,18,5,13
+Liverpool,Newcastle United,TRUE,2018,Anfield,53318,16,7,0,10,0,2,75,629,723,5,26,0.6,4,4,8,9,13
+Liverpool,Newcastle United,FALSE,2018,Anfield,53318,6,10,0,2,0,4,25,146,233,5,14,0.4,0,10,15,15,42
+Manchester United,Huddersfield Town,FALSE,2018,Old Trafford,74523,10,13,1,3,0,7,35.3,245,335,4,15,0.5,1,15,27,21,22
+Manchester United,Huddersfield Town,TRUE,2018,Old Trafford,74523,16,9,1,5,0,1,64.7,529,634,2,13,0.6,4,6,14,12,14
+Tottenham Hotspur,AFC Bournemouth,FALSE,2018,Wembley Stadium,45154,14,8,1,4,0,2,43.3,365,449,6,15,0.6,4,10,16,10,6
+Tottenham Hotspur,AFC Bournemouth,TRUE,2018,Wembley Stadium,45154,10,5,2,3,0,4,56.7,521,599,1,10,0.5,1,8,12,12,16
+Watford,Chelsea,FALSE,2018,Vicarage Road,20415,10,5,0,4,0,1,65,646,729,2,11,0.5,1,4,12,3,13
+Watford,Chelsea,TRUE,2018,Vicarage Road,20415,11,15,1,3,0,2,35,305,392,5,11,0.4,3,12,18,12,12
+Southampton,West Ham United,TRUE,2018,St. Mary's Stadium,31654,11,10,2,4,0,3,45.8,314,409,3,17,0.4,3,16,25,12,31
+Southampton,West Ham United,FALSE,2018,St. Mary's Stadium,31654,16,3,0,6,0,4,54.2,376,487,2,16,0.5,5,17,20,13,20
+Brighton & Hove Albion,Everton,TRUE,2018,American Express Stadium,30597,11,10,0,6,0,4,44.8,246,349,6,17,0.4,5,12,23,6,36
+Brighton & Hove Albion,Everton,FALSE,2018,American Express Stadium,30597,13,11,2,6,0,2,55.2,313,427,7,20,0.3,3,9,16,8,19
+Fulham,Huddersfield Town,TRUE,2018,Craven Cottage,24423,14,12,3,4,0,5,43.5,295,395,6,22,0.5,2,8,8,10,26
+Fulham,Huddersfield Town,FALSE,2018,Craven Cottage,24423,9,10,1,3,0,4,56.5,418,529,3,17,0.4,3,4,9,12,18
+Leicester City,Cardiff City,FALSE,2018,King Power Stadium,32047,12,16,2,5,0,7,37.8,188,273,3,16,0.4,6,8,15,17,34
+Leicester City,Cardiff City,TRUE,2018,King Power Stadium,32047,16,14,0,10,0,2,62.2,341,448,1,25,0.4,6,8,19,6,27
+Liverpool,Arsenal,FALSE,2018,Anfield,53326,8,13,2,3,0,5,52.1,464,551,1,10,0.5,3,11,17,12,14
+Liverpool,Arsenal,TRUE,2018,Anfield,53326,15,8,1,5,0,1,47.9,424,511,2,8,0.5,2,13,17,8,15
+Tottenham Hotspur,Wolverhampton Wanderers,TRUE,2018,Wembley Stadium,46356,10,7,3,6,0,1,60.8,587,664,1,14,0.4,3,7,18,4,18
+Tottenham Hotspur,Wolverhampton Wanderers,FALSE,2018,Wembley Stadium,46356,11,7,2,7,0,2,39.2,330,413,6,24,0.4,3,11,18,12,14
+Watford,Newcastle United,FALSE,2018,Vicarage Road,20336,8,16,2,6,0,4,37.3,233,326,4,25,0.5,2,20,22,18,34
+Watford,Newcastle United,TRUE,2018,Vicarage Road,20336,12,17,1,3,0,1,62.7,484,566,1,22,0.7,5,4,7,7,28
+Burnley,West Ham United,TRUE,2018,Turf Moor,20933,17,15,1,5,0,4,43,248,338,10,19,0.5,3,13,21,12,33
+Burnley,West Ham United,FALSE,2018,Turf Moor,20933,11,11,4,5,0,3,57,340,453,3,17,0.4,5,8,16,2,18
+Crystal Palace,Chelsea,FALSE,2018,Selhurst Park,25781,12,8,1,4,0,0,65.8,690,781,3,16,0.7,4,5,13,17,17
+Crystal Palace,Chelsea,TRUE,2018,Selhurst Park,25781,4,11,0,3,0,3,34.2,305,394,2,14,0.4,2,6,13,15,24
+Manchester United,AFC Bournemouth,FALSE,2018,Old Trafford,74556,7,7,0,5,0,4,35.1,284,355,2,13,0.4,2,6,8,5,19
+Manchester United,AFC Bournemouth,TRUE,2018,Old Trafford,74556,11,10,2,4,1,2,64.9,618,681,2,11,0.6,3,9,12,7,20
+Southampton,Manchester City,FALSE,2018,St. Mary's Stadium,31381,14,10,3,8,0,3,76.6,698,783,3,18,0.6,4,9,12,7,19
+Southampton,Manchester City,TRUE,2018,St. Mary's Stadium,31381,5,11,2,3,1,4,23.4,157,235,2,10,0.4,0,17,25,13,33
+Arsenal,Fulham,TRUE,2018,Emirates Stadium,59887,16,7,0,9,0,3,59.6,427,542,3,16,0.4,3,10,15,12,16
+Arsenal,Fulham,FALSE,2018,Emirates Stadium,59887,9,12,1,3,0,4,40.4,271,365,4,14,0.3,1,11,18,12,33
+Cardiff City,Tottenham Hotspur,TRUE,2018,Cardiff City Stadium,32485,5,6,1,5,0,1,26.9,216,290,4,18,0.5,0,8,14,10,14
+Cardiff City,Tottenham Hotspur,FALSE,2018,Cardiff City Stadium,32485,13,6,0,3,0,3,73.1,747,823,2,8,0.6,3,4,9,4,24
+Everton,Leicester City,TRUE,2018,Goodison Park,39052,17,5,3,6,0,3,59.6,389,525,7,30,0.5,8,13,18,12,13
+Everton,Leicester City,FALSE,2018,Goodison Park,39052,8,8,1,5,0,2,40.4,241,366,3,13,0.3,1,14,26,13,34
+AFC Bournemouth,Watford,TRUE,2018,Vitality Stadium,10261,25,9,1,4,0,0,57,372,491,7,15,0.5,5,10,15,9,16
+AFC Bournemouth,Watford,FALSE,2018,Vitality Stadium,10261,11,15,4,2,0,9,43,266,379,1,6,0.4,2,11,17,11,23
+Chelsea,Southampton,TRUE,2018,Stamford Bridge,40668,17,8,1,7,0,2,71.6,634,748,5,23,0.5,9,8,18,4,20
+Chelsea,Southampton,FALSE,2018,Stamford Bridge,40668,6,11,2,2,0,6,28.4,195,296,3,12,0.3,1,13,20,26,42
+Huddersfield Town,Burnley,FALSE,2018,John Smith's Stadium,23715,16,9,4,2,1,2,57.1,375,483,6,19,0.4,1,6,10,14,31
+Huddersfield Town,Burnley,TRUE,2018,John Smith's Stadium,23715,9,11,0,5,1,6,42.9,234,361,4,18,0.4,4,11,18,17,20
+Newcastle United,Manchester United,FALSE,2018,St. James' Park,52217,16,9,2,2,0,3,65.1,593,687,1,5,0.6,3,10,15,10,22
+Newcastle United,Manchester United,TRUE,2018,St. James' Park,52217,14,10,1,1,0,5,34.9,251,350,4,21,0.3,3,16,28,9,13
+West Ham United,Brighton & Hove Albion,FALSE,2018,London Stadium,59870,13,11,1,5,0,4,45.7,310,410,8,18,0.4,5,7,17,12,16
+West Ham United,Brighton & Hove Albion,TRUE,2018,London Stadium,59870,13,9,0,1,0,4,54.3,388,494,2,14,0.5,1,6,10,12,10
+Wolverhampton Wanderers,Crystal Palace,FALSE,2018,Molineux Stadium,30666,17,7,1,10,0,1,48.1,385,480,0,21,0.3,7,10,19,12,9
+Wolverhampton Wanderers,Crystal Palace,TRUE,2018,Molineux Stadium,30666,9,9,4,3,0,2,51.9,431,527,2,13,0.6,3,11,26,9,40
+Manchester City,Liverpool,FALSE,2018,Etihad Stadium,54511,7,7,2,1,0,2,50.4,461,583,4,13,0.5,0,9,18,10,21
+Manchester City,Liverpool,TRUE,2018,Etihad Stadium,54511,9,12,4,2,0,3,49.6,468,578,1,11,0.5,1,11,14,14,31
+Brighton & Hove Albion,Liverpool,TRUE,2018,American Express Stadium,30682,7,15,0,2,0,2,29.1,205,301,4,14,0.4,2,7,12,13,17
+Brighton & Hove Albion,Liverpool,FALSE,2018,American Express Stadium,30682,10,5,0,7,0,0,70.9,642,755,6,16,0.4,2,7,10,6,14
+Burnley,Fulham,TRUE,2018,Turf Moor,19316,11,5,1,2,0,2,41.8,282,419,4,12,0.4,5,15,22,13,28
+Burnley,Fulham,FALSE,2018,Turf Moor,19316,12,9,2,6,0,0,58.2,454,564,7,33,0.4,4,7,10,13,23
+Cardiff City,Huddersfield Town,TRUE,2018,Cardiff City Stadium,30725,3,12,3,3,0,3,38.9,155,270,2,15,0.4,3,4,13,19,26
+Cardiff City,Huddersfield Town,FALSE,2018,Cardiff City Stadium,30725,14,14,1,10,0,0,61.1,297,425,8,23,0.4,8,7,13,13,25
+Chelsea,Newcastle United,TRUE,2018,Stamford Bridge,40491,10,6,1,8,0,1,65.9,596,698,3,15,0.6,2,13,18,13,15
+Chelsea,Newcastle United,FALSE,2018,Stamford Bridge,40491,9,13,1,5,0,4,34.1,261,351,5,17,0.4,1,15,22,19,20
+Crystal Palace,Watford,TRUE,2018,Selhurst Park,25010,15,11,1,7,0,0,55.3,310,409,8,24,0.4,3,18,31,4,25
+Crystal Palace,Watford,FALSE,2018,Selhurst Park,25010,16,11,4,7,0,6,44.7,260,334,3,16,0.5,5,7,15,15,38
+Leicester City,Southampton,TRUE,2018,King Power Stadium,31491,23,7,2,10,0,1,71.7,438,552,7,43,0.6,9,6,10,11,6
+Leicester City,Southampton,FALSE,2018,King Power Stadium,31491,8,9,1,3,1,4,28.3,127,227,5,7,0.2,2,14,17,20,59
+West Ham United,Arsenal,FALSE,2018,London Stadium,59946,11,10,2,3,0,2,58.6,479,555,2,8,0.6,1,8,16,11,11
+West Ham United,Arsenal,TRUE,2018,London Stadium,59946,11,7,0,7,0,3,41.4,307,380,4,20,0.5,1,6,11,17,11
+Everton,AFC Bournemouth,FALSE,2018,Goodison Park,38113,16,8,0,9,0,0,49.1,261,378,7,23,0.4,2,8,14,6,21
+Everton,AFC Bournemouth,TRUE,2018,Goodison Park,38113,15,17,5,5,0,7,50.9,296,396,8,20,0.5,4,11,19,14,30
+Tottenham Hotspur,Manchester United,FALSE,2018,Wembley Stadium,80062,13,8,2,4,0,11,38.8,268,363,2,10,0.4,2,8,15,7,25
+Tottenham Hotspur,Manchester United,TRUE,2018,Wembley Stadium,80062,21,8,1,7,0,7,61.2,475,567,10,21,0.4,4,11,19,6,18
+Manchester City,Wolverhampton Wanderers,TRUE,2018,Etihad Stadium,54171,24,6,1,12,0,0,76.1,803,872,5,31,0.7,8,8,10,9,6
+Manchester City,Wolverhampton Wanderers,FALSE,2018,Etihad Stadium,54171,3,3,0,1,1,7,23.9,190,283,0,1,0.3,2,8,18,10,31
+AFC Bournemouth,West Ham United,TRUE,2018,Vitality Stadium,10495,10,6,0,2,0,1,38.5,274,359,2,18,0.4,1,12,24,11,27
+AFC Bournemouth,West Ham United,FALSE,2018,Vitality Stadium,10495,9,10,1,3,0,3,61.5,485,582,4,22,0.6,2,9,13,11,16
+Arsenal,Chelsea,TRUE,2018,Emirates Stadium,59979,13,13,0,5,0,1,35.7,267,355,9,14,0.5,1,22,35,20,39
+Arsenal,Chelsea,FALSE,2018,Emirates Stadium,59979,13,15,2,6,0,3,64.3,565,647,3,24,0.8,3,8,13,14,9
+Liverpool,Crystal Palace,FALSE,2018,Anfield,53171,9,8,1,3,0,5,29.4,212,304,3,10,0.4,3,17,23,11,37
+Liverpool,Crystal Palace,TRUE,2018,Anfield,53171,19,6,0,8,1,0,70.6,633,734,8,22,0.6,3,12,19,3,16
+Manchester United,Brighton & Hove Albion,FALSE,2018,Old Trafford,74532,7,11,0,5,0,4,44,310,391,6,23,0.6,1,10,17,13,18
+Manchester United,Brighton & Hove Albion,TRUE,2018,Old Trafford,74532,20,11,1,6,0,2,56,431,507,3,16,0.6,6,9,12,5,17
+Newcastle United,Cardiff City,FALSE,2018,St. James' Park,49864,9,6,1,10,0,3,46.5,213,325,3,22,0.4,3,19,25,10,17
+Newcastle United,Cardiff City,TRUE,2018,St. James' Park,49864,16,11,0,7,0,1,53.5,284,375,5,27,0.5,5,8,17,13,29
+Southampton,Everton,FALSE,2018,St. Mary's Stadium,29989,7,11,1,6,0,3,60.6,348,473,5,21,0.4,4,15,21,12,14
+Southampton,Everton,TRUE,2018,St. Mary's Stadium,29989,11,12,2,7,0,1,39.4,206,302,6,20,0.3,3,15,20,21,41
+Watford,Burnley,FALSE,2018,Vicarage Road,19510,12,9,2,7,0,4,45.2,210,330,7,25,0.4,2,5,12,9,18
+Watford,Burnley,TRUE,2018,Vicarage Road,19510,9,14,1,1,0,3,54.8,309,412,4,14,0.4,2,14,17,10,35
+Wolverhampton Wanderers,Leicester City,FALSE,2018,Molineux Stadium,31278,16,10,3,9,0,3,54.4,327,447,3,22,0.4,5,5,14,10,19
+Wolverhampton Wanderers,Leicester City,TRUE,2018,Molineux Stadium,31278,12,11,3,5,0,4,45.6,269,381,4,18,0.4,2,10,20,13,30
+Fulham,Tottenham Hotspur,TRUE,2018,Craven Cottage,24807,12,10,2,7,0,3,26.8,169,245,5,17,0.5,3,7,13,15,37
+Fulham,Tottenham Hotspur,FALSE,2018,Craven Cottage,24807,14,8,3,10,0,4,73.2,575,682,10,32,0.6,3,10,13,8,17
+Huddersfield Town,Manchester City,TRUE,2018,John Smith's Stadium,24190,5,10,2,1,0,1,32.4,249,345,2,14,0.4,0,11,22,11,21
+Huddersfield Town,Manchester City,FALSE,2018,John Smith's Stadium,24190,12,9,2,4,0,2,67.6,641,734,5,11,0.6,2,10,13,11,12
+Arsenal,Cardiff City,TRUE,2018,Emirates Stadium,59933,15,14,3,4,0,1,70.9,507,590,2,11,0.5,6,8,13,7,25
+Arsenal,Cardiff City,FALSE,2018,Emirates Stadium,59933,19,12,3,7,0,2,29.1,160,232,7,16,0.5,8,9,16,11,25
+Fulham,Brighton & Hove Albion,FALSE,2018,Craven Cottage,22008,15,5,3,1,0,3,38.1,287,382,7,22,0.5,5,4,14,14,31
+Fulham,Brighton & Hove Albion,TRUE,2018,Craven Cottage,22008,24,10,2,10,0,4,61.9,529,623,8,33,0.5,7,5,6,11,27
+Huddersfield Town,Everton,FALSE,2018,John Smith's Stadium,23699,10,10,4,4,1,2,41.6,284,400,4,9,0.4,1,16,25,15,25
+Huddersfield Town,Everton,TRUE,2018,John Smith's Stadium,23699,10,13,1,3,0,4,58.4,434,548,6,26,0.4,2,10,17,10,8
+Manchester United,Burnley,FALSE,2018,Old Trafford,74529,6,9,3,3,0,7,25.6,140,228,2,7,0.3,2,5,13,12,54
+Manchester United,Burnley,TRUE,2018,Old Trafford,74529,28,10,1,11,0,2,74.4,568,650,6,34,0.7,8,2,3,9,16
+Newcastle United,Manchester City,FALSE,2018,St. James' Park,50861,12,7,3,8,0,0,76.2,682,767,1,21,0.6,5,11,22,6,11
+Newcastle United,Manchester City,TRUE,2018,St. James' Park,50861,7,9,2,1,0,2,23.8,151,239,1,6,0.3,2,11,20,16,28
+Wolverhampton Wanderers,West Ham United,FALSE,2018,Molineux Stadium,31122,4,10,1,1,0,6,45.3,298,400,1,6,0.5,1,5,15,9,23
+Wolverhampton Wanderers,West Ham United,TRUE,2018,Molineux Stadium,31122,20,8,4,5,0,0,54.7,381,477,8,13,0.6,7,15,24,17,13
+AFC Bournemouth,Chelsea,TRUE,2018,Vitality Stadium,10227,12,8,1,3,0,7,32.1,258,338,3,8,0.4,3,6,10,13,42
+AFC Bournemouth,Chelsea,FALSE,2018,Vitality Stadium,10227,11,6,0,7,0,3,67.9,644,716,3,33,0.6,2,6,13,9,7
+Liverpool,Leicester City,FALSE,2018,Anfield,53092,5,6,3,1,0,2,27.9,196,301,3,13,0.3,1,15,19,16,48
+Liverpool,Leicester City,TRUE,2018,Anfield,53092,10,13,1,7,0,2,72.1,677,779,5,23,0.5,2,9,15,14,15
+Southampton,Crystal Palace,FALSE,2018,St. Mary's Stadium,28339,15,8,2,8,1,3,41.2,268,371,4,17,0.3,3,16,23,8,21
+Southampton,Crystal Palace,TRUE,2018,St. Mary's Stadium,28339,13,11,2,3,0,1,58.8,436,532,5,21,0.5,4,15,24,9,19
+Tottenham Hotspur,Watford,TRUE,2018,Wembley Stadium,29164,17,6,0,9,0,0,68.5,503,588,6,42,0.7,8,10,16,5,18
+Tottenham Hotspur,Watford,FALSE,2018,Wembley Stadium,29164,9,9,4,5,0,4,31.5,183,274,0,14,0.3,3,12,18,9,36
+Brighton & Hove Albion,Watford,TRUE,2018,American Express Stadium,30414,21,15,1,7,0,0,55.1,350,456,11,27,0.5,4,8,21,20,19
+Brighton & Hove Albion,Watford,FALSE,2018,American Express Stadium,30414,5,10,0,0,0,4,44.9,269,383,2,12,0.2,0,11,27,17,32
+Burnley,Southampton,TRUE,2018,Turf Moor,19787,15,10,3,4,0,3,54.2,315,457,8,28,0.4,6,3,11,3,11
+Burnley,Southampton,FALSE,2018,Turf Moor,19787,10,9,1,2,0,5,45.8,268,404,4,8,0.3,3,12,17,7,32
+Cardiff City,AFC Bournemouth,FALSE,2018,Cardiff City Stadium,31939,9,14,2,7,0,3,73.1,511,615,6,21,0.6,2,4,13,5,20
+Cardiff City,AFC Bournemouth,TRUE,2018,Cardiff City Stadium,31939,12,17,1,6,0,2,26.9,134,218,2,17,0.4,7,9,17,18,30
+Chelsea,Huddersfield Town,TRUE,2018,Stamford Bridge,40626,23,8,0,11,0,2,65,651,737,6,18,0.8,8,21,27,7,7
+Chelsea,Huddersfield Town,FALSE,2018,Stamford Bridge,40626,5,5,0,2,0,2,35,320,395,3,11,0.5,2,8,13,13,21
+Crystal Palace,Fulham,TRUE,2018,Selhurst Park,25355,17,9,2,11,0,0,37.3,263,346,7,27,0.3,6,9,24,11,29
+Crystal Palace,Fulham,FALSE,2018,Selhurst Park,25355,8,12,3,1,0,4,62.7,521,608,6,21,0.6,1,11,15,9,27
+Everton,Wolverhampton Wanderers,TRUE,2018,Goodison Park,39380,13,12,3,3,0,1,64,430,534,2,17,0.6,7,12,18,9,4
+Everton,Wolverhampton Wanderers,FALSE,2018,Goodison Park,39380,8,14,1,1,0,3,36,205,306,0,3,0.4,2,9,17,19,20
+Tottenham Hotspur,Newcastle United,FALSE,2018,Wembley Stadium,41219,8,6,1,3,0,1,28.4,198,295,4,11,0.5,3,10,17,15,41
+Tottenham Hotspur,Newcastle United,TRUE,2018,Wembley Stadium,41219,21,6,0,6,0,2,71.6,649,744,10,38,0.7,9,5,10,7,14
+Leicester City,Manchester United,TRUE,2018,King Power Stadium,32148,17,14,4,7,0,5,44.8,327,418,8,23,0.5,3,7,12,12,15
+Leicester City,Manchester United,FALSE,2018,King Power Stadium,32148,10,9,4,2,0,6,55.2,432,532,4,10,0.6,2,11,16,15,22
+Manchester City,Arsenal,FALSE,2018,Etihad Stadium,54483,4,8,1,2,0,9,41.2,339,432,1,7,0.3,2,5,9,16,26
+Manchester City,Arsenal,TRUE,2018,Etihad Stadium,54483,19,11,1,4,0,1,58.8,537,613,2,18,0.7,4,7,13,10,16
+West Ham United,Liverpool,FALSE,2018,London Stadium,59903,11,11,1,5,0,1,73.3,583,690,4,18,0.5,2,7,16,3,17
+West Ham United,Liverpool,TRUE,2018,London Stadium,59903,13,9,1,2,0,5,26.7,159,245,2,11,0.3,4,8,18,13,27
+Everton,Manchester City,TRUE,2018,Goodison Park,39322,4,12,1,5,0,2,38.8,251,336,1,18,0.4,3,19,27,11,23
+Everton,Manchester City,FALSE,2018,Goodison Park,39322,15,6,1,6,0,1,61.2,467,546,3,10,0.6,7,9,20,9,25
+Brighton & Hove Albion,Burnley,TRUE,2018,American Express Stadium,29323,16,8,1,9,0,2,68.2,410,519,10,41,0.5,6,5,11,11,7
+Brighton & Hove Albion,Burnley,FALSE,2018,American Express Stadium,29323,9,7,1,3,0,5,31.8,149,253,2,8,0.3,2,5,11,6,53
+Crystal Palace,West Ham United,TRUE,2018,Selhurst Park,25552,25,12,3,10,0,3,57.2,396,482,9,29,0.5,10,5,17,12,19
+Crystal Palace,West Ham United,FALSE,2018,Selhurst Park,25552,6,9,0,4,0,4,42.8,276,371,5,18,0.5,2,10,22,12,34
+Fulham,Manchester United,TRUE,2018,Craven Cottage,25001,15,14,3,5,0,4,51.2,392,503,4,22,0.3,5,10,19,17,19
+Fulham,Manchester United,FALSE,2018,Craven Cottage,25001,15,9,2,4,0,3,48.8,378,483,1,19,0.5,4,4,11,4,28
+Huddersfield Town,Arsenal,FALSE,2018,John Smith's Stadium,24182,9,12,2,0,0,5,45.4,295,410,2,6,0.5,1,14,18,21,28
+Huddersfield Town,Arsenal,TRUE,2018,John Smith's Stadium,24182,16,17,3,5,0,2,54.6,382,482,1,25,0.5,3,15,26,21,8
+Liverpool,AFC Bournemouth,FALSE,2018,Anfield,53178,12,6,2,5,0,6,34.4,279,363,4,14,0.3,5,7,13,15,28
+Liverpool,AFC Bournemouth,TRUE,2018,Anfield,53178,20,14,2,8,0,2,65.6,627,707,3,17,0.7,5,12,23,10,23
+Southampton,Cardiff City,FALSE,2018,St. Mary's Stadium,31438,6,12,3,2,0,6,33.3,156,267,3,14,0.3,0,10,17,9,25
+Southampton,Cardiff City,TRUE,2018,St. Mary's Stadium,31438,14,15,3,8,0,1,66.7,428,539,4,20,0.3,2,15,20,7,23
+Watford,Everton,FALSE,2018,Vicarage Road,20333,9,10,0,2,1,1,56,317,425,5,15,0.6,1,15,22,11,35
+Watford,Everton,TRUE,2018,Vicarage Road,20333,7,21,2,8,0,4,44,220,327,2,19,0.3,2,14,22,12,28
+Manchester City,Chelsea,FALSE,2018,Etihad Stadium,54452,12,13,2,2,0,3,44.2,473,535,1,10,0.6,5,15,22,6,11
+Manchester City,Chelsea,TRUE,2018,Etihad Stadium,54452,15,9,1,2,0,4,55.8,631,681,3,6,0.7,1,6,12,10,22
+Tottenham Hotspur,Leicester City,FALSE,2018,Wembley Stadium,44154,20,4,1,9,0,2,46.9,352,437,12,22,0.6,2,8,12,15,19
+Tottenham Hotspur,Leicester City,TRUE,2018,Wembley Stadium,44154,12,11,3,2,0,9,53.1,420,499,3,16,0.5,5,8,14,12,9
+Wolverhampton Wanderers,Newcastle United,FALSE,2018,Molineux Stadium,30687,9,9,3,1,0,5,40.5,322,434,4,12,0.4,4,11,21,18,30
+Wolverhampton Wanderers,Newcastle United,TRUE,2018,Molineux Stadium,30687,22,7,1,13,0,2,59.5,502,623,9,30,0.6,8,8,15,13,13
+Cardiff City,Watford,TRUE,2018,Cardiff City Stadium,30387,15,10,1,3,0,2,35.4,207,313,3,12,0.4,4,10,23,17,16
+Cardiff City,Watford,FALSE,2018,Cardiff City Stadium,30387,12,11,2,3,0,4,64.6,474,579,2,9,0.5,1,8,14,9,35
+West Ham United,Fulham,FALSE,2018,London Stadium,59950,8,11,1,0,0,4,44.9,390,473,2,8,0.5,1,11,18,13,32
+West Ham United,Fulham,TRUE,2018,London Stadium,59950,21,11,1,12,0,4,55.1,455,553,10,34,0.6,5,11,23,11,10
+AFC Bournemouth,Wolverhampton Wanderers,TRUE,2018,Vitality Stadium,10671,9,10,4,13,0,0,44,0,0,0,0,0,0,0,0,0,0
+AFC Bournemouth,Wolverhampton Wanderers,FALSE,2018,Vitality Stadium,10671,10,15,5,19,0,0,55,0,0,0,0,0,0,0,0,0,0
+Burnley,Tottenham Hotspur,TRUE,2018,Turf Moor,21338,10,9,1,7,0,5,30.5,133,214,3,23,0.5,3,7,12,11,42
+Burnley,Tottenham Hotspur,FALSE,2018,Turf Moor,21338,17,12,3,6,0,2,69.5,400,504,6,26,0.4,6,10,16,5,22
+Leicester City,Crystal Palace,FALSE,2018,King Power Stadium,31778,7,14,1,3,0,4,34.6,210,289,1,6,0.4,0,7,15,15,37
+Leicester City,Crystal Palace,TRUE,2018,King Power Stadium,31778,27,7,2,8,0,1,65.4,459,541,9,29,0.6,12,16,19,9,14
+Newcastle United,Huddersfield Town,FALSE,2018,St. James' Park,52174,3,7,0,0,1,10,45.7,378,480,3,6,0.4,2,5,10,10,30
+Newcastle United,Huddersfield Town,TRUE,2018,St. James' Park,52174,29,11,2,12,0,0,54.3,455,549,10,32,0.6,6,9,13,13,9
+Arsenal,Southampton,TRUE,2018,Emirates Stadium,59877,12,7,0,6,0,4,62.1,477,582,3,20,0.6,4,9,14,11,21
+Arsenal,Southampton,FALSE,2018,Emirates Stadium,59877,10,14,0,4,0,3,37.9,244,346,5,21,0.3,3,11,16,19,27
+Manchester United,Liverpool,FALSE,2018,Old Trafford,74519,7,17,3,7,0,3,64.6,478,565,3,26,0.6,2,12,19,5,9
+Manchester United,Liverpool,TRUE,2018,Old Trafford,74519,6,15,1,3,0,1,35.4,233,317,2,7,0.5,2,9,18,11,28
+Cardiff City,Everton,TRUE,2018,Cardiff City Stadium,31849,6,12,3,3,0,1,32.8,145,257,4,12,0.3,1,17,23,13,28
+Cardiff City,Everton,FALSE,2018,Cardiff City Stadium,31849,12,12,1,4,0,0,67.2,425,534,2,16,0.4,3,7,10,6,33
+Huddersfield Town,Wolverhampton Wanderers,TRUE,2018,John Smith's Stadium,22714,15,10,2,3,0,0,49.9,344,445,3,22,0.4,3,16,21,13,17
+Huddersfield Town,Wolverhampton Wanderers,FALSE,2018,John Smith's Stadium,22714,7,10,2,5,0,2,50.1,355,461,3,10,0.5,2,10,20,13,16
+Leicester City,Brighton & Hove Albion,FALSE,2018,King Power Stadium,30558,15,4,1,8,0,1,50.9,361,444,5,31,0.5,3,2,6,7,12
+Leicester City,Brighton & Hove Albion,TRUE,2018,King Power Stadium,30558,19,6,1,4,0,2,49.1,369,446,3,12,0.5,7,10,14,8,33
+Newcastle United,Burnley,FALSE,2018,St. James' Park,48323,12,8,3,7,0,2,45.7,244,367,5,18,0.4,4,14,25,8,19
+Newcastle United,Burnley,TRUE,2018,St. James' Park,48323,13,8,1,4,0,2,54.3,331,445,4,17,0.4,1,12,19,5,35
+Arsenal,AFC Bournemouth,FALSE,2018,Emirates Stadium,59618,13,9,2,4,0,2,35.2,278,346,5,16,0.5,5,8,16,7,20
+Arsenal,AFC Bournemouth,TRUE,2018,Emirates Stadium,59618,16,11,2,9,0,4,64.8,580,650,3,16,0.6,5,6,7,8,18
+Chelsea,Tottenham Hotspur,TRUE,2018,Stamford Bridge,40542,11,7,1,2,0,0,46.5,391,480,2,12,0.5,2,17,27,13,21
+Chelsea,Tottenham Hotspur,FALSE,2018,Stamford Bridge,40542,9,14,1,2,0,0,53.5,473,546,3,17,0.5,4,13,23,11,23
+Crystal Palace,Manchester United,TRUE,2018,Selhurst Park,25754,17,8,2,5,0,1,45.5,299,374,11,22,0.4,4,9,18,13,14
+Crystal Palace,Manchester United,FALSE,2018,Selhurst Park,25754,13,9,3,6,0,2,54.5,378,468,5,12,0.6,4,12,21,7,19
+Liverpool,Watford,TRUE,2018,Anfield,53316,19,5,0,7,0,3,61.6,534,627,6,21,0.7,5,12,16,10,18
+Liverpool,Watford,FALSE,2018,Anfield,53316,5,7,2,4,0,5,38.4,300,392,0,9,0.3,1,11,27,11,37
+Manchester City,West Ham United,TRUE,2018,Etihad Stadium,53528,20,2,0,13,0,1,75.6,683,780,6,30,0.5,3,10,14,8,9
+Manchester City,West Ham United,FALSE,2018,Etihad Stadium,53528,2,6,2,2,0,5,24.4,177,255,2,7,0.5,0,4,14,18,31
+Southampton,Fulham,FALSE,2018,St. Mary's Stadium,27597,14,13,1,4,0,2,59.1,450,566,1,11,0.4,6,10,15,9,19
+Southampton,Fulham,TRUE,2018,St. Mary's Stadium,27597,14,15,0,7,0,4,40.9,295,380,3,19,0.4,3,15,22,10,25
+AFC Bournemouth,Manchester City,TRUE,2018,Vitality Stadium,10699,0,7,1,0,0,8,18,101,176,0,2,0.3,0,6,14,16,38
+AFC Bournemouth,Manchester City,FALSE,2018,Vitality Stadium,10699,23,7,2,14,0,0,82,733,809,5,28,0.7,6,4,9,6,11
+Brighton & Hove Albion,Huddersfield Town,TRUE,2018,American Express Stadium,30182,14,11,2,6,0,4,52.7,368,455,7,19,0.6,4,14,22,10,20
+Brighton & Hove Albion,Huddersfield Town,FALSE,2018,American Express Stadium,30182,6,6,2,3,0,2,47.3,317,413,1,15,0.5,2,12,21,14,19
+Burnley,Crystal Palace,TRUE,2018,Turf Moor,19223,18,9,1,8,0,2,56.3,318,422,10,40,0.5,4,8,16,7,13
+Burnley,Crystal Palace,FALSE,2018,Turf Moor,19223,10,9,2,5,0,3,43.7,230,348,2,11,0.2,2,11,17,5,49
+Manchester United,Southampton,TRUE,2018,Old Trafford,74459,16,7,2,9,0,1,64.2,409,511,7,23,0.4,1,5,9,7,16
+Manchester United,Southampton,FALSE,2018,Old Trafford,74459,9,10,1,7,0,3,35.8,184,282,4,19,0.3,2,11,20,13,33
+Tottenham Hotspur,Arsenal,FALSE,2018,Wembley Stadium,81332,9,14,2,4,1,2,39.8,212,334,1,13,0.4,3,11,23,14,20
+Tottenham Hotspur,Arsenal,TRUE,2018,Wembley Stadium,81332,11,15,3,3,0,2,60.2,394,508,6,15,0.4,1,12,14,8,12
+West Ham United,Newcastle United,FALSE,2018,London Stadium,59910,17,14,4,6,0,2,44.2,335,422,2,18,0.5,9,14,21,9,11
+West Ham United,Newcastle United,TRUE,2018,London Stadium,59910,10,8,3,1,0,2,55.8,447,538,4,13,0.6,3,11,26,8,14
+Wolverhampton Wanderers,Cardiff City,FALSE,2018,Molineux Stadium,31309,12,6,2,8,0,4,43.7,242,354,8,20,0.3,4,10,17,17,11
+Wolverhampton Wanderers,Cardiff City,TRUE,2018,Molineux Stadium,31309,13,11,1,7,0,3,56.3,378,473,4,12,0.5,2,11,20,8,38
+Everton,Liverpool,TRUE,2018,Goodison Park,39335,7,12,1,3,0,3,42.2,216,343,7,20,0.3,1,14,19,14,27
+Everton,Liverpool,FALSE,2018,Goodison Park,39335,10,10,2,7,0,3,57.8,358,474,5,21,0.4,4,13,18,13,34
+Fulham,Chelsea,FALSE,2018,Craven Cottage,24900,20,10,1,4,0,4,64,628,694,3,11,0.7,8,11,15,10,11
+Fulham,Chelsea,TRUE,2018,Craven Cottage,24900,12,11,2,5,0,5,36,309,384,4,16,0.5,3,10,14,18,17
+Watford,Leicester City,FALSE,2018,Vicarage Road,20062,14,12,1,5,0,3,61,481,576,7,22,0.6,6,9,13,9,19
+Watford,Leicester City,TRUE,2018,Vicarage Road,20062,6,15,5,1,0,1,39,289,371,1,12,0.4,1,9,15,13,34
+Cardiff City,West Ham United,TRUE,2018,Cardiff City Stadium,32458,16,7,2,7,0,2,29.3,146,226,5,16,0.2,3,9,13,16,17
+Cardiff City,West Ham United,FALSE,2018,Cardiff City Stadium,32458,9,12,1,5,0,5,70.7,456,565,1,13,0.4,2,14,21,7,22
+Crystal Palace,Brighton & Hove Albion,FALSE,2018,Selhurst Park,24972,4,18,5,0,0,2,37.3,258,358,2,4,0.4,0,21,26,17,30
+Crystal Palace,Brighton & Hove Albion,TRUE,2018,Selhurst Park,24972,15,8,1,8,0,1,62.7,474,579,5,26,0.4,7,12,28,6,10
+Huddersfield Town,AFC Bournemouth,FALSE,2018,John Smith's Stadium,22304,8,9,1,5,0,1,43.5,259,372,3,9,0.3,0,13,19,8,36
+Huddersfield Town,AFC Bournemouth,TRUE,2018,John Smith's Stadium,22304,8,14,3,6,0,2,56.5,363,462,4,31,0.5,4,12,18,13,9
+Leicester City,Fulham,FALSE,2018,King Power Stadium,32017,6,13,2,5,0,5,47.2,378,464,1,14,0.5,2,18,26,19,17
+Leicester City,Fulham,TRUE,2018,King Power Stadium,32017,18,9,0,6,0,2,52.8,444,521,3,16,0.6,2,15,24,12,19
+Manchester City,Watford,TRUE,2018,Etihad Stadium,54104,19,11,1,9,0,0,71.1,662,727,4,22,0.5,3,4,7,11,9
+Manchester City,Watford,FALSE,2018,Etihad Stadium,54104,2,7,1,1,0,5,28.9,210,298,1,5,0.4,1,11,18,5,36
+Newcastle United,Everton,FALSE,2018,St. James' Park,52242,7,10,1,2,0,4,54.5,332,443,2,20,0.4,2,14,20,13,26
+Newcastle United,Everton,TRUE,2018,St. James' Park,52242,19,13,3,8,0,1,45.5,252,361,5,26,0.4,5,14,22,10,27
+Southampton,Tottenham Hotspur,TRUE,2018,St. Mary's Stadium,31890,12,16,4,1,0,4,36.8,204,291,2,18,0.4,4,8,15,21,46
+Southampton,Tottenham Hotspur,FALSE,2018,St. Mary's Stadium,31890,16,9,2,10,0,2,63.2,390,511,5,17,0.4,2,9,17,6,13
+Arsenal,Manchester United,TRUE,2018,Emirates Stadium,60000,14,12,2,5,0,4,46.1,299,395,3,11,0.3,4,8,17,15,12
+Arsenal,Manchester United,FALSE,2018,Emirates Stadium,60000,14,18,2,2,0,0,53.9,377,465,3,13,0.6,3,11,20,13,12
+Chelsea,Wolverhampton Wanderers,TRUE,2018,Stamford Bridge,40692,22,8,1,13,0,0,75.6,741,820,7,38,0.8,14,11,14,5,0
+Chelsea,Wolverhampton Wanderers,FALSE,2018,Stamford Bridge,40692,2,14,4,0,0,5,24.4,196,277,0,1,0.4,0,15,34,24,47
+Liverpool,Burnley,FALSE,2018,Anfield,53310,3,7,0,3,0,1,31.4,179,290,2,13,0.3,1,12,27,6,30
+Liverpool,Burnley,TRUE,2018,Anfield,53310,23,4,2,7,0,0,68.6,524,647,4,15,0.4,10,14,21,7,14
+AFC Bournemouth,Newcastle United,TRUE,2018,Vitality Stadium,10625,10,9,3,6,0,3,48.9,296,403,4,19,0.3,0,7,11,8,21
+AFC Bournemouth,Newcastle United,FALSE,2018,Vitality Stadium,10625,12,12,2,6,0,0,51.1,325,423,4,25,0.4,4,16,25,8,19
+Burnley,Leicester City,TRUE,2018,Turf Moor,20719,13,9,1,9,0,2,62.2,379,472,6,38,0.4,4,8,12,4,12
+Burnley,Leicester City,FALSE,2018,Turf Moor,20719,9,10,1,3,1,1,37.8,194,294,3,16,0.2,5,7,12,5,40
+West Ham United,Huddersfield Town,FALSE,2018,London Stadium,59931,15,15,2,8,0,1,35.9,233,327,5,18,0.3,4,10,18,12,21
+West Ham United,Huddersfield Town,TRUE,2018,London Stadium,59931,16,7,0,5,0,2,64.1,512,605,7,16,0.5,6,9,16,11,13
+Everton,Chelsea,FALSE,2018,Goodison Park,39356,17,9,2,4,0,6,67.3,558,666,4,11,0.6,7,11,21,11,11
+Everton,Chelsea,TRUE,2018,Goodison Park,39356,15,17,1,3,0,5,32.7,228,314,5,13,0.5,3,4,13,18,25
+Fulham,Liverpool,TRUE,2018,Craven Cottage,25043,7,11,2,1,0,4,37.2,274,365,1,5,0.3,3,9,21,13,20
+Fulham,Liverpool,FALSE,2018,Craven Cottage,25043,16,7,1,10,0,1,62.8,501,595,7,30,0.6,3,11,19,9,4
+Brighton & Hove Albion,Southampton,TRUE,2018,American Express Stadium,30636,14,8,1,6,0,1,60.2,388,525,6,21,0.6,4,12,20,14,18
+Brighton & Hove Albion,Southampton,FALSE,2018,American Express Stadium,30636,8,10,2,5,0,1,39.8,217,346,2,14,0.2,2,3,9,17,27
+Burnley,Wolverhampton Wanderers,TRUE,2018,Turf Moor,20990,6,12,1,1,0,1,37.2,206,322,2,7,0.4,2,10,15,6,28
+Burnley,Wolverhampton Wanderers,FALSE,2018,Turf Moor,20990,8,10,1,5,0,0,62.8,413,534,6,22,0.4,4,10,16,5,10
+Crystal Palace,Huddersfield Town,TRUE,2018,Selhurst Park,25193,19,10,0,5,0,5,48.5,325,423,4,12,0.5,8,10,15,17,13
+Crystal Palace,Huddersfield Town,FALSE,2018,Selhurst Park,25193,15,7,0,5,0,4,51.5,339,449,5,21,0.4,3,10,14,15,22
+Fulham,Manchester City,TRUE,2018,Craven Cottage,25001,5,4,2,0,0,5,34.6,283,359,4,8,0.3,2,10,20,12,20
+Fulham,Manchester City,FALSE,2018,Craven Cottage,25001,24,12,0,11,0,0,65.4,613,679,3,20,0.6,9,8,16,7,12
+Leicester City,AFC Bournemouth,FALSE,2018,King Power Stadium,31530,8,12,2,1,0,2,41.2,333,423,1,12,0.3,2,8,15,16,22
+Leicester City,AFC Bournemouth,TRUE,2018,King Power Stadium,31530,18,6,0,6,0,2,58.8,510,605,3,19,0.6,5,11,15,10,19
+Manchester United,Watford,TRUE,2018,Old Trafford,74543,8,14,1,3,0,7,51.5,340,431,1,8,0.6,2,8,16,10,35
+Manchester United,Watford,FALSE,2018,Old Trafford,74543,20,9,2,5,0,3,48.5,323,399,1,19,0.5,6,11,13,12,15
+West Ham United,Everton,FALSE,2018,London Stadium,59988,17,14,1,9,0,1,50.7,340,431,5,21,0.5,4,21,24,19,21
+West Ham United,Everton,TRUE,2018,London Stadium,59988,3,7,1,4,0,7,49.3,329,420,5,17,0.5,0,16,23,14,23
+Cardiff City,Chelsea,TRUE,2018,Cardiff City Stadium,32657,8,8,2,2,0,1,28.9,132,239,3,9,0.3,1,12,27,14,23
+Cardiff City,Chelsea,FALSE,2018,Cardiff City Stadium,32657,21,14,3,7,0,2,71.1,493,592,3,13,0.5,9,7,10,9,20
+Liverpool,Tottenham Hotspur,TRUE,2018,Anfield,53322,14,5,0,10,0,1,48.7,358,445,7,23,0.6,3,11,18,8,19
+Liverpool,Tottenham Hotspur,FALSE,2018,Anfield,53322,11,8,1,3,0,2,51.3,392,485,1,13,0.4,2,10,16,8,25
+Arsenal,Newcastle United,TRUE,2018,Emirates Stadium,59869,7,11,2,6,0,1,70.6,600,700,4,18,0.5,2,10,13,9,17
+Arsenal,Newcastle United,FALSE,2018,Emirates Stadium,59869,3,10,0,2,0,1,29.4,186,285,2,10,0.4,0,9,17,18,23
+Watford,Fulham,FALSE,2018,Vicarage Road,17301,17,5,2,4,0,3,53.4,460,531,6,22,0.6,7,8,18,8,24
+Watford,Fulham,TRUE,2018,Vicarage Road,17301,15,12,3,6,0,6,46.6,376,462,2,18,0.5,7,14,22,9,15
+Wolverhampton Wanderers,Manchester United,FALSE,2018,Molineux Stadium,31302,18,11,2,5,1,2,50.2,417,515,4,12,0.5,7,9,14,6,11
+Wolverhampton Wanderers,Manchester United,TRUE,2018,Molineux Stadium,31302,9,5,1,3,0,3,49.8,417,510,2,12,0.5,2,8,17,14,25
+Chelsea,Brighton & Hove Albion,FALSE,2018,Stamford Bridge,38593,3,9,0,1,0,1,31.7,279,350,3,9,0.6,0,14,17,15,24
+Chelsea,Brighton & Hove Albion,TRUE,2018,Stamford Bridge,38593,17,5,0,7,0,1,68.3,685,753,7,20,0.7,5,10,19,8,8
+Manchester City,Cardiff City,FALSE,2018,Etihad Stadium,53559,4,7,3,4,0,9,21.2,123,185,2,6,0.4,1,11,14,10,28
+Manchester City,Cardiff City,TRUE,2018,Etihad Stadium,53559,27,3,0,17,0,1,78.8,618,676,10,30,0.7,2,9,11,8,8
+Tottenham Hotspur,Crystal Palace,FALSE,2018,Tottenham Hotspur Stadium,59215,5,5,0,2,0,8,34.7,278,364,0,5,0.4,0,9,17,17,26
+Tottenham Hotspur,Crystal Palace,TRUE,2018,Tottenham Hotspur Stadium,59215,26,8,1,8,0,1,65.3,595,687,7,24,0.7,7,11,16,7,9
+Southampton,Liverpool,FALSE,2018,St. Mary's Stadium,31797,17,7,4,5,0,0,67,465,565,8,25,0.6,5,7,11,9,17
+Southampton,Liverpool,TRUE,2018,St. Mary's Stadium,31797,11,8,2,7,0,2,33,175,272,7,20,0.4,4,8,16,12,37
+AFC Bournemouth,Burnley,TRUE,2018,Vitality Stadium,10446,10,12,2,3,0,0,59.9,343,441,9,19,0.4,3,4,6,6,35
+AFC Bournemouth,Burnley,FALSE,2018,Vitality Stadium,10446,10,16,3,6,0,2,40.1,195,284,7,28,0.4,3,7,12,4,20
+Huddersfield Town,Leicester City,TRUE,2018,John Smith's Stadium,24126,10,13,3,8,0,6,44.8,279,369,5,21,0.4,3,7,17,14,12
+Huddersfield Town,Leicester City,FALSE,2018,John Smith's Stadium,24126,18,11,0,5,0,3,55.2,383,467,5,16,0.5,2,8,16,12,19
+Newcastle United,Crystal Palace,FALSE,2018,St. James' Park,51926,3,13,2,4,0,5,46.2,297,392,6,14,0.4,0,9,16,8,39
+Newcastle United,Crystal Palace,TRUE,2018,St. James' Park,51926,18,12,1,9,0,0,53.8,362,436,9,39,0.6,4,10,18,15,12
+Everton,Arsenal,FALSE,2018,Goodison Park,39400,7,9,4,6,0,5,57.1,411,513,4,17,0.5,2,15,21,9,23
+Everton,Arsenal,TRUE,2018,Goodison Park,39400,23,8,1,9,0,2,42.9,299,381,8,21,0.5,8,11,19,14,21
+Chelsea,West Ham United,TRUE,2018,Stamford Bridge,40537,16,8,2,7,0,2,54,411,485,2,14,0.6,3,8,12,12,9
+Chelsea,West Ham United,FALSE,2018,Stamford Bridge,40537,9,7,1,4,0,5,46,311,406,3,14,0.5,4,11,24,12,16
+Leicester City,Newcastle United,TRUE,2018,King Power Stadium,32108,12,6,2,2,0,4,71.7,650,773,8,24,0.7,1,8,13,12,12
+Leicester City,Newcastle United,FALSE,2018,King Power Stadium,32108,11,10,3,3,0,5,28.3,193,303,5,12,0.3,1,13,21,22,33
+Brighton & Hove Albion,AFC Bournemouth,FALSE,2018,American Express Stadium,30460,14,6,4,1,0,1,49.9,382,480,3,7,0.3,3,10,22,16,21
+Brighton & Hove Albion,AFC Bournemouth,TRUE,2018,American Express Stadium,30460,8,10,2,4,1,2,50.1,369,470,4,19,0.5,4,13,19,9,7
+Burnley,Cardiff City,TRUE,2018,Turf Moor,21480,14,7,2,8,0,2,46,173,280,8,27,0.3,1,11,15,4,23
+Burnley,Cardiff City,FALSE,2018,Turf Moor,21480,14,10,4,4,0,6,54,232,349,1,14,0.3,5,7,9,15,25
+Fulham,Everton,FALSE,2018,Craven Cottage,24971,9,10,1,3,0,3,59.4,376,496,6,21,0.4,2,19,28,8,13
+Fulham,Everton,TRUE,2018,Craven Cottage,24971,12,8,2,7,0,1,40.6,250,343,5,12,0.4,0,11,20,8,25
+Manchester United,West Ham United,TRUE,2018,Old Trafford,74478,14,14,1,3,0,3,42.3,288,373,3,20,0.5,5,14,21,11,25
+Manchester United,West Ham United,FALSE,2018,Old Trafford,74478,18,5,1,11,0,2,57.7,416,519,9,26,0.4,8,10,17,12,19
+Southampton,Wolverhampton Wanderers,TRUE,2018,St. Mary's Stadium,31708,12,13,1,4,0,1,30.7,180,281,0,5,0.3,2,13,23,14,35
+Southampton,Wolverhampton Wanderers,FALSE,2018,St. Mary's Stadium,31708,17,8,3,9,0,3,69.3,505,625,4,21,0.5,7,14,17,15,16
+Tottenham Hotspur,Huddersfield Town,FALSE,2018,Tottenham Hotspur Stadium,58308,7,12,2,2,0,1,30,222,305,3,17,0.4,1,8,13,16,15
+Tottenham Hotspur,Huddersfield Town,TRUE,2018,Tottenham Hotspur Stadium,58308,22,10,2,4,0,1,70,643,738,7,12,0.3,9,11,16,4,12
+Crystal Palace,Manchester City,TRUE,2018,Selhurst Park,25721,7,5,0,2,0,4,27.6,195,274,3,11,0.5,2,19,22,17,32
+Crystal Palace,Manchester City,FALSE,2018,Selhurst Park,25721,20,11,0,9,0,2,72.4,650,721,4,27,0.8,7,8,22,8,17
+Liverpool,Chelsea,FALSE,2018,Anfield,53279,6,9,1,2,0,5,38.2,322,401,1,8,0.5,1,15,30,10,32
+Liverpool,Chelsea,TRUE,2018,Anfield,53279,15,5,0,9,0,3,61.8,557,646,3,24,0.5,5,11,19,13,14
+Watford,Arsenal,FALSE,2018,Vicarage Road,20480,19,8,0,4,0,2,65.9,573,660,6,13,0.6,8,6,12,15,22
+Watford,Arsenal,TRUE,2018,Vicarage Road,20480,11,12,2,6,1,4,34.1,233,327,1,18,0.3,5,6,13,13,15
+Brighton & Hove Albion,Cardiff City,TRUE,2018,American Express Stadium,30226,14,11,0,5,0,1,63.9,403,520,4,21,0.5,4,9,18,8,16
+Brighton & Hove Albion,Cardiff City,FALSE,2018,American Express Stadium,30226,10,13,1,4,0,2,36.1,185,302,2,7,0.2,4,17,29,24,32
+AFC Bournemouth,Fulham,TRUE,2018,Vitality Stadium,10511,15,11,1,3,0,4,49,370,445,3,11,0.6,4,11,21,7,20
+AFC Bournemouth,Fulham,FALSE,2018,Vitality Stadium,10511,17,18,3,7,0,5,51,378,457,7,17,0.5,6,10,14,14,12
+Huddersfield Town,Watford,TRUE,2018,John Smith's Stadium,23957,13,15,2,2,0,4,45.7,306,378,3,14,0.6,5,8,15,12,17
+Huddersfield Town,Watford,FALSE,2018,John Smith's Stadium,23957,11,9,2,2,0,2,54.3,381,459,1,10,0.5,1,11,16,7,14
+Manchester City,Tottenham Hotspur,TRUE,2018,Etihad Stadium,54489,15,11,1,4,0,4,60.7,509,582,3,18,0.6,5,10,15,10,11
+Manchester City,Tottenham Hotspur,FALSE,2018,Etihad Stadium,54489,10,11,2,4,0,3,39.3,284,379,2,7,0.3,3,14,26,11,19
+Newcastle United,Southampton,TRUE,2018,St. James' Park,52191,15,5,0,4,0,3,43.4,200,320,3,16,0.3,5,13,22,14,30
+Newcastle United,Southampton,FALSE,2018,St. James' Park,52191,15,11,2,11,0,2,56.6,317,417,6,22,0.4,5,9,14,14,18
+West Ham United,Leicester City,FALSE,2018,London Stadium,59960,11,9,0,8,0,1,50.7,348,425,4,20,0.5,1,12,27,8,24
+West Ham United,Leicester City,TRUE,2018,London Stadium,59960,11,8,2,6,0,3,49.3,328,410,7,21,0.4,3,10,19,10,20
+Wolverhampton Wanderers,Brighton & Hove Albion,FALSE,2018,Molineux Stadium,31096,5,8,1,1,0,5,31.8,216,297,2,8,0.4,1,17,24,9,37
+Wolverhampton Wanderers,Brighton & Hove Albion,TRUE,2018,Molineux Stadium,31096,23,0,0,14,0,0,68.2,546,615,12,38,0.7,4,8,12,6,9
+Arsenal,Crystal Palace,TRUE,2018,Emirates Stadium,59929,12,15,4,8,0,4,72.6,583,656,2,30,0.8,2,7,15,10,6
+Arsenal,Crystal Palace,FALSE,2018,Emirates Stadium,59929,16,12,1,3,0,3,27.4,169,249,4,10,0.4,4,14,27,14,30
+Cardiff City,Liverpool,TRUE,2018,Cardiff City Stadium,33082,7,6,1,5,0,4,23.9,106,193,3,9,0.2,3,9,15,7,29
+Cardiff City,Liverpool,FALSE,2018,Cardiff City Stadium,33082,17,5,1,10,0,2,76.1,535,619,8,20,0.5,3,10,15,8,17
+Everton,Manchester United,TRUE,2018,Goodison Park,39395,15,11,1,10,0,1,48.3,304,383,7,26,0.3,4,11,17,13,24
+Everton,Manchester United,FALSE,2018,Goodison Park,39395,7,7,1,2,0,4,51.7,329,417,0,14,0.5,1,10,12,8,21
+Chelsea,Burnley,FALSE,2018,Stamford Bridge,40642,6,4,1,1,0,6,23.6,131,219,1,5,0.4,1,6,15,15,48
+Chelsea,Burnley,TRUE,2018,Stamford Bridge,40642,22,9,2,10,0,1,76.4,597,681,5,43,0.6,5,9,15,3,12
+Tottenham Hotspur,Brighton & Hove Albion,FALSE,2018,Tottenham Hotspur Stadium,56251,6,13,2,3,0,4,21.5,101,194,2,9,0.3,1,8,18,13,37
+Tottenham Hotspur,Brighton & Hove Albion,TRUE,2018,Tottenham Hotspur Stadium,56251,29,7,1,6,0,1,78.5,624,713,4,26,0.6,12,9,15,5,11
+Watford,Southampton,FALSE,2018,Vicarage Road,19170,8,14,2,4,0,3,37.8,243,359,4,12,0.4,1,11,21,23,27
+Watford,Southampton,TRUE,2018,Vicarage Road,19170,15,10,5,3,0,3,62.2,475,599,4,12,0.4,8,8,14,11,12
+Manchester United,Manchester City,FALSE,2018,Old Trafford,74431,8,10,2,1,0,1,63.2,609,702,1,8,0.5,0,8,14,16,11
+Manchester United,Manchester City,TRUE,2018,Old Trafford,74431,12,10,2,1,0,3,36.8,318,406,1,8,0.5,5,10,13,10,12
+Wolverhampton Wanderers,Arsenal,FALSE,2018,Molineux Stadium,31436,11,9,3,5,0,0,70.4,612,690,5,16,0.6,6,4,7,4,3
+Wolverhampton Wanderers,Arsenal,TRUE,2018,Molineux Stadium,31436,11,12,2,5,0,0,29.6,212,285,4,9,0.4,3,7,15,22,18
+Liverpool,Huddersfield Town,FALSE,2018,Anfield,53249,5,14,0,4,0,2,29.7,211,306,1,8,0.4,2,15,23,12,20
+Liverpool,Huddersfield Town,TRUE,2018,Anfield,53249,21,5,0,4,0,1,70.3,638,726,3,14,0.5,2,12,19,11,11
+Brighton & Hove Albion,Newcastle United,TRUE,2018,American Express Stadium,30587,9,7,2,7,0,0,49.8,375,461,9,32,0.4,2,5,11,6,23
+Brighton & Hove Albion,Newcastle United,FALSE,2018,American Express Stadium,30587,9,10,3,4,0,1,50.2,396,488,1,10,0.4,5,16,23,7,31
+Crystal Palace,Everton,TRUE,2018,Selhurst Park,25789,8,9,2,5,0,3,36.1,199,313,1,10,0.4,3,12,21,16,36
+Crystal Palace,Everton,FALSE,2018,Selhurst Park,25789,22,15,0,10,0,0,63.9,432,543,8,33,0.6,11,10,20,12,19
+Fulham,Cardiff City,FALSE,2018,Craven Cottage,23822,13,8,0,3,0,1,27,144,220,6,19,0.5,3,18,28,9,32
+Fulham,Cardiff City,TRUE,2018,Craven Cottage,23822,8,10,0,10,0,8,73,543,623,3,18,0.5,1,10,22,6,25
+Southampton,AFC Bournemouth,FALSE,2018,St. Mary's Stadium,31310,9,9,1,3,0,4,55.6,352,459,4,11,0.3,0,6,19,7,30
+Southampton,AFC Bournemouth,TRUE,2018,St. Mary's Stadium,31310,22,8,2,9,0,2,44.4,258,351,6,27,0.3,6,16,25,20,20
+Tottenham Hotspur,West Ham United,TRUE,2018,Tottenham Hotspur Stadium,60043,14,3,0,2,0,6,63,502,614,0,11,0.4,6,14,20,7,25
+Tottenham Hotspur,West Ham United,FALSE,2018,Tottenham Hotspur Stadium,60043,16,8,2,7,0,4,37,254,351,2,19,0.4,4,13,21,15,21
+Watford,Wolverhampton Wanderers,TRUE,2018,Vicarage Road,20323,10,10,3,4,0,1,56.5,410,495,7,25,0.5,4,12,17,12,34
+Watford,Wolverhampton Wanderers,FALSE,2018,Vicarage Road,20323,11,11,2,5,0,0,43.5,290,386,5,16,0.5,4,14,22,11,34
+Burnley,Manchester City,TRUE,2018,Turf Moor,21605,2,5,1,0,0,5,30.1,158,263,1,11,0.3,0,7,16,13,31
+Burnley,Manchester City,FALSE,2018,Turf Moor,21605,25,7,1,6,0,0,69.9,524,608,5,24,0.5,14,7,13,12,21
+Leicester City,Arsenal,FALSE,2018,King Power Stadium,32037,6,13,1,6,1,9,32.8,188,293,4,14,0.3,2,8,16,13,20
+Leicester City,Arsenal,TRUE,2018,King Power Stadium,32037,24,13,3,8,0,1,67.2,515,610,5,24,0.6,6,10,19,8,25
+Manchester United,Chelsea,FALSE,2018,Old Trafford,74526,16,14,2,6,0,3,48.3,362,422,4,21,0.6,6,9,15,14,19
+Manchester United,Chelsea,TRUE,2018,Old Trafford,74526,7,9,3,6,0,2,51.7,390,467,3,15,0.5,0,8,15,6,12
+Everton,Burnley,FALSE,2018,Goodison Park,39303,5,9,2,1,0,5,39.9,269,369,3,12,0.5,0,5,17,11,34
+Everton,Burnley,TRUE,2018,Goodison Park,39303,20,8,0,8,0,1,60.1,464,555,4,23,0.4,5,15,20,14,22
+AFC Bournemouth,Tottenham Hotspur,TRUE,2018,Vitality Stadium,10630,20,11,1,10,0,5,53.6,365,439,12,35,0.5,7,10,15,13,15
+AFC Bournemouth,Tottenham Hotspur,FALSE,2018,Vitality Stadium,10630,11,12,5,6,2,5,46.4,320,404,3,11,0.4,3,10,15,8,20
+Cardiff City,Crystal Palace,TRUE,2018,Cardiff City Stadium,32133,18,14,0,10,0,4,39.3,173,276,9,23,0.5,4,12,21,11,23
+Cardiff City,Crystal Palace,FALSE,2018,Cardiff City Stadium,32133,21,11,0,5,0,6,60.7,336,446,6,12,0.3,7,9,16,10,29
+Newcastle United,Liverpool,FALSE,2018,St. James' Park,52206,11,4,1,3,0,4,69.1,567,677,5,14,0.5,1,5,13,4,22
+Newcastle United,Liverpool,TRUE,2018,St. James' Park,52206,14,10,1,2,0,1,30.9,204,294,4,18,0.4,4,8,12,11,27
+West Ham United,Southampton,FALSE,2018,London Stadium,59961,11,11,1,7,0,3,43.7,293,384,3,22,0.4,7,12,14,18,13
+West Ham United,Southampton,TRUE,2018,London Stadium,59961,17,2,1,2,0,1,56.3,421,520,1,7,0.5,5,12,18,15,26
+Wolverhampton Wanderers,Fulham,FALSE,2018,Molineux Stadium,30456,6,15,3,1,0,5,60.8,518,601,1,9,0.5,1,6,13,12,36
+Wolverhampton Wanderers,Fulham,TRUE,2018,Molineux Stadium,30456,19,10,1,7,0,2,39.2,285,376,6,16,0.4,4,13,19,8,13
+Arsenal,Brighton & Hove Albion,TRUE,2018,Emirates Stadium,59965,20,9,5,16,0,4,70.5,488,564,7,41,0.5,7,7,11,9,17
+Arsenal,Brighton & Hove Albion,FALSE,2018,Emirates Stadium,59965,11,14,2,3,0,6,29.5,171,235,2,16,0.4,2,14,22,10,36
+Chelsea,Watford,TRUE,2018,Stamford Bridge,40650,19,6,0,6,0,3,58.4,454,537,4,20,0.5,4,13,22,13,26
+Chelsea,Watford,FALSE,2018,Stamford Bridge,40650,16,12,1,6,0,6,41.6,286,382,4,15,0.4,3,9,14,8,15
+Huddersfield Town,Manchester United,TRUE,2018,John Smith's Stadium,24263,7,10,1,4,0,6,35.8,234,332,0,9,0.4,2,9,18,9,20
+Huddersfield Town,Manchester United,FALSE,2018,John Smith's Stadium,24263,23,10,1,7,0,2,64.2,510,600,6,18,0.6,7,14,15,8,20
+Manchester City,Leicester City,FALSE,2018,Etihad Stadium,54506,7,5,2,0,0,4,39,336,416,0,7,0.6,3,7,22,12,44
+Manchester City,Leicester City,TRUE,2018,Etihad Stadium,54506,19,12,3,11,0,2,61,552,636,3,25,0.7,4,6,14,13,10
+Brighton & Hove Albion,Manchester City,TRUE,2018,American Express Stadium,30662,6,12,0,3,0,5,23.7,176,245,3,5,0.4,1,8,16,5,41
+Brighton & Hove Albion,Manchester City,FALSE,2018,American Express Stadium,30662,20,8,0,6,0,1,76.3,737,796,2,20,0.6,8,10,15,10,5
+Burnley,Arsenal,FALSE,2018,Turf Moor,21461,17,3,1,5,0,3,60.3,459,533,3,25,0.6,7,7,11,6,27
+Burnley,Arsenal,TRUE,2018,Turf Moor,21461,14,11,5,4,0,3,39.7,264,341,8,22,0.5,3,8,15,13,21
+Crystal Palace,AFC Bournemouth,FALSE,2018,Selhurst Park,25433,16,8,0,4,0,4,55,427,517,4,21,0.5,2,10,18,13,19
+Crystal Palace,AFC Bournemouth,TRUE,2018,Selhurst Park,25433,17,11,3,4,0,5,45,344,429,0,13,0.3,2,10,16,13,23
+Fulham,Newcastle United,TRUE,2018,Craven Cottage,24979,16,6,1,5,0,2,68.1,690,765,5,28,0.6,6,9,12,13,7
+Fulham,Newcastle United,FALSE,2018,Craven Cottage,24979,13,8,0,5,0,2,31.9,282,358,4,9,0.5,1,8,15,12,38
+Leicester City,Chelsea,FALSE,2018,King Power Stadium,32140,14,8,1,5,0,3,53.1,461,533,2,14,0.7,3,10,12,10,16
+Leicester City,Chelsea,TRUE,2018,King Power Stadium,32140,9,9,0,4,0,4,46.9,409,470,2,15,0.6,2,12,16,19,17
+Liverpool,Wolverhampton Wanderers,TRUE,2018,Anfield,53331,13,3,0,4,0,2,59,509,603,3,18,0.5,3,9,16,9,15
+Liverpool,Wolverhampton Wanderers,FALSE,2018,Anfield,53331,7,11,2,1,0,3,41,324,427,0,7,0.6,1,8,14,9,20
+Manchester United,Cardiff City,FALSE,2018,Old Trafford,74457,13,6,3,2,0,10,26.4,128,223,0,5,0.3,3,9,16,15,20
+Manchester United,Cardiff City,TRUE,2018,Old Trafford,74457,26,9,3,11,0,2,73.6,526,620,2,17,0.5,6,10,15,15,13
+Southampton,Huddersfield Town,FALSE,2018,St. Mary's Stadium,30367,10,6,1,3,0,2,46.3,254,388,3,14,0.3,3,13,27,10,26
+Southampton,Huddersfield Town,TRUE,2018,St. Mary's Stadium,30367,10,8,0,4,0,2,53.7,325,447,2,15,0.4,4,8,12,9,16
+Tottenham Hotspur,Everton,FALSE,2018,Tottenham Hotspur Stadium,60124,16,13,2,4,0,1,45,355,436,6,18,0.5,4,9,16,11,17
+Tottenham Hotspur,Everton,TRUE,2018,Tottenham Hotspur Stadium,60124,11,10,0,7,0,7,55,449,543,3,13,0.5,3,12,22,9,17
+Watford,West Ham United,TRUE,2018,Vicarage Road,20067,17,10,1,7,1,5,48.3,338,419,6,22,0.5,7,8,17,4,12
+Watford,West Ham United,FALSE,2018,Vicarage Road,20067,16,10,0,2,0,7,51.7,402,460,2,9,0.6,2,6,15,15,34

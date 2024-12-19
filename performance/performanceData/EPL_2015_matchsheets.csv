@@ -1,0 +1,761 @@
+home_team,away_team,is_home,season,venue,attendance,total_shots,fouls_committed,yellow_cards,won_corners,red_cards,saves,possession_pct,accurate_passes,total_passes,accurate_crosses,total_crosses,longball_pct,blocked_shots,effective_tackles,total_tackles,interceptions,total_clearance
+AFC Bournemouth,Aston Villa,True,2015,Vitality Stadium,11155,11,13,3,6,0,2,58.4,464,548,4,27,0.7,2,6,14,0,16
+AFC Bournemouth,Aston Villa,False,2015,Vitality Stadium,11155,7,13,4,3,0,2,41.6,310,391,1,15,0.4,2,20,24,0,39
+Chelsea,Swansea City,True,2015,Stamford Bridge,41232,11,15,1,4,1,8,52,347,433,3,23,0.4,3,12,16,0,14
+Chelsea,Swansea City,False,2015,Stamford Bridge,41232,17,16,3,8,0,2,48,322,399,5,19,0.5,5,19,22,0,29
+Everton,Watford,True,2015,Goodison Park,39063,10,7,1,8,0,3,66.6,451,558,6,31,0.6,2,10,14,0,25
+Everton,Watford,False,2015,Goodison Park,39063,11,13,2,2,0,3,33.4,200,286,3,13,0.4,3,19,25,0,53
+Leicester City,Sunderland,True,2015,King Power Stadium,32242,20,13,2,6,0,3,44,250,342,9,23,0.4,4,15,19,0,21
+Leicester City,Sunderland,False,2015,King Power Stadium,32242,11,17,4,3,0,4,56,347,442,6,20,0.5,2,15,19,0,14
+Manchester United,Tottenham Hotspur,True,2015,Old Trafford,75261,9,12,2,1,0,4,50,401,487,1,10,0.5,4,19,21,0,30
+Manchester United,Tottenham Hotspur,False,2015,Old Trafford,75261,9,12,3,2,0,1,50,391,487,2,12,0.4,3,25,26,0,20
+Norwich City,Crystal Palace,False,2015,Carrow Road,27036,11,20,0,4,0,5,37.1,200,272,5,18,0.3,2,14,14,0,34
+Norwich City,Crystal Palace,True,2015,Carrow Road,27036,17,14,1,1,0,4,62.9,388,470,4,18,0.5,2,17,20,0,26
+Arsenal,West Ham United,True,2015,Emirates Stadium,59996,22,12,1,5,0,2,61.8,481,556,9,33,0.6,9,9,12,0,18
+Arsenal,West Ham United,False,2015,Emirates Stadium,59996,8,9,3,4,0,6,38.2,256,359,1,7,0.4,2,16,21,0,25
+Newcastle United,Southampton,True,2015,St. James' Park,49019,9,9,2,6,0,2,56.3,396,485,9,35,0.6,2,13,13,0,24
+Newcastle United,Southampton,False,2015,St. James' Park,49019,14,12,4,6,0,2,43.7,309,389,6,18,0.5,3,14,18,0,32
+Stoke City,Liverpool,False,2015,bet365 Stadium,27654,8,16,4,5,0,1,53,378,478,5,12,0.4,4,15,19,0,33
+Stoke City,Liverpool,True,2015,bet365 Stadium,27654,7,9,2,3,0,2,47,301,412,5,19,0.4,2,20,25,0,16
+West Bromwich Albion,Manchester City,False,2015,The Hawthorns,24564,20,9,1,6,0,2,69.1,693,764,4,18,0.6,11,9,10,0,21
+West Bromwich Albion,Manchester City,True,2015,The Hawthorns,24564,9,12,4,6,0,4,30.9,267,328,4,22,0.5,1,11,17,0,21
+Aston Villa,Manchester United,True,2015,Villa Park,42200,5,14,2,3,0,1,45.6,356,441,3,15,0.6,1,18,22,0,13
+Aston Villa,Manchester United,False,2015,Villa Park,42200,9,10,2,5,0,1,54.4,458,534,1,8,0.5,3,15,24,0,37
+Southampton,Everton,False,2015,St. Mary's Stadium,30966,10,10,2,9,0,4,45.6,314,393,4,19,0.4,4,8,14,0,32
+Southampton,Everton,True,2015,St. Mary's Stadium,30966,17,11,4,9,0,1,54.4,391,458,7,39,0.7,4,15,18,0,19
+Sunderland,Norwich City,False,2015,Stadium of Light,41379,18,7,2,6,0,1,56.1,388,490,6,19,0.5,8,11,15,0,34
+Sunderland,Norwich City,True,2015,Stadium of Light,41379,6,7,1,6,0,3,43.9,267,386,3,13,0.3,1,24,31,0,20
+Swansea City,Newcastle United,False,2015,Swansea.com Stadium,20678,4,8,1,4,1,4,34.2,261,333,2,10,0.5,0,16,19,0,18
+Swansea City,Newcastle United,True,2015,Swansea.com Stadium,20678,19,11,2,4,0,2,65.8,586,635,3,19,0.7,7,17,19,0,18
+Tottenham Hotspur,Stoke City,False,2015,White Hart Lane,36004,15,11,2,3,0,5,46.8,351,430,8,22,0.5,2,13,19,0,15
+Tottenham Hotspur,Stoke City,True,2015,White Hart Lane,36004,13,15,2,4,0,5,53.2,407,500,3,14,0.4,4,11,16,0,17
+Watford,West Bromwich Albion,True,2015,Vicarage Road,20011,16,13,1,2,0,0,63.9,418,498,10,33,0.5,3,9,15,0,20
+Watford,West Bromwich Albion,False,2015,Vicarage Road,20011,6,10,2,4,0,5,36.1,194,285,4,16,0.4,1,19,24,0,39
+West Ham United,Leicester City,False,2015,Boleyn Ground,34857,10,12,3,4,0,2,30.2,157,242,7,16,0.4,2,20,25,0,36
+West Ham United,Leicester City,True,2015,Boleyn Ground,34857,10,11,1,8,1,3,69.8,468,553,5,41,0.6,4,12,15,0,22
+Crystal Palace,Arsenal,False,2015,Selhurst Park,24732,20,12,1,6,0,3,59.2,478,564,5,23,0.5,7,23,27,0,36
+Crystal Palace,Arsenal,True,2015,Selhurst Park,24732,11,14,1,6,0,6,40.8,302,376,6,29,0.5,3,13,18,0,35
+Manchester City,Chelsea,False,2015,Etihad Stadium,54331,10,13,2,1,0,5,50.8,367,443,2,16,0.6,3,13,20,0,25
+Manchester City,Chelsea,True,2015,Etihad Stadium,54331,18,19,4,5,0,3,49.2,345,423,9,25,0.5,4,13,17,0,23
+Liverpool,AFC Bournemouth,False,2015,Anfield,44102,13,18,4,8,0,1,45.1,293,387,3,25,0.5,5,19,22,0,23
+Liverpool,AFC Bournemouth,True,2015,Anfield,44102,18,11,1,6,0,2,54.9,403,492,2,11,0.6,5,19,24,0,36
+Crystal Palace,Aston Villa,False,2015,Selhurst Park,25295,11,15,3,4,0,4,50.1,283,363,5,21,0.5,3,10,13,0,24
+Crystal Palace,Aston Villa,True,2015,Selhurst Park,25295,16,12,3,6,0,2,49.9,283,357,5,28,0.4,3,12,15,0,21
+Leicester City,Tottenham Hotspur,True,2015,King Power Stadium,31971,13,7,1,2,0,5,34.8,180,265,2,22,0.4,6,12,19,0,15
+Leicester City,Tottenham Hotspur,False,2015,King Power Stadium,31971,19,14,4,7,0,1,65.2,440,523,5,18,0.5,4,8,11,0,41
+Manchester United,Newcastle United,True,2015,Old Trafford,75354,20,15,2,11,0,0,69.3,567,637,8,38,0.7,9,11,17,0,22
+Manchester United,Newcastle United,False,2015,Old Trafford,75354,7,11,2,5,0,8,30.7,201,280,6,18,0.4,3,15,20,0,35
+Norwich City,Stoke City,True,2015,Carrow Road,26771,20,16,4,9,0,0,42.6,256,326,5,24,0.4,5,16,22,0,22
+Norwich City,Stoke City,False,2015,Carrow Road,26771,6,5,1,0,0,6,57.4,392,467,2,8,0.4,1,9,15,0,18
+Sunderland,Swansea City,True,2015,Stadium of Light,39198,10,16,4,3,0,8,39.3,216,318,3,16,0.4,3,18,25,0,17
+Sunderland,Swansea City,False,2015,Stadium of Light,39198,20,9,2,4,0,1,60.7,410,494,9,20,0.4,5,6,9,0,28
+West Ham United,AFC Bournemouth,False,2015,Boleyn Ground,34977,15,11,1,4,0,1,54.2,332,452,1,11,0.4,2,15,17,0,37
+West Ham United,AFC Bournemouth,True,2015,Boleyn Ground,34977,10,8,0,5,1,3,45.8,254,373,3,19,0.4,3,15,20,0,15
+Everton,Manchester City,True,2015,Goodison Park,38523,10,5,0,8,0,7,45.7,334,408,5,19,0.5,4,14,21,0,24
+Everton,Manchester City,False,2015,Goodison Park,38523,16,7,3,7,0,1,54.3,414,487,3,23,0.3,4,14,17,0,21
+Watford,Southampton,False,2015,Vicarage Road,20166,14,11,2,2,0,0,48,308,412,9,21,0.4,0,11,14,0,28
+Watford,Southampton,True,2015,Vicarage Road,20166,13,10,0,5,0,4,52,316,431,4,30,0.4,7,12,15,0,15
+West Bromwich Albion,Chelsea,False,2015,The Hawthorns,23256,15,12,1,7,1,4,56.1,404,496,1,11,0.4,3,9,9,0,24
+West Bromwich Albion,Chelsea,True,2015,The Hawthorns,23256,15,9,2,8,0,2,43.9,284,373,6,23,0.3,3,9,13,0,15
+Arsenal,Liverpool,True,2015,Emirates Stadium,60080,19,2,1,7,0,8,65.7,564,667,6,23,0.3,5,21,23,0,26
+Arsenal,Liverpool,False,2015,Emirates Stadium,60080,15,13,4,8,0,5,34.3,250,351,2,14,0.5,3,19,25,0,36
+AFC Bournemouth,Leicester City,True,2015,Vitality Stadium,11155,5,9,2,4,0,1,56.1,322,435,3,19,0.5,3,15,16,0,30
+AFC Bournemouth,Leicester City,False,2015,Vitality Stadium,11155,4,19,4,4,0,1,43.9,223,336,0,21,0.4,0,22,30,0,17
+Aston Villa,Sunderland,True,2015,Villa Park,35399,21,10,2,5,0,1,62,439,523,14,34,0.6,4,17,20,0,27
+Aston Villa,Sunderland,False,2015,Villa Park,35399,7,14,1,4,0,4,38,241,329,2,13,0.4,1,29,32,0,39
+Chelsea,Crystal Palace,True,2015,Stamford Bridge,41581,26,9,1,7,0,3,63.7,487,582,5,23,0.6,8,13,16,0,19
+Chelsea,Crystal Palace,False,2015,Stamford Bridge,41581,13,15,1,7,0,8,36.3,239,321,4,23,0.3,2,13,17,0,45
+Liverpool,West Ham United,True,2015,Anfield,43680,13,17,3,5,1,2,62.7,463,543,6,26,0.6,5,11,12,0,18
+Liverpool,West Ham United,False,2015,Anfield,43680,12,12,2,7,1,1,37.3,238,326,2,15,0.3,3,16,25,0,25
+Manchester City,Watford,True,2015,Etihad Stadium,53218,18,9,1,9,0,0,58.7,594,645,6,26,0.7,5,13,15,0,17
+Manchester City,Watford,False,2015,Etihad Stadium,53218,7,12,2,3,0,3,41.3,393,458,1,13,0.5,5,21,30,0,23
+Newcastle United,Arsenal,False,2015,St. James' Park,50388,22,8,1,9,0,0,73.7,712,777,3,15,0.7,7,15,21,0,14
+Newcastle United,Arsenal,True,2015,St. James' Park,50388,1,15,6,0,1,9,26.3,206,268,0,12,0.5,0,18,21,0,33
+Stoke City,West Bromwich Albion,True,2015,bet365 Stadium,26747,13,4,1,6,2,4,49.1,375,446,1,18,0.5,3,15,18,6,19
+Stoke City,West Bromwich Albion,False,2015,bet365 Stadium,26747,15,9,4,5,0,4,50.9,394,455,7,28,0.6,4,15,19,18,26
+Tottenham Hotspur,Everton,False,2015,White Hart Lane,35865,8,9,1,2,0,6,50.1,368,443,4,16,0.6,1,11,17,0,19
+Tottenham Hotspur,Everton,True,2015,White Hart Lane,35865,20,20,4,6,0,3,49.9,372,440,3,22,0.5,6,19,25,0,17
+Southampton,Norwich City,False,2015,St. Mary's Stadium,29573,6,12,0,4,1,5,38.9,255,348,3,14,0.3,2,7,14,0,28
+Southampton,Norwich City,True,2015,St. Mary's Stadium,29573,23,4,0,6,0,1,61.1,451,533,13,37,0.5,2,14,16,0,19
+Swansea City,Manchester United,False,2015,Swansea.com Stadium,20828,11,15,2,1,0,2,64.5,542,657,7,22,0.5,1,12,15,0,20
+Swansea City,Manchester United,True,2015,Swansea.com Stadium,20828,9,6,2,0,0,3,35.5,254,365,1,7,0.3,1,8,14,0,32
+Arsenal,Stoke City,True,2015,Emirates Stadium,59963,29,6,1,13,0,3,67.6,544,628,10,25,0.6,8,13,18,0,13
+Arsenal,Stoke City,False,2015,Emirates Stadium,59963,8,13,1,1,0,10,32.4,226,305,0,7,0.3,3,11,16,0,31
+Crystal Palace,Manchester City,True,2015,Selhurst Park,25167,10,13,2,4,0,6,42.2,273,359,7,21,0.4,2,15,17,0,29
+Crystal Palace,Manchester City,False,2015,Selhurst Park,25167,21,13,3,4,0,2,57.8,402,498,5,21,0.4,5,13,15,0,21
+Everton,Chelsea,False,2015,Goodison Park,38311,15,12,2,14,0,6,61.2,493,561,7,32,0.5,7,15,21,0,12
+Everton,Chelsea,True,2015,Goodison Park,38311,14,12,2,7,0,1,38.8,287,351,6,19,0.5,0,19,23,0,39
+Manchester United,Liverpool,False,2015,Old Trafford,75347,8,11,2,4,0,0,44.3,342,446,4,12,0.5,0,16,23,0,25
+Manchester United,Liverpool,True,2015,Old Trafford,75347,9,6,1,4,0,3,55.7,470,559,3,17,0.5,3,18,23,0,25
+Norwich City,AFC Bournemouth,False,2015,Carrow Road,27018,7,11,3,4,0,1,52.3,374,476,3,16,0.4,2,10,13,0,15
+Norwich City,AFC Bournemouth,True,2015,Carrow Road,27018,12,10,2,4,0,1,47.7,336,432,2,19,0.4,0,19,21,0,15
+Watford,Swansea City,False,2015,Vicarage Road,20057,8,14,1,3,0,5,60.8,416,515,2,21,0.6,1,7,8,0,39
+Watford,Swansea City,True,2015,Vicarage Road,20057,17,11,1,1,1,3,39.2,236,330,1,15,0.4,4,12,17,0,27
+West Bromwich Albion,Southampton,False,2015,The Hawthorns,24265,15,5,0,5,0,1,64.9,523,614,5,33,0.6,5,8,12,0,20
+West Bromwich Albion,Southampton,True,2015,The Hawthorns,24265,8,5,1,4,0,4,35.1,224,333,3,17,0.4,3,17,20,0,28
+Leicester City,Aston Villa,False,2015,King Power Stadium,31733,11,13,1,5,0,3,51.3,310,416,3,12,0.4,4,21,28,0,30
+Leicester City,Aston Villa,True,2015,King Power Stadium,31733,21,8,2,4,0,2,48.7,298,388,4,17,0.4,6,26,32,0,16
+Sunderland,Tottenham Hotspur,True,2015,Stadium of Light,40303,12,11,2,6,0,3,43.9,220,313,2,23,0.4,5,18,22,0,30
+Sunderland,Tottenham Hotspur,False,2015,Stadium of Light,40303,15,12,1,8,0,2,56.1,327,411,2,22,0.5,5,18,26,0,31
+West Ham United,Newcastle United,False,2015,Boleyn Ground,34907,14,11,2,7,0,1,60.9,394,477,9,32,0.6,5,12,17,0,21
+West Ham United,Newcastle United,True,2015,Boleyn Ground,34907,17,8,0,6,0,4,39.1,239,314,4,16,0.5,6,16,18,0,25
+AFC Bournemouth,Sunderland,True,2015,Vitality Stadium,11271,15,14,2,7,0,2,53.1,362,463,5,17,0.5,6,17,23,0,15
+AFC Bournemouth,Sunderland,False,2015,Vitality Stadium,11271,9,15,4,3,1,3,46.9,317,416,3,12,0.5,4,18,25,0,18
+Aston Villa,West Bromwich Albion,True,2015,Villa Park,36321,13,10,2,2,0,5,59.8,348,451,4,26,0.6,5,24,30,0,33
+Aston Villa,West Bromwich Albion,False,2015,Villa Park,36321,10,11,3,7,0,3,40.2,220,303,3,21,0.4,3,10,15,0,38
+Chelsea,Arsenal,False,2015,Stamford Bridge,41584,9,11,2,5,2,5,37.1,280,360,3,15,0.4,3,14,21,0,22
+Chelsea,Arsenal,True,2015,Stamford Bridge,41584,22,12,3,5,0,2,62.9,547,628,1,14,0.6,10,21,23,0,16
+Manchester City,West Ham United,True,2015,Etihad Stadium,53545,27,10,1,16,0,1,71.5,596,669,12,50,0.5,10,14,19,0,17
+Manchester City,West Ham United,False,2015,Etihad Stadium,53545,6,7,2,3,0,7,28.5,189,279,3,7,0.4,0,13,20,0,57
+Newcastle United,Watford,True,2015,St. James' Park,47806,15,8,1,5,0,2,57.6,405,493,4,40,0.6,3,16,19,0,8
+Newcastle United,Watford,False,2015,St. James' Park,47806,13,12,2,5,0,4,42.4,275,381,2,9,0.5,3,24,29,0,19
+Stoke City,Leicester City,False,2015,bet365 Stadium,27642,12,12,4,4,0,2,45.9,265,371,3,16,0.4,1,13,15,0,33
+Stoke City,Leicester City,True,2015,bet365 Stadium,27642,11,7,1,4,0,3,54.1,310,432,6,26,0.5,2,20,32,0,18
+Swansea City,Everton,False,2015,Swansea.com Stadium,20805,17,11,2,4,1,3,52.1,362,454,3,18,0.4,8,13,17,0,14
+Swansea City,Everton,True,2015,Swansea.com Stadium,20805,12,12,2,2,0,2,47.9,316,407,5,21,0.4,3,14,21,0,22
+Liverpool,Norwich City,True,2015,Anfield,44072,23,4,1,6,0,1,58.9,480,579,3,24,0.6,9,16,19,0,14
+Liverpool,Norwich City,False,2015,Anfield,44072,7,13,2,2,0,6,41.1,279,399,2,14,0.2,1,12,15,0,27
+Southampton,Manchester United,False,2015,St. Mary's Stadium,31588,10,13,0,5,0,6,59.2,495,575,1,8,0.6,2,10,15,0,31
+Southampton,Manchester United,True,2015,St. Mary's Stadium,31588,15,6,2,5,0,0,40.8,299,382,11,21,0.4,1,12,21,0,10
+Tottenham Hotspur,Crystal Palace,False,2015,White Hart Lane,35723,12,11,2,5,0,5,42.9,237,323,6,22,0.4,4,26,31,0,35
+Tottenham Hotspur,Crystal Palace,True,2015,White Hart Lane,35723,21,9,1,6,0,4,57.1,358,436,3,17,0.6,9,24,32,0,27
+Leicester City,Arsenal,False,2015,King Power Stadium,32047,27,12,1,5,0,5,58,456,532,2,11,0.5,13,15,21,0,46
+Leicester City,Arsenal,True,2015,King Power Stadium,32047,16,9,1,6,0,7,42,280,360,5,33,0.3,3,16,21,0,20
+Liverpool,Aston Villa,False,2015,Anfield,44228,10,13,0,1,0,9,37.6,274,342,7,11,0.4,1,14,18,0,32
+Liverpool,Aston Villa,True,2015,Anfield,44228,21,8,0,11,0,2,62.4,505,570,3,32,0.6,7,21,28,0,9
+Manchester United,Sunderland,True,2015,Old Trafford,75328,12,12,0,5,0,4,66.2,524,603,7,21,0.7,4,17,18,0,15
+Manchester United,Sunderland,False,2015,Old Trafford,75328,9,17,3,2,0,4,33.8,229,311,2,6,0.4,4,17,23,0,18
+Newcastle United,Chelsea,False,2015,St. James' Park,48682,16,15,2,6,0,3,64.5,429,532,5,21,0.6,4,24,27,0,17
+Newcastle United,Chelsea,True,2015,St. James' Park,48682,11,12,1,4,0,2,35.5,201,293,2,11,0.4,3,24,30,0,25
+Southampton,Swansea City,True,2015,St. Mary's Stadium,30704,17,18,3,4,0,3,41.5,287,380,6,23,0.6,3,12,17,0,25
+Southampton,Swansea City,False,2015,St. Mary's Stadium,30704,11,14,1,3,0,4,58.5,452,542,3,23,0.6,3,7,7,0,16
+Stoke City,AFC Bournemouth,False,2015,bet365 Stadium,27742,12,11,0,7,0,3,56.3,394,488,1,17,0.4,4,7,16,0,18
+Stoke City,AFC Bournemouth,True,2015,bet365 Stadium,27742,8,13,1,3,0,5,43.7,288,383,4,15,0.4,1,11,15,0,30
+Tottenham Hotspur,Manchester City,False,2015,White Hart Lane,35867,22,6,1,9,0,4,54,363,478,2,25,0.5,8,9,18,0,28
+Tottenham Hotspur,Manchester City,True,2015,White Hart Lane,35867,15,17,5,5,0,7,46,291,407,5,17,0.4,4,16,28,0,40
+West Ham United,Norwich City,False,2015,Boleyn Ground,34857,16,17,0,5,0,5,57.1,386,482,4,17,0.4,4,12,16,0,36
+West Ham United,Norwich City,True,2015,Boleyn Ground,34857,19,7,0,7,0,5,42.9,264,349,8,24,0.5,4,14,17,0,22
+Watford,Crystal Palace,False,2015,Vicarage Road,20168,16,22,4,4,0,2,44.7,234,313,2,26,0.4,5,9,14,0,50
+Watford,Crystal Palace,True,2015,Vicarage Road,20168,15,17,4,6,0,2,55.3,290,386,5,30,0.4,4,10,14,0,20
+West Bromwich Albion,Everton,False,2015,The Hawthorns,24240,12,8,3,4,0,2,54,374,470,5,17,0.5,3,14,17,0,37
+West Bromwich Albion,Everton,True,2015,The Hawthorns,24240,9,9,0,6,0,1,46,289,398,5,24,0.4,1,11,19,0,21
+AFC Bournemouth,Watford,True,2015,Vitality Stadium,11187,12,8,1,5,0,1,54.4,388,496,6,24,0.5,2,8,10,0,22
+AFC Bournemouth,Watford,False,2015,Vitality Stadium,11187,11,13,1,3,0,5,45.6,309,421,3,16,0.4,4,15,18,0,16
+Aston Villa,Stoke City,True,2015,Villa Park,33189,13,12,1,9,0,4,56.3,400,478,4,29,0.4,7,17,18,0,17
+Aston Villa,Stoke City,False,2015,Villa Park,33189,12,12,0,5,0,2,43.7,301,381,4,16,0.5,3,19,27,0,29
+Chelsea,Southampton,True,2015,Stamford Bridge,41642,10,14,2,4,0,2,60.2,435,551,0,14,0.4,3,13,22,0,12
+Chelsea,Southampton,False,2015,Stamford Bridge,41642,13,14,5,6,0,2,39.8,259,360,0,15,0.4,4,15,19,0,30
+Crystal Palace,West Bromwich Albion,True,2015,Selhurst Park,24033,21,14,3,8,0,2,60.4,356,443,4,34,0.3,6,13,16,0,32
+Crystal Palace,West Bromwich Albion,False,2015,Selhurst Park,24033,7,13,3,3,0,6,39.6,190,302,1,11,0.3,2,12,22,0,35
+Manchester City,Newcastle United,True,2015,Etihad Stadium,53850,23,13,3,7,0,3,64.3,498,590,10,26,0.7,4,11,20,0,13
+Manchester City,Newcastle United,False,2015,Etihad Stadium,53850,6,8,2,3,0,5,35.7,250,335,1,9,0.4,1,17,24,0,23
+Norwich City,Leicester City,False,2015,Carrow Road,27067,16,4,1,8,0,1,33.8,153,254,5,21,0.3,3,20,31,0,40
+Norwich City,Leicester City,True,2015,Carrow Road,27067,17,4,0,17,0,3,66.2,386,486,10,48,0.6,6,8,14,0,44
+Sunderland,West Ham United,True,2015,Stadium of Light,42932,12,14,2,1,1,4,44.1,280,367,2,8,0.4,4,21,25,0,32
+Sunderland,West Ham United,False,2015,Stadium of Light,42932,20,11,4,8,0,1,55.9,365,440,9,32,0.6,5,11,19,0,12
+Arsenal,Manchester United,True,2015,Emirates Stadium,60084,12,8,1,3,0,5,37.8,313,389,1,7,0.4,2,25,29,0,28
+Arsenal,Manchester United,False,2015,Emirates Stadium,60084,9,17,3,6,0,2,62.2,548,632,5,24,0.5,1,20,22,0,5
+Everton,Liverpool,True,2015,Goodison Park,39598,14,10,3,5,0,3,50.9,298,388,2,17,0.5,8,23,27,0,25
+Everton,Liverpool,False,2015,Goodison Park,39598,13,19,3,11,0,3,49.1,298,372,8,21,0.4,4,16,27,0,28
+Swansea City,Tottenham Hotspur,True,2015,Swansea.com Stadium,20845,11,8,1,5,0,9,45.6,315,404,5,20,0.6,4,14,18,0,21
+Swansea City,Tottenham Hotspur,False,2015,Swansea.com Stadium,20845,19,19,4,6,0,1,54.4,408,483,2,26,0.6,4,17,17,0,28
+Chelsea,Aston Villa,False,2015,Stamford Bridge,41596,10,17,3,4,0,2,51,330,424,4,18,0.4,3,15,19,0,27
+Chelsea,Aston Villa,True,2015,Stamford Bridge,41596,9,22,1,4,0,1,49,306,415,4,12,0.3,3,22,31,0,24
+Crystal Palace,West Ham United,True,2015,Selhurst Park,24812,6,9,1,1,1,1,38.5,236,326,4,15,0.3,2,16,21,0,14
+Crystal Palace,West Ham United,False,2015,Selhurst Park,24812,24,11,3,9,0,0,61.5,437,516,7,25,0.5,8,20,27,0,20
+Everton,Manchester United,True,2015,Goodison Park,39553,12,12,2,5,0,3,47.2,370,458,3,19,0.5,3,17,25,10,21
+Everton,Manchester United,False,2015,Goodison Park,39553,10,14,2,3,0,3,52.8,448,524,3,13,0.5,1,11,23,16,25
+Manchester City,AFC Bournemouth,False,2015,Etihad Stadium,54502,5,5,1,7,0,6,45.6,355,451,5,26,0.5,1,8,15,0,14
+Manchester City,AFC Bournemouth,True,2015,Etihad Stadium,54502,16,11,2,1,0,0,54.4,470,566,0,7,0.5,0,11,14,0,29
+Southampton,Leicester City,False,2015,St. Mary's Stadium,30966,27,10,0,7,0,4,49.4,245,342,10,33,0.4,8,15,19,0,15
+Southampton,Leicester City,True,2015,St. Mary's Stadium,30966,13,16,2,6,0,5,50.6,269,360,7,21,0.5,2,12,15,0,58
+Tottenham Hotspur,Liverpool,False,2015,White Hart Lane,35926,12,11,2,6,0,4,51.5,332,441,6,18,0.4,5,21,29,0,27
+Tottenham Hotspur,Liverpool,True,2015,White Hart Lane,35926,13,15,1,8,0,3,48.5,304,407,6,21,0.4,5,31,41,0,36
+Watford,Arsenal,False,2015,Vicarage Road,20721,17,12,1,9,0,1,66.7,551,627,7,22,0.6,6,14,17,0,31
+Watford,Arsenal,True,2015,Vicarage Road,20721,8,11,2,3,0,3,33.3,226,306,3,16,0.5,1,20,25,0,25
+West Bromwich Albion,Sunderland,False,2015,The Hawthorns,24225,9,13,2,5,0,1,43.8,256,352,3,19,0.4,6,15,24,0,43
+West Bromwich Albion,Sunderland,True,2015,The Hawthorns,24225,9,12,2,1,0,2,56.2,348,452,4,24,0.5,2,8,9,0,18
+Newcastle United,Norwich City,True,2015,St. James' Park,47006,11,10,1,3,0,4,44.2,285,373,3,15,0.5,3,11,13,0,18
+Newcastle United,Norwich City,False,2015,St. James' Park,47006,18,10,1,7,0,0,55.8,374,463,9,29,0.5,6,19,26,0,24
+Swansea City,Stoke City,False,2015,Swansea.com Stadium,20044,9,14,2,2,0,2,45.9,382,472,2,9,0.4,1,20,32,0,15
+Swansea City,Stoke City,True,2015,Swansea.com Stadium,20044,14,6,2,1,0,1,54.1,489,548,2,23,0.7,2,12,18,0,21
+Arsenal,Everton,True,2015,Emirates Stadium,59985,20,11,2,7,0,4,56.2,449,527,8,19,0.7,6,16,20,0,14
+Arsenal,Everton,False,2015,Emirates Stadium,59985,10,14,0,5,1,3,43.8,322,404,2,19,0.4,2,27,36,0,21
+Aston Villa,Swansea City,True,2015,Villa Park,33324,9,10,2,4,0,2,47.9,273,377,7,25,0.5,1,11,14,0,18
+Aston Villa,Swansea City,False,2015,Villa Park,33324,10,8,3,6,0,2,52.1,317,419,4,17,0.5,1,11,16,0,22
+Leicester City,Crystal Palace,False,2015,King Power Stadium,31752,9,11,1,2,0,2,52.3,347,456,6,23,0.5,2,12,15,0,14
+Leicester City,Crystal Palace,True,2015,King Power Stadium,31752,12,7,3,3,0,4,47.7,327,426,2,14,0.3,4,15,21,0,38
+Norwich City,West Bromwich Albion,True,2015,Carrow Road,26983,16,11,1,13,0,3,60.6,377,466,9,46,0.5,4,7,8,0,45
+Norwich City,West Bromwich Albion,False,2015,Carrow Road,26983,7,6,2,3,0,3,39.4,196,316,5,20,0.2,0,9,10,0,44
+Stoke City,Watford,True,2015,bet365 Stadium,27587,11,10,3,11,0,1,66.2,440,526,4,26,0.6,3,16,19,0,17
+Stoke City,Watford,False,2015,bet365 Stadium,27587,13,18,1,5,0,0,33.8,188,269,4,12,0.5,5,18,20,0,25
+West Ham United,Chelsea,False,2015,Boleyn Ground,34977,9,12,5,4,1,3,54.5,365,457,4,11,0.4,0,16,18,0,27
+West Ham United,Chelsea,True,2015,Boleyn Ground,34977,12,10,1,7,0,3,45.5,282,370,5,19,0.4,3,13,17,0,21
+AFC Bournemouth,Tottenham Hotspur,True,2015,Vitality Stadium,11332,11,8,0,4,0,4,45.8,302,401,9,19,0.4,2,23,28,0,20
+AFC Bournemouth,Tottenham Hotspur,False,2015,Vitality Stadium,11332,14,15,1,5,0,2,54.2,403,490,3,14,0.5,3,17,24,0,24
+Liverpool,Southampton,True,2015,Anfield,44171,15,8,1,10,0,2,60.3,484,586,8,22,0.5,5,18,23,0,24
+Liverpool,Southampton,False,2015,Anfield,44171,8,11,0,7,1,1,39.7,279,383,6,20,0.5,2,18,29,0,33
+Manchester United,Manchester City,False,2015,Old Trafford,75329,6,13,2,4,0,1,41.3,279,386,2,12,0.4,3,17,28,0,30
+Manchester United,Manchester City,True,2015,Old Trafford,75329,6,17,2,6,0,1,58.7,446,543,2,22,0.6,3,14,19,0,24
+Sunderland,Newcastle United,False,2015,Stadium of Light,47653,21,10,2,10,1,0,60.3,364,456,7,30,0.5,5,13,19,0,9
+Sunderland,Newcastle United,True,2015,Stadium of Light,47653,9,12,0,1,0,8,39.7,220,311,4,11,0.4,5,9,14,0,25
+Chelsea,Liverpool,True,2015,Stamford Bridge,41577,8,9,1,1,0,4,42.6,326,418,2,12,0.4,4,27,35,0,19
+Chelsea,Liverpool,False,2015,Stamford Bridge,41577,16,21,4,7,0,1,57.4,468,568,3,17,0.5,4,20,27,0,16
+Crystal Palace,Manchester United,True,2015,Selhurst Park,24854,10,12,3,7,0,1,44.6,271,355,5,21,0.4,2,14,20,0,13
+Crystal Palace,Manchester United,False,2015,Selhurst Park,24854,5,15,3,3,0,5,55.4,375,456,3,14,0.5,2,22,23,0,28
+Manchester City,Norwich City,True,2015,Etihad Stadium,53418,21,4,2,12,0,2,70.8,648,722,8,31,0.6,6,10,16,0,27
+Manchester City,Norwich City,False,2015,Etihad Stadium,53418,5,13,2,4,1,3,29.2,215,296,2,15,0.4,1,9,15,0,33
+Newcastle United,Stoke City,True,2015,St. James' Park,47139,15,6,1,11,0,2,52.3,336,412,8,28,0.5,4,13,15,0,10
+Newcastle United,Stoke City,False,2015,St. James' Park,47139,9,16,3,4,0,6,47.7,306,388,7,19,0.5,1,12,16,0,18
+Swansea City,Arsenal,False,2015,Swansea.com Stadium,20937,14,7,0,4,0,3,45.8,385,461,3,19,0.6,2,13,16,0,19
+Swansea City,Arsenal,True,2015,Swansea.com Stadium,20937,7,12,2,4,0,2,54.2,469,550,2,20,0.6,3,8,9,0,10
+Watford,West Ham United,True,2015,Vicarage Road,20598,20,16,3,7,0,3,50.6,303,400,8,22,0.5,9,13,17,0,25
+Watford,West Ham United,False,2015,Vicarage Road,20598,8,12,1,2,1,3,49.4,317,397,3,17,0.5,0,11,15,0,39
+West Bromwich Albion,Leicester City,False,2015,The Hawthorns,24150,13,11,2,4,0,4,52.3,258,370,9,28,0.4,5,19,25,0,27
+West Bromwich Albion,Leicester City,True,2015,The Hawthorns,24150,14,3,0,6,0,2,47.7,236,330,8,27,0.4,3,8,12,0,27
+Everton,Sunderland,True,2015,Goodison Park,36617,15,6,3,6,0,7,67.4,619,687,3,19,0.7,2,5,8,0,21
+Everton,Sunderland,False,2015,Goodison Park,36617,17,5,2,1,0,3,32.6,253,326,4,14,0.5,5,13,19,0,26
+Southampton,AFC Bournemouth,False,2015,St. Mary's Stadium,31229,16,5,2,6,0,0,51.5,425,514,5,17,0.5,5,10,18,0,21
+Southampton,AFC Bournemouth,True,2015,St. Mary's Stadium,31229,11,5,0,4,1,2,48.5,400,479,6,19,0.6,5,15,21,0,28
+Tottenham Hotspur,Aston Villa,False,2015,White Hart Lane,34882,13,15,3,3,0,3,38.7,220,325,2,15,0.4,6,17,24,0,24
+Tottenham Hotspur,Aston Villa,True,2015,White Hart Lane,34882,17,6,0,4,0,1,61.3,432,530,1,12,0.5,7,17,21,0,31
+AFC Bournemouth,Newcastle United,True,2015,Vitality Stadium,11155,20,9,2,16,0,0,67.3,501,582,12,44,0.8,7,15,22,0,6
+AFC Bournemouth,Newcastle United,False,2015,Vitality Stadium,11155,2,11,2,0,0,5,32.7,210,300,1,3,0.4,0,18,27,0,36
+Leicester City,Watford,True,2015,King Power Stadium,32029,12,11,0,4,0,3,41.3,264,376,3,25,0.4,2,10,15,0,23
+Leicester City,Watford,False,2015,King Power Stadium,32029,8,10,1,2,0,4,58.7,410,556,1,12,0.4,0,7,13,0,26
+Manchester United,West Bromwich Albion,True,2015,Old Trafford,75410,13,11,1,5,0,0,67.7,540,648,3,23,0.5,5,12,15,0,12
+Manchester United,West Bromwich Albion,False,2015,Old Trafford,75410,4,10,3,2,1,1,32.3,189,304,4,13,0.3,1,16,21,0,27
+Norwich City,Swansea City,True,2015,Carrow Road,27029,9,12,1,5,0,0,32.9,277,338,5,18,0.4,0,8,11,0,13
+Norwich City,Swansea City,False,2015,Carrow Road,27029,8,7,0,2,0,4,67.1,627,706,3,16,0.6,1,10,12,0,15
+Stoke City,Chelsea,False,2015,bet365 Stadium,27550,19,10,1,9,0,1,63.2,399,488,2,18,0.4,7,15,19,0,12
+Stoke City,Chelsea,True,2015,bet365 Stadium,27550,8,13,3,1,0,4,36.8,195,282,5,13,0.4,1,9,15,0,21
+Sunderland,Southampton,False,2015,Stadium of Light,41781,14,11,3,7,0,3,64.2,431,551,5,33,0.4,4,13,14,0,34
+Sunderland,Southampton,True,2015,Stadium of Light,41781,9,10,1,3,0,4,35.8,206,314,3,14,0.3,1,11,13,0,52
+West Ham United,Everton,False,2015,Boleyn Ground,34977,13,12,2,5,0,4,49.2,361,427,4,16,0.5,3,8,10,0,24
+West Ham United,Everton,True,2015,Boleyn Ground,34977,16,11,1,3,0,3,50.8,379,435,6,23,0.5,3,14,18,0,16
+Arsenal,Tottenham Hotspur,True,2015,Emirates Stadium,60060,10,12,0,7,0,3,54.9,344,458,8,23,0.5,1,25,35,0,20
+Arsenal,Tottenham Hotspur,False,2015,Emirates Stadium,60060,14,17,1,6,0,3,45.1,289,383,2,14,0.4,3,15,22,0,35
+Aston Villa,Manchester City,True,2015,Villa Park,36757,3,7,1,3,0,3,40.7,323,410,2,12,0.4,0,6,7,0,30
+Aston Villa,Manchester City,False,2015,Villa Park,36757,13,7,1,8,0,0,59.3,492,578,9,35,0.7,5,9,16,0,17
+Liverpool,Crystal Palace,False,2015,Anfield,44115,9,6,2,6,0,3,36.2,191,287,4,18,0.4,1,20,25,0,40
+Liverpool,Crystal Palace,True,2015,Anfield,44115,22,7,1,14,0,2,63.8,408,499,6,33,0.5,9,22,28,0,19
+Chelsea,Norwich City,True,2015,Stamford Bridge,41582,21,4,1,6,0,2,64.4,517,606,5,29,0.6,5,13,19,0,20
+Chelsea,Norwich City,False,2015,Stamford Bridge,41582,4,12,4,5,0,6,35.6,225,331,4,15,0.3,1,19,26,0,34
+Everton,Aston Villa,False,2015,Goodison Park,38424,10,9,0,3,0,5,40.1,337,403,2,9,0.5,4,10,18,0,15
+Everton,Aston Villa,True,2015,Goodison Park,38424,16,6,0,2,0,3,59.9,535,608,3,11,0.6,3,18,23,0,13
+Manchester City,Liverpool,False,2015,Etihad Stadium,54444,14,13,3,5,0,2,41.6,265,390,2,8,0.3,3,26,32,0,28
+Manchester City,Liverpool,True,2015,Etihad Stadium,54444,11,5,0,11,0,6,58.4,406,530,3,32,0.5,3,13,16,0,26
+Newcastle United,Leicester City,False,2015,St. James' Park,50151,18,12,1,9,0,1,45.7,281,375,5,24,0.5,6,24,27,0,16
+Newcastle United,Leicester City,True,2015,St. James' Park,50151,9,9,4,4,0,4,54.3,349,454,3,18,0.5,4,16,20,0,19
+Southampton,Stoke City,True,2015,St. Mary's Stadium,30039,15,8,2,7,0,3,58.2,403,517,7,40,0.5,1,13,16,0,8
+Southampton,Stoke City,False,2015,St. Mary's Stadium,30039,16,8,0,3,0,1,41.8,289,389,3,10,0.4,1,8,13,0,38
+Swansea City,AFC Bournemouth,False,2015,Swansea.com Stadium,20878,16,9,2,5,0,2,57.3,438,535,3,18,0.5,6,9,11,0,19
+Swansea City,AFC Bournemouth,True,2015,Swansea.com Stadium,20878,11,8,3,4,0,2,42.7,301,401,5,17,0.5,5,11,17,0,39
+Watford,Manchester United,False,2015,Vicarage Road,20702,13,12,2,10,0,4,56.4,381,499,7,22,0.4,2,10,18,0,19
+Watford,Manchester United,True,2015,Vicarage Road,20702,10,6,1,4,0,5,43.6,246,385,3,15,0.3,3,16,28,0,32
+West Bromwich Albion,Arsenal,False,2015,The Hawthorns,24343,11,10,2,5,0,0,73,590,684,5,23,0.5,1,10,13,0,17
+West Bromwich Albion,Arsenal,True,2015,The Hawthorns,24343,4,14,3,3,0,2,27,161,247,1,16,0.3,1,13,20,0,28
+Tottenham Hotspur,West Ham United,True,2015,White Hart Lane,35968,22,13,2,7,0,3,55.8,392,484,3,19,0.5,5,18,21,0,29
+Tottenham Hotspur,West Ham United,False,2015,White Hart Lane,35968,10,9,2,6,0,8,44.2,285,372,4,23,0.5,3,20,28,0,26
+Crystal Palace,Sunderland,True,2015,Selhurst Park,24361,19,18,1,11,0,3,66.6,371,452,8,48,0.6,4,13,15,0,22
+Crystal Palace,Sunderland,False,2015,Selhurst Park,24361,12,11,3,2,0,7,33.4,147,244,3,7,0.3,2,22,26,0,66
+AFC Bournemouth,Everton,True,2015,Vitality Stadium,11228,19,6,2,10,0,3,57.3,447,542,7,29,0.6,4,22,22,0,21
+AFC Bournemouth,Everton,False,2015,Vitality Stadium,11228,11,6,0,5,0,7,42.7,309,407,3,13,0.4,4,17,24,0,27
+Aston Villa,Watford,True,2015,Villa Park,35057,12,6,2,10,0,4,65.1,402,494,4,31,0.5,2,7,9,0,30
+Aston Villa,Watford,False,2015,Villa Park,35057,14,13,3,10,0,4,34.9,157,263,5,21,0.3,6,17,21,0,35
+Crystal Palace,Newcastle United,True,2015,Selhurst Park,24833,19,7,1,7,0,1,53.7,375,449,9,31,0.5,5,16,18,0,17
+Crystal Palace,Newcastle United,False,2015,Selhurst Park,24833,7,13,1,5,0,3,46.3,291,394,1,20,0.3,4,15,22,0,21
+Leicester City,Manchester United,True,2015,King Power Stadium,32115,7,5,0,1,0,1,31.1,171,267,1,13,0.3,2,18,27,0,26
+Leicester City,Manchester United,False,2015,King Power Stadium,32115,10,7,1,8,0,2,68.9,494,593,5,29,0.5,4,10,20,0,23
+Manchester City,Southampton,True,2015,Etihad Stadium,54102,16,14,2,6,0,7,45.9,312,390,6,16,0.5,6,21,28,0,30
+Manchester City,Southampton,False,2015,Etihad Stadium,54102,12,11,1,4,0,6,54.1,377,463,3,11,0.4,2,14,18,0,18
+Sunderland,Stoke City,False,2015,Stadium of Light,41516,7,10,2,5,1,3,51.8,405,476,2,15,0.5,1,7,8,0,23
+Sunderland,Stoke City,True,2015,Stadium of Light,41516,18,4,0,9,0,3,48.2,366,436,6,21,0.5,6,15,18,0,14
+Liverpool,Swansea City,True,2015,Anfield,43905,10,12,3,8,0,0,53.7,435,534,6,22,0.4,5,20,24,0,27
+Liverpool,Swansea City,False,2015,Anfield,43905,9,6,1,7,0,1,46.3,366,449,3,27,0.5,4,14,22,0,24
+Norwich City,Arsenal,False,2015,Carrow Road,27091,12,6,1,6,0,1,63.4,547,626,5,28,0.6,4,8,10,0,24
+Norwich City,Arsenal,True,2015,Carrow Road,27091,7,8,1,3,0,2,36.6,270,354,4,20,0.5,1,13,16,0,36
+Tottenham Hotspur,Chelsea,False,2015,White Hart Lane,35639,5,9,2,4,0,4,42.3,252,360,1,15,0.5,1,14,23,0,21
+Tottenham Hotspur,Chelsea,True,2015,White Hart Lane,35639,9,14,4,4,0,1,57.7,391,497,3,16,0.3,3,13,15,0,41
+West Ham United,West Bromwich Albion,False,2015,Boleyn Ground,34914,7,16,2,2,0,5,39.1,191,274,6,21,0.4,0,16,23,0,25
+West Ham United,West Bromwich Albion,True,2015,Boleyn Ground,34914,17,15,0,5,0,3,60.9,342,435,5,20,0.6,3,17,20,0,24
+Arsenal,Sunderland,True,2015,Emirates Stadium,59937,16,7,1,3,0,4,72.5,618,712,2,14,0.5,5,17,20,0,20
+Arsenal,Sunderland,False,2015,Emirates Stadium,59937,11,11,1,2,0,4,27.5,186,257,3,18,0.4,1,10,13,0,34
+Chelsea,AFC Bournemouth,False,2015,Stamford Bridge,41631,15,13,1,4,0,6,37.1,237,323,0,10,0.3,6,15,19,0,36
+Chelsea,AFC Bournemouth,True,2015,Stamford Bridge,41631,19,10,2,11,0,4,62.9,445,524,9,44,0.7,4,19,21,0,20
+Manchester United,West Ham United,True,2015,Old Trafford,75350,21,10,1,6,0,2,62.6,412,496,8,35,0.5,9,16,18,0,11
+Manchester United,West Ham United,False,2015,Old Trafford,75350,9,13,0,2,0,1,37.4,222,302,5,13,0.5,2,18,27,0,34
+Southampton,Aston Villa,False,2015,St. Mary's Stadium,29645,9,9,2,4,0,4,36.9,236,332,5,10,0.4,3,7,12,0,34
+Southampton,Aston Villa,True,2015,St. Mary's Stadium,29645,23,4,1,10,0,1,63.1,438,539,16,45,0.5,6,19,25,0,9
+Stoke City,Manchester City,False,2015,bet365 Stadium,27264,11,10,1,6,0,2,53.5,334,462,6,21,0.4,1,19,27,0,7
+Stoke City,Manchester City,True,2015,bet365 Stadium,27264,7,9,0,1,0,4,46.5,305,413,2,9,0.2,0,13,17,0,18
+Swansea City,Leicester City,False,2015,Swansea.com Stadium,20836,16,19,3,8,0,2,41,278,386,3,13,0.4,6,17,19,0,22
+Swansea City,Leicester City,True,2015,Swansea.com Stadium,20836,10,3,2,3,0,2,59,447,543,8,27,0.6,0,15,20,0,31
+Watford,Norwich City,False,2015,Vicarage Road,20422,7,10,3,1,0,5,49.6,244,373,4,19,0.4,2,5,9,0,44
+Watford,Norwich City,True,2015,Vicarage Road,20422,14,11,3,4,0,1,50.4,258,385,3,13,0.3,3,8,11,0,37
+West Bromwich Albion,Tottenham Hotspur,False,2015,The Hawthorns,23602,9,10,2,6,0,3,64.6,458,559,2,15,0.4,4,14,15,0,23
+West Bromwich Albion,Tottenham Hotspur,True,2015,The Hawthorns,23602,11,13,3,3,0,2,35.4,192,286,6,25,0.4,4,13,15,0,15
+Newcastle United,Liverpool,False,2015,St. James' Park,51273,10,10,1,7,0,0,60.2,447,574,8,25,0.5,2,20,26,0,11
+Newcastle United,Liverpool,True,2015,St. James' Park,51273,6,6,3,2,0,1,39.8,264,389,3,7,0.4,1,22,26,0,22
+Everton,Crystal Palace,False,2015,Goodison Park,35736,14,11,2,6,0,3,38,251,331,6,21,0.4,1,16,25,0,40
+Everton,Crystal Palace,True,2015,Goodison Park,35736,19,4,1,13,0,4,62,439,526,7,39,0.6,7,18,24,0,24
+AFC Bournemouth,Manchester United,True,2015,Vitality Stadium,11334,11,12,2,5,0,4,43.5,300,370,3,16,0.5,0,22,27,0,39
+AFC Bournemouth,Manchester United,False,2015,Vitality Stadium,11334,11,12,1,7,0,3,56.5,389,474,5,26,0.5,3,18,23,0,17
+Crystal Palace,Southampton,True,2015,Selhurst Park,24914,12,11,0,8,0,3,43.8,190,296,5,26,0.3,4,14,17,0,40
+Crystal Palace,Southampton,False,2015,Selhurst Park,24914,15,13,0,5,0,4,56.2,296,397,6,20,0.4,4,9,14,0,47
+Manchester City,Swansea City,True,2015,Etihad Stadium,53052,13,13,3,5,0,6,53,496,557,4,14,0.6,4,11,15,0,24
+Manchester City,Swansea City,False,2015,Etihad Stadium,53052,13,15,1,5,0,3,47,431,492,4,14,0.8,3,13,16,0,16
+Norwich City,Everton,False,2015,Carrow Road,27027,15,6,0,4,0,1,58.6,477,572,6,17,0.5,2,7,11,0,23
+Norwich City,Everton,True,2015,Carrow Road,27027,9,9,1,5,0,2,41.4,308,402,1,19,0.5,2,14,18,0,35
+Sunderland,Watford,True,2015,Stadium of Light,43989,14,6,1,8,0,7,48.6,303,415,9,36,0.4,1,5,8,0,28
+Sunderland,Watford,False,2015,Stadium of Light,43989,13,9,0,3,0,2,51.4,339,464,3,11,0.4,3,16,19,0,28
+West Ham United,Stoke City,False,2015,Boleyn Ground,34857,12,9,2,7,0,10,53.3,296,397,1,20,0.3,5,15,21,0,23
+West Ham United,Stoke City,True,2015,Boleyn Ground,34857,24,7,1,11,0,3,46.7,247,335,11,34,0.4,8,12,15,0,35
+Aston Villa,Arsenal,False,2015,Villa Park,33285,8,7,0,5,0,2,54.2,440,522,3,13,0.5,1,12,18,0,20
+Aston Villa,Arsenal,True,2015,Villa Park,33285,18,8,0,5,0,2,45.8,356,427,6,23,0.6,4,12,16,0,17
+Liverpool,West Bromwich Albion,True,2015,Anfield,44147,28,7,0,4,0,0,70.4,529,642,7,29,0.6,9,14,17,0,8
+Liverpool,West Bromwich Albion,False,2015,Anfield,44147,4,10,0,4,0,6,29.6,171,270,2,13,0.4,0,6,9,0,41
+Tottenham Hotspur,Newcastle United,False,2015,White Hart Lane,35768,8,14,2,2,0,7,41.7,219,335,4,17,0.5,2,20,25,0,25
+Tottenham Hotspur,Newcastle United,True,2015,White Hart Lane,35768,20,13,2,6,0,2,58.3,364,477,4,14,0.5,5,13,18,0,28
+Leicester City,Chelsea,False,2015,King Power Stadium,32054,11,8,0,8,0,3,65.6,420,522,7,32,0.5,4,9,14,0,32
+Leicester City,Chelsea,True,2015,King Power Stadium,32054,9,16,2,1,0,3,34.4,164,275,2,15,0.3,1,18,26,0,33
+Chelsea,Sunderland,True,2015,Stamford Bridge,41562,17,12,1,2,0,2,67.2,489,577,7,17,0.5,4,12,17,0,20
+Chelsea,Sunderland,False,2015,Stamford Bridge,41562,11,12,3,2,0,4,32.8,194,280,2,6,0.3,2,18,27,0,32
+Everton,Leicester City,True,2015,Goodison Park,39570,13,6,2,10,0,2,67.4,416,538,7,32,0.6,3,11,13,0,21
+Everton,Leicester City,False,2015,Goodison Park,39570,10,14,1,2,0,3,32.6,167,272,3,7,0.3,0,23,30,0,33
+Manchester United,Norwich City,True,2015,Old Trafford,75320,11,4,0,11,0,2,69.2,499,605,11,52,0.6,3,14,17,0,6
+Manchester United,Norwich City,False,2015,Old Trafford,75320,6,10,2,0,0,1,30.8,197,283,1,8,0.3,0,12,15,0,69
+Newcastle United,Aston Villa,False,2015,St. James' Park,48234,10,14,3,7,0,3,52.8,311,414,6,32,0.5,0,19,22,0,17
+Newcastle United,Aston Villa,True,2015,St. James' Park,48234,8,9,1,3,0,6,47.2,249,370,9,24,0.4,0,18,26,0,32
+Southampton,Tottenham Hotspur,True,2015,St. Mary's Stadium,31636,11,18,1,4,0,3,51,277,386,11,27,0.5,5,21,24,0,14
+Southampton,Tottenham Hotspur,False,2015,St. Mary's Stadium,31636,12,9,1,7,0,4,49,278,383,1,16,0.4,3,14,20,0,23
+Stoke City,Crystal Palace,False,2015,bet365 Stadium,27500,12,12,0,3,0,4,41.6,241,342,4,14,0.3,2,13,16,0,26
+Stoke City,Crystal Palace,True,2015,bet365 Stadium,27500,26,6,2,7,0,1,58.4,377,469,8,32,0.4,11,14,17,0,17
+West Bromwich Albion,AFC Bournemouth,False,2015,The Hawthorns,26127,16,9,1,8,0,1,67.4,490,552,3,20,0.7,5,12,12,0,33
+West Bromwich Albion,AFC Bournemouth,True,2015,The Hawthorns,26127,7,12,2,4,2,4,32.6,183,257,6,20,0.5,3,8,10,0,18
+Swansea City,West Ham United,True,2015,Swansea.com Stadium,20661,22,6,0,8,0,2,72.7,572,678,7,26,0.5,11,10,18,0,21
+Swansea City,West Ham United,False,2015,Swansea.com Stadium,20661,11,9,1,9,0,2,27.3,162,239,4,21,0.5,3,9,13,0,41
+Watford,Liverpool,False,2015,Vicarage Road,20707,12,9,0,9,0,2,64.9,376,500,6,24,0.4,4,17,19,0,30
+Watford,Liverpool,True,2015,Vicarage Road,20707,6,6,1,7,0,4,35.1,144,268,3,17,0.3,1,22,28,0,23
+Arsenal,Manchester City,True,2015,Emirates Stadium,60053,8,5,0,4,0,5,37.3,300,386,2,17,0.5,0,13,20,0,29
+Arsenal,Manchester City,False,2015,Emirates Stadium,60053,20,16,2,8,0,3,62.7,571,648,4,29,0.6,6,10,19,0,27
+AFC Bournemouth,Crystal Palace,True,2015,Vitality Stadium,11218,10,10,1,8,0,1,55.2,366,464,4,20,0.4,2,21,26,0,37
+AFC Bournemouth,Crystal Palace,False,2015,Vitality Stadium,11218,8,13,0,9,0,4,44.8,263,369,10,27,0.4,3,13,18,0,28
+Aston Villa,West Ham United,True,2015,Villa Park,38193,15,14,3,9,0,3,59.1,354,431,7,43,0.5,2,14,18,0,29
+Aston Villa,West Ham United,False,2015,Villa Park,38193,10,13,3,6,0,7,40.9,222,309,2,16,0.3,2,13,21,0,48
+Chelsea,Watford,True,2015,Stamford Bridge,41630,17,7,1,9,0,1,62.4,454,544,3,27,0.6,7,15,21,0,12
+Chelsea,Watford,False,2015,Stamford Bridge,41630,12,15,4,4,0,0,37.6,243,327,2,14,0.4,5,24,29,0,22
+Liverpool,Leicester City,False,2015,Anfield,44123,7,8,1,6,0,4,35.2,159,278,4,17,0.3,1,17,21,0,47
+Liverpool,Leicester City,True,2015,Anfield,44123,26,11,2,7,0,3,64.8,391,517,4,26,0.6,9,15,18,0,50
+Manchester City,Sunderland,True,2015,Etihad Stadium,54523,19,10,1,6,0,2,66.4,542,615,5,17,0.6,4,10,15,0,20
+Manchester City,Sunderland,False,2015,Etihad Stadium,54523,11,11,1,1,0,5,33.6,238,306,7,14,0.5,0,16,20,0,24
+Newcastle United,Everton,False,2015,St. James' Park,51682,20,12,2,7,0,1,59.1,456,517,9,32,0.6,8,15,18,0,16
+Newcastle United,Everton,True,2015,St. James' Park,51682,10,16,2,3,0,6,40.9,287,365,4,19,0.6,3,17,23,0,28
+Southampton,Arsenal,False,2015,St. Mary's Stadium,31669,8,9,0,4,0,1,64.8,487,571,8,22,0.4,0,7,11,0,20
+Southampton,Arsenal,True,2015,St. Mary's Stadium,31669,14,10,1,3,0,5,35.2,231,312,3,11,0.3,4,15,22,0,22
+Stoke City,Manchester United,False,2015,bet365 Stadium,27426,11,16,2,12,0,1,58.5,350,453,4,26,0.4,2,11,16,0,10
+Stoke City,Manchester United,True,2015,bet365 Stadium,27426,13,13,1,1,0,6,41.5,237,334,1,6,0.3,2,21,24,0,27
+Swansea City,West Bromwich Albion,True,2015,Swansea.com Stadium,20789,7,10,1,0,0,3,55.5,403,513,0,5,0.3,2,12,15,0,28
+Swansea City,West Bromwich Albion,False,2015,Swansea.com Stadium,20789,9,13,3,7,0,1,44.5,282,386,5,32,0.4,3,9,14,0,10
+Tottenham Hotspur,Norwich City,False,2015,White Hart Lane,35198,11,13,2,4,0,7,40.2,266,354,6,16,0.4,1,13,18,0,31
+Tottenham Hotspur,Norwich City,True,2015,White Hart Lane,35198,15,4,1,9,0,3,59.8,428,533,3,18,0.5,2,15,18,0,19
+Arsenal,AFC Bournemouth,False,2015,Emirates Stadium,59983,10,8,0,3,0,4,48.6,433,516,0,10,0.5,4,16,20,0,27
+Arsenal,AFC Bournemouth,True,2015,Emirates Stadium,59983,12,7,2,9,0,3,51.4,453,530,8,28,0.4,2,16,18,0,11
+Crystal Palace,Swansea City,True,2015,Selhurst Park,23714,10,11,3,7,0,3,53.6,303,407,10,39,0.4,2,9,12,0,14
+Crystal Palace,Swansea City,False,2015,Selhurst Park,23714,5,16,2,4,0,2,46.4,279,373,0,12,0.4,2,5,11,0,39
+Everton,Stoke City,True,2015,Goodison Park,39340,15,10,2,6,0,1,51.3,409,481,2,23,0.6,6,17,19,0,17
+Everton,Stoke City,False,2015,Goodison Park,39340,8,12,1,2,0,0,48.7,406,472,0,9,0.6,2,17,21,0,31
+Manchester United,Chelsea,False,2015,Old Trafford,75275,8,6,2,3,0,2,33.2,222,312,3,10,0.4,0,23,26,0,29
+Manchester United,Chelsea,True,2015,Old Trafford,75275,12,16,4,5,0,3,66.8,549,617,4,29,0.7,5,18,21,0,10
+Norwich City,Aston Villa,False,2015,Carrow Road,27071,6,21,5,8,0,2,51.8,295,383,8,25,0.5,1,16,20,0,30
+Norwich City,Aston Villa,True,2015,Carrow Road,27071,9,10,2,3,0,3,48.2,253,361,2,16,0.4,1,18,20,0,23
+Watford,Tottenham Hotspur,False,2015,Vicarage Road,20730,10,13,2,3,0,0,62.5,410,525,3,22,0.6,0,11,12,0,30
+Watford,Tottenham Hotspur,True,2015,Vicarage Road,20730,9,11,4,5,1,1,37.5,188,312,3,15,0.3,4,12,15,0,22
+West Bromwich Albion,Newcastle United,False,2015,The Hawthorns,26313,7,13,0,6,0,4,48.3,264,334,7,24,0.5,2,13,15,0,47
+West Bromwich Albion,Newcastle United,True,2015,The Hawthorns,26313,22,7,0,18,0,2,51.7,260,343,10,43,0.6,12,16,20,0,16
+West Ham United,Southampton,False,2015,Boleyn Ground,34977,14,12,3,7,0,3,50.9,304,409,4,35,0.4,3,19,21,0,27
+West Ham United,Southampton,True,2015,Boleyn Ground,34977,13,6,1,4,0,3,49.1,300,408,5,18,0.4,1,20,23,0,41
+Leicester City,Manchester City,True,2015,King Power Stadium,32072,11,11,1,1,0,5,39.3,205,329,5,17,0.3,0,9,14,0,36
+Leicester City,Manchester City,False,2015,King Power Stadium,32072,21,8,3,13,0,4,60.7,380,498,5,39,0.5,7,12,18,0,35
+Sunderland,Liverpool,False,2015,Stadium of Light,45765,17,16,3,4,0,3,57.7,337,465,2,11,0.3,4,12,16,0,29
+Sunderland,Liverpool,True,2015,Stadium of Light,45765,8,8,1,6,0,5,42.3,216,326,2,19,0.3,2,10,13,0,46
+Arsenal,Newcastle United,True,2015,Emirates Stadium,59257,15,10,2,7,0,6,51,398,468,7,25,0.6,2,15,19,0,13
+Arsenal,Newcastle United,False,2015,Emirates Stadium,59257,15,9,2,4,0,2,49,386,454,8,24,0.6,4,13,20,0,16
+Leicester City,AFC Bournemouth,False,2015,King Power Stadium,32006,9,5,1,1,1,2,46.5,324,426,0,13,0.6,5,19,24,0,45
+Leicester City,AFC Bournemouth,True,2015,King Power Stadium,32006,16,9,1,7,0,0,53.5,377,479,6,30,0.5,2,15,18,0,8
+Manchester United,Swansea City,True,2015,Old Trafford,75415,19,14,2,4,0,3,54.7,430,515,4,21,0.6,8,15,19,0,7
+Manchester United,Swansea City,False,2015,Old Trafford,75415,9,10,1,2,0,4,45.3,336,430,3,10,0.4,2,13,16,0,26
+Norwich City,Southampton,True,2015,Carrow Road,27022,10,9,1,4,0,4,41.6,246,356,3,13,0.4,2,6,9,0,47
+Norwich City,Southampton,False,2015,Carrow Road,27022,10,7,0,9,1,0,58.4,379,494,2,27,0.4,1,16,19,0,23
+Sunderland,Aston Villa,False,2015,Stadium of Light,41535,8,13,4,3,0,3,55.1,370,470,6,21,0.5,0,12,14,0,22
+Sunderland,Aston Villa,True,2015,Stadium of Light,41535,13,8,3,3,0,2,44.9,281,381,5,21,0.3,3,19,21,0,33
+Watford,Manchester City,False,2015,Vicarage Road,20676,16,10,0,5,0,3,51.5,328,436,5,18,0.4,4,21,28,0,40
+Watford,Manchester City,True,2015,Vicarage Road,20676,12,6,1,4,0,3,48.5,296,410,0,17,0.5,2,12,18,0,19
+West Bromwich Albion,Stoke City,False,2015,The Hawthorns,23218,10,15,1,6,1,3,54.3,336,429,5,20,0.4,5,10,13,0,21
+West Bromwich Albion,Stoke City,True,2015,The Hawthorns,23218,17,7,1,4,0,2,45.7,265,360,7,22,0.4,6,11,16,0,16
+West Ham United,Liverpool,False,2015,Boleyn Ground,34977,23,8,1,9,0,8,64.4,390,501,8,33,0.5,12,16,18,0,19
+West Ham United,Liverpool,True,2015,Boleyn Ground,34977,18,11,1,3,0,2,35.6,189,285,7,12,0.4,3,15,22,0,54
+Crystal Palace,Chelsea,False,2015,Selhurst Park,24854,10,15,0,7,0,4,60.2,488,593,3,12,0.5,4,20,23,0,21
+Crystal Palace,Chelsea,True,2015,Selhurst Park,24854,8,12,3,5,0,1,39.8,274,373,7,28,0.3,2,10,17,0,19
+Everton,Tottenham Hotspur,True,2015,Goodison Park,38482,12,8,1,4,0,3,40.8,310,406,5,15,0.6,5,16,21,0,33
+Everton,Tottenham Hotspur,False,2015,Goodison Park,38482,19,11,2,4,0,2,59.2,505,599,4,15,0.6,11,10,18,0,25
+AFC Bournemouth,West Ham United,True,2015,Vitality Stadium,11071,11,8,1,4,0,2,48.7,311,413,1,10,0.3,4,13,18,0,25
+AFC Bournemouth,West Ham United,False,2015,Vitality Stadium,11071,10,5,1,7,0,3,51.3,321,432,3,17,0.4,1,15,21,0,20
+Aston Villa,Crystal Palace,True,2015,Villa Park,28245,13,15,2,9,0,1,51.3,342,434,1,25,0.5,7,17,25,0,26
+Aston Villa,Crystal Palace,False,2015,Villa Park,28245,9,9,1,0,0,3,48.7,313,427,3,7,0.4,1,7,10,0,18
+Newcastle United,Manchester United,False,2015,St. James' Park,49673,12,12,3,3,0,3,45.8,350,432,4,16,0.5,3,21,22,0,27
+Newcastle United,Manchester United,True,2015,St. James' Park,49673,14,10,1,5,0,1,54.2,428,514,0,20,0.6,4,19,27,0,14
+Chelsea,West Bromwich Albion,True,2015,Stamford Bridge,40945,14,13,3,7,0,3,61.1,430,528,2,15,0.4,4,7,13,0,34
+Chelsea,West Bromwich Albion,False,2015,Stamford Bridge,40945,13,8,3,7,0,1,38.9,211,317,8,31,0.3,2,15,21,0,18
+Liverpool,Arsenal,False,2015,Anfield,44109,14,7,0,3,0,3,40.5,271,378,3,6,0.5,4,13,20,0,40
+Liverpool,Arsenal,True,2015,Anfield,44109,22,9,2,9,0,2,59.5,423,535,4,28,0.5,10,12,21,0,20
+Manchester City,Everton,False,2015,Etihad Stadium,53796,7,6,1,5,0,5,45,411,468,2,13,0.6,2,6,14,0,35
+Manchester City,Everton,True,2015,Etihad Stadium,53796,22,5,0,12,0,2,55,487,544,9,49,0.6,10,11,16,0,15
+Southampton,Watford,True,2015,St. Mary's Stadium,28399,15,9,1,9,0,1,50.6,351,458,6,36,0.4,1,19,22,0,30
+Southampton,Watford,False,2015,St. Mary's Stadium,28399,4,11,2,1,0,5,49.4,342,465,0,15,0.4,3,5,11,0,29
+Stoke City,Norwich City,False,2015,bet365 Stadium,27274,5,8,1,3,1,2,35.6,270,348,1,12,0.4,0,8,10,0,29
+Stoke City,Norwich City,True,2015,bet365 Stadium,27274,14,5,0,7,0,1,64.4,552,621,6,30,0.6,3,15,21,0,13
+Swansea City,Sunderland,False,2015,Swansea.com Stadium,20140,7,12,2,6,0,3,48.8,355,430,3,17,0.4,0,18,22,0,33
+Swansea City,Sunderland,True,2015,Swansea.com Stadium,20140,10,9,0,8,1,1,51.2,367,451,4,20,0.5,2,8,11,0,10
+Tottenham Hotspur,Leicester City,False,2015,White Hart Lane,35850,10,10,0,8,0,5,38.3,180,293,3,15,0.3,5,21,28,0,51
+Tottenham Hotspur,Leicester City,True,2015,White Hart Lane,35850,21,13,1,16,0,1,61.7,358,454,10,42,0.5,11,5,14,0,37
+AFC Bournemouth,Norwich City,True,2015,Vitality Stadium,11065,15,8,1,5,0,3,45.4,261,353,5,16,0.3,1,12,19,0,26
+AFC Bournemouth,Norwich City,False,2015,Vitality Stadium,11065,10,13,1,3,0,5,54.6,330,418,3,25,0.5,4,17,21,0,21
+Aston Villa,Leicester City,True,2015,Villa Park,32763,14,13,3,3,0,4,56.5,388,500,6,30,0.6,4,14,18,0,17
+Aston Villa,Leicester City,False,2015,Villa Park,32763,12,15,2,4,0,4,43.5,285,398,3,11,0.5,2,15,20,0,33
+Chelsea,Everton,True,2015,Stamford Bridge,41633,14,12,1,6,0,2,54.9,494,569,5,31,0.6,4,21,26,0,15
+Chelsea,Everton,False,2015,Stamford Bridge,41633,9,5,1,4,0,4,45.1,391,477,3,12,0.6,2,16,18,0,34
+Manchester City,Crystal Palace,False,2015,Etihad Stadium,53983,9,11,2,6,0,0,47.2,330,426,5,25,0.4,1,11,24,0,10
+Manchester City,Crystal Palace,True,2015,Etihad Stadium,53983,17,10,0,5,0,3,52.8,405,490,3,13,0.4,7,15,22,0,34
+Newcastle United,West Ham United,True,2015,St. James' Park,50031,23,9,1,4,0,2,50.7,371,457,4,14,0.5,5,23,24,0,21
+Newcastle United,West Ham United,False,2015,St. James' Park,50031,10,4,0,3,0,8,49.3,351,436,3,18,0.5,2,19,23,0,17
+Southampton,West Bromwich Albion,True,2015,St. Mary's Stadium,29622,9,10,0,1,0,0,55.8,375,465,5,18,0.4,2,13,14,0,34
+Southampton,West Bromwich Albion,False,2015,St. Mary's Stadium,29622,10,11,0,3,0,2,44.2,260,355,6,26,0.4,3,12,16,0,21
+Tottenham Hotspur,Sunderland,False,2015,White Hart Lane,35854,5,13,2,3,0,7,33.4,210,316,0,7,0.4,1,14,19,0,33
+Tottenham Hotspur,Sunderland,True,2015,White Hart Lane,35854,26,8,0,11,0,1,66.6,521,621,8,26,0.5,6,15,18,0,19
+Liverpool,Manchester United,True,2015,Anfield,43865,19,6,0,5,0,0,53.3,366,491,6,21,0.5,5,27,36,0,11
+Liverpool,Manchester United,False,2015,Anfield,43865,7,18,2,4,0,4,46.7,315,431,3,13,0.4,1,14,26,0,33
+Stoke City,Arsenal,False,2015,bet365 Stadium,27683,8,10,0,6,0,6,55,386,495,3,16,0.4,4,7,11,0,34
+Stoke City,Arsenal,True,2015,bet365 Stadium,27683,14,16,0,6,0,3,45,309,406,2,18,0.4,5,8,9,0,18
+Swansea City,Watford,True,2015,Swansea.com Stadium,20430,10,8,2,6,0,2,56.8,399,500,4,28,0.5,4,13,17,0,57
+Swansea City,Watford,False,2015,Swansea.com Stadium,20430,13,11,2,3,0,1,43.2,271,377,4,23,0.5,3,23,32,0,30
+Crystal Palace,Tottenham Hotspur,True,2015,Selhurst Park,24867,11,11,2,3,0,8,36.1,193,290,5,24,0.4,5,19,22,0,24
+Crystal Palace,Tottenham Hotspur,False,2015,Selhurst Park,24867,24,12,2,10,0,3,63.9,436,533,6,23,0.5,7,14,17,0,44
+Leicester City,Stoke City,True,2015,King Power Stadium,32018,15,10,0,8,0,2,45.2,260,359,3,24,0.4,3,13,19,0,19
+Leicester City,Stoke City,False,2015,King Power Stadium,32018,3,13,1,4,0,2,54.8,334,441,3,25,0.5,1,17,20,0,25
+Manchester United,Southampton,True,2015,Old Trafford,75408,8,11,0,4,0,1,55.4,331,457,0,16,0.3,2,8,9,0,22
+Manchester United,Southampton,False,2015,Old Trafford,75408,7,8,0,4,0,1,44.6,237,361,5,21,0.4,0,12,18,0,28
+Norwich City,Liverpool,False,2015,Carrow Road,27108,13,14,1,3,0,1,52.1,332,445,2,12,0.3,4,15,22,0,31
+Norwich City,Liverpool,True,2015,Carrow Road,27108,6,10,0,3,0,2,47.9,282,401,4,17,0.5,1,16,20,0,32
+Sunderland,AFC Bournemouth,False,2015,Stadium of Light,41367,15,9,1,4,0,4,57.3,427,505,5,20,0.5,3,12,23,0,35
+Sunderland,AFC Bournemouth,True,2015,Stadium of Light,41367,10,5,1,3,0,4,42.7,270,377,3,20,0.4,4,16,20,0,37
+Watford,Newcastle United,False,2015,Vicarage Road,20611,11,12,1,7,0,3,48.7,310,431,10,28,0.5,1,11,18,0,17
+Watford,Newcastle United,True,2015,Vicarage Road,20611,13,10,2,2,0,1,51.3,356,473,4,16,0.4,1,22,31,0,17
+West Bromwich Albion,Aston Villa,False,2015,The Hawthorns,26165,15,13,1,6,0,0,60.6,352,445,4,28,0.5,4,19,21,0,33
+West Bromwich Albion,Aston Villa,True,2015,The Hawthorns,26165,4,7,0,3,0,4,39.4,188,279,6,27,0.4,1,14,17,0,34
+West Ham United,Manchester City,False,2015,Boleyn Ground,34977,16,15,3,2,0,1,53.3,376,474,3,15,0.3,9,14,16,0,36
+West Ham United,Manchester City,True,2015,Boleyn Ground,34977,10,11,2,5,0,1,46.7,297,401,5,22,0.4,2,17,23,0,24
+Arsenal,Chelsea,True,2015,Emirates Stadium,60072,9,14,1,6,1,5,46.6,385,466,1,22,0.5,1,13,17,0,14
+Arsenal,Chelsea,False,2015,Emirates Stadium,60072,12,13,3,7,0,1,53.4,472,549,4,15,0.4,3,19,23,0,25
+Everton,Swansea City,True,2015,Goodison Park,36908,20,5,0,7,0,3,59.7,491,592,12,40,0.6,7,13,16,0,11
+Everton,Swansea City,False,2015,Goodison Park,36908,7,12,3,1,0,2,40.3,326,422,1,9,0.4,1,11,15,0,37
+Arsenal,Southampton,True,2015,Emirates Stadium,60044,22,11,2,13,0,3,66.7,439,535,13,33,0.7,5,13,23,0,14
+Arsenal,Southampton,False,2015,Emirates Stadium,60044,14,19,1,3,0,11,33.3,179,274,4,16,0.3,7,17,32,0,31
+Crystal Palace,AFC Bournemouth,False,2015,Selhurst Park,24855,8,15,4,3,0,2,49.8,288,385,1,15,0.4,2,12,15,0,45
+Crystal Palace,AFC Bournemouth,True,2015,Selhurst Park,24855,14,11,3,5,0,2,50.2,284,376,6,29,0.4,5,9,10,0,25
+Leicester City,Liverpool,True,2015,King Power Stadium,32121,13,6,0,3,0,1,36.1,207,325,3,13,0.3,3,10,16,0,39
+Leicester City,Liverpool,False,2015,King Power Stadium,32121,14,7,1,12,0,4,63.9,438,566,6,32,0.5,8,23,30,0,29
+Manchester United,Stoke City,True,2015,Old Trafford,75234,15,13,2,2,0,0,46.9,379,461,5,14,0.5,5,15,21,0,27
+Manchester United,Stoke City,False,2015,Old Trafford,75234,10,13,1,5,0,2,53.1,428,519,3,18,0.6,3,10,12,0,8
+Norwich City,Tottenham Hotspur,True,2015,Carrow Road,27067,11,8,2,6,0,3,45.8,255,355,5,24,0.5,2,11,17,0,32
+Norwich City,Tottenham Hotspur,False,2015,Carrow Road,27067,17,9,2,8,0,3,54.2,319,426,4,17,0.4,2,17,24,0,28
+Sunderland,Manchester City,False,2015,Stadium of Light,38852,7,15,4,4,0,3,50.4,323,431,2,10,0.3,2,13,21,0,45
+Sunderland,Manchester City,True,2015,Stadium of Light,38852,11,6,1,8,0,1,49.6,291,411,3,26,0.3,3,21,33,0,39
+West Bromwich Albion,Swansea City,False,2015,The Hawthorns,22062,18,13,0,7,0,6,54.7,381,481,4,15,0.5,6,8,10,0,45
+West Bromwich Albion,Swansea City,True,2015,The Hawthorns,22062,17,12,0,7,0,3,45.3,273,373,13,43,0.5,3,8,14,0,17
+West Ham United,Aston Villa,False,2015,Boleyn Ground,34914,5,11,0,5,1,4,32,210,303,1,14,0.3,2,17,20,0,25
+West Ham United,Aston Villa,True,2015,Boleyn Ground,34914,25,9,3,5,0,2,68,578,657,6,20,0.6,3,12,16,0,19
+Everton,Newcastle United,True,2015,Goodison Park,36061,18,8,1,3,0,3,55.8,389,480,2,15,0.6,3,19,30,0,27
+Everton,Newcastle United,False,2015,Goodison Park,36061,7,15,2,3,1,4,44.2,279,372,2,17,0.5,2,17,21,0,18
+Watford,Chelsea,False,2015,Vicarage Road,20910,12,13,1,7,0,3,55,460,555,4,22,0.6,5,18,22,0,23
+Watford,Chelsea,True,2015,Vicarage Road,20910,12,10,2,7,0,4,45,348,449,3,19,0.3,7,17,20,0,20
+Aston Villa,Norwich City,True,2015,Villa Park,32472,10,10,0,2,0,5,48.3,286,386,5,19,0.3,3,11,16,0,38
+Aston Villa,Norwich City,False,2015,Villa Park,32472,13,11,2,11,0,1,51.7,296,400,7,29,0.5,3,14,20,0,27
+Liverpool,Sunderland,True,2015,Anfield,44179,16,4,1,7,0,0,71.3,576,692,7,26,0.5,4,15,16,0,10
+Liverpool,Sunderland,False,2015,Anfield,44179,7,12,1,2,0,3,28.7,175,282,2,7,0.3,1,15,19,0,46
+Manchester City,Leicester City,False,2015,Etihad Stadium,54693,14,15,2,4,0,3,34.1,190,296,6,16,0.2,2,25,27,0,27
+Manchester City,Leicester City,True,2015,Etihad Stadium,54693,22,9,2,11,0,4,65.9,481,565,7,34,0.6,6,11,14,0,29
+Newcastle United,West Bromwich Albion,True,2015,St. James' Park,50152,19,12,0,8,0,0,68.9,424,506,6,29,0.6,7,11,13,0,12
+Newcastle United,West Bromwich Albion,False,2015,St. James' Park,50152,7,12,3,4,0,6,31.1,138,228,1,12,0.3,4,15,18,0,28
+Southampton,West Ham United,True,2015,St. Mary's Stadium,29161,8,17,1,4,1,2,35.2,213,280,6,13,0.3,3,14,19,0,47
+Southampton,West Ham United,False,2015,St. Mary's Stadium,29161,18,10,2,5,0,1,64.8,441,503,9,33,0.6,10,13,19,0,24
+Stoke City,Everton,False,2015,bet365 Stadium,27733,14,8,0,4,0,3,34.5,239,326,5,13,0.4,5,14,25,0,35
+Stoke City,Everton,True,2015,bet365 Stadium,27733,12,11,1,6,0,3,65.5,527,616,3,28,0.6,4,9,13,0,7
+Swansea City,Crystal Palace,False,2015,Swansea.com Stadium,20492,12,14,2,5,0,2,41.5,241,336,5,21,0.3,4,16,22,0,35
+Swansea City,Crystal Palace,True,2015,Swansea.com Stadium,20492,18,11,1,9,0,1,58.5,373,465,7,36,0.5,7,16,26,0,35
+Tottenham Hotspur,Watford,True,2015,White Hart Lane,35997,25,12,0,15,0,0,65.9,454,555,10,39,0.5,8,13,14,0,17
+Tottenham Hotspur,Watford,False,2015,White Hart Lane,35997,3,9,1,1,0,7,34.1,191,297,3,9,0.3,1,15,23,0,35
+AFC Bournemouth,Arsenal,True,2015,Vitality Stadium,11357,17,6,0,7,0,3,50.7,391,485,3,27,0.5,6,18,22,0,24
+AFC Bournemouth,Arsenal,False,2015,Vitality Stadium,11357,10,8,1,3,0,4,49.3,393,487,1,10,0.4,3,17,19,0,32
+Chelsea,Manchester United,True,2015,Stamford Bridge,41434,16,6,0,10,0,6,49.3,326,413,11,32,0.4,5,16,23,0,26
+Chelsea,Manchester United,False,2015,Stamford Bridge,41434,17,9,3,11,0,4,50.7,350,435,6,26,0.5,4,13,20,0,30
+AFC Bournemouth,Stoke City,True,2015,Vitality Stadium,10863,11,7,4,9,0,3,65.7,471,550,5,28,0.6,5,12,15,0,8
+AFC Bournemouth,Stoke City,False,2015,Vitality Stadium,10863,11,18,2,2,0,1,34.3,221,290,1,14,0.3,1,14,16,0,30
+Chelsea,Newcastle United,True,2015,Stamford Bridge,41622,14,11,0,8,0,2,54.9,465,555,4,14,0.5,3,12,21,0,19
+Chelsea,Newcastle United,False,2015,Stamford Bridge,41622,10,16,2,5,0,2,45.1,367,452,2,20,0.4,5,11,14,0,16
+Crystal Palace,Watford,True,2015,Selhurst Park,24564,15,16,0,8,1,2,53.9,279,384,7,33,0.5,2,13,18,0,24
+Crystal Palace,Watford,False,2015,Selhurst Park,24564,10,14,1,3,0,4,46.1,227,344,1,14,0.3,4,22,30,0,34
+Everton,West Bromwich Albion,True,2015,Goodison Park,38103,33,10,1,14,0,0,75.9,557,644,11,55,0.7,15,9,14,0,17
+Everton,West Bromwich Albion,False,2015,Goodison Park,38103,5,12,4,1,0,6,24.1,123,215,3,7,0.4,1,10,17,0,64
+Norwich City,West Ham United,True,2015,Carrow Road,27101,13,16,2,3,0,4,48.4,242,376,1,18,0.4,3,16,21,0,25
+Norwich City,West Ham United,False,2015,Carrow Road,27101,11,11,2,3,0,1,51.6,293,401,2,21,0.4,0,12,14,0,23
+Sunderland,Manchester United,False,2015,Stadium of Light,41687,12,15,3,8,0,4,66.3,411,501,1,22,0.6,5,14,17,0,21
+Sunderland,Manchester United,True,2015,Stadium of Light,41687,21,7,2,6,0,5,33.7,158,251,7,17,0.4,6,11,16,0,46
+Swansea City,Southampton,False,2015,Swansea.com Stadium,20890,14,12,3,4,0,2,45.6,303,401,6,18,0.5,5,8,11,0,58
+Swansea City,Southampton,True,2015,Swansea.com Stadium,20890,13,10,0,5,0,4,54.4,368,466,5,30,0.5,3,8,11,0,27
+Arsenal,Leicester City,True,2015,Emirates Stadium,60009,24,9,4,11,0,2,72.1,578,671,20,50,0.6,6,11,17,0,18
+Arsenal,Leicester City,False,2015,Emirates Stadium,60009,7,10,3,1,1,4,27.9,160,269,2,11,0.2,0,25,37,0,32
+Aston Villa,Liverpool,True,2015,Villa Park,35798,6,10,3,0,0,3,39.3,325,410,2,13,0.4,1,11,19,0,24
+Aston Villa,Liverpool,False,2015,Villa Park,35798,11,9,1,6,0,1,60.7,540,635,4,18,0.5,1,16,24,0,17
+Manchester City,Tottenham Hotspur,True,2015,Etihad Stadium,54551,19,12,1,7,0,1,46,370,468,8,25,0.5,8,19,26,0,23
+Manchester City,Tottenham Hotspur,False,2015,Etihad Stadium,54551,6,17,3,1,0,3,54,463,564,1,13,0.5,1,27,33,0,34
+Leicester City,Norwich City,True,2015,King Power Stadium,32114,13,9,0,3,0,1,58.1,333,462,3,26,0.4,5,12,14,0,10
+Leicester City,Norwich City,False,2015,King Power Stadium,32114,9,11,2,4,0,2,41.9,231,337,6,15,0.4,3,13,17,0,56
+Southampton,Chelsea,False,2015,St. Mary's Stadium,31688,16,11,1,8,0,1,65.4,576,660,7,23,0.6,3,13,13,0,33
+Southampton,Chelsea,True,2015,St. Mary's Stadium,31688,7,10,3,7,0,2,34.6,256,338,4,26,0.5,2,12,14,0,28
+Stoke City,Aston Villa,False,2015,bet365 Stadium,27703,5,15,3,0,0,1,44.7,305,408,3,19,0.4,0,13,15,0,32
+Stoke City,Aston Villa,True,2015,bet365 Stadium,27703,11,7,0,11,0,0,55.3,391,492,8,35,0.4,2,6,10,0,19
+Watford,AFC Bournemouth,False,2015,Vicarage Road,20831,11,16,1,5,0,1,53.1,258,350,9,27,0.5,4,15,20,0,42
+Watford,AFC Bournemouth,True,2015,Vicarage Road,20831,14,14,3,4,0,3,46.9,207,313,8,20,0.3,4,10,14,0,26
+West Bromwich Albion,Crystal Palace,False,2015,The Hawthorns,24806,15,16,2,6,0,2,53.9,307,427,6,28,0.4,5,9,11,0,16
+West Bromwich Albion,Crystal Palace,True,2015,The Hawthorns,24806,11,14,2,3,0,0,46.1,266,370,4,22,0.4,1,13,14,0,34
+West Ham United,Sunderland,False,2015,Boleyn Ground,34946,13,9,0,6,0,2,47.2,246,377,1,12,0.3,3,21,26,0,26
+West Ham United,Sunderland,True,2015,Boleyn Ground,34946,9,11,1,5,0,4,52.8,296,417,2,16,0.4,0,15,17,0,24
+Manchester United,Arsenal,False,2015,Old Trafford,75329,13,15,3,3,0,2,61.1,457,543,6,15,0.6,3,8,14,0,18
+Manchester United,Arsenal,True,2015,Old Trafford,75329,7,21,4,2,0,3,38.9,265,347,1,12,0.4,1,18,24,0,29
+Tottenham Hotspur,Swansea City,False,2015,White Hart Lane,35922,10,14,3,7,0,13,42.8,218,335,3,13,0.3,4,12,18,0,47
+Tottenham Hotspur,Swansea City,True,2015,White Hart Lane,35922,34,11,2,7,0,3,57.2,349,450,6,28,0.4,6,8,11,0,25
+AFC Bournemouth,Southampton,True,2015,Vitality Stadium,11033,9,11,0,10,0,1,45.4,244,336,7,28,0.4,3,10,12,0,30
+AFC Bournemouth,Southampton,False,2015,Vitality Stadium,11033,6,18,0,2,0,2,54.6,327,424,1,16,0.6,2,11,13,0,38
+Aston Villa,Everton,True,2015,Villa Park,29755,14,8,3,9,0,4,46.8,374,457,8,35,0.6,5,15,19,0,18
+Aston Villa,Everton,False,2015,Villa Park,29755,10,7,1,8,0,4,53.2,442,537,6,18,0.5,2,11,20,0,44
+Leicester City,West Bromwich Albion,True,2015,King Power Stadium,32018,22,10,0,11,0,1,65,375,488,8,42,0.5,7,17,23,0,14
+Leicester City,West Bromwich Albion,False,2015,King Power Stadium,32018,11,8,2,3,0,3,35,168,273,2,14,0.3,2,10,14,0,38
+Norwich City,Chelsea,False,2015,Carrow Road,27091,10,5,2,4,0,1,53,427,520,2,12,0.4,4,14,22,0,27
+Norwich City,Chelsea,True,2015,Carrow Road,27091,13,17,3,4,0,0,47,346,447,4,26,0.5,4,6,13,0,19
+Sunderland,Crystal Palace,False,2015,Stadium of Light,39795,13,14,1,5,0,4,40.8,192,293,5,15,0.4,4,11,13,0,24
+Sunderland,Crystal Palace,True,2015,Stadium of Light,39795,17,11,1,4,0,3,59.2,329,427,4,20,0.4,4,15,17,0,22
+Arsenal,Swansea City,True,2015,Emirates Stadium,59905,17,8,0,7,0,0,62.6,536,621,4,22,0.6,6,21,28,0,15
+Arsenal,Swansea City,False,2015,Emirates Stadium,59905,11,11,2,3,0,3,37.4,292,369,2,12,0.4,4,15,19,0,33
+Liverpool,Manchester City,True,2015,Anfield,43597,11,14,0,3,0,1,49.6,359,468,1,10,0.4,1,27,34,0,23
+Liverpool,Manchester City,False,2015,Anfield,43597,4,14,1,2,0,4,50.4,356,470,2,13,0.4,1,21,27,0,27
+Manchester United,Watford,True,2015,Old Trafford,75272,14,7,1,9,0,4,61.3,395,504,5,19,0.4,5,18,21,0,8
+Manchester United,Watford,False,2015,Old Trafford,75272,13,17,2,7,0,2,38.7,209,307,7,22,0.5,3,23,26,0,24
+Stoke City,Newcastle United,False,2015,bet365 Stadium,27331,5,6,0,1,0,1,44.7,283,373,5,18,0.4,1,13,18,0,27
+Stoke City,Newcastle United,True,2015,bet365 Stadium,27331,9,11,1,5,0,3,55.3,369,459,1,24,0.3,2,22,29,0,26
+West Ham United,Tottenham Hotspur,False,2015,Boleyn Ground,34977,9,11,3,3,0,2,65.1,368,502,3,18,0.4,0,22,32,0,20
+West Ham United,Tottenham Hotspur,True,2015,Boleyn Ground,34977,14,10,0,6,0,3,34.9,151,266,5,15,0.3,5,12,19,0,33
+Chelsea,Stoke City,True,2015,Stamford Bridge,41381,20,9,1,8,0,4,48.7,357,441,4,24,0.6,5,13,18,0,17
+Chelsea,Stoke City,False,2015,Stamford Bridge,41381,17,10,2,4,0,6,51.3,388,477,2,15,0.5,4,15,21,0,18
+Everton,West Ham United,True,2015,Goodison Park,39000,15,12,2,9,1,2,41.6,274,343,3,24,0.5,5,13,19,0,33
+Everton,West Ham United,False,2015,Goodison Park,39000,17,13,3,6,0,6,58.4,416,476,8,35,0.5,5,16,23,0,24
+Manchester City,Aston Villa,False,2015,Etihad Stadium,53892,2,10,1,1,0,5,28.8,251,328,2,9,0.5,1,20,23,0,31
+Manchester City,Aston Villa,True,2015,Etihad Stadium,53892,22,10,0,9,0,1,71.2,739,811,8,25,0.8,3,11,17,0,4
+Newcastle United,AFC Bournemouth,False,2015,St. James' Park,52107,16,8,3,4,0,2,50.7,341,448,3,17,0.4,7,9,20,0,33
+Newcastle United,AFC Bournemouth,True,2015,St. James' Park,52107,14,14,1,5,0,3,49.3,325,433,5,20,0.4,6,16,26,0,27
+Southampton,Sunderland,True,2015,St. Mary's Stadium,31458,16,9,2,12,1,2,65.1,392,496,4,34,0.5,7,5,10,0,40
+Southampton,Sunderland,False,2015,St. Mary's Stadium,31458,11,9,1,2,0,4,34.9,148,265,2,19,0.3,4,8,12,0,37
+Swansea City,Norwich City,False,2015,Swansea.com Stadium,20929,8,15,5,0,0,2,44.2,233,341,6,13,0.5,2,12,15,0,37
+Swansea City,Norwich City,True,2015,Swansea.com Stadium,20929,10,14,2,5,0,3,55.8,310,428,2,20,0.4,2,19,20,0,37
+Tottenham Hotspur,Arsenal,False,2015,White Hart Lane,35762,10,10,2,2,1,9,48.2,295,414,1,7,0.4,4,17,25,0,34
+Tottenham Hotspur,Arsenal,True,2015,White Hart Lane,35762,26,10,2,9,0,2,51.8,317,423,5,26,0.4,8,23,30,0,22
+Watford,Leicester City,False,2015,Vicarage Road,20884,14,11,2,8,0,4,49.8,307,415,5,21,0.5,0,18,26,0,25
+Watford,Leicester City,True,2015,Vicarage Road,20884,11,10,2,3,0,6,50.2,301,413,6,25,0.4,3,23,27,0,21
+Crystal Palace,Liverpool,True,2015,Selhurst Park,24709,14,12,1,6,0,3,38.5,230,342,7,26,0.4,4,7,13,0,17
+Crystal Palace,Liverpool,False,2015,Selhurst Park,24709,19,16,2,6,1,3,61.5,467,564,6,20,0.5,8,18,23,0,32
+West Bromwich Albion,Manchester United,False,2015,The Hawthorns,24878,7,7,0,5,1,1,53.4,364,503,1,20,0.4,4,21,28,0,18
+West Bromwich Albion,Manchester United,True,2015,The Hawthorns,24878,9,8,1,4,0,1,46.6,309,439,5,14,0.4,4,11,19,0,23
+AFC Bournemouth,Swansea City,True,2015,Vitality Stadium,11179,12,12,1,5,0,2,44,264,365,4,13,0.4,2,12,19,0,24
+AFC Bournemouth,Swansea City,False,2015,Vitality Stadium,11179,13,11,0,3,0,1,56,363,463,6,18,0.4,2,24,29,0,24
+Norwich City,Manchester City,False,2015,Carrow Road,26323,15,10,1,8,0,0,66.1,528,625,5,32,0.6,7,18,21,0,36
+Norwich City,Manchester City,True,2015,Carrow Road,26323,5,15,3,4,0,3,33.9,221,319,4,18,0.3,1,20,27,0,48
+Stoke City,Southampton,False,2015,bet365 Stadium,27833,11,12,2,4,1,1,39.4,252,345,4,21,0.4,2,15,20,0,42
+Stoke City,Southampton,True,2015,bet365 Stadium,27833,13,13,1,1,0,2,60.6,438,535,2,23,0.5,4,20,21,0,15
+Aston Villa,Tottenham Hotspur,True,2015,Villa Park,32393,12,6,0,5,0,6,37.5,236,327,6,27,0.5,4,15,23,0,25
+Aston Villa,Tottenham Hotspur,False,2015,Villa Park,32393,19,6,0,8,0,2,62.5,475,574,1,14,0.5,5,18,21,0,37
+Leicester City,Newcastle United,True,2015,King Power Stadium,31824,10,4,0,8,0,2,49.9,357,458,3,25,0.5,6,16,21,0,19
+Leicester City,Newcastle United,False,2015,King Power Stadium,31824,12,9,0,4,0,0,50.1,350,466,6,20,0.5,5,17,26,0,26
+Chelsea,West Ham United,True,2015,Stamford Bridge,41623,22,13,3,10,0,4,59.4,429,534,9,28,0.4,6,13,18,0,18
+Chelsea,West Ham United,False,2015,Stamford Bridge,41623,13,14,5,9,0,3,40.6,263,364,6,17,0.3,4,13,20,0,27
+Crystal Palace,Leicester City,True,2015,Selhurst Park,25041,13,9,1,10,0,2,55.9,325,428,7,39,0.4,2,12,15,0,26
+Crystal Palace,Leicester City,False,2015,Selhurst Park,25041,8,13,1,7,0,4,44.1,233,346,3,26,0.3,2,24,28,0,44
+Everton,Arsenal,False,2015,Goodison Park,39270,11,10,0,5,0,2,45.7,360,449,2,12,0.4,4,10,20,0,32
+Everton,Arsenal,True,2015,Goodison Park,39270,8,7,0,7,0,1,54.3,397,506,5,36,0.4,1,19,24,0,14
+Swansea City,Aston Villa,False,2015,Swansea.com Stadium,20454,12,10,2,6,0,0,46.2,284,387,8,33,0.5,6,20,27,0,23
+Swansea City,Aston Villa,True,2015,Swansea.com Stadium,20454,10,9,3,4,0,2,53.8,389,466,1,17,0.6,3,10,19,0,49
+Watford,Stoke City,False,2015,Vicarage Road,20759,9,14,1,2,0,3,47.9,315,432,3,20,0.5,1,10,18,0,38
+Watford,Stoke City,True,2015,Vicarage Road,20759,9,10,3,9,0,4,52.1,327,454,4,32,0.4,1,15,19,0,16
+West Bromwich Albion,Norwich City,False,2015,The Hawthorns,25039,7,13,2,3,0,0,49.9,231,363,5,21,0.3,2,16,20,0,49
+West Bromwich Albion,Norwich City,True,2015,The Hawthorns,25039,10,8,1,4,0,0,50.1,223,361,2,20,0.3,4,14,17,0,36
+Manchester City,Manchester United,True,2015,Etihad Stadium,54557,26,9,1,11,0,3,54.5,372,454,16,32,0.4,7,17,21,0,29
+Manchester City,Manchester United,False,2015,Etihad Stadium,54557,5,12,1,5,0,3,45.5,299,398,2,12,0.4,1,22,26,0,23
+Newcastle United,Sunderland,True,2015,St. James' Park,52311,17,14,4,3,0,3,59.9,341,434,6,21,0.5,2,17,24,0,31
+Newcastle United,Sunderland,False,2015,St. James' Park,52311,14,7,1,5,0,7,40.1,198,299,2,7,0.4,3,17,25,0,34
+Southampton,Liverpool,False,2015,St. Mary's Stadium,31596,17,13,3,5,0,2,50.8,385,485,1,16,0.5,6,9,11,0,24
+Southampton,Liverpool,True,2015,St. Mary's Stadium,31596,16,10,1,3,0,6,49.2,379,466,5,20,0.6,5,15,18,0,31
+Tottenham Hotspur,AFC Bournemouth,False,2015,White Hart Lane,36084,2,6,1,5,0,5,37.2,253,338,4,22,0.4,0,15,20,0,29
+Tottenham Hotspur,AFC Bournemouth,True,2015,White Hart Lane,36084,17,11,0,4,0,0,62.8,520,601,4,13,0.6,1,16,20,0,25
+AFC Bournemouth,Manchester City,True,2015,Vitality Stadium,11192,11,9,0,4,0,3,45.6,384,459,6,17,0.6,4,10,17,0,20
+AFC Bournemouth,Manchester City,False,2015,Vitality Stadium,11192,15,8,1,4,0,2,54.4,470,557,3,15,0.5,0,22,27,0,17
+Arsenal,Watford,True,2015,Emirates Stadium,59981,19,7,1,8,0,3,69,681,773,4,15,0.5,3,9,13,0,25
+Arsenal,Watford,False,2015,Emirates Stadium,59981,7,10,1,3,0,8,31,233,328,4,22,0.4,1,15,20,0,23
+Aston Villa,Chelsea,True,2015,Villa Park,31120,15,12,4,7,1,4,41.7,317,411,7,24,0.6,5,21,23,0,12
+Aston Villa,Chelsea,False,2015,Villa Park,31120,11,8,1,2,0,4,58.3,524,604,0,5,0.5,0,14,21,0,20
+Liverpool,Tottenham Hotspur,True,2015,Anfield,44062,15,11,2,12,0,4,42.2,256,367,2,24,0.4,6,23,29,0,28
+Liverpool,Tottenham Hotspur,False,2015,Anfield,44062,18,11,0,9,0,6,57.8,410,520,4,18,0.4,6,14,17,0,28
+Norwich City,Newcastle United,False,2015,Carrow Road,27137,13,11,0,5,0,3,57.3,371,475,12,32,0.3,1,6,12,0,32
+Norwich City,Newcastle United,True,2015,Carrow Road,27137,13,6,0,6,0,3,42.7,233,344,8,32,0.3,2,10,11,0,31
+Stoke City,Swansea City,True,2015,bet365 Stadium,27649,12,6,0,5,0,1,47.2,360,449,6,16,0.5,2,14,16,0,21
+Stoke City,Swansea City,False,2015,bet365 Stadium,27649,12,16,1,5,0,3,52.8,415,490,1,24,0.6,4,9,12,0,23
+Sunderland,West Bromwich Albion,True,2015,Stadium of Light,45144,22,11,1,9,0,0,56.8,286,395,7,21,0.3,7,12,16,0,38
+Sunderland,West Bromwich Albion,False,2015,Stadium of Light,45144,3,13,2,3,0,6,43.2,188,305,4,16,0.3,1,11,13,0,29
+West Ham United,Crystal Palace,False,2015,Boleyn Ground,34857,12,19,2,5,0,4,33.4,155,227,10,29,0.4,3,9,18,0,22
+West Ham United,Crystal Palace,True,2015,Boleyn Ground,34857,18,12,2,4,1,3,66.6,412,499,6,15,0.5,6,11,12,0,27
+Leicester City,Southampton,True,2015,King Power Stadium,32071,11,12,2,7,0,2,46,265,364,5,20,0.4,5,13,22,0,41
+Leicester City,Southampton,False,2015,King Power Stadium,32071,10,13,2,8,0,3,54,322,407,7,45,0.5,3,17,20,0,38
+Manchester United,Everton,False,2015,Old Trafford,75341,7,6,0,5,0,1,45.6,325,428,5,20,0.4,5,27,30,0,21
+Manchester United,Everton,True,2015,Old Trafford,75341,10,15,2,5,0,1,54.4,422,514,3,18,0.5,5,8,13,0,23
+Aston Villa,AFC Bournemouth,False,2015,Villa Park,31057,12,11,2,8,0,0,58.6,452,548,6,18,0.5,3,11,13,0,29
+Aston Villa,AFC Bournemouth,True,2015,Villa Park,31057,6,13,2,3,0,1,41.4,285,381,5,20,0.4,0,20,22,0,20
+Crystal Palace,Norwich City,True,2015,Selhurst Park,24960,13,13,2,10,0,4,52,187,315,11,37,0.3,1,11,11,0,23
+Crystal Palace,Norwich City,False,2015,Selhurst Park,24960,13,10,1,4,0,6,48,173,301,3,27,0.3,3,6,7,0,35
+Manchester City,West Bromwich Albion,True,2015,Etihad Stadium,53920,13,10,0,8,0,1,62.1,458,548,4,21,0.4,5,9,11,0,27
+Manchester City,West Bromwich Albion,False,2015,Etihad Stadium,53920,13,7,1,8,0,2,37.9,230,316,5,31,0.5,5,9,21,0,24
+Southampton,Newcastle United,False,2015,St. Mary's Stadium,31542,5,7,0,2,0,3,49.4,331,426,2,20,0.5,1,18,20,0,31
+Southampton,Newcastle United,True,2015,St. Mary's Stadium,31542,20,8,0,11,0,2,50.6,321,429,10,30,0.5,5,13,15,0,21
+Swansea City,Chelsea,False,2015,Swansea.com Stadium,20966,8,13,4,9,0,5,60.7,515,616,3,28,0.4,3,13,17,0,15
+Swansea City,Chelsea,True,2015,Swansea.com Stadium,20966,12,15,5,1,0,2,39.3,308,403,4,17,0.3,3,21,26,0,32
+Watford,Everton,False,2015,Vicarage Road,20663,12,10,1,6,0,4,58.1,358,455,5,27,0.4,2,13,14,0,26
+Watford,Everton,True,2015,Vicarage Road,20663,13,13,2,7,0,6,41.9,226,326,6,21,0.4,3,11,19,0,19
+West Ham United,Arsenal,False,2015,Boleyn Ground,34977,11,8,0,4,0,4,60.7,481,566,2,21,0.5,2,17,18,0,17
+West Ham United,Arsenal,True,2015,Boleyn Ground,34977,19,11,2,7,0,3,39.3,276,355,11,26,0.5,5,13,19,0,27
+Liverpool,Stoke City,True,2015,Anfield,43688,14,14,0,6,0,2,52.9,396,485,4,18,0.3,4,15,18,0,16
+Liverpool,Stoke City,False,2015,Anfield,43688,11,14,2,3,0,2,47.1,339,429,5,21,0.5,2,13,19,0,20
+Sunderland,Leicester City,False,2015,Stadium of Light,46531,16,9,1,7,0,1,55.2,289,408,5,24,0.4,2,20,24,0,36
+Sunderland,Leicester City,True,2015,Stadium of Light,46531,15,9,1,1,0,5,44.8,229,339,2,8,0.4,6,26,35,0,66
+Tottenham Hotspur,Manchester United,False,2015,White Hart Lane,35761,5,10,3,7,0,5,53,320,442,3,17,0.4,3,18,24,0,21
+Tottenham Hotspur,Manchester United,True,2015,White Hart Lane,35761,16,10,3,2,0,1,47,281,395,3,12,0.4,1,20,27,0,31
+Crystal Palace,Everton,True,2015,Selhurst Park,23528,19,7,0,10,0,5,56.9,422,510,7,40,0.5,3,21,23,0,30
+Crystal Palace,Everton,False,2015,Selhurst Park,23528,9,9,1,7,1,7,43.1,304,399,2,18,0.4,2,11,16,0,46
+Chelsea,Manchester City,True,2015,Stamford Bridge,41212,11,12,2,11,1,5,51.8,434,529,2,27,0.5,4,16,20,0,8
+Chelsea,Manchester City,False,2015,Stamford Bridge,41212,11,15,3,3,0,4,48.2,426,509,3,10,0.4,2,12,13,0,33
+Everton,Southampton,True,2015,Goodison Park,36761,7,8,1,3,0,3,49.3,304,392,3,10,0.3,3,8,11,0,51
+Everton,Southampton,False,2015,Goodison Park,36761,17,14,1,10,0,1,50.7,292,378,8,40,0.6,4,13,15,0,16
+Manchester United,Aston Villa,False,2015,Old Trafford,75411,7,10,1,3,0,3,33.8,225,294,3,14,0.4,2,13,21,0,23
+Manchester United,Aston Villa,True,2015,Old Trafford,75411,13,9,0,14,0,1,66.2,497,581,5,25,0.6,2,10,18,0,10
+Newcastle United,Swansea City,True,2015,St. James' Park,48949,12,13,2,3,0,1,34.5,183,290,3,18,0.3,1,17,22,0,18
+Newcastle United,Swansea City,False,2015,St. James' Park,48949,11,9,1,7,0,4,65.5,444,561,5,22,0.5,3,17,20,0,16
+Norwich City,Sunderland,True,2015,Carrow Road,27117,19,7,2,14,0,0,64,279,404,10,34,0.4,6,4,9,0,18
+Norwich City,Sunderland,False,2015,Carrow Road,27117,8,11,2,0,0,7,36,135,240,3,5,0.3,0,13,14,0,79
+West Bromwich Albion,Watford,False,2015,The Hawthorns,25515,11,17,3,3,0,4,43.3,229,349,3,7,0.3,3,12,17,0,31
+West Bromwich Albion,Watford,True,2015,The Hawthorns,25515,17,11,0,9,0,3,56.7,317,425,10,43,0.6,5,7,13,0,18
+AFC Bournemouth,Liverpool,True,2015,Vitality Stadium,11386,18,9,0,5,0,4,51.3,404,503,11,24,0.6,8,16,22,0,9
+AFC Bournemouth,Liverpool,False,2015,Vitality Stadium,11386,19,9,0,4,0,4,48.7,398,492,2,13,0.5,4,19,21,0,18
+Arsenal,Crystal Palace,True,2015,Emirates Stadium,59961,21,7,0,10,0,2,71.7,651,737,8,33,0.5,7,14,16,0,16
+Arsenal,Crystal Palace,False,2015,Emirates Stadium,59961,7,13,2,5,0,5,28.3,205,278,3,21,0.3,1,12,17,0,35
+Leicester City,West Ham United,True,2015,King Power Stadium,32104,6,14,1,0,1,2,43.5,225,332,3,6,0.3,0,13,14,0,33
+Leicester City,West Ham United,False,2015,King Power Stadium,32104,19,14,3,5,0,0,56.5,320,407,10,34,0.4,3,9,12,0,18
+Stoke City,Tottenham Hotspur,True,2015,bet365 Stadium,27442,12,12,2,5,0,2,51.2,322,410,1,23,0.5,4,18,25,0,24
+Stoke City,Tottenham Hotspur,False,2015,bet365 Stadium,27442,23,12,0,3,0,2,48.8,314,396,5,13,0.5,4,21,24,0,24
+Newcastle United,Manchester City,False,2015,St. James' Park,46424,9,8,2,3,0,2,56.8,390,522,4,19,0.4,1,21,27,0,30
+Newcastle United,Manchester City,True,2015,St. James' Park,46424,5,13,3,5,0,4,43.2,277,393,2,20,0.3,0,13,19,0,33
+Liverpool,Everton,False,2015,Anfield,43854,3,11,1,1,1,9,33.4,200,311,0,4,0.4,1,13,17,0,32
+Liverpool,Everton,True,2015,Anfield,43854,37,8,1,9,0,0,66.6,513,595,15,33,0.6,10,17,19,0,12
+Manchester United,Crystal Palace,False,2015,Old Trafford,75277,5,7,2,2,0,9,33.7,247,321,3,9,0.5,4,19,23,0,20
+Manchester United,Crystal Palace,True,2015,Old Trafford,75277,16,13,1,10,0,0,66.3,563,633,3,18,0.7,3,26,29,0,14
+West Ham United,Watford,False,2015,Boleyn Ground,34857,7,17,2,2,1,4,53.8,344,438,3,15,0.4,1,17,25,0,16
+West Ham United,Watford,True,2015,Boleyn Ground,34857,18,11,0,4,0,3,46.2,293,376,3,15,0.5,5,12,18,0,13
+Arsenal,West Bromwich Albion,True,2015,Emirates Stadium,59568,16,14,0,2,0,1,71.4,641,723,2,11,0.5,3,7,12,0,15
+Arsenal,West Bromwich Albion,False,2015,Emirates Stadium,59568,8,14,1,6,0,5,28.6,186,274,4,20,0.4,3,11,17,0,12
+AFC Bournemouth,Chelsea,True,2015,Vitality Stadium,11365,13,11,1,10,0,0,45.3,364,446,7,26,0.5,3,13,20,0,19
+AFC Bournemouth,Chelsea,False,2015,Vitality Stadium,11365,16,4,0,7,0,3,54.7,473,560,1,12,0.5,8,18,24,0,22
+Aston Villa,Southampton,True,2015,Villa Park,29729,16,8,2,6,0,3,42,297,386,8,23,0.5,2,13,21,0,28
+Aston Villa,Southampton,False,2015,Villa Park,29729,17,9,0,11,0,5,58,446,536,10,31,0.4,4,18,21,0,17
+Liverpool,Newcastle United,True,2015,Anfield,43837,13,8,1,5,0,1,67,483,609,4,20,0.4,6,18,24,0,21
+Liverpool,Newcastle United,False,2015,Anfield,43837,6,17,1,4,0,2,33,186,296,5,15,0.4,0,24,31,0,47
+Manchester City,Stoke City,True,2015,Etihad Stadium,53974,11,8,0,9,0,2,53.2,412,501,6,13,0.4,2,11,16,0,12
+Manchester City,Stoke City,False,2015,Etihad Stadium,53974,14,8,0,4,0,2,46.8,371,446,2,12,0.6,1,12,18,0,17
+Leicester City,Swansea City,True,2015,King Power Stadium,31962,18,15,1,4,0,1,38.3,289,392,3,13,0.4,3,22,30,0,25
+Leicester City,Swansea City,False,2015,King Power Stadium,31962,9,10,2,6,0,5,61.7,520,623,5,24,0.6,4,23,28,0,19
+Sunderland,Arsenal,False,2015,Stadium of Light,45420,20,8,4,7,0,3,70.2,550,659,5,23,0.6,8,3,6,0,21
+Sunderland,Arsenal,True,2015,Stadium of Light,45420,12,10,2,7,0,7,29.8,168,268,2,19,0.3,3,8,13,0,33
+Tottenham Hotspur,West Bromwich Albion,True,2015,White Hart Lane,35923,18,8,0,9,0,2,66.5,457,537,5,19,0.5,8,16,19,0,35
+Tottenham Hotspur,West Bromwich Albion,False,2015,White Hart Lane,35923,16,13,1,7,0,2,33.5,179,260,7,24,0.5,5,16,20,0,26
+Arsenal,Norwich City,True,2015,Emirates Stadium,59989,14,8,1,7,0,3,68.6,593,697,6,21,0.5,5,10,17,0,21
+Arsenal,Norwich City,False,2015,Emirates Stadium,59989,12,7,0,3,0,2,31.4,201,305,6,21,0.3,3,12,17,0,23
+Everton,AFC Bournemouth,False,2015,Goodison Park,38345,16,8,0,5,0,3,43.5,369,455,4,20,0.5,7,11,17,0,31
+Everton,AFC Bournemouth,True,2015,Goodison Park,38345,12,4,1,3,0,1,56.5,499,608,1,12,0.5,3,13,19,0,20
+Newcastle United,Crystal Palace,False,2015,St. James' Park,52107,9,12,0,8,0,3,50.5,289,399,4,25,0.4,1,16,18,0,21
+Newcastle United,Crystal Palace,True,2015,St. James' Park,52107,10,11,2,4,0,3,49.5,276,394,3,18,0.3,3,24,27,0,31
+Stoke City,Sunderland,True,2015,bet365 Stadium,27667,11,13,2,2,0,4,53.6,264,369,4,14,0.5,2,13,15,0,28
+Stoke City,Sunderland,False,2015,bet365 Stadium,27667,14,13,2,8,0,2,46.4,195,306,3,24,0.3,4,13,15,0,15
+Watford,Aston Villa,False,2015,Vicarage Road,20653,7,10,3,4,1,3,35.3,245,332,5,11,0.3,1,11,17,0,32
+Watford,Aston Villa,True,2015,Vicarage Road,20653,18,14,2,8,0,0,64.7,500,588,7,36,0.6,5,11,14,0,14
+West Bromwich Albion,West Ham United,True,2015,The Hawthorns,25031,15,14,0,8,0,1,40.8,223,332,6,23,0.4,3,12,13,0,19
+West Bromwich Albion,West Ham United,False,2015,The Hawthorns,25031,8,7,0,6,0,5,59.2,392,494,7,20,0.5,2,14,15,0,37
+Manchester United,Leicester City,False,2015,Old Trafford,75275,14,10,0,5,1,5,29.5,154,248,9,15,0.3,4,20,25,0,36
+Manchester United,Leicester City,True,2015,Old Trafford,75275,21,16,3,6,0,2,70.5,499,592,8,36,0.6,8,10,14,0,19
+Southampton,Manchester City,False,2015,St. Mary's Stadium,31472,6,9,1,2,0,3,59.8,486,576,2,14,0.5,0,19,24,0,26
+Southampton,Manchester City,True,2015,St. Mary's Stadium,31472,14,12,2,9,0,3,40.2,296,384,3,19,0.4,2,23,38,0,13
+Swansea City,Liverpool,False,2015,Swansea.com Stadium,20972,11,13,2,7,1,6,52.4,454,533,4,17,0.4,5,17,20,0,27
+Swansea City,Liverpool,True,2015,Swansea.com Stadium,20972,18,12,2,4,0,2,47.6,406,480,6,20,0.5,5,17,20,0,12
+Chelsea,Tottenham Hotspur,True,2015,Stamford Bridge,41545,13,9,3,7,0,3,47.3,283,366,5,20,0.5,3,16,24,0,22
+Chelsea,Tottenham Hotspur,False,2015,Stamford Bridge,41545,16,20,9,8,0,3,52.7,327,408,5,20,0.5,6,19,23,0,19
+AFC Bournemouth,West Bromwich Albion,True,2015,Vitality Stadium,11040,12,5,2,5,0,3,68.6,478,566,2,19,0.6,2,21,24,0,20
+AFC Bournemouth,West Bromwich Albion,False,2015,Vitality Stadium,11040,12,8,1,3,0,3,31.4,177,250,5,18,0.4,2,24,28,0,18
+Aston Villa,Newcastle United,True,2015,Villa Park,33055,2,8,1,0,0,3,45.9,320,409,0,13,0.5,0,16,21,0,32
+Aston Villa,Newcastle United,False,2015,Villa Park,33055,9,13,1,5,0,0,54.1,378,455,9,37,0.6,1,14,17,0,33
+Crystal Palace,Stoke City,True,2015,Selhurst Park,23990,17,8,2,4,0,2,57.8,295,390,6,28,0.3,7,7,8,0,10
+Crystal Palace,Stoke City,False,2015,Selhurst Park,23990,12,18,3,3,0,2,42.2,203,293,2,11,0.4,2,13,16,0,27
+Leicester City,Everton,False,2015,King Power Stadium,32140,9,12,3,4,0,5,58.7,412,504,6,20,0.5,1,14,24,0,19
+Leicester City,Everton,True,2015,King Power Stadium,32140,31,4,0,12,0,4,41.3,265,340,11,30,0.5,10,11,17,0,19
+Norwich City,Manchester United,False,2015,Carrow Road,27132,15,10,0,6,0,2,66.9,471,579,4,20,0.4,7,16,19,0,18
+Norwich City,Manchester United,True,2015,Carrow Road,27132,8,11,1,1,0,1,33.1,170,272,7,24,0.4,3,10,14,0,18
+Sunderland,Chelsea,False,2015,Stadium of Light,47050,9,9,1,3,1,1,68.6,560,652,3,7,0.6,1,12,15,0,23
+Sunderland,Chelsea,True,2015,Stadium of Light,47050,14,11,4,3,0,6,31.4,199,287,4,16,0.3,7,13,15,0,9
+West Ham United,Swansea City,False,2015,Boleyn Ground,34907,13,8,0,3,0,7,48.1,328,408,9,20,0.5,4,12,16,0,31
+West Ham United,Swansea City,True,2015,Boleyn Ground,34907,25,11,3,13,0,2,51.9,351,427,13,36,0.6,10,9,10,0,11
+Liverpool,Watford,True,2015,Anfield,43341,19,10,1,8,0,3,66.1,479,563,5,20,0.7,6,18,22,0,24
+Liverpool,Watford,False,2015,Anfield,43341,14,15,2,8,0,3,33.9,193,271,9,23,0.4,3,15,17,0,25
+Manchester City,Arsenal,False,2015,Etihad Stadium,54425,5,10,1,2,0,1,42.8,273,383,1,12,0.3,1,16,26,0,32
+Manchester City,Arsenal,True,2015,Etihad Stadium,54425,14,16,2,7,0,0,57.2,388,505,13,25,0.3,2,17,22,0,28
+Tottenham Hotspur,Southampton,False,2015,White Hart Lane,35748,10,15,3,2,0,5,30.2,175,257,1,11,0.5,3,17,26,0,45
+Tottenham Hotspur,Southampton,True,2015,White Hart Lane,35748,20,8,0,10,0,0,69.8,500,586,8,24,0.7,5,11,14,0,25
+West Ham United,Manchester United,False,2015,Boleyn Ground,34602,3,18,3,2,0,3,58.7,362,473,2,12,0.5,0,20,25,0,26
+West Ham United,Manchester United,True,2015,Boleyn Ground,34602,20,6,1,6,0,0,41.3,228,324,10,21,0.6,2,13,18,0,14
+Liverpool,Chelsea,False,2015,Anfield,43210,13,12,1,3,0,8,44.7,363,446,0,8,0.5,3,18,23,0,21
+Liverpool,Chelsea,True,2015,Anfield,43210,28,11,3,7,0,6,55.3,470,546,4,20,0.7,9,21,25,0,19
+Norwich City,Watford,True,2015,Carrow Road,26279,18,8,2,5,0,5,55.6,394,495,2,20,0.5,6,6,8,24,19
+Norwich City,Watford,False,2015,Carrow Road,26279,12,13,3,1,0,3,44.4,293,400,2,13,0.5,3,22,29,17,13
+Sunderland,Everton,False,2015,Stadium of Light,46454,17,7,0,5,0,5,62.3,493,596,5,17,0.6,6,12,19,0,24
+Sunderland,Everton,True,2015,Stadium of Light,46454,14,15,1,5,0,6,37.7,260,352,6,17,0.5,3,10,12,0,34
+Arsenal,Aston Villa,True,2015,Emirates Stadium,60007,16,12,0,5,0,2,59.6,539,609,6,21,0.7,2,13,14,0,12
+Arsenal,Aston Villa,False,2015,Emirates Stadium,60007,5,6,1,4,0,4,40.4,338,414,3,12,0.5,3,12,13,0,26
+Chelsea,Leicester City,True,2015,Stamford Bridge,41494,17,5,0,7,0,4,54,438,525,2,16,0.6,9,20,26,0,26
+Chelsea,Leicester City,False,2015,Stamford Bridge,41494,18,12,0,6,0,3,46,350,444,6,19,0.4,7,19,24,0,16
+Everton,Norwich City,True,2015,Goodison Park,36691,15,7,0,4,0,2,45.4,301,382,3,19,0.5,3,18,18,0,29
+Everton,Norwich City,False,2015,Goodison Park,36691,10,11,0,11,0,5,54.6,351,446,9,35,0.5,2,10,13,0,28
+Newcastle United,Tottenham Hotspur,True,2015,St. James' Park,52183,19,7,1,3,1,4,38.5,284,351,4,12,0.5,6,18,20,0,35
+Newcastle United,Tottenham Hotspur,False,2015,St. James' Park,52183,18,6,2,8,0,5,61.5,493,551,3,28,0.7,6,17,21,0,11
+Southampton,Crystal Palace,False,2015,St. Mary's Stadium,31313,16,14,2,5,0,1,50.2,315,402,6,21,0.4,8,9,11,0,19
+Southampton,Crystal Palace,True,2015,St. Mary's Stadium,31313,19,7,1,2,0,3,49.8,329,396,10,25,0.6,2,11,15,0,41
+Stoke City,West Ham United,True,2015,bet365 Stadium,27721,7,8,3,4,0,7,46.7,279,355,4,17,0.5,1,22,28,0,27
+Stoke City,West Ham United,False,2015,bet365 Stadium,27721,20,12,1,10,0,2,53.3,329,401,7,22,0.5,6,6,10,0,19
+Swansea City,Manchester City,False,2015,Swansea.com Stadium,20934,18,19,3,4,0,0,50,400,496,3,16,0.3,3,13,17,0,16
+Swansea City,Manchester City,True,2015,Swansea.com Stadium,20934,4,4,1,4,0,4,50,387,494,4,16,0.5,1,9,13,0,27
+Watford,Sunderland,False,2015,Vicarage Road,21012,6,9,0,4,0,4,45.8,243,346,0,17,0.3,1,11,20,0,39
+Watford,Sunderland,True,2015,Vicarage Road,21012,20,11,1,7,0,2,54.2,309,401,10,28,0.5,4,11,13,0,26
+West Bromwich Albion,Liverpool,False,2015,The Hawthorns,26196,7,14,1,5,0,0,67.4,516,612,3,13,0.4,1,13,23,0,23
+West Bromwich Albion,Liverpool,True,2015,The Hawthorns,26196,13,11,3,7,0,2,32.6,192,285,5,18,0.4,5,13,22,0,25
+Manchester United,AFC Bournemouth,False,2015,Old Trafford,74363,7,8,0,1,0,2,33.7,268,342,2,4,0.6,4,11,16,0,10
+Manchester United,AFC Bournemouth,True,2015,Old Trafford,74363,12,9,1,7,0,0,66.3,612,677,2,11,0.8,4,10,17,0,11

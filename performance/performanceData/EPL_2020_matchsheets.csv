@@ -1,0 +1,761 @@
+home_team,away_team,is_home,season,venue,attendance,total_shots,fouls_committed,yellow_cards,won_corners,red_cards,saves,possession_pct,accurate_passes,total_passes,accurate_crosses,total_crosses,longball_pct,blocked_shots,effective_tackles,total_tackles,interceptions,total_clearance
+Liverpool,Norwich City,True,2020,Anfield,53333,15,9,0,11,0,4,57.9,387,477,5,32,0.5,3,13,21,14,5
+Liverpool,Norwich City,False,2020,Anfield,53333,12,9,2,2,0,4,42.1,278,363,1,2,0.4,2,8,12,11,35
+AFC Bournemouth,Sheffield United,True,2020,Vitality Stadium,10714,13,10,2,3,0,2,52.9,384,485,2,14,0.3,3,13,18,13,13
+AFC Bournemouth,Sheffield United,False,2020,Vitality Stadium,10714,8,19,1,4,0,2,47.1,332,428,4,18,0.3,1,11,14,14,16
+Burnley,Southampton,True,2020,Turf Moor,19784,10,6,0,2,0,3,46.5,183,332,6,14,0.3,2,12,21,14,13
+Burnley,Southampton,False,2020,Turf Moor,19784,11,12,0,7,0,1,53.5,249,393,5,10,0.3,3,5,7,10,18
+Crystal Palace,Everton,True,2020,Selhurst Park,25151,6,16,2,6,0,2,35.4,161,268,1,14,0.3,4,14,21,10,21
+Crystal Palace,Everton,False,2020,Selhurst Park,25151,10,14,1,2,1,2,64.6,401,500,3,17,0.5,4,7,14,14,18
+Tottenham Hotspur,Aston Villa,False,2020,Tottenham Hotspur Stadium,60407,7,9,0,0,0,3,29.9,200,256,2,8,0.4,1,13,29,9,39
+Tottenham Hotspur,Aston Villa,True,2020,Tottenham Hotspur Stadium,60407,31,13,1,14,0,3,70.1,526,587,6,38,0.7,10,12,17,5,6
+Watford,Brighton & Hove Albion,False,2020,Vicarage Road,20245,5,11,1,2,0,3,51.8,347,442,2,12,0.5,0,14,24,11,24
+Watford,Brighton & Hove Albion,True,2020,Vicarage Road,20245,11,15,0,5,0,1,48.2,325,414,4,14,0.5,4,4,12,12,10
+West Ham United,Manchester City,False,2020,London Stadium,59870,14,13,2,1,0,3,57.1,473,547,2,6,0.6,2,13,18,13,13
+West Ham United,Manchester City,True,2020,London Stadium,59870,5,6,2,1,0,4,42.9,325,403,1,12,0.5,0,10,18,9,9
+Leicester City,Wolverhampton Wanderers,True,2020,King Power Stadium,32015,16,3,0,12,0,2,70,564,665,7,29,0.5,5,13,20,7,12
+Leicester City,Wolverhampton Wanderers,False,2020,King Power Stadium,32015,8,13,2,3,0,1,30,202,291,2,6,0.4,2,11,19,9,33
+Manchester United,Chelsea,False,2020,,73620,18,13,4,5,0,1,53.8,442,523,4,19,0.4,4,9,21,15,11
+Manchester United,Chelsea,True,2020,,73620,11,15,3,3,0,7,46.2,363,449,4,14,0.5,4,10,16,12,19
+Newcastle United,Arsenal,False,2020,St. James' Park,47635,8,7,3,3,0,2,61.9,523,616,1,10,0.5,2,6,11,6,22
+Newcastle United,Arsenal,True,2020,St. James' Park,47635,9,12,1,5,0,1,38.1,287,378,1,15,0.4,3,17,26,20,17
+Arsenal,Burnley,True,2020,Emirates Stadium,60214,15,13,2,10,0,3,67.5,443,529,5,17,0.5,3,7,12,9,28
+Arsenal,Burnley,False,2020,Emirates Stadium,60214,18,11,1,7,0,7,32.5,151,234,11,30,0.3,4,11,16,6,25
+Aston Villa,AFC Bournemouth,False,2020,Villa Park,40996,12,13,2,5,0,6,37.4,208,295,4,14,0.3,4,9,15,11,25
+Aston Villa,AFC Bournemouth,True,2020,Villa Park,40996,21,10,0,11,0,2,62.6,402,490,10,31,0.5,5,6,7,9,15
+Brighton & Hove Albion,West Ham United,True,2020,American Express Stadium,30459,16,11,0,8,0,2,57.3,395,497,11,25,0.5,3,9,20,12,16
+Brighton & Hove Albion,West Ham United,False,2020,American Express Stadium,30459,8,10,2,6,0,3,42.7,276,377,1,14,0.3,1,15,22,15,14
+Everton,Watford,True,2020,Goodison Park,39066,12,11,2,4,0,2,44.1,204,303,3,11,0.4,4,16,20,6,35
+Everton,Watford,False,2020,Goodison Park,39066,8,11,3,7,0,1,55.9,280,388,6,20,0.5,2,19,34,9,13
+Manchester City,Tottenham Hotspur,True,2020,Etihad Stadium,54503,30,14,1,13,0,0,55.4,551,610,8,31,0.6,12,7,15,10,10
+Manchester City,Tottenham Hotspur,False,2020,Etihad Stadium,54503,3,4,0,2,0,8,44.6,425,506,1,5,0.3,0,10,17,6,23
+Norwich City,Newcastle United,False,2020,Carrow Road,27059,12,11,3,5,0,5,36.7,271,336,6,21,0.5,1,10,14,11,13
+Norwich City,Newcastle United,True,2020,Carrow Road,27059,15,9,1,7,0,3,63.3,529,603,4,15,0.5,4,11,14,5,23
+Southampton,Liverpool,False,2020,St. Mary's Stadium,31712,15,6,1,9,0,3,63.8,414,530,2,24,0.5,3,2,7,10,30
+Southampton,Liverpool,True,2020,St. Mary's Stadium,31712,14,10,2,5,0,4,36.2,192,296,5,19,0.3,4,8,15,10,27
+Chelsea,Leicester City,True,2020,,40629,14,9,1,4,0,2,50.2,359,454,7,20,0.5,2,14,25,10,23
+Chelsea,Leicester City,False,2020,,40629,12,14,0,5,0,4,49.8,352,455,2,16,0.5,2,16,29,15,20
+Sheffield United,Crystal Palace,False,2020,Bramall Lane,30197,6,11,1,4,0,2,57.5,392,498,2,12,0.3,2,15,21,13,25
+Sheffield United,Crystal Palace,True,2020,Bramall Lane,30197,15,16,3,8,0,4,42.5,274,354,5,21,0.5,6,11,20,14,38
+Wolverhampton Wanderers,Manchester United,False,2020,Molineux Stadium,31314,9,8,2,6,0,1,65.6,579,668,4,17,0.6,3,15,23,5,15
+Wolverhampton Wanderers,Manchester United,True,2020,Molineux Stadium,31314,6,17,2,4,0,1,34.4,263,350,2,13,0.4,1,9,17,14,14
+Aston Villa,Everton,True,2020,Villa Park,41922,7,10,2,0,0,1,35.2,219,301,1,7,0.5,2,6,12,13,25
+Aston Villa,Everton,False,2020,Villa Park,41922,12,18,3,6,0,1,64.8,435,539,3,24,0.6,4,11,16,5,7
+Brighton & Hove Albion,Southampton,True,2020,American Express Stadium,30019,12,9,1,8,1,2,50.7,296,394,5,18,0.4,3,10,16,15,10
+Brighton & Hove Albion,Southampton,False,2020,American Express Stadium,30019,12,10,3,5,0,3,49.3,297,395,4,7,0.3,3,12,19,4,22
+Liverpool,Arsenal,False,2020,Anfield,53298,9,5,1,4,0,2,48,447,516,2,13,0.5,2,7,16,7,27
+Liverpool,Arsenal,True,2020,Anfield,53298,25,8,1,6,0,2,52,474,553,7,27,0.6,14,17,25,9,11
+Manchester United,Crystal Palace,False,2020,Old Trafford,73454,5,18,4,1,0,2,28.7,141,231,1,7,0.4,1,13,25,16,26
+Manchester United,Crystal Palace,True,2020,Old Trafford,73454,22,8,2,8,0,1,71.3,481,562,9,27,0.6,6,4,9,6,6
+Norwich City,Chelsea,False,2020,,27032,23,9,1,8,0,3,53.4,457,543,5,18,0.6,10,18,26,11,9
+Norwich City,Chelsea,True,2020,,27032,6,9,1,1,0,5,46.6,391,481,2,7,0.3,0,7,16,11,29
+Sheffield United,Leicester City,False,2020,Bramall Lane,30079,10,6,0,4,0,1,50.9,358,452,6,14,0.4,4,7,13,11,38
+Sheffield United,Leicester City,True,2020,Bramall Lane,30079,7,11,1,7,0,0,49.1,316,421,8,32,0.5,2,13,16,15,15
+Watford,West Ham United,True,2020,Vicarage Road,20035,23,12,1,8,0,7,54.9,390,465,6,26,0.5,10,12,17,11,12
+Watford,West Ham United,False,2020,Vicarage Road,20035,16,11,1,7,0,2,45.1,306,386,6,14,0.5,2,11,17,11,24
+AFC Bournemouth,Manchester City,True,2020,Vitality Stadium,10486,10,7,1,4,0,2,26.2,179,249,2,15,0.4,1,5,8,16,22
+AFC Bournemouth,Manchester City,False,2020,Vitality Stadium,10486,18,13,3,5,0,6,73.8,647,728,6,10,0.5,9,12,16,8,16
+Tottenham Hotspur,Newcastle United,False,2020,Tottenham Hotspur Stadium,59245,8,5,2,6,0,2,19.8,142,190,2,8,0.4,3,10,15,11,54
+Tottenham Hotspur,Newcastle United,True,2020,Tottenham Hotspur Stadium,59245,17,10,2,6,0,2,80.2,690,763,6,36,0.6,7,6,10,7,5
+Wolverhampton Wanderers,Burnley,False,2020,Molineux Stadium,30522,13,11,2,3,0,2,34.9,202,306,6,19,0.3,3,7,12,11,27
+Wolverhampton Wanderers,Burnley,True,2020,Molineux Stadium,30522,17,9,0,4,0,3,65.1,470,586,5,21,0.6,7,7,9,6,29
+Burnley,Liverpool,True,2020,Turf Moor,21762,7,10,0,6,0,5,36.2,193,318,2,13,0.3,1,10,14,11,21
+Burnley,Liverpool,False,2020,Turf Moor,21762,15,16,0,4,0,2,63.8,442,568,2,18,0.4,6,6,11,9,19
+Chelsea,Sheffield United,True,2020,,40560,13,6,0,3,0,2,62.3,627,719,3,14,0.6,3,7,16,14,15
+Chelsea,Sheffield United,False,2020,,40560,8,11,1,4,0,3,37.7,338,429,2,14,0.5,1,10,15,17,24
+Crystal Palace,Aston Villa,False,2020,Selhurst Park,25248,10,16,4,2,1,4,47.2,315,379,3,14,0.4,5,13,19,15,30
+Crystal Palace,Aston Villa,True,2020,Selhurst Park,25248,22,15,2,13,0,2,52.8,343,407,10,30,0.5,7,9,18,7,21
+Leicester City,AFC Bournemouth,False,2020,King Power Stadium,31613,8,11,3,5,0,3,45,334,432,2,17,0.4,4,11,14,22,18
+Leicester City,AFC Bournemouth,True,2020,King Power Stadium,31613,15,9,1,4,0,1,55,435,541,1,14,0.4,4,13,22,14,25
+Manchester City,Brighton & Hove Albion,False,2020,Etihad Stadium,54386,6,6,1,1,0,2,46.5,454,523,2,10,0.5,3,8,18,8,14
+Manchester City,Brighton & Hove Albion,True,2020,Etihad Stadium,54386,15,10,1,8,0,1,53.5,535,598,1,13,0.6,1,7,15,10,19
+Newcastle United,Watford,True,2020,St. James' Park,44157,13,5,2,6,0,3,48.8,359,468,5,23,0.3,5,3,11,12,14
+Newcastle United,Watford,False,2020,St. James' Park,44157,13,11,3,5,0,4,51.2,384,498,4,13,0.3,5,9,14,12,24
+Southampton,Manchester United,False,2020,St. Mary's Stadium,30499,21,7,2,3,0,1,58.6,427,537,4,22,0.5,4,11,19,7,16
+Southampton,Manchester United,True,2020,St. Mary's Stadium,30499,10,17,1,2,1,7,41.4,276,375,3,19,0.3,3,15,25,19,25
+West Ham United,Norwich City,False,2020,London Stadium,59950,8,10,1,2,0,5,51.4,433,500,3,14,0.5,2,10,14,7,15
+West Ham United,Norwich City,True,2020,London Stadium,59950,18,16,2,8,0,3,48.6,395,474,6,14,0.6,3,19,29,11,9
+Arsenal,Tottenham Hotspur,True,2020,Emirates Stadium,60333,26,13,3,11,0,7,54.8,380,453,9,25,0.6,8,12,23,11,11
+Arsenal,Tottenham Hotspur,False,2020,Emirates Stadium,60333,13,19,5,6,0,6,45.2,309,388,1,11,0.5,1,6,13,6,24
+Everton,Wolverhampton Wanderers,True,2020,Goodison Park,39374,15,12,1,7,0,3,58.7,364,451,9,25,0.6,6,17,24,7,37
+Everton,Wolverhampton Wanderers,False,2020,Goodison Park,39374,8,12,4,7,1,3,41.3,217,320,2,17,0.4,2,8,19,11,22
+Brighton & Hove Albion,Burnley,True,2020,American Express Stadium,29398,14,13,0,3,0,0,62.5,372,491,1,16,0.4,2,13,21,12,20
+Brighton & Hove Albion,Burnley,False,2020,American Express Stadium,29398,7,7,2,6,0,4,37.5,178,284,2,18,0.3,0,13,17,11,24
+Liverpool,Newcastle United,True,2020,Anfield,51430,21,5,0,10,0,0,75.3,764,847,10,34,0.7,3,11,13,8,8
+Liverpool,Newcastle United,False,2020,Anfield,51430,8,4,0,1,0,5,24.7,205,282,3,5,0.3,3,11,20,11,33
+Manchester United,Leicester City,False,2020,Old Trafford,73689,9,14,2,9,0,4,58.3,373,471,1,24,0.5,2,17,30,10,11
+Manchester United,Leicester City,True,2020,Old Trafford,73689,10,14,1,3,0,3,41.7,258,345,2,9,0.4,0,11,19,12,30
+Norwich City,Manchester City,False,2020,Carrow Road,27035,25,7,1,16,0,0,68.6,594,671,8,46,0.7,11,9,15,7,7
+Norwich City,Manchester City,True,2020,Carrow Road,27035,7,8,3,3,0,6,31.4,236,318,2,6,0.2,1,12,16,16,50
+Sheffield United,Southampton,True,2020,Bramall Lane,30985,17,10,1,12,1,6,48.2,308,414,5,33,0.4,5,11,21,10,24
+Sheffield United,Southampton,False,2020,Bramall Lane,30985,11,7,1,6,0,4,51.8,363,467,3,20,0.3,1,9,18,9,28
+Tottenham Hotspur,Crystal Palace,False,2020,Tottenham Hotspur Stadium,59812,11,11,3,3,0,2,35.9,276,357,4,10,0.5,3,11,15,18,15
+Tottenham Hotspur,Crystal Palace,True,2020,Tottenham Hotspur Stadium,59812,13,19,4,4,0,6,64.1,563,640,4,18,0.6,1,6,11,14,13
+Wolverhampton Wanderers,Chelsea,False,2020,,31534,15,11,2,5,0,3,54.7,472,555,4,14,0.5,2,14,20,17,28
+Wolverhampton Wanderers,Chelsea,True,2020,,31534,11,8,1,7,0,1,45.3,350,449,5,24,0.4,3,10,17,14,12
+AFC Bournemouth,Everton,True,2020,Vitality Stadium,10416,13,5,0,7,0,4,40.5,232,336,2,7,0.3,2,9,18,13,37
+AFC Bournemouth,Everton,False,2020,Vitality Stadium,10416,14,14,4,7,0,3,59.5,373,488,4,22,0.4,4,9,18,13,10
+Watford,Arsenal,False,2020,Vicarage Road,21360,7,4,3,1,0,8,47.6,386,466,0,3,0.4,1,10,13,11,16
+Watford,Arsenal,True,2020,Vicarage Road,21360,31,14,3,7,0,2,52.4,442,499,5,22,0.6,6,9,17,10,15
+Aston Villa,West Ham United,True,2020,Villa Park,42010,10,13,2,2,0,1,46.6,329,408,4,17,0.4,1,9,19,12,14
+Aston Villa,West Ham United,False,2020,Villa Park,42010,13,12,1,4,1,5,53.4,391,470,5,18,0.6,7,14,21,8,15
+Southampton,AFC Bournemouth,False,2020,St. Mary's Stadium,30168,6,9,3,5,0,6,35.2,178,300,1,10,0.3,2,6,8,15,25
+Southampton,AFC Bournemouth,True,2020,St. Mary's Stadium,30168,25,8,1,4,0,0,64.8,429,554,6,24,0.4,8,20,30,9,13
+Burnley,Norwich City,True,2020,Turf Moor,19712,13,11,0,7,0,2,41.4,272,357,9,25,0.4,5,10,14,10,15
+Burnley,Norwich City,False,2020,Turf Moor,19712,11,10,1,3,0,4,58.6,437,528,1,10,0.3,3,12,19,5,19
+Everton,Sheffield United,True,2020,Goodison Park,39354,16,9,1,12,0,0,69.8,433,520,7,42,0.6,7,5,10,4,11
+Everton,Sheffield United,False,2020,Goodison Park,39354,2,9,3,3,0,3,30.2,144,227,1,13,0.3,0,10,15,14,63
+Leicester City,Tottenham Hotspur,True,2020,King Power Stadium,32129,16,16,1,8,0,3,44.2,286,380,1,19,0.5,3,14,23,12,24
+Leicester City,Tottenham Hotspur,False,2020,King Power Stadium,32129,11,13,2,2,0,5,55.8,403,491,2,22,0.5,1,13,18,8,23
+Manchester City,Watford,True,2020,Etihad Stadium,54273,28,5,2,5,0,4,68.7,655,727,10,23,0.8,4,12,18,6,5
+Manchester City,Watford,False,2020,Etihad Stadium,54273,5,9,2,4,0,3,31.3,265,336,0,4,0.3,1,5,12,12,20
+Newcastle United,Brighton & Hove Albion,False,2020,St. James' Park,43316,16,8,1,3,0,4,71.3,633,718,3,17,0.6,7,7,14,11,14
+Newcastle United,Brighton & Hove Albion,True,2020,St. James' Park,43316,11,12,2,5,0,2,28.7,195,280,5,19,0.2,2,11,18,11,22
+Arsenal,Aston Villa,True,2020,Emirates Stadium,60331,21,13,5,9,1,7,58.1,396,465,5,20,0.6,5,6,12,8,20
+Arsenal,Aston Villa,False,2020,Emirates Stadium,60331,14,15,1,4,0,3,41.9,265,326,3,25,0.5,2,9,20,12,21
+Chelsea,Liverpool,True,2020,,40638,13,8,3,6,0,1,55,394,492,6,26,0.6,3,8,15,15,10
+Chelsea,Liverpool,False,2020,,40638,6,13,3,4,0,1,45,303,415,4,10,0.4,1,5,11,12,37
+Crystal Palace,Wolverhampton Wanderers,True,2020,Selhurst Park,25122,13,7,2,6,0,3,49.9,359,456,3,9,0.4,4,9,24,14,18
+Crystal Palace,Wolverhampton Wanderers,False,2020,Selhurst Park,25122,13,10,1,7,1,4,50.1,344,442,7,22,0.4,6,16,31,15,17
+West Ham United,Manchester United,False,2020,London Stadium,59936,9,9,2,7,0,4,53.5,399,479,4,20,0.5,4,9,13,5,18
+West Ham United,Manchester United,True,2020,London Stadium,59936,8,8,2,3,0,3,46.5,332,424,0,13,0.5,1,10,16,10,18
+AFC Bournemouth,West Ham United,True,2020,Vitality Stadium,10729,13,7,3,6,0,4,49.1,349,456,6,17,0.5,4,4,8,12,21
+AFC Bournemouth,West Ham United,False,2020,Vitality Stadium,10729,17,8,1,6,0,3,50.9,369,478,3,20,0.4,7,16,23,12,16
+Aston Villa,Burnley,True,2020,Villa Park,41546,16,10,1,7,0,1,60.2,324,416,3,27,0.3,6,5,14,9,13
+Aston Villa,Burnley,False,2020,Villa Park,41546,10,16,4,3,0,1,39.8,177,281,6,12,0.3,3,7,13,9,16
+Chelsea,Brighton & Hove Albion,False,2020,,40683,8,13,3,2,0,8,47.4,414,502,3,13,0.4,3,12,21,14,25
+Chelsea,Brighton & Hove Albion,True,2020,,40683,24,5,2,5,0,1,52.6,487,568,3,12,0.5,10,9,18,13,15
+Crystal Palace,Norwich City,True,2020,Selhurst Park,25477,15,14,3,5,0,3,44.6,333,415,5,21,0.4,6,10,18,8,13
+Crystal Palace,Norwich City,False,2020,Selhurst Park,25477,10,10,1,5,0,1,55.4,438,524,3,13,0.4,5,5,17,13,22
+Everton,Manchester City,True,2020,Goodison Park,39222,12,4,2,5,0,5,37.2,294,358,5,19,0.5,1,11,19,11,8
+Everton,Manchester City,False,2020,Goodison Park,39222,19,8,2,2,0,6,62.8,564,619,4,13,0.7,4,7,15,8,19
+Sheffield United,Liverpool,False,2020,Bramall Lane,31774,16,4,1,5,0,2,70.4,609,708,2,23,0.6,3,9,11,6,25
+Sheffield United,Liverpool,True,2020,Bramall Lane,31774,12,8,1,6,0,3,29.6,192,291,7,17,0.4,4,7,11,12,29
+Tottenham Hotspur,Southampton,False,2020,Tottenham Hotspur Stadium,59645,14,16,2,6,0,2,58.6,447,518,5,25,0.5,2,12,24,11,12
+Tottenham Hotspur,Southampton,True,2020,Tottenham Hotspur Stadium,59645,9,5,0,6,1,5,41.4,290,369,1,9,0.5,2,12,23,11,28
+Wolverhampton Wanderers,Watford,False,2020,Molineux Stadium,30711,14,6,1,6,0,1,60.9,530,628,4,20,0.4,3,10,15,5,7
+Wolverhampton Wanderers,Watford,True,2020,Molineux Stadium,30711,6,5,0,1,0,5,39.1,311,404,3,11,0.5,0,9,21,17,27
+Leicester City,Newcastle United,True,2020,King Power Stadium,32168,13,12,1,9,0,0,68.9,645,724,5,28,0.6,3,13,24,15,8
+Leicester City,Newcastle United,False,2020,King Power Stadium,32168,3,9,1,0,1,1,31.1,252,328,2,8,0.4,0,11,17,12,24
+Manchester United,Arsenal,False,2020,Old Trafford,73201,10,13,2,7,0,3,45.2,283,364,4,20,0.5,2,11,19,8,14
+Manchester United,Arsenal,True,2020,Old Trafford,73201,16,18,4,8,0,4,54.8,350,440,4,19,0.6,6,6,15,11,7
+Brighton & Hove Albion,Tottenham Hotspur,True,2020,American Express Stadium,30610,17,11,2,4,0,3,47.7,405,494,4,16,0.6,7,12,22,14,19
+Brighton & Hove Albion,Tottenham Hotspur,False,2020,American Express Stadium,30610,8,7,1,4,0,3,52.3,452,547,1,15,0.5,2,11,23,11,15
+Burnley,Everton,True,2020,Turf Moor,20650,9,5,2,7,0,2,40.8,215,327,7,18,0.3,2,10,15,18,22
+Burnley,Everton,False,2020,Turf Moor,20650,11,12,1,9,1,2,59.2,362,471,3,25,0.4,5,8,9,7,15
+Liverpool,Leicester City,False,2020,Anfield,53322,2,17,4,6,0,6,49.3,355,478,1,19,0.4,0,10,16,19,27
+Liverpool,Leicester City,True,2020,Anfield,53322,18,9,1,4,0,0,50.7,386,494,5,17,0.5,4,10,19,14,25
+Norwich City,Aston Villa,False,2020,Carrow Road,27045,22,17,3,6,0,4,42.4,268,345,3,17,0.5,3,9,16,11,34
+Norwich City,Aston Villa,True,2020,Carrow Road,27045,21,14,1,10,0,7,57.6,383,472,1,20,0.4,8,14,20,7,20
+Watford,Sheffield United,False,2020,Vicarage Road,20811,9,6,2,7,0,2,60.5,455,554,6,30,0.5,2,9,15,9,27
+Watford,Sheffield United,True,2020,Vicarage Road,20811,8,7,0,7,0,3,39.5,252,360,3,20,0.3,2,7,17,9,34
+West Ham United,Crystal Palace,False,2020,London Stadium,59912,7,7,2,2,0,4,48.3,395,489,3,9,0.4,2,6,10,9,18
+West Ham United,Crystal Palace,True,2020,London Stadium,59912,9,11,3,2,0,1,51.7,426,519,5,15,0.5,1,11,19,9,14
+Arsenal,AFC Bournemouth,False,2020,Emirates Stadium,60326,10,6,2,5,0,1,47.5,310,403,3,16,0.4,1,8,14,19,31
+Arsenal,AFC Bournemouth,True,2020,Emirates Stadium,60326,12,12,1,14,0,2,52.5,334,443,2,24,0.4,4,13,23,8,17
+Manchester City,Wolverhampton Wanderers,True,2020,Etihad Stadium,54435,18,11,5,9,0,0,76,634,714,8,36,0.7,10,7,14,11,5
+Manchester City,Wolverhampton Wanderers,False,2020,Etihad Stadium,54435,7,14,2,1,0,2,24,149,230,1,5,0.4,2,12,18,15,43
+Newcastle United,Manchester United,False,2020,St. James' Park,51198,12,10,3,6,0,1,68.1,512,594,5,25,0.5,4,6,11,8,7
+Newcastle United,Manchester United,True,2020,St. James' Park,51198,12,12,3,4,0,3,31.9,204,281,3,9,0.4,5,10,12,14,17
+Southampton,Chelsea,False,2020,,31473,13,15,1,5,0,1,56.7,395,528,2,9,0.4,2,12,19,14,19
+Southampton,Chelsea,True,2020,,31473,10,8,0,3,0,3,43.3,275,400,1,11,0.2,1,9,23,9,12
+AFC Bournemouth,Norwich City,True,2020,Vitality Stadium,10669,11,8,1,6,0,1,47.7,326,407,6,33,0.6,3,8,16,10,23
+AFC Bournemouth,Norwich City,False,2020,Vitality Stadium,10669,10,11,3,7,0,2,52.3,378,469,3,14,0.5,3,9,14,9,33
+Aston Villa,Brighton & Hove Albion,True,2020,Villa Park,41826,24,9,1,7,0,4,48.9,371,441,7,31,0.4,8,2,6,11,16
+Aston Villa,Brighton & Hove Albion,False,2020,Villa Park,41826,20,17,2,5,1,6,51.1,398,475,5,17,0.4,7,8,11,10,28
+Chelsea,Newcastle United,True,2020,,40513,16,9,2,11,0,0,71.1,552,634,5,27,0.6,4,12,23,8,16
+Chelsea,Newcastle United,False,2020,,40513,5,12,1,0,0,6,28.9,172,258,5,10,0.3,1,7,12,6,31
+Crystal Palace,Manchester City,True,2020,Selhurst Park,25480,7,8,1,1,0,9,28.7,207,276,1,8,0.4,2,7,13,22,26
+Crystal Palace,Manchester City,False,2020,Selhurst Park,25480,21,10,1,8,0,2,71.3,595,682,8,29,0.7,3,6,11,6,13
+Everton,West Ham United,True,2020,Goodison Park,39263,19,15,2,11,0,4,51.3,290,390,5,24,0.5,4,18,24,12,9
+Everton,West Ham United,False,2020,Goodison Park,39263,8,15,2,2,0,9,48.7,264,384,3,5,0.3,1,10,13,8,26
+Leicester City,Burnley,False,2020,King Power Stadium,32105,13,10,3,4,0,1,35.5,218,303,4,19,0.4,6,12,15,13,22
+Leicester City,Burnley,True,2020,King Power Stadium,32105,19,4,0,9,0,3,64.5,466,556,6,22,0.5,7,13,22,11,20
+Tottenham Hotspur,Watford,True,2020,Tottenham Hotspur Stadium,58754,12,5,4,11,0,1,69.4,592,686,7,40,0.5,7,8,11,11,6
+Tottenham Hotspur,Watford,False,2020,Tottenham Hotspur Stadium,58754,7,9,3,2,0,1,30.6,206,313,2,5,0.2,3,12,20,14,52
+Wolverhampton Wanderers,Southampton,False,2020,Molineux Stadium,30915,14,17,2,3,0,0,43,288,385,3,9,0.2,4,4,9,13,19
+Wolverhampton Wanderers,Southampton,True,2020,Molineux Stadium,30915,4,10,3,1,0,4,57,399,511,0,14,0.4,0,7,11,10,10
+Manchester United,Liverpool,False,2020,Old Trafford,73737,10,14,1,1,0,1,68,547,652,5,25,0.4,2,10,18,10,17
+Manchester United,Liverpool,True,2020,Old Trafford,73737,7,6,0,3,0,3,32,199,299,2,15,0.3,1,3,10,11,29
+Sheffield United,Arsenal,False,2020,Bramall Lane,30775,9,12,4,12,0,1,68.6,548,633,6,30,0.6,2,6,17,5,12
+Sheffield United,Arsenal,True,2020,Bramall Lane,30775,8,10,4,7,0,3,31.4,205,287,5,19,0.4,1,14,21,13,25
+Southampton,Leicester City,False,2020,St. Mary's Stadium,28762,25,12,0,7,0,3,72.6,611,709,6,26,0.6,5,15,26,5,8
+Southampton,Leicester City,True,2020,St. Mary's Stadium,28762,6,3,0,2,1,6,27.4,173,272,1,7,0.3,1,12,20,17,18
+Brighton & Hove Albion,Everton,True,2020,American Express Stadium,30529,8,12,2,0,0,5,55.5,431,533,2,8,0.4,1,10,18,17,8
+Brighton & Hove Albion,Everton,False,2020,American Express Stadium,30529,10,12,1,5,0,2,44.5,343,425,2,12,0.4,2,7,17,17,14
+Burnley,Chelsea,True,2020,,20975,13,7,3,5,0,3,36.7,286,390,2,19,0.4,3,9,16,13,16
+Burnley,Chelsea,False,2020,,20975,16,8,2,6,0,3,63.3,589,691,4,16,0.6,7,5,13,11,20
+Manchester City,Aston Villa,False,2020,Etihad Stadium,54506,11,5,1,7,0,6,36.9,273,341,3,18,0.5,4,5,10,13,27
+Manchester City,Aston Villa,True,2020,Etihad Stadium,54506,26,10,1,13,1,5,63.1,524,597,10,23,0.7,8,6,13,9,18
+Watford,AFC Bournemouth,False,2020,Vicarage Road,20821,15,8,3,10,0,3,59.8,417,501,4,25,0.5,7,9,16,15,21
+Watford,AFC Bournemouth,True,2020,Vicarage Road,20821,7,14,5,5,0,5,40.2,253,337,1,19,0.5,1,13,20,12,23
+West Ham United,Sheffield United,False,2020,London Stadium,59878,10,10,2,4,0,3,39.2,261,357,4,15,0.3,3,6,11,14,27
+West Ham United,Sheffield United,True,2020,London Stadium,59878,12,7,2,10,0,2,60.8,436,545,5,34,0.4,1,8,12,9,8
+Arsenal,Crystal Palace,True,2020,Emirates Stadium,60345,15,18,2,12,0,2,56.2,362,444,8,29,0.5,1,10,21,6,18
+Arsenal,Crystal Palace,False,2020,Emirates Stadium,60345,10,9,0,5,0,4,43.8,267,345,7,25,0.6,4,11,14,9,26
+Liverpool,Tottenham Hotspur,True,2020,Anfield,53222,21,9,3,8,0,3,68,528,631,10,34,0.5,5,15,20,12,8
+Liverpool,Tottenham Hotspur,False,2020,Anfield,53222,11,11,3,3,0,12,32,200,298,4,11,0.3,2,9,16,10,35
+Newcastle United,Wolverhampton Wanderers,True,2020,St. James' Park,46019,13,8,2,3,1,4,43.1,317,405,8,22,0.5,4,9,13,5,28
+Newcastle United,Wolverhampton Wanderers,False,2020,St. James' Park,46019,13,16,2,6,0,1,56.9,451,533,8,26,0.5,3,12,18,7,17
+Norwich City,Manchester United,False,2020,Carrow Road,27108,21,10,2,10,0,2,53.9,406,480,4,19,0.7,3,13,24,6,13
+Norwich City,Manchester United,True,2020,Carrow Road,27108,10,13,2,1,0,8,46.1,330,417,0,6,0.4,2,14,26,8,16
+AFC Bournemouth,Manchester United,True,2020,Vitality Stadium,10669,13,14,4,4,0,4,42.6,262,366,3,13,0.4,3,7,13,19,33
+AFC Bournemouth,Manchester United,False,2020,Vitality Stadium,10669,15,12,3,10,0,5,57.4,383,488,5,23,0.4,5,11,18,12,11
+Arsenal,Wolverhampton Wanderers,True,2020,Emirates Stadium,60383,10,6,0,8,0,7,57.5,465,539,8,32,0.4,1,10,16,7,20
+Arsenal,Wolverhampton Wanderers,False,2020,Emirates Stadium,60383,24,15,2,9,0,3,42.5,316,397,6,25,0.7,12,13,22,14,21
+Aston Villa,Liverpool,True,2020,Villa Park,41878,4,12,1,2,0,4,26.3,132,226,2,13,0.3,1,13,20,13,47
+Aston Villa,Liverpool,False,2020,Villa Park,41878,25,9,2,10,0,1,73.7,533,634,9,39,0.5,9,12,17,8,21
+Brighton & Hove Albion,Norwich City,True,2020,American Express Stadium,30539,21,11,0,8,0,0,58.5,452,538,9,19,0.5,4,13,19,13,5
+Brighton & Hove Albion,Norwich City,False,2020,American Express Stadium,30539,7,8,1,3,0,3,41.5,307,391,3,4,0.3,3,10,13,13,19
+Manchester City,Southampton,True,2020,Etihad Stadium,53922,26,11,3,17,0,2,75.3,562,639,13,62,0.7,13,8,9,3,5
+Manchester City,Southampton,False,2020,Etihad Stadium,53922,3,10,1,0,0,2,24.7,139,225,1,4,0.2,0,11,20,11,76
+Sheffield United,Burnley,False,2020,Bramall Lane,31131,6,12,2,6,0,3,54.4,342,460,3,23,0.3,1,4,5,4,17
+Sheffield United,Burnley,True,2020,Bramall Lane,31131,13,8,1,7,0,1,45.6,266,384,5,23,0.3,2,10,17,7,23
+Watford,Chelsea,False,2020,,21011,16,5,2,6,0,2,67.2,710,793,4,13,0.6,4,8,16,13,17
+Watford,Chelsea,True,2020,,21011,12,8,4,2,0,8,32.8,292,373,6,17,0.4,4,6,16,8,20
+West Ham United,Newcastle United,False,2020,London Stadium,59907,12,7,1,3,0,4,30.5,176,262,1,11,0.4,0,12,18,10,40
+West Ham United,Newcastle United,True,2020,London Stadium,59907,16,10,2,7,0,6,69.5,501,583,8,34,0.5,4,8,13,5,12
+Crystal Palace,Leicester City,True,2020,Selhurst Park,25480,12,15,2,5,0,3,44.2,262,334,1,20,0.5,4,13,19,9,12
+Crystal Palace,Leicester City,False,2020,Selhurst Park,25480,14,16,2,6,0,3,55.8,353,431,7,20,0.5,2,15,22,8,24
+Everton,Tottenham Hotspur,True,2020,Goodison Park,39001,7,9,1,5,0,1,47.3,281,375,8,28,0.7,1,12,26,6,8
+Everton,Tottenham Hotspur,False,2020,Goodison Park,39001,5,8,2,2,0,2,52.7,344,443,3,7,0.4,1,13,15,11,24
+Norwich City,Watford,True,2020,Carrow Road,27074,17,7,1,10,0,0,65.8,523,597,2,28,0.6,5,11,18,7,9
+Norwich City,Watford,False,2020,Carrow Road,27074,12,13,2,4,1,5,34.2,232,315,3,10,0.4,4,13,25,15,36
+Burnley,West Ham United,True,2020,Turf Moor,20255,14,17,2,11,0,4,40,208,299,8,24,0.4,1,2,7,8,21
+Burnley,West Ham United,False,2020,Turf Moor,20255,7,10,1,4,0,10,60,348,459,0,21,0.3,1,8,14,12,21
+Chelsea,Crystal Palace,True,2020,,40525,23,9,3,7,0,1,60.6,498,572,5,22,0.6,8,9,19,10,9
+Chelsea,Crystal Palace,False,2020,,40525,3,17,2,0,0,3,39.4,290,377,1,7,0.4,1,13,19,11,21
+Leicester City,Arsenal,False,2020,King Power Stadium,32209,8,10,1,4,0,5,49.8,401,478,2,16,0.5,3,13,18,7,15
+Leicester City,Arsenal,True,2020,King Power Stadium,32209,19,10,1,5,0,1,50.2,426,486,7,16,0.4,3,9,19,11,19
+Newcastle United,AFC Bournemouth,False,2020,St. James' Park,44424,16,5,0,4,0,7,66.1,469,559,4,24,0.4,5,10,14,8,24
+Newcastle United,AFC Bournemouth,True,2020,St. James' Park,44424,21,10,2,5,0,3,33.9,195,279,3,18,0.4,7,8,18,8,31
+Southampton,Everton,False,2020,St. Mary's Stadium,29754,24,12,1,9,0,2,52.7,271,377,8,26,0.5,10,16,23,10,20
+Southampton,Everton,True,2020,St. Mary's Stadium,29754,4,12,1,5,0,3,47.3,244,345,1,11,0.2,0,5,12,6,24
+Tottenham Hotspur,Sheffield United,False,2020,Tottenham Hotspur Stadium,59781,14,9,2,4,0,4,38.9,285,378,3,15,0.4,3,16,27,10,23
+Tottenham Hotspur,Sheffield United,True,2020,Tottenham Hotspur Stadium,59781,17,6,2,4,0,3,61.1,507,602,3,16,0.5,4,13,19,5,19
+Liverpool,Manchester City,True,2020,Anfield,53324,12,10,0,4,0,2,45,324,416,5,17,0.5,2,5,13,10,27
+Liverpool,Manchester City,False,2020,Anfield,53324,18,5,2,13,0,2,55,425,507,5,31,0.6,8,10,15,10,24
+Manchester United,Brighton & Hove Albion,False,2020,Old Trafford,73556,6,14,5,2,0,8,57.3,390,483,4,14,0.5,1,15,28,10,14
+Manchester United,Brighton & Hove Albion,True,2020,Old Trafford,73556,21,10,2,5,0,1,42.7,287,358,2,17,0.4,5,14,24,10,11
+Wolverhampton Wanderers,Aston Villa,False,2020,Molineux Stadium,31607,13,8,3,3,0,3,49.9,299,375,4,27,0.4,4,13,20,9,15
+Wolverhampton Wanderers,Aston Villa,True,2020,Molineux Stadium,31607,17,17,4,6,0,3,50.1,309,385,4,21,0.6,5,8,14,11,28
+AFC Bournemouth,Wolverhampton Wanderers,True,2020,Vitality Stadium,10539,9,10,2,5,1,5,46.6,355,443,3,18,0.3,3,6,9,12,18
+AFC Bournemouth,Wolverhampton Wanderers,False,2020,Vitality Stadium,10539,18,12,1,9,0,2,53.4,443,509,5,21,0.7,3,6,11,6,27
+Arsenal,Southampton,True,2020,Emirates Stadium,60295,12,13,6,6,0,4,61,404,487,12,32,0.5,4,13,25,15,17
+Arsenal,Southampton,False,2020,Emirates Stadium,60295,21,19,2,8,0,3,39,235,316,2,13,0.4,4,9,18,16,21
+Brighton & Hove Albion,Leicester City,True,2020,American Express Stadium,30640,7,9,2,6,0,7,52.6,385,458,3,24,0.5,3,7,11,7,11
+Brighton & Hove Albion,Leicester City,False,2020,American Express Stadium,30640,19,1,0,7,0,0,47.4,345,418,4,20,0.4,2,9,17,12,22
+Crystal Palace,Liverpool,True,2020,Selhurst Park,25486,16,8,0,9,0,2,40,246,330,8,25,0.4,3,10,14,8,31
+Crystal Palace,Liverpool,False,2020,Selhurst Park,25486,12,7,1,8,0,5,60,416,510,5,25,0.4,4,15,24,6,29
+Everton,Norwich City,True,2020,Goodison Park,39241,18,12,3,7,0,3,57.3,305,401,9,33,0.5,4,13,20,5,14
+Everton,Norwich City,False,2020,Goodison Park,39241,13,11,5,7,0,7,42.7,218,307,4,15,0.4,5,13,18,9,35
+Manchester City,Chelsea,False,2020,,54486,11,9,1,3,0,2,53.3,574,644,3,13,0.4,3,11,15,17,23
+Manchester City,Chelsea,True,2020,,54486,15,5,1,8,0,1,46.7,477,558,3,19,0.6,4,10,15,10,12
+Watford,Burnley,False,2020,Vicarage Road,19711,11,13,3,5,0,4,38.1,158,248,3,16,0.3,3,4,6,12,29
+Watford,Burnley,True,2020,Vicarage Road,19711,15,14,1,7,0,2,61.9,302,396,6,33,0.4,7,9,11,1,23
+West Ham United,Tottenham Hotspur,False,2020,London Stadium,59930,15,14,2,7,0,3,52.9,380,471,4,13,0.3,3,8,19,9,15
+West Ham United,Tottenham Hotspur,True,2020,London Stadium,59930,11,12,3,3,0,3,47.1,317,407,6,21,0.5,3,6,18,5,13
+Sheffield United,Manchester United,False,2020,Bramall Lane,32024,11,10,2,3,0,5,59.4,476,587,2,11,0.5,2,6,10,9,21
+Sheffield United,Manchester United,True,2020,Bramall Lane,32024,12,13,1,6,0,2,40.6,277,383,4,28,0.3,3,9,13,16,21
+Aston Villa,Newcastle United,True,2020,Villa Park,41821,17,10,1,11,0,5,62,425,490,3,28,0.6,3,11,15,6,19
+Aston Villa,Newcastle United,False,2020,Villa Park,41821,11,9,1,6,0,6,38,232,296,3,21,0.5,3,7,15,9,27
+Burnley,Crystal Palace,True,2020,Turf Moor,19818,15,13,2,5,0,1,43.5,229,347,7,26,0.3,3,15,20,16,16
+Burnley,Crystal Palace,False,2020,Turf Moor,19818,7,9,0,6,0,3,56.5,348,464,2,17,0.3,1,8,15,12,31
+Chelsea,West Ham United,True,2020,,40595,19,0,0,9,0,3,65.7,589,671,7,39,0.5,5,5,7,19,9
+Chelsea,West Ham United,False,2020,,40595,5,16,3,3,0,6,34.3,248,354,5,15,0.4,0,13,26,15,30
+Liverpool,Brighton & Hove Albion,False,2020,Anfield,53319,12,10,0,5,0,5,55.2,497,592,5,20,0.6,3,7,11,14,20
+Liverpool,Brighton & Hove Albion,True,2020,Anfield,53319,15,3,0,4,1,4,44.8,388,482,2,12,0.5,3,5,11,11,16
+Newcastle United,Manchester City,False,2020,St. James' Park,49937,24,6,2,10,0,1,76.4,672,760,10,38,0.7,7,7,12,9,10
+Newcastle United,Manchester City,True,2020,St. James' Park,49937,6,4,1,1,0,7,23.6,154,238,0,10,0.3,0,8,18,17,40
+Southampton,Watford,True,2020,St. Mary's Stadium,26929,11,6,1,6,0,2,62.8,431,548,6,25,0.5,2,11,17,12,19
+Southampton,Watford,False,2020,St. Mary's Stadium,26929,6,10,0,7,0,3,37.2,204,315,5,20,0.2,0,10,18,13,32
+Tottenham Hotspur,AFC Bournemouth,False,2020,Tottenham Hotspur Stadium,59626,20,12,2,8,0,2,47.4,358,455,4,23,0.5,6,6,8,15,19
+Tottenham Hotspur,AFC Bournemouth,True,2020,Tottenham Hotspur Stadium,59626,14,10,0,4,0,4,52.6,415,515,3,15,0.5,2,13,19,15,29
+Leicester City,Everton,False,2020,King Power Stadium,32144,11,9,1,4,0,4,30.7,185,275,9,22,0.3,3,7,20,21,32
+Leicester City,Everton,True,2020,King Power Stadium,32144,16,7,0,4,0,2,69.3,544,652,5,25,0.5,3,10,19,10,9
+Manchester United,Aston Villa,False,2020,Old Trafford,73381,9,8,1,9,0,5,37.7,221,309,3,24,0.3,2,16,22,10,18
+Manchester United,Aston Villa,True,2020,Old Trafford,73381,16,16,4,9,0,1,62.3,452,525,3,29,0.5,3,3,6,10,15
+Norwich City,Arsenal,False,2020,Carrow Road,27067,16,10,1,12,0,6,60.1,459,541,10,37,0.6,8,7,16,9,14
+Norwich City,Arsenal,True,2020,Carrow Road,27067,15,8,2,7,0,4,39.9,293,364,3,16,0.3,2,7,12,10,35
+Wolverhampton Wanderers,Sheffield United,False,2020,Molineux Stadium,31642,10,18,5,2,0,3,40.6,270,361,7,18,0.4,1,14,19,17,37
+Wolverhampton Wanderers,Sheffield United,True,2020,Molineux Stadium,31642,13,12,1,7,0,3,59.4,422,517,7,32,0.7,6,8,17,11,13
+Burnley,Manchester City,True,2020,Turf Moor,20101,4,9,1,3,0,4,24.5,163,250,1,9,0.4,1,8,14,13,24
+Burnley,Manchester City,False,2020,Turf Moor,20101,17,6,1,6,0,1,75.5,690,774,4,28,0.5,5,5,8,6,18
+Crystal Palace,AFC Bournemouth,False,2020,Selhurst Park,23497,6,15,3,9,0,1,69.2,499,575,3,30,0.5,1,12,26,8,18
+Crystal Palace,AFC Bournemouth,True,2020,Selhurst Park,23497,7,6,3,6,1,3,30.8,190,258,1,15,0.3,2,8,16,12,30
+Chelsea,Aston Villa,False,2020,,40628,9,10,1,5,0,7,35.5,280,349,5,23,0.5,5,9,22,20,30
+Chelsea,Aston Villa,True,2020,,40628,25,18,2,9,0,2,64.5,564,649,6,26,0.4,10,8,13,6,15
+Leicester City,Watford,True,2020,King Power Stadium,31763,12,13,3,7,0,1,63,467,569,2,21,0.4,2,5,11,14,27
+Leicester City,Watford,False,2020,King Power Stadium,31763,4,16,2,2,0,3,37,226,324,5,23,0.4,2,12,17,15,30
+Liverpool,Everton,False,2020,Anfield,53094,12,17,2,6,0,0,41.5,245,339,4,26,0.4,1,13,19,14,15
+Liverpool,Everton,True,2020,Anfield,53094,11,13,1,5,0,2,58.5,406,501,2,12,0.5,3,11,15,7,25
+Manchester United,Tottenham Hotspur,True,2020,Old Trafford,73252,12,9,0,4,0,4,46.6,335,441,2,10,0.3,2,12,20,16,15
+Manchester United,Tottenham Hotspur,False,2020,Old Trafford,73252,8,9,1,3,0,5,53.4,393,497,3,24,0.3,2,15,18,14,19
+Southampton,Norwich City,False,2020,St. Mary's Stadium,27019,10,7,1,1,0,3,59.9,446,562,3,7,0.4,2,7,12,12,30
+Southampton,Norwich City,True,2020,St. Mary's Stadium,27019,14,12,1,6,0,2,40.1,252,366,6,21,0.4,4,15,27,13,15
+Wolverhampton Wanderers,West Ham United,False,2020,Molineux Stadium,31217,6,9,2,4,0,5,50.6,404,496,2,16,0.5,1,15,23,13,17
+Wolverhampton Wanderers,West Ham United,True,2020,Molineux Stadium,31217,13,8,1,5,0,3,49.4,390,479,7,22,0.6,0,5,12,17,17
+Arsenal,Brighton & Hove Albion,True,2020,Emirates Stadium,60164,12,10,3,9,0,7,49.2,325,389,7,22,0.5,3,9,19,8,13
+Arsenal,Brighton & Hove Albion,False,2020,Emirates Stadium,60164,20,11,1,9,0,4,50.8,337,413,6,21,0.6,6,7,11,6,24
+Sheffield United,Newcastle United,False,2020,Bramall Lane,30409,6,6,0,1,0,6,26.7,167,253,2,8,0.4,1,9,14,10,41
+Sheffield United,Newcastle United,True,2020,Bramall Lane,30409,13,10,2,8,0,2,73.3,579,675,8,45,0.5,3,15,18,2,13
+AFC Bournemouth,Liverpool,True,2020,Vitality Stadium,10832,3,5,0,1,0,6,26.2,198,305,1,3,0.2,2,7,12,16,35
+AFC Bournemouth,Liverpool,False,2020,Vitality Stadium,10832,21,6,1,4,0,0,73.8,759,852,3,24,0.6,5,5,10,8,5
+Everton,Chelsea,False,2020,,39114,15,9,0,5,0,4,70,505,594,10,24,0.5,4,8,14,10,23
+Everton,Chelsea,True,2020,,39114,13,14,3,1,0,3,30,160,255,5,12,0.3,3,21,36,10,25
+Manchester City,Manchester United,True,2020,Etihad Stadium,54403,22,10,3,16,0,5,71.9,587,658,8,48,0.7,11,7,14,14,9
+Manchester City,Manchester United,False,2020,Etihad Stadium,54403,11,10,2,3,0,4,28.1,199,265,1,9,0.3,2,12,19,11,39
+Tottenham Hotspur,Burnley,False,2020,Tottenham Hotspur Stadium,58401,7,8,1,1,0,2,51,366,479,5,18,0.5,1,7,15,7,10
+Tottenham Hotspur,Burnley,True,2020,Tottenham Hotspur Stadium,58401,13,12,1,1,0,1,49,368,476,2,7,0.3,3,13,19,15,23
+Watford,Crystal Palace,False,2020,Vicarage Road,20070,3,16,2,2,0,3,49.8,288,391,0,11,0.3,1,11,14,7,26
+Watford,Crystal Palace,True,2020,Vicarage Road,20070,13,15,4,6,0,0,50.2,280,384,6,28,0.4,6,10,14,11,15
+Aston Villa,Leicester City,True,2020,Villa Park,41908,15,21,6,8,0,4,40.4,234,306,9,31,0.5,4,8,14,8,22
+Aston Villa,Leicester City,False,2020,Villa Park,41908,23,15,2,6,0,1,59.6,411,478,7,24,0.6,7,8,17,12,30
+Brighton & Hove Albion,Wolverhampton Wanderers,True,2020,American Express Stadium,30189,13,10,3,3,0,4,62,474,581,4,15,0.5,3,7,13,9,11
+Brighton & Hove Albion,Wolverhampton Wanderers,False,2020,American Express Stadium,30189,13,7,0,4,0,3,38,258,356,3,10,0.5,5,5,9,10,11
+Newcastle United,Southampton,True,2020,St. James' Park,42303,12,11,1,3,0,3,45.3,233,344,3,15,0.4,6,6,16,18,25
+Newcastle United,Southampton,False,2020,St. James' Park,42303,19,17,3,12,0,4,54.7,297,410,5,25,0.4,5,13,24,7,17
+Norwich City,Sheffield United,True,2020,Carrow Road,26881,14,6,0,9,0,1,58.2,453,579,4,21,0.3,5,9,17,8,15
+Norwich City,Sheffield United,False,2020,Carrow Road,26881,9,12,4,1,0,3,41.8,293,418,3,16,0.4,1,11,17,13,23
+West Ham United,Arsenal,False,2020,London Stadium,59936,10,6,0,3,0,3,64.2,584,675,2,9,0.6,4,7,12,9,16
+West Ham United,Arsenal,True,2020,London Stadium,59936,11,12,2,4,0,0,35.8,288,365,3,19,0.5,3,16,27,17,10
+Burnley,Newcastle United,True,2020,Turf Moor,19798,7,15,0,4,0,0,48,270,369,3,12,0.3,1,11,14,13,28
+Burnley,Newcastle United,False,2020,Turf Moor,19798,9,12,2,3,0,3,52,291,397,5,24,0.4,2,8,17,7,15
+Chelsea,AFC Bournemouth,False,2020,,40243,11,14,2,4,0,5,33,192,293,2,16,0.2,8,5,7,19,47
+Chelsea,AFC Bournemouth,True,2020,,40243,18,9,1,9,0,1,67,487,590,11,42,0.5,8,7,15,15,26
+Leicester City,Norwich City,True,2020,King Power Stadium,32101,18,11,0,12,0,2,56.8,431,513,9,33,0.6,5,16,21,13,15
+Leicester City,Norwich City,False,2020,King Power Stadium,32101,10,15,5,4,0,5,43.2,313,397,3,13,0.5,4,11,17,14,24
+Liverpool,Watford,True,2020,Anfield,53311,16,8,2,6,0,2,67.9,538,649,0,22,0.6,2,8,14,9,14
+Liverpool,Watford,False,2020,Anfield,53311,8,6,1,3,0,4,32.1,198,309,1,9,0.3,0,15,21,13,35
+Sheffield United,Aston Villa,False,2020,Bramall Lane,30396,8,9,2,2,0,1,43.3,272,396,4,15,0.4,1,9,11,13,43
+Sheffield United,Aston Villa,True,2020,Bramall Lane,30396,7,10,2,3,0,0,56.7,394,512,5,30,0.5,2,7,12,11,16
+Southampton,West Ham United,True,2020,St. Mary's Stadium,27701,11,9,1,5,0,3,57,342,474,9,26,0.4,0,8,15,10,24
+Southampton,West Ham United,False,2020,St. Mary's Stadium,27701,11,14,3,8,0,2,43,218,359,7,20,0.4,4,11,17,12,29
+Arsenal,Manchester City,True,2020,Emirates Stadium,60031,6,9,1,3,0,4,42.4,419,482,2,20,0.5,1,12,16,12,10
+Arsenal,Manchester City,False,2020,Emirates Stadium,60031,14,24,4,3,0,1,57.6,608,672,1,10,0.7,4,11,21,10,20
+Manchester United,Everton,False,2020,Old Trafford,63328,8,12,2,5,0,7,33.5,176,264,2,18,0.3,0,10,21,12,30
+Manchester United,Everton,True,2020,Old Trafford,63328,24,10,1,6,0,3,66.5,454,529,5,31,0.5,8,11,14,7,18
+Wolverhampton Wanderers,Tottenham Hotspur,False,2020,Molineux Stadium,31674,9,10,4,2,0,4,42.2,273,375,2,10,0.3,1,10,18,11,40
+Wolverhampton Wanderers,Tottenham Hotspur,True,2020,Molineux Stadium,31674,19,14,4,11,0,3,57.8,379,494,5,33,0.5,10,9,18,13,9
+Crystal Palace,Brighton & Hove Albion,False,2020,Selhurst Park,24175,15,12,1,7,0,3,65.2,496,593,6,33,0.5,2,11,16,9,13
+Crystal Palace,Brighton & Hove Albion,True,2020,Selhurst Park,24175,11,7,1,3,0,9,34.8,226,315,6,14,0.4,1,7,14,14,32
+AFC Bournemouth,Burnley,True,2020,Vitality Stadium,10020,3,13,2,4,0,0,64.8,338,437,3,21,0.4,0,10,15,6,31
+AFC Bournemouth,Burnley,False,2020,Vitality Stadium,10020,2,21,4,5,0,0,35.2,134,230,2,19,0.3,1,7,13,7,27
+Aston Villa,Southampton,True,2020,Villa Park,41834,19,16,2,7,0,5,56.5,335,432,10,27,0.4,6,5,9,14,21
+Aston Villa,Southampton,False,2020,Villa Park,41834,17,15,1,5,0,5,43.5,234,341,4,22,0.3,4,13,16,3,24
+Brighton & Hove Albion,Sheffield United,True,2020,American Express Stadium,30505,9,6,1,4,0,1,69,532,648,5,23,0.4,3,8,9,5,6
+Brighton & Hove Albion,Sheffield United,False,2020,American Express Stadium,30505,7,11,3,3,0,2,31,188,293,3,9,0.2,0,13,22,9,23
+Everton,Arsenal,False,2020,Goodison Park,39336,6,11,3,4,0,0,57,403,484,3,16,0.5,0,10,14,6,24
+Everton,Arsenal,True,2020,Goodison Park,39336,9,10,2,5,0,2,43,280,353,3,23,0.6,4,6,15,17,13
+Manchester City,Leicester City,False,2020,Etihad Stadium,54415,5,9,2,1,0,9,37.3,332,409,1,9,0.5,0,6,14,11,16
+Manchester City,Leicester City,True,2020,Etihad Stadium,54415,23,14,2,6,0,1,62.7,620,690,5,14,0.7,4,10,19,10,3
+Newcastle United,Crystal Palace,False,2020,St. James' Park,45453,16,11,0,5,0,2,57.5,420,503,4,16,0.7,5,7,18,4,14
+Newcastle United,Crystal Palace,True,2020,St. James' Park,45453,8,12,2,4,0,4,42.5,282,365,3,22,0.5,3,14,25,12,16
+Norwich City,Wolverhampton Wanderers,True,2020,Carrow Road,27053,13,7,2,4,0,2,50.2,364,455,1,10,0.4,1,11,15,11,18
+Norwich City,Wolverhampton Wanderers,False,2020,Carrow Road,27053,14,14,4,11,0,6,49.8,357,440,7,22,0.7,8,8,13,10,12
+Tottenham Hotspur,Chelsea,False,2020,,61104,13,11,3,5,0,1,55.5,467,571,4,19,0.5,4,9,16,13,15
+Tottenham Hotspur,Chelsea,True,2020,,61104,5,9,4,3,1,1,44.5,356,455,2,16,0.4,2,13,19,12,20
+Watford,Manchester United,False,2020,Vicarage Road,21488,17,11,1,5,0,1,63.9,473,562,3,14,0.5,3,8,18,9,22
+Watford,Manchester United,True,2020,Vicarage Road,21488,11,16,3,3,0,8,36.1,209,313,4,12,0.2,5,9,19,14,15
+AFC Bournemouth,Arsenal,True,2020,Vitality Stadium,10234,12,5,4,8,0,1,39.5,305,383,1,19,0.5,3,7,16,7,24
+AFC Bournemouth,Arsenal,False,2020,Vitality Stadium,10234,17,13,4,3,0,3,60.5,520,599,5,24,0.5,9,6,10,13,19
+Aston Villa,Norwich City,True,2020,Villa Park,41289,11,15,2,5,0,5,42.5,271,363,5,26,0.4,4,12,19,6,20
+Aston Villa,Norwich City,False,2020,Villa Park,41289,16,12,3,8,0,1,57.5,424,508,8,23,0.6,4,5,7,8,29
+Chelsea,Southampton,True,2020,,40651,10,10,3,8,0,1,66.1,556,688,5,33,0.4,2,13,21,11,7
+Chelsea,Southampton,False,2020,,40651,5,9,2,1,0,3,33.9,228,362,1,8,0.2,2,16,32,9,31
+Crystal Palace,West Ham United,True,2020,Selhurst Park,25462,13,5,0,7,0,1,58.2,464,557,5,19,0.4,1,10,16,13,16
+Crystal Palace,West Ham United,False,2020,Selhurst Park,25462,10,10,2,6,0,2,41.8,288,390,7,25,0.4,3,15,30,20,27
+Everton,Burnley,False,2020,Goodison Park,39177,6,14,0,3,0,4,32.5,144,255,5,8,0.3,0,13,20,9,25
+Everton,Burnley,True,2020,Goodison Park,39177,21,15,0,10,0,0,67.5,426,521,10,33,0.5,8,4,5,7,14
+Leicester City,Liverpool,True,2020,King Power Stadium,32211,3,5,1,2,0,2,41.2,345,421,0,13,0.5,1,11,16,11,36
+Leicester City,Liverpool,False,2020,King Power Stadium,32211,15,7,1,8,0,0,58.8,506,590,11,33,0.6,2,8,10,8,15
+Manchester United,Newcastle United,True,2020,Old Trafford,73206,22,10,2,5,0,1,73.3,732,815,4,16,0.7,5,12,17,10,2
+Manchester United,Newcastle United,False,2020,Old Trafford,73206,7,7,2,0,0,6,26.7,213,295,1,5,0.4,0,13,20,10,22
+Sheffield United,Watford,True,2020,Bramall Lane,30222,16,11,0,9,0,1,58.1,392,517,10,31,0.4,6,8,18,4,10
+Sheffield United,Watford,False,2020,Bramall Lane,30222,5,8,3,1,0,3,41.9,265,386,1,10,0.4,1,3,7,8,27
+Tottenham Hotspur,Brighton & Hove Albion,False,2020,Tottenham Hotspur Stadium,56308,11,9,2,2,0,3,46.2,331,416,5,17,0.6,1,13,23,14,28
+Tottenham Hotspur,Brighton & Hove Albion,True,2020,Tottenham Hotspur Stadium,56308,11,10,4,9,0,4,53.8,390,494,4,16,0.3,4,15,19,12,19
+Wolverhampton Wanderers,Manchester City,False,2020,Molineux Stadium,31737,7,13,1,1,1,5,38.1,282,358,1,2,0.3,1,6,16,14,32
+Wolverhampton Wanderers,Manchester City,True,2020,Molineux Stadium,31737,21,7,0,3,0,1,61.9,500,564,10,34,0.7,7,7,13,7,2
+Brighton & Hove Albion,AFC Bournemouth,False,2020,American Express Stadium,30441,10,11,2,2,0,4,44.9,317,413,1,8,0.4,5,9,18,13,30
+Brighton & Hove Albion,AFC Bournemouth,True,2020,American Express Stadium,30441,16,9,0,9,0,2,55.1,411,496,2,24,0.5,4,15,23,15,12
+Burnley,Manchester United,True,2020,Turf Moor,21924,8,17,4,5,0,2,38.6,200,295,7,24,0.4,2,9,13,6,12
+Burnley,Manchester United,False,2020,Turf Moor,21924,14,10,3,4,0,1,61.4,407,501,1,8,0.4,6,3,6,2,20
+Newcastle United,Everton,False,2020,St. James' Park,52211,22,13,2,8,0,4,57.3,341,435,8,25,0.5,6,10,15,6,32
+Newcastle United,Everton,True,2020,St. James' Park,52211,20,13,2,5,0,7,42.7,233,317,6,28,0.6,6,7,14,9,25
+Norwich City,Tottenham Hotspur,True,2020,Carrow Road,27072,5,12,3,4,0,5,41.1,279,394,1,10,0.3,0,13,22,17,26
+Norwich City,Tottenham Hotspur,False,2020,Carrow Road,27072,15,10,3,6,0,1,58.9,450,554,0,21,0.4,7,12,22,9,11
+Southampton,Crystal Palace,False,2020,St. Mary's Stadium,31108,5,7,2,4,0,4,40.1,243,334,3,8,0.3,0,10,16,12,32
+Southampton,Crystal Palace,True,2020,St. Mary's Stadium,31108,14,13,1,12,0,1,59.9,380,471,7,38,0.5,5,10,20,14,11
+Watford,Aston Villa,False,2020,Vicarage Road,21348,11,9,1,3,0,3,51.2,352,433,6,22,0.4,6,6,11,11,23
+Watford,Aston Villa,True,2020,Vicarage Road,21348,20,16,3,6,1,2,48.8,331,417,5,21,0.5,9,10,14,9,23
+West Ham United,Leicester City,False,2020,,59519,13,4,1,6,0,3,57.3,424,523,3,17,0.4,3,6,11,16,10
+West Ham United,Leicester City,True,2020,,59519,14,16,4,5,0,6,42.7,271,383,7,17,0.4,5,14,24,10,17
+Arsenal,Chelsea,True,2020,,60309,7,13,5,2,0,2,42.1,337,427,3,9,0.3,0,11,16,12,20
+Arsenal,Chelsea,False,2020,,60309,13,19,4,3,0,1,57.9,482,577,5,23,0.5,3,10,17,16,10
+Liverpool,Wolverhampton Wanderers,True,2020,Anfield,53326,10,7,1,5,0,2,62.9,522,607,5,18,0.6,3,7,19,12,15
+Liverpool,Wolverhampton Wanderers,False,2020,Anfield,53326,10,3,0,6,0,2,37.1,258,352,4,18,0.5,3,12,23,10,20
+Manchester City,Sheffield United,True,2020,Etihad Stadium,54512,16,5,1,8,0,0,72.9,789,871,2,14,0.6,6,8,10,3,12
+Manchester City,Sheffield United,False,2020,Etihad Stadium,54512,8,6,1,5,0,2,27.1,233,314,4,16,0.5,2,10,16,12,23
+Arsenal,Manchester United,True,2020,Emirates Stadium,60328,10,11,2,1,0,4,48.8,435,513,5,15,0.6,1,10,19,15,18
+Arsenal,Manchester United,False,2020,Emirates Stadium,60328,10,15,0,4,0,2,51.2,462,542,2,16,0.3,3,5,12,10,7
+Brighton & Hove Albion,Chelsea,True,2020,,30559,16,8,2,5,0,3,47.7,377,484,4,17,0.5,7,15,20,8,13
+Brighton & Hove Albion,Chelsea,False,2020,,30559,16,15,3,3,0,4,52.3,436,537,5,14,0.5,7,14,25,19,26
+Burnley,Aston Villa,False,2020,Turf Moor,19561,11,10,1,4,0,0,38.1,223,327,3,13,0.4,2,9,13,3,31
+Burnley,Aston Villa,True,2020,Turf Moor,19561,20,12,1,8,0,4,61.9,405,506,12,45,0.5,6,2,7,5,12
+Manchester City,Everton,False,2020,Etihad Stadium,54407,7,11,4,6,0,5,34.6,310,401,5,12,0.5,2,10,14,14,11
+Manchester City,Everton,True,2020,Etihad Stadium,54407,16,11,0,3,0,1,65.4,700,777,3,11,0.6,2,8,10,16,13
+Newcastle United,Leicester City,False,2020,St. James' Park,52178,17,12,1,5,0,2,76.6,755,833,2,11,0.7,2,9,17,11,14
+Newcastle United,Leicester City,True,2020,St. James' Park,52178,5,8,1,4,0,7,23.4,170,244,1,13,0.3,1,9,15,10,20
+Norwich City,Crystal Palace,False,2020,Carrow Road,27021,12,9,0,5,0,3,59.4,422,521,3,26,0.6,5,3,16,11,8
+Norwich City,Crystal Palace,True,2020,Carrow Road,27021,15,12,5,2,0,2,40.6,292,362,4,13,0.6,3,17,30,17,32
+Southampton,Tottenham Hotspur,True,2020,St. Mary's Stadium,30976,12,21,3,6,0,5,40.9,217,343,6,19,0.4,5,14,22,13,37
+Southampton,Tottenham Hotspur,False,2020,St. Mary's Stadium,30976,11,8,4,9,0,2,59.1,369,499,3,24,0.3,4,15,23,8,24
+Watford,Wolverhampton Wanderers,True,2020,Vicarage Road,20584,9,12,3,4,1,3,36.4,250,343,2,8,0.4,2,7,13,12,34
+Watford,Wolverhampton Wanderers,False,2020,Vicarage Road,20584,16,6,1,7,0,1,63.6,491,578,4,32,0.6,5,14,23,9,7
+West Ham United,AFC Bournemouth,False,2020,London Stadium,59917,3,12,2,2,0,3,57.4,539,618,1,15,0.5,0,10,20,6,21
+West Ham United,AFC Bournemouth,True,2020,London Stadium,59917,14,3,1,9,0,2,42.6,352,444,6,25,0.4,2,16,23,9,14
+Liverpool,Sheffield United,True,2020,Anfield,53321,19,5,0,8,0,2,74.8,876,969,3,24,0.6,7,4,6,9,9
+Liverpool,Sheffield United,False,2020,Anfield,53321,3,8,0,4,0,5,25.2,239,327,3,10,0.2,0,9,14,12,29
+Sheffield United,West Ham United,True,2020,Bramall Lane,30124,13,11,1,7,0,2,46.9,306,437,6,25,0.4,4,14,19,8,11
+Sheffield United,West Ham United,False,2020,Bramall Lane,30124,7,6,0,3,0,2,53.1,369,504,5,19,0.3,0,12,16,14,18
+Chelsea,Burnley,False,2020,,40396,7,4,3,3,0,5,34.5,206,300,1,10,0.3,2,6,13,9,22
+Chelsea,Burnley,True,2020,,40396,18,7,0,10,0,1,65.5,478,568,7,27,0.5,6,8,13,9,9
+Crystal Palace,Arsenal,False,2020,Selhurst Park,25468,7,22,3,4,1,1,57.3,381,487,1,10,0.6,1,10,17,9,19
+Crystal Palace,Arsenal,True,2020,Selhurst Park,25468,6,14,2,1,0,3,42.7,258,362,2,13,0.3,1,16,25,14,11
+Everton,Brighton & Hove Albion,False,2020,Goodison Park,38772,9,7,1,3,0,5,46.2,315,426,2,14,0.5,1,6,13,10,27
+Everton,Brighton & Hove Albion,True,2020,Goodison Park,38772,14,7,2,4,0,2,53.8,390,491,4,27,0.5,4,13,21,12,22
+Leicester City,Southampton,True,2020,King Power Stadium,32115,5,9,0,2,0,7,58.2,331,455,3,11,0.3,0,13,20,10,21
+Leicester City,Southampton,False,2020,King Power Stadium,32115,16,17,3,4,0,4,41.8,181,318,5,17,0.3,1,16,23,13,10
+Manchester United,Norwich City,True,2020,Old Trafford,73271,13,18,0,4,0,3,59.6,554,646,3,16,0.7,3,12,21,14,8
+Manchester United,Norwich City,False,2020,Old Trafford,73271,8,7,0,2,0,2,40.4,347,440,1,8,0.3,3,11,22,13,20
+Tottenham Hotspur,Liverpool,False,2020,Tottenham Hotspur Stadium,61023,13,8,2,3,0,4,66.8,683,786,4,18,0.4,1,12,20,6,9
+Tottenham Hotspur,Liverpool,True,2020,Tottenham Hotspur Stadium,61023,14,4,0,4,0,5,33.2,298,381,5,10,0.2,2,10,13,13,38
+Wolverhampton Wanderers,Newcastle United,False,2020,Molineux Stadium,31570,5,12,3,2,0,2,34.3,233,311,2,11,0.4,2,11,15,7,37
+Wolverhampton Wanderers,Newcastle United,True,2020,Molineux Stadium,31570,9,13,0,5,0,0,65.7,505,593,2,20,0.6,2,9,16,14,8
+AFC Bournemouth,Watford,True,2020,Vitality Stadium,10384,10,3,1,5,0,2,56.7,420,536,3,21,0.4,2,6,8,11,15
+AFC Bournemouth,Watford,False,2020,Vitality Stadium,10384,18,13,1,5,0,1,43.3,296,411,8,18,0.3,6,15,27,7,36
+Aston Villa,Manchester City,True,2020,Villa Park,41823,7,5,2,2,0,5,29.4,291,362,4,7,0.4,2,9,15,9,20
+Aston Villa,Manchester City,False,2020,Villa Park,41823,22,12,1,4,0,0,70.6,809,877,4,16,0.6,2,8,16,8,5
+Arsenal,Sheffield United,True,2020,Emirates Stadium,60310,11,9,1,4,0,2,61,457,567,4,17,0.3,2,8,13,12,16
+Arsenal,Sheffield United,False,2020,Emirates Stadium,60310,12,13,2,5,0,3,39,246,353,9,24,0.4,2,12,20,18,17
+Brighton & Hove Albion,Aston Villa,False,2020,American Express Stadium,30551,8,13,3,4,0,1,44.4,289,389,4,19,0.4,0,14,20,14,22
+Brighton & Hove Albion,Aston Villa,True,2020,American Express Stadium,30551,10,11,3,3,0,2,55.6,389,497,3,11,0.4,5,10,19,16,12
+Manchester City,Crystal Palace,False,2020,Etihad Stadium,54439,5,7,2,2,0,4,27.5,174,270,2,6,0.3,1,13,18,8,44
+Manchester City,Crystal Palace,True,2020,Etihad Stadium,54439,25,9,1,14,0,2,72.5,595,666,19,58,0.6,9,6,13,9,3
+Newcastle United,Chelsea,False,2020,,52217,19,14,1,10,0,1,69.9,557,655,8,34,0.5,8,10,15,18,9
+Newcastle United,Chelsea,True,2020,,52217,7,9,1,1,0,3,30.1,192,286,5,11,0.5,0,7,13,11,40
+Norwich City,AFC Bournemouth,False,2020,Carrow Road,26781,6,10,2,5,1,3,34,214,316,5,14,0.5,2,9,19,18,21
+Norwich City,AFC Bournemouth,True,2020,Carrow Road,26781,16,10,2,4,1,3,66,535,635,2,12,0.4,6,8,13,11,11
+Southampton,Wolverhampton Wanderers,True,2020,St. Mary's Stadium,31152,11,13,2,1,0,1,52.5,282,402,7,24,0.3,1,8,14,10,16
+Southampton,Wolverhampton Wanderers,False,2020,St. Mary's Stadium,31152,8,12,1,3,0,3,47.5,237,371,4,14,0.5,1,10,13,11,18
+Watford,Tottenham Hotspur,False,2020,Vicarage Road,21366,16,13,3,3,0,2,58.5,414,504,4,13,0.4,5,9,17,8,41
+Watford,Tottenham Hotspur,True,2020,Vicarage Road,21366,15,13,2,3,0,4,41.5,236,342,6,25,0.5,5,7,25,13,11
+West Ham United,Everton,False,2020,London Stadium,59915,11,13,0,6,0,4,51.2,364,459,6,25,0.4,3,10,20,15,19
+West Ham United,Everton,True,2020,London Stadium,59915,12,11,1,7,0,2,48.8,338,435,7,27,0.6,2,13,16,9,17
+Burnley,Leicester City,True,2020,Turf Moor,19788,8,14,1,4,0,7,44.5,282,386,3,19,0.4,1,11,16,12,18
+Burnley,Leicester City,False,2020,Turf Moor,19788,18,8,0,5,0,3,55.5,388,492,5,23,0.4,4,18,23,11,26
+Liverpool,Manchester United,True,2020,Anfield,52916,16,7,1,11,0,4,53.2,403,509,5,28,0.4,5,11,22,10,13
+Liverpool,Manchester United,False,2020,Anfield,52916,9,10,3,5,0,3,46.8,360,455,3,18,0.3,1,8,16,13,34
+AFC Bournemouth,Brighton & Hove Albion,True,2020,Vitality Stadium,10065,11,9,1,5,0,7,34.7,205,303,1,10,0.4,4,5,10,21,20
+AFC Bournemouth,Brighton & Hove Albion,False,2020,Vitality Stadium,10065,21,12,1,8,0,1,65.3,473,567,4,23,0.6,7,9,16,6,14
+Aston Villa,Watford,True,2020,Villa Park,40867,16,11,2,6,0,1,64.5,451,558,6,36,0.5,3,2,9,12,14
+Aston Villa,Watford,False,2020,Villa Park,40867,8,18,2,3,0,3,35.5,214,314,5,14,0.3,3,11,21,22,33
+Chelsea,Arsenal,False,2020,,40577,2,6,1,5,1,6,41.2,301,385,0,18,0.5,0,12,21,5,31
+Chelsea,Arsenal,True,2020,,40577,19,11,2,17,0,0,58.8,479,546,10,35,0.6,6,10,18,10,18
+Crystal Palace,Southampton,True,2020,Selhurst Park,23739,6,12,1,0,0,4,44.4,231,365,1,4,0.4,1,14,20,21,18
+Crystal Palace,Southampton,False,2020,Selhurst Park,23739,15,13,2,8,0,0,55.6,317,451,5,19,0.4,3,14,22,11,16
+Everton,Newcastle United,True,2020,Goodison Park,38822,17,13,1,6,0,1,54.9,470,562,6,24,0.5,2,9,15,11,16
+Everton,Newcastle United,False,2020,Goodison Park,38822,9,10,1,4,0,6,45.1,369,462,2,18,0.4,3,5,9,11,27
+Sheffield United,Manchester City,False,2020,Bramall Lane,31285,18,13,3,13,0,1,67.3,520,600,7,27,0.6,5,5,8,11,24
+Sheffield United,Manchester City,True,2020,Bramall Lane,31285,4,13,4,5,0,4,32.7,187,286,5,21,0.3,1,9,13,10,23
+Leicester City,West Ham United,True,2020,King Power Stadium,31968,19,10,1,7,0,1,67.3,491,569,4,21,0.6,7,9,17,9,10
+Leicester City,West Ham United,False,2020,King Power Stadium,31968,6,19,1,8,0,4,32.7,185,273,3,15,0.4,1,3,9,10,24
+Manchester United,Burnley,False,2020,Old Trafford,73198,5,7,2,2,0,7,27.8,154,261,2,11,0.3,1,8,13,15,29
+Manchester United,Burnley,True,2020,Old Trafford,73198,24,11,0,5,0,0,72.2,592,692,4,24,0.5,7,8,10,7,13
+Tottenham Hotspur,Norwich City,False,2020,Tottenham Hotspur Stadium,58182,13,7,1,3,0,1,49.6,375,475,4,10,0.4,4,15,24,12,19
+Tottenham Hotspur,Norwich City,True,2020,Tottenham Hotspur Stadium,58182,14,12,0,7,0,1,50.4,384,479,3,17,0.5,6,6,11,12,14
+Wolverhampton Wanderers,Liverpool,False,2020,Molineux Stadium,31746,13,11,1,4,0,2,53.6,495,594,7,12,0.5,6,6,11,11,20
+Wolverhampton Wanderers,Liverpool,True,2020,Molineux Stadium,31746,10,6,0,2,0,4,46.4,412,505,7,23,0.6,2,6,11,11,7
+West Ham United,Liverpool,False,2020,London Stadium,59959,13,6,0,7,0,4,70.6,735,828,5,20,0.5,3,9,17,8,12
+West Ham United,Liverpool,True,2020,London Stadium,59959,7,6,2,3,0,3,29.4,238,331,6,19,0.4,0,9,17,9,19
+AFC Bournemouth,Aston Villa,True,2020,Vitality Stadium,10722,16,10,1,1,1,4,39.6,188,303,4,13,0.3,5,10,12,21,36
+AFC Bournemouth,Aston Villa,False,2020,Vitality Stadium,10722,18,15,3,8,0,4,60.4,347,456,7,24,0.4,4,1,5,9,13
+Crystal Palace,Sheffield United,True,2020,Selhurst Park,25170,13,9,3,9,0,3,60.7,418,515,4,28,0.5,5,7,14,10,12
+Crystal Palace,Sheffield United,False,2020,Selhurst Park,25170,10,15,2,5,0,3,39.3,240,337,3,16,0.4,4,9,20,13,28
+Leicester City,Chelsea,False,2020,,32186,7,14,2,6,0,2,50.3,379,485,5,14,0.5,3,8,15,9,18
+Leicester City,Chelsea,True,2020,,32186,14,16,2,4,0,1,49.7,369,478,5,16,0.4,5,17,25,9,18
+Liverpool,Southampton,True,2020,Anfield,53291,16,9,0,6,0,4,61.5,403,530,0,15,0.4,4,9,14,11,23
+Liverpool,Southampton,False,2020,Anfield,53291,17,15,2,11,0,5,38.5,205,321,6,19,0.3,6,11,18,6,26
+Manchester United,Wolverhampton Wanderers,True,2020,Old Trafford,73363,16,14,3,4,0,4,63.7,560,633,5,23,0.7,3,11,19,5,12
+Manchester United,Wolverhampton Wanderers,False,2020,Old Trafford,73363,15,15,2,6,0,5,36.3,281,354,9,19,0.5,6,19,28,19,21
+Newcastle United,Norwich City,True,2020,St. James' Park,52204,15,10,2,8,0,4,43.4,291,365,5,27,0.5,6,12,15,16,37
+Newcastle United,Norwich City,False,2020,St. James' Park,52204,19,15,1,12,0,6,56.6,393,485,6,25,0.3,6,7,10,10,22
+Watford,Everton,False,2020,Vicarage Road,21229,12,14,2,4,1,0,55.4,327,441,7,26,0.4,3,14,22,10,21
+Watford,Everton,True,2020,Vicarage Road,21229,11,17,2,4,0,2,44.6,252,364,1,12,0.4,3,7,15,9,20
+West Ham United,Brighton & Hove Albion,False,2020,London Stadium,59952,19,9,1,6,0,3,64.9,509,607,7,24,0.5,3,8,19,12,13
+West Ham United,Brighton & Hove Albion,True,2020,London Stadium,59952,12,8,1,4,0,4,35.1,237,321,5,22,0.5,3,16,23,15,20
+Burnley,Arsenal,False,2020,Turf Moor,21048,13,11,3,7,0,2,57.3,372,462,4,21,0.4,5,13,17,8,23
+Burnley,Arsenal,True,2020,Turf Moor,21048,15,8,1,5,0,2,42.7,245,324,12,38,0.4,3,14,20,7,21
+Tottenham Hotspur,Manchester City,False,2020,Tottenham Hotspur Stadium,61022,19,14,3,6,1,1,66.9,608,692,3,24,0.7,7,9,15,12,13
+Tottenham Hotspur,Manchester City,True,2020,Tottenham Hotspur Stadium,61022,3,8,2,2,0,6,33.1,261,347,0,6,0.3,0,13,21,12,29
+Brighton & Hove Albion,Watford,True,2020,American Express Stadium,30443,10,9,2,3,0,1,67.2,502,603,5,28,0.6,3,8,13,11,8
+Brighton & Hove Albion,Watford,False,2020,American Express Stadium,30443,5,12,2,2,0,2,32.8,193,301,1,7,0.3,1,15,25,18,28
+Everton,Crystal Palace,False,2020,Goodison Park,38987,10,12,1,6,0,5,53.4,323,420,3,20,0.4,2,10,15,9,20
+Everton,Crystal Palace,True,2020,Goodison Park,38987,14,11,0,4,0,1,46.6,263,358,5,24,0.5,2,13,20,12,22
+Sheffield United,AFC Bournemouth,False,2020,Bramall Lane,30361,10,8,3,4,0,3,45.7,283,391,3,15,0.3,1,5,10,7,47
+Sheffield United,AFC Bournemouth,True,2020,Bramall Lane,30361,16,10,2,8,0,1,54.3,320,449,9,36,0.5,6,5,17,7,20
+Wolverhampton Wanderers,Leicester City,False,2020,Molineux Stadium,31682,9,10,2,0,1,3,59.2,413,493,4,19,0.3,4,12,21,14,17
+Wolverhampton Wanderers,Leicester City,True,2020,Molineux Stadium,31682,15,13,2,7,0,3,40.8,243,328,9,26,0.5,4,10,18,11,15
+Norwich City,Liverpool,False,2020,Carrow Road,27110,17,11,2,7,0,1,63.3,524,624,4,30,0.5,4,11,16,5,7
+Norwich City,Liverpool,True,2020,Carrow Road,27110,5,5,1,2,0,5,36.7,268,373,2,3,0.3,1,12,17,23,33
+Southampton,Burnley,False,2020,St. Mary's Stadium,26302,9,11,2,3,0,1,36.4,180,297,3,12,0.4,0,10,18,10,30
+Southampton,Burnley,True,2020,St. Mary's Stadium,26302,10,8,2,4,0,4,63.6,386,518,6,26,0.4,3,7,11,7,10
+Arsenal,Newcastle United,True,2020,Emirates Stadium,60188,15,15,2,5,0,2,68.4,585,643,3,24,0.6,2,7,12,10,15
+Arsenal,Newcastle United,False,2020,Emirates Stadium,60188,10,9,0,6,0,3,31.6,239,295,4,15,0.5,3,8,18,10,20
+Aston Villa,Tottenham Hotspur,True,2020,Villa Park,41874,18,12,2,12,0,7,54.3,339,444,9,29,0.5,6,8,14,15,18
+Aston Villa,Tottenham Hotspur,False,2020,Villa Park,41874,23,10,0,7,0,3,45.7,292,386,4,15,0.4,7,11,24,11,28
+Chelsea,Manchester United,True,2020,,40504,17,11,4,9,0,1,61.2,528,606,2,23,0.6,10,9,18,7,14
+Chelsea,Manchester United,False,2020,,40504,9,11,3,8,0,1,38.8,304,382,4,16,0.4,2,6,12,15,27
+Manchester City,West Ham United,True,2020,Etihad Stadium,52159,20,5,0,6,0,0,77.3,822,896,3,35,0.8,8,7,11,7,12
+Manchester City,West Ham United,False,2020,Etihad Stadium,52159,3,7,1,1,0,5,22.7,178,254,2,11,0.3,1,7,15,14,36
+Burnley,AFC Bournemouth,False,2020,Turf Moor,18227,12,9,3,4,0,7,57.9,339,430,7,22,0.3,4,6,12,6,33
+Burnley,AFC Bournemouth,True,2020,Turf Moor,18227,16,9,4,7,0,4,42.1,206,306,2,25,0.3,4,13,22,9,18
+Chelsea,Tottenham Hotspur,True,2020,,40608,17,14,1,3,0,3,49.1,455,551,1,11,0.3,2,15,26,15,13
+Chelsea,Tottenham Hotspur,False,2020,,40608,5,14,2,5,0,5,50.9,471,572,4,14,0.4,2,15,24,8,15
+Crystal Palace,Newcastle United,True,2020,Selhurst Park,25486,18,15,2,7,0,2,44.2,263,356,6,16,0.5,2,13,22,17,15
+Crystal Palace,Newcastle United,False,2020,Selhurst Park,25486,8,11,6,5,1,8,55.8,344,447,5,17,0.4,3,7,16,14,15
+Leicester City,Manchester City,True,2020,King Power Stadium,32068,10,14,0,3,0,6,31.9,239,311,2,11,0.5,3,10,14,12,21
+Leicester City,Manchester City,False,2020,King Power Stadium,32068,18,10,0,7,0,3,68.1,603,677,2,20,0.6,5,11,15,15,14
+Sheffield United,Brighton & Hove Albion,False,2020,Bramall Lane,31888,9,6,2,2,0,2,33.7,188,285,2,6,0.4,3,8,15,12,56
+Sheffield United,Brighton & Hove Albion,True,2020,Bramall Lane,31888,13,5,0,12,0,1,66.3,411,532,14,50,0.4,5,10,15,8,7
+Southampton,Aston Villa,False,2020,St. Mary's Stadium,31478,4,17,4,6,0,7,54.1,295,398,2,20,0.4,3,6,13,10,25
+Southampton,Aston Villa,True,2020,St. Mary's Stadium,31478,28,13,1,9,0,1,45.9,234,341,4,19,0.4,8,12,17,12,15
+Arsenal,Everton,True,2020,Emirates Stadium,60296,9,12,0,6,0,3,51.3,423,491,3,15,0.6,0,9,13,12,16
+Arsenal,Everton,False,2020,Emirates Stadium,60296,17,12,4,3,0,1,48.7,386,455,8,23,0.5,4,12,21,14,8
+Manchester United,Watford,True,2020,Old Trafford,73347,21,6,0,3,0,2,58,479,597,3,10,0.4,3,10,21,18,15
+Manchester United,Watford,False,2020,Old Trafford,73347,7,15,1,5,0,5,42,314,420,3,21,0.5,3,9,16,17,6
+Wolverhampton Wanderers,Norwich City,False,2020,Molineux Stadium,31046,6,6,3,1,0,3,60.2,499,588,0,8,0.5,1,9,16,8,10
+Wolverhampton Wanderers,Norwich City,True,2020,Molineux Stadium,31046,19,11,2,4,0,4,39.8,292,378,5,15,0.5,4,14,32,17,12
+Liverpool,West Ham United,True,2020,Anfield,53313,25,4,0,16,0,2,69.3,530,626,12,38,0.4,8,16,23,8,19
+Liverpool,West Ham United,False,2020,Anfield,53313,7,10,3,8,0,4,30.7,177,269,7,25,0.3,1,11,19,14,43
+Norwich City,Leicester City,False,2020,Carrow Road,27010,19,16,2,7,0,5,57.4,389,468,4,22,0.6,7,4,15,9,10
+Norwich City,Leicester City,True,2020,Carrow Road,27010,11,13,1,6,0,4,42.6,260,344,6,16,0.5,4,17,22,11,23
+AFC Bournemouth,Chelsea,True,2020,,10667,9,8,2,4,0,5,26.9,206,301,5,11,0.5,1,4,8,12,49
+AFC Bournemouth,Chelsea,False,2020,,10667,23,5,2,14,0,3,73.1,707,808,12,44,0.6,5,9,18,11,19
+Brighton & Hove Albion,Crystal Palace,True,2020,American Express Stadium,30124,23,8,2,8,0,2,66.5,444,538,8,33,0.6,6,15,26,10,15
+Brighton & Hove Albion,Crystal Palace,False,2020,American Express Stadium,30124,12,9,1,7,0,8,33.5,187,273,5,12,0.3,3,13,23,9,32
+Newcastle United,Burnley,False,2020,St. James' Park,52219,7,9,3,7,0,4,46,212,323,3,18,0.3,3,7,14,7,20
+Newcastle United,Burnley,True,2020,St. James' Park,52219,21,11,4,11,0,0,54,254,376,6,27,0.3,11,11,19,7,18
+Watford,Liverpool,False,2020,Vicarage Road,21634,7,8,0,5,0,2,70.8,620,732,1,26,0.5,2,2,8,5,13
+Watford,Liverpool,True,2020,Vicarage Road,21634,14,4,0,3,0,1,29.2,198,299,3,13,0.4,2,7,13,17,41
+West Ham United,Southampton,False,2020,London Stadium,59962,10,11,1,9,0,4,66.3,390,521,7,29,0.4,5,8,17,13,20
+West Ham United,Southampton,True,2020,London Stadium,59962,14,8,1,4,0,1,33.7,152,257,5,23,0.3,2,10,16,10,35
+Everton,Manchester United,True,2020,Goodison Park,39374,16,11,3,13,0,4,44.1,241,327,6,28,0.6,5,8,14,11,19
+Everton,Manchester United,False,2020,Goodison Park,39374,14,11,4,8,0,4,55.9,332,431,2,21,0.3,4,11,16,7,27
+Tottenham Hotspur,Wolverhampton Wanderers,True,2020,Tottenham Hotspur Stadium,58064,13,12,3,4,0,1,65.5,532,621,4,22,0.5,6,12,22,6,19
+Tottenham Hotspur,Wolverhampton Wanderers,False,2020,Tottenham Hotspur Stadium,58064,14,14,2,5,0,3,34.5,238,322,8,16,0.5,3,10,25,17,28
+Arsenal,West Ham United,True,2020,Emirates Stadium,60335,9,11,1,6,0,6,68.9,530,621,2,20,0.6,4,7,13,10,28
+Arsenal,West Ham United,False,2020,Emirates Stadium,60335,14,9,2,7,0,1,31.1,181,264,7,25,0.4,2,9,11,15,18
+Burnley,Tottenham Hotspur,True,2020,Turf Moor,20496,21,16,5,4,0,1,45,280,378,8,32,0.3,9,16,24,13,21
+Burnley,Tottenham Hotspur,False,2020,Turf Moor,20496,13,11,4,5,0,6,55,356,479,1,20,0.4,5,8,14,8,36
+Crystal Palace,Watford,True,2020,Selhurst Park,25461,10,12,4,8,0,3,44.2,266,371,5,17,0.3,4,11,21,13,33
+Crystal Palace,Watford,False,2020,Selhurst Park,25461,10,16,4,8,0,2,55.8,349,464,3,29,0.5,5,11,22,6,18
+Liverpool,AFC Bournemouth,False,2020,Anfield,53323,6,12,1,4,0,4,25.5,149,246,3,14,0.3,2,6,9,13,43
+Liverpool,AFC Bournemouth,True,2020,Anfield,53323,14,10,0,9,0,2,74.5,621,729,4,30,0.5,4,4,7,11,20
+Sheffield United,Norwich City,False,2020,Bramall Lane,31379,12,8,0,5,0,2,58.2,422,519,4,22,0.4,3,11,18,8,27
+Sheffield United,Norwich City,True,2020,Bramall Lane,31379,10,12,0,10,0,4,41.8,267,359,4,34,0.4,2,10,14,13,31
+Southampton,Newcastle United,False,2020,St. Mary's Stadium,30096,14,15,3,8,0,3,62,403,500,4,20,0.4,4,7,15,7,18
+Southampton,Newcastle United,True,2020,St. Mary's Stadium,30096,6,14,0,5,1,6,38,205,298,4,21,0.4,2,11,19,10,18
+Wolverhampton Wanderers,Brighton & Hove Albion,False,2020,Molineux Stadium,31490,7,7,3,0,0,1,56.9,500,606,2,18,0.5,2,13,23,11,21
+Wolverhampton Wanderers,Brighton & Hove Albion,True,2020,Molineux Stadium,31490,11,4,1,2,0,1,43.1,343,458,4,17,0.5,3,17,22,8,14
+Chelsea,Everton,True,2020,,40694,17,8,1,6,0,1,60.2,572,646,3,15,0.6,1,7,13,7,12
+Chelsea,Everton,False,2020,,40694,3,10,2,1,0,7,39.8,328,415,1,14,0.5,1,10,15,9,11
+Manchester United,Manchester City,False,2020,Old Trafford,73288,7,9,4,11,0,4,72.3,676,761,2,31,0.6,0,5,15,8,8
+Manchester United,Manchester City,True,2020,Old Trafford,73288,12,11,2,2,0,4,27.7,216,294,2,9,0.4,4,9,19,17,33
+Leicester City,Aston Villa,False,2020,King Power Stadium,32125,4,12,1,0,0,3,35.4,209,301,1,10,0.4,0,16,23,10,22
+Leicester City,Aston Villa,True,2020,King Power Stadium,32125,15,15,2,9,0,1,64.6,447,543,7,29,0.7,1,13,24,8,12
+Aston Villa,Sheffield United,True,2020,Villa Park,0,14,11,1,12,0,1,45.1,301,382,12,26,0.5,3,6,8,5,17
+Aston Villa,Sheffield United,False,2020,Villa Park,0,5,14,1,4,0,6,54.9,384,483,4,20,0.4,3,13,18,6,17
+Manchester City,Arsenal,False,2020,Etihad Stadium,0,3,7,1,2,1,9,32.9,279,333,1,8,0.2,0,10,15,8,11
+Manchester City,Arsenal,True,2020,Etihad Stadium,0,20,9,1,5,0,0,67.1,639,692,3,9,0.7,3,3,7,13,6
+Norwich City,Southampton,True,2020,Carrow Road,0,9,9,1,9,0,6,55,289,406,2,15,0.3,5,10,19,5,15
+Norwich City,Southampton,False,2020,Carrow Road,0,22,15,1,7,0,1,45,230,333,4,18,0.3,7,12,24,17,16
+Tottenham Hotspur,Manchester United,False,2020,Tottenham Hotspur Stadium,0,12,18,1,6,0,2,61.2,485,586,4,17,0.5,2,8,16,15,18
+Tottenham Hotspur,Manchester United,True,2020,Tottenham Hotspur Stadium,0,10,17,0,7,0,6,38.8,273,365,1,16,0.4,4,9,14,12,30
+AFC Bournemouth,Crystal Palace,True,2020,Vitality Stadium,0,12,13,3,11,0,0,58.7,412,494,5,16,0.6,4,10,18,7,8
+AFC Bournemouth,Crystal Palace,False,2020,Vitality Stadium,0,7,15,2,4,0,1,41.3,268,350,1,10,0.5,1,10,26,13,20
+Brighton & Hove Albion,Arsenal,False,2020,American Express Stadium,0,13,8,1,8,0,3,58.7,423,476,3,22,0.6,4,4,8,4,25
+Brighton & Hove Albion,Arsenal,True,2020,American Express Stadium,0,9,13,2,10,0,5,41.3,261,325,3,25,0.3,2,15,22,8,23
+Watford,Leicester City,False,2020,Vicarage Road,0,15,12,1,7,0,3,68.3,452,555,3,23,0.4,6,17,27,4,25
+Watford,Leicester City,True,2020,Vicarage Road,0,8,15,0,2,0,1,31.7,159,254,4,16,0.4,1,9,13,10,22
+West Ham United,Wolverhampton Wanderers,True,2020,London Stadium,0,7,8,1,5,0,4,42.2,272,357,2,22,0.3,3,9,15,7,16
+West Ham United,Wolverhampton Wanderers,False,2020,London Stadium,0,10,7,1,7,0,2,57.8,414,506,6,19,0.6,3,11,18,10,18
+Aston Villa,Chelsea,True,2020,,0,8,9,2,2,0,3,26,158,246,3,10,0.3,1,3,8,17,31
+Aston Villa,Chelsea,False,2020,,0,19,17,1,10,0,3,74,593,692,7,37,0.6,7,4,7,8,11
+Everton,Liverpool,True,2020,Goodison Park,0,8,15,2,1,0,3,29.9,172,256,2,3,0.3,2,14,20,11,26
+Everton,Liverpool,False,2020,Goodison Park,0,10,12,2,6,0,3,70.1,505,594,4,19,0.6,3,12,16,10,3
+Newcastle United,Sheffield United,True,2020,St. James' Park,0,12,9,2,2,0,1,46,361,442,4,13,0.4,2,7,11,6,12
+Newcastle United,Sheffield United,False,2020,St. James' Park,0,7,10,0,4,1,5,54,424,509,6,22,0.5,3,9,16,4,12
+Manchester City,Burnley,False,2020,Etihad Stadium,0,1,7,1,1,0,2,28.3,246,322,0,4,0.4,0,7,11,9,12
+Manchester City,Burnley,True,2020,Etihad Stadium,0,19,8,1,3,0,0,71.7,746,816,3,9,0.8,5,8,12,2,8
+Leicester City,Brighton & Hove Albion,False,2020,King Power Stadium,0,10,13,2,7,0,2,33.6,211,294,1,16,0.4,5,14,21,10,25
+Leicester City,Brighton & Hove Albion,True,2020,King Power Stadium,0,11,10,2,6,0,2,66.4,506,588,5,25,0.5,2,9,16,9,20
+Tottenham Hotspur,West Ham United,True,2020,Tottenham Hotspur Stadium,0,15,12,2,9,0,2,64.5,571,662,4,19,0.5,0,4,9,8,10
+Tottenham Hotspur,West Ham United,False,2020,Tottenham Hotspur Stadium,0,10,7,2,4,0,3,35.5,266,361,5,16,0.5,1,11,21,12,24
+Liverpool,Crystal Palace,False,2020,Anfield,0,3,5,0,0,0,3,26.7,235,330,0,0,0.3,0,13,20,16,37
+Liverpool,Crystal Palace,True,2020,Anfield,0,21,7,0,6,0,0,73.3,789,886,5,20,0.7,4,10,17,15,1
+Manchester United,Sheffield United,True,2020,Old Trafford,0,15,10,1,10,0,1,68.2,681,748,4,17,0.9,4,3,7,8,18
+Manchester United,Sheffield United,False,2020,Old Trafford,0,4,6,0,5,0,3,31.8,279,338,3,17,0.3,2,5,15,15,18
+Newcastle United,Aston Villa,False,2020,St. James' Park,0,14,13,2,9,0,2,47.9,285,369,7,34,0.3,5,2,5,12,18
+Newcastle United,Aston Villa,True,2020,St. James' Park,0,13,15,2,6,0,1,52.1,320,416,3,18,0.5,6,4,6,5,32
+Norwich City,Everton,False,2020,Carrow Road,0,12,13,1,5,0,1,53.4,396,495,7,20,0.6,4,15,20,11,22
+Norwich City,Everton,True,2020,Carrow Road,0,9,8,0,6,0,4,46.6,345,432,4,19,0.3,6,5,15,9,24
+Wolverhampton Wanderers,AFC Bournemouth,False,2020,Molineux Stadium,0,4,11,3,4,0,1,44.9,264,347,2,16,0.4,2,12,17,6,15
+Wolverhampton Wanderers,AFC Bournemouth,True,2020,Molineux Stadium,0,10,11,3,6,0,0,55.1,353,425,4,22,0.5,1,8,14,10,24
+Burnley,Watford,True,2020,Turf Moor,0,9,13,1,1,0,3,55.2,298,424,4,10,0.2,0,8,11,10,36
+Burnley,Watford,False,2020,Turf Moor,0,10,15,0,7,0,3,44.8,203,329,7,30,0.3,0,9,16,4,13
+Chelsea,Manchester City,True,2020,,0,15,13,1,5,0,1,35.3,316,382,3,11,0.6,2,6,13,8,20
+Chelsea,Manchester City,False,2020,,0,11,3,1,7,1,5,64.7,650,713,5,20,0.7,3,5,7,5,8
+Southampton,Arsenal,False,2020,St. Mary's Stadium,0,10,14,2,6,0,3,47.4,304,398,2,8,0.5,2,2,10,15,19
+Southampton,Arsenal,True,2020,St. Mary's Stadium,0,12,10,0,4,1,3,52.6,345,435,5,19,0.5,2,10,17,12,8
+Aston Villa,Wolverhampton Wanderers,True,2020,Villa Park,0,11,16,1,2,0,1,48,345,423,6,15,0.4,2,2,8,11,9
+Aston Villa,Wolverhampton Wanderers,False,2020,Villa Park,0,9,16,1,2,0,1,52,373,464,4,13,0.7,1,6,10,7,9
+Watford,Southampton,False,2020,Vicarage Road,0,11,9,0,3,0,0,52.4,334,460,0,8,0.3,1,14,20,11,28
+Watford,Southampton,True,2020,Vicarage Road,0,8,18,3,5,0,4,47.6,271,396,2,22,0.4,6,8,13,14,10
+Crystal Palace,Burnley,False,2020,Selhurst Park,0,8,13,1,1,0,4,41.6,272,354,1,12,0.3,1,12,16,9,35
+Crystal Palace,Burnley,True,2020,Selhurst Park,0,17,12,1,9,0,3,58.4,389,479,6,30,0.5,7,10,13,7,13
+Brighton & Hove Albion,Manchester United,True,2020,American Express Stadium,0,8,10,0,4,0,3,38,305,375,3,17,0.4,1,9,13,10,13
+Brighton & Hove Albion,Manchester United,False,2020,American Express Stadium,0,12,9,1,5,0,2,62,555,629,3,12,0.6,2,12,16,5,12
+AFC Bournemouth,Newcastle United,True,2020,Vitality Stadium,0,12,11,2,6,0,3,54.9,410,493,3,16,0.5,5,8,16,8,7
+AFC Bournemouth,Newcastle United,False,2020,Vitality Stadium,0,12,10,0,3,0,0,45.1,333,420,2,7,0.5,1,11,16,16,13
+Arsenal,Norwich City,True,2020,Emirates Stadium,0,13,10,1,6,0,2,51.6,400,468,4,18,0.5,1,8,12,13,11
+Arsenal,Norwich City,False,2020,Emirates Stadium,0,8,10,4,2,0,4,48.4,354,445,0,5,0.3,3,15,19,4,18
+Everton,Leicester City,True,2020,Goodison Park,0,7,13,1,3,0,2,34.9,244,331,2,6,0.5,3,9,20,9,34
+Everton,Leicester City,False,2020,Goodison Park,0,15,10,1,5,0,0,65.1,521,596,3,35,0.6,6,10,15,6,9
+West Ham United,Chelsea,False,2020,,0,17,9,1,3,0,1,71.2,583,658,10,29,0.5,2,11,19,5,9
+West Ham United,Chelsea,True,2020,,0,10,10,2,2,0,4,28.8,200,273,3,6,0.5,4,4,16,15,29
+Manchester City,Liverpool,False,2020,Etihad Stadium,0,11,7,2,3,0,2,53,475,551,3,21,0.5,6,8,13,15,8
+Manchester City,Liverpool,True,2020,Etihad Stadium,0,14,8,2,3,0,3,47,412,490,4,11,0.6,2,7,10,8,19
+Sheffield United,Tottenham Hotspur,True,2020,Bramall Lane,0,7,13,2,1,0,1,32.5,210,312,2,9,0.4,0,12,18,16,28
+Sheffield United,Tottenham Hotspur,False,2020,Bramall Lane,0,9,13,0,6,0,2,67.5,543,637,3,28,0.6,2,11,14,15,10
+Chelsea,Watford,True,2020,,0,21,9,0,5,0,3,70.4,660,731,4,17,0.7,8,8,13,11,18
+Chelsea,Watford,False,2020,,0,7,12,2,3,0,6,29.6,230,300,1,11,0.5,0,15,24,11,21
+Leicester City,Crystal Palace,False,2020,King Power Stadium,0,7,8,1,7,0,1,47.8,358,450,5,20,0.5,1,8,18,7,4
+Leicester City,Crystal Palace,True,2020,King Power Stadium,0,15,18,2,3,0,1,52.2,427,506,4,11,0.6,5,17,29,14,20
+Manchester United,AFC Bournemouth,False,2020,Old Trafford,0,7,12,1,3,0,6,30.7,214,283,2,9,0.4,1,4,10,11,17
+Manchester United,AFC Bournemouth,True,2020,Old Trafford,0,19,3,0,8,0,1,69.3,575,648,5,21,0.7,5,9,16,13,9
+Norwich City,Brighton & Hove Albion,False,2020,Carrow Road,0,8,13,2,2,0,1,42,345,418,3,15,0.5,3,5,11,13,17
+Norwich City,Brighton & Hove Albion,True,2020,Carrow Road,0,12,11,2,0,0,1,58,506,587,2,17,0.5,7,10,14,3,19
+Wolverhampton Wanderers,Arsenal,False,2020,Molineux Stadium,0,8,11,4,5,0,1,48.1,397,482,3,10,0.4,2,19,29,11,25
+Wolverhampton Wanderers,Arsenal,True,2020,Molineux Stadium,0,10,6,2,3,0,2,51.9,441,516,5,16,0.6,4,7,13,8,9
+Burnley,Sheffield United,True,2020,Turf Moor,0,9,8,0,3,0,2,47.4,294,404,4,16,0.4,0,7,9,7,36
+Burnley,Sheffield United,False,2020,Turf Moor,0,10,14,0,9,0,3,52.6,315,441,5,31,0.4,4,8,12,9,17
+Liverpool,Aston Villa,False,2020,Anfield,0,9,8,1,5,0,2,28.8,175,263,3,18,0.3,2,5,8,17,26
+Liverpool,Aston Villa,True,2020,Anfield,0,6,18,1,7,0,3,71.2,566,672,3,25,0.5,1,4,7,5,18
+Newcastle United,West Ham United,True,2020,St. James' Park,0,11,9,1,6,0,5,57.4,423,516,2,19,0.4,2,13,22,1,20
+Newcastle United,West Ham United,False,2020,St. James' Park,0,17,11,0,4,0,2,42.6,291,379,7,20,0.4,4,9,18,9,14
+Southampton,Manchester City,False,2020,St. Mary's Stadium,0,26,7,2,13,0,3,73.7,723,808,7,42,0.8,11,10,16,9,12
+Southampton,Manchester City,True,2020,St. Mary's Stadium,0,8,6,1,2,0,6,26.3,209,297,0,5,0.4,1,13,20,27,57
+Tottenham Hotspur,Everton,False,2020,Tottenham Hotspur Stadium,0,11,18,2,6,0,2,48.4,341,413,1,22,0.6,4,8,10,10,22
+Tottenham Hotspur,Everton,True,2020,Tottenham Hotspur Stadium,0,12,14,3,5,0,3,51.6,370,448,2,14,0.4,4,7,13,7,23
+Arsenal,Leicester City,True,2020,Emirates Stadium,0,11,10,1,10,1,4,37.5,223,323,3,20,0.3,2,4,6,16,13
+Arsenal,Leicester City,False,2020,Emirates Stadium,0,13,14,0,1,0,6,62.5,460,558,6,18,0.5,1,12,17,8,20
+Crystal Palace,Chelsea,False,2020,,0,14,10,0,9,0,2,58,451,538,6,23,0.6,2,10,21,19,23
+Crystal Palace,Chelsea,True,2020,,0,13,11,1,7,0,3,42,296,381,7,23,0.5,5,11,19,14,19
+Watford,Norwich City,False,2020,Vicarage Road,0,12,15,4,3,0,2,56.5,417,504,2,13,0.4,3,7,19,11,30
+Watford,Norwich City,True,2020,Vicarage Road,0,9,11,2,4,0,2,43.5,275,375,5,24,0.4,0,10,21,14,8
+Brighton & Hove Albion,Liverpool,True,2020,American Express Stadium,0,12,7,1,6,0,5,44.4,300,381,4,19,0.5,3,7,12,10,39
+Brighton & Hove Albion,Liverpool,False,2020,American Express Stadium,0,20,15,4,10,0,1,55.6,395,477,6,32,0.6,7,4,11,11,18
+Manchester City,Newcastle United,True,2020,Etihad Stadium,0,23,13,0,8,0,1,73.6,788,843,4,21,0.9,8,1,5,15,11
+Manchester City,Newcastle United,False,2020,Etihad Stadium,0,6,7,0,1,0,5,26.4,214,296,3,10,0.4,5,11,15,11,14
+Sheffield United,Wolverhampton Wanderers,True,2020,Bramall Lane,0,7,5,2,6,0,1,42.8,277,382,5,36,0.4,1,8,16,5,15
+Sheffield United,Wolverhampton Wanderers,False,2020,Bramall Lane,0,6,6,0,1,0,2,57.2,435,545,2,12,0.4,0,6,13,15,27
+West Ham United,Burnley,False,2020,London Stadium,0,8,7,1,3,0,4,46.8,303,395,6,18,0.3,1,14,17,9,45
+West Ham United,Burnley,True,2020,London Stadium,0,21,7,1,10,0,3,53.2,320,427,8,41,0.4,9,16,19,7,16
+AFC Bournemouth,Tottenham Hotspur,True,2020,Vitality Stadium,0,9,11,3,8,0,0,35.7,184,271,3,21,0.2,4,11,15,12,26
+AFC Bournemouth,Tottenham Hotspur,False,2020,Vitality Stadium,0,9,14,2,12,0,2,64.3,405,499,6,28,0.5,5,16,21,12,38
+Aston Villa,Manchester United,True,2020,Villa Park,0,9,7,2,3,0,3,33.4,236,310,5,16,0.5,3,6,9,15,16
+Aston Villa,Manchester United,False,2020,Villa Park,0,14,13,3,5,0,1,66.6,567,637,2,17,0.7,2,5,11,12,11
+Everton,Southampton,True,2020,Goodison Park,0,11,13,3,3,0,3,38.7,241,330,4,12,0.5,3,5,12,12,26
+Everton,Southampton,False,2020,Goodison Park,0,16,14,3,5,0,3,61.3,420,518,7,23,0.4,6,9,13,13,12
+Brighton & Hove Albion,Manchester City,True,2020,American Express Stadium,0,3,7,1,2,0,3,29.8,256,335,1,7,0.5,0,7,12,17,15
+Brighton & Hove Albion,Manchester City,False,2020,American Express Stadium,0,26,3,0,7,0,0,70.2,723,799,6,21,0.7,6,13,16,12,9
+Liverpool,Burnley,False,2020,Anfield,0,6,4,2,6,0,8,29.2,158,265,0,19,0.2,2,4,11,14,36
+Liverpool,Burnley,True,2020,Anfield,0,23,7,1,12,0,1,70.8,564,659,3,29,0.5,9,6,10,6,17
+Norwich City,West Ham United,True,2020,Carrow Road,0,11,9,1,1,0,3,52.5,471,542,2,11,0.5,3,5,16,16,16
+Norwich City,West Ham United,False,2020,Carrow Road,0,19,8,0,6,0,2,47.5,398,478,9,20,0.5,1,8,12,9,8
+Sheffield United,Chelsea,False,2020,,0,15,6,0,6,0,1,76.3,712,809,8,35,0.5,4,7,8,14,12
+Sheffield United,Chelsea,True,2020,,0,9,8,1,4,0,4,23.7,159,251,5,12,0.3,2,3,7,11,37
+Watford,Newcastle United,False,2020,Vicarage Road,0,8,15,4,4,0,3,52.3,257,353,3,12,0.4,0,12,13,9,21
+Watford,Newcastle United,True,2020,Vicarage Road,0,17,23,1,2,0,3,47.7,216,316,4,17,0.5,7,9,12,5,10
+AFC Bournemouth,Leicester City,True,2020,Vitality Stadium,0,9,11,2,2,0,4,44.1,306,424,4,15,0.4,2,6,6,11,20
+AFC Bournemouth,Leicester City,False,2020,Vitality Stadium,0,13,12,1,6,1,1,55.9,438,545,1,18,0.5,5,10,17,15,13
+Aston Villa,Crystal Palace,True,2020,Villa Park,0,12,21,2,5,0,5,44.9,231,314,4,24,0.5,2,8,12,13,12
+Aston Villa,Crystal Palace,False,2020,Villa Park,0,9,21,4,1,1,7,55.1,306,386,5,19,0.5,1,8,15,9,15
+Tottenham Hotspur,Arsenal,False,2020,Tottenham Hotspur Stadium,0,13,11,3,5,0,7,62.7,566,636,0,19,0.5,3,7,12,6,13
+Tottenham Hotspur,Arsenal,True,2020,Tottenham Hotspur Stadium,0,15,16,5,6,0,3,37.3,306,378,1,13,0.5,5,13,22,5,21
+Wolverhampton Wanderers,Everton,False,2020,Molineux Stadium,0,6,9,2,2,0,4,44.9,370,450,2,13,0.4,3,8,10,14,13
+Wolverhampton Wanderers,Everton,True,2020,Molineux Stadium,0,14,9,0,5,0,2,55.1,487,564,2,10,0.6,3,6,9,13,11
+Manchester United,Southampton,True,2020,Old Trafford,0,8,14,1,4,0,3,47.5,368,463,2,13,0.5,1,7,13,10,20
+Manchester United,Southampton,False,2020,Old Trafford,0,9,15,3,6,0,2,52.5,412,510,2,20,0.4,2,6,10,12,16
+Chelsea,Norwich City,True,2020,,0,22,10,2,8,0,0,67.7,689,772,17,34,0.7,4,7,8,16,6
+Chelsea,Norwich City,False,2020,,0,2,9,2,1,0,5,32.3,287,374,1,8,0.3,2,12,15,13,21
+Arsenal,Liverpool,True,2020,Emirates Stadium,0,3,14,3,2,0,8,31.1,183,286,0,3,0.3,0,9,21,8,24
+Arsenal,Liverpool,False,2020,Emirates Stadium,0,24,10,1,13,0,0,68.9,522,614,9,34,0.7,9,10,12,10,3
+Burnley,Wolverhampton Wanderers,True,2020,Turf Moor,0,9,10,0,3,0,4,46.7,255,359,4,16,0.4,4,6,12,12,21
+Burnley,Wolverhampton Wanderers,False,2020,Turf Moor,0,14,8,0,8,0,0,53.3,317,413,5,20,0.4,3,7,9,13,20
+Manchester City,AFC Bournemouth,False,2020,Etihad Stadium,0,15,10,1,5,0,2,27.5,179,275,4,20,0.3,6,6,9,12,10
+Manchester City,AFC Bournemouth,True,2020,Etihad Stadium,0,8,10,1,3,0,2,72.5,669,756,2,14,0.4,0,9,15,8,25
+Newcastle United,Tottenham Hotspur,True,2020,St. James' Park,0,22,6,2,5,0,2,52.8,440,503,5,20,0.7,6,8,14,7,9
+Newcastle United,Tottenham Hotspur,False,2020,St. James' Park,0,8,13,3,4,0,5,47.2,394,456,3,11,0.6,2,5,14,5,21
+Crystal Palace,Manchester United,True,2020,Selhurst Park,0,13,10,1,2,0,3,40.6,336,428,3,9,0.4,4,11,26,16,18
+Crystal Palace,Manchester United,False,2020,Selhurst Park,0,17,15,2,7,0,5,59.4,546,625,4,15,0.7,3,11,14,14,13
+Everton,Aston Villa,False,2020,Goodison Park,0,15,13,1,5,0,0,45.1,288,362,6,27,0.6,7,5,9,7,14
+Everton,Aston Villa,True,2020,Goodison Park,0,9,15,2,5,0,0,54.9,381,443,7,30,0.6,2,6,10,14,20
+Leicester City,Sheffield United,True,2020,King Power Stadium,0,15,12,1,9,0,1,54.4,374,472,7,26,0.4,5,9,18,13,24
+Leicester City,Sheffield United,False,2020,King Power Stadium,0,5,10,2,5,0,5,45.6,301,401,3,17,0.5,1,6,10,11,24
+Southampton,Brighton & Hove Albion,False,2020,St. Mary's Stadium,0,10,10,0,2,0,4,32.1,171,281,2,11,0.4,4,13,18,12,21
+Southampton,Brighton & Hove Albion,True,2020,St. Mary's Stadium,0,21,6,1,8,0,1,67.9,490,597,4,20,0.5,8,12,15,9,8
+West Ham United,Watford,False,2020,London Stadium,0,14,11,2,3,0,1,59.4,336,439,5,28,0.5,5,9,16,11,18
+West Ham United,Watford,True,2020,London Stadium,0,10,11,0,9,0,2,40.6,190,297,4,24,0.4,4,10,13,12,28
+Norwich City,Burnley,False,2020,Carrow Road,0,23,16,0,8,0,2,57.7,404,468,6,35,0.5,8,7,13,7,8
+Norwich City,Burnley,True,2020,Carrow Road,0,6,9,0,6,2,7,42.3,267,354,3,11,0.4,2,4,6,8,23
+AFC Bournemouth,Southampton,True,2020,Vitality Stadium,0,11,12,2,12,0,6,43,174,288,6,31,0.5,4,7,17,11,11
+AFC Bournemouth,Southampton,False,2020,Vitality Stadium,0,16,11,2,6,0,3,57,281,407,4,13,0.4,5,12,22,10,47
+Tottenham Hotspur,Leicester City,False,2020,Tottenham Hotspur Stadium,0,24,10,1,13,0,1,71,630,697,10,33,0.8,10,6,12,8,7
+Tottenham Hotspur,Leicester City,True,2020,Tottenham Hotspur Stadium,0,7,15,2,4,0,6,29,205,285,2,10,0.5,3,12,17,7,30
+Brighton & Hove Albion,Newcastle United,True,2020,American Express Stadium,0,11,13,4,9,0,1,62.5,477,542,5,23,0.5,3,7,12,10,19
+Brighton & Hove Albion,Newcastle United,False,2020,American Express Stadium,0,12,12,2,7,0,3,37.5,241,315,6,24,0.6,7,8,15,12,23
+Sheffield United,Everton,False,2020,Bramall Lane,0,5,19,3,1,0,0,49.4,367,472,3,7,0.5,0,7,10,9,29
+Sheffield United,Everton,True,2020,Bramall Lane,0,8,11,1,7,0,1,50.6,369,468,5,32,0.5,5,11,17,10,12
+Wolverhampton Wanderers,Crystal Palace,False,2020,Molineux Stadium,0,7,15,1,2,0,3,46.6,314,404,4,14,0.3,3,5,13,12,18
+Wolverhampton Wanderers,Crystal Palace,True,2020,Molineux Stadium,0,11,11,2,5,0,3,53.4,380,465,3,18,0.6,3,9,18,9,14
+Aston Villa,Arsenal,False,2020,Villa Park,0,7,19,4,9,0,2,69,536,606,2,33,0.6,3,3,3,5,18
+Aston Villa,Arsenal,True,2020,Villa Park,0,8,13,2,8,0,0,31,200,264,4,24,0.6,1,9,16,10,32
+Watford,Manchester City,False,2020,Vicarage Road,0,26,11,0,8,0,0,76.9,687,764,5,25,0.6,10,10,22,7,11
+Watford,Manchester City,True,2020,Vicarage Road,0,2,14,2,0,0,6,23.1,154,232,0,5,0.3,0,9,18,11,21
+Liverpool,Chelsea,False,2020,,0,10,11,0,0,0,2,50,481,575,3,19,0.7,0,4,9,7,15
+Liverpool,Chelsea,True,2020,,0,10,8,1,6,0,2,50,474,584,4,12,0.4,1,8,19,5,14
+Manchester United,West Ham United,True,2020,Old Trafford,0,11,10,3,2,0,2,57.2,527,609,2,8,0.6,2,6,9,8,8
+Manchester United,West Ham United,False,2020,Old Trafford,0,12,9,1,3,0,3,42.8,349,441,4,20,0.5,3,6,20,14,18
+Arsenal,Watford,True,2020,Emirates Stadium,0,13,9,3,4,0,4,51.1,368,442,5,10,0.4,4,8,14,7,25
+Arsenal,Watford,False,2020,Emirates Stadium,0,19,12,3,8,0,2,48.9,333,398,13,38,0.6,6,5,7,10,6
+Burnley,Brighton & Hove Albion,False,2020,Turf Moor,0,15,11,0,7,0,1,45.8,259,334,2,19,0.5,5,4,6,7,31
+Burnley,Brighton & Hove Albion,True,2020,Turf Moor,0,13,11,3,6,0,2,54.2,283,378,13,37,0.4,3,11,20,12,3
+Chelsea,Wolverhampton Wanderers,True,2020,,0,11,10,2,3,0,1,62.9,521,629,3,11,0.5,3,19,30,8,14
+Chelsea,Wolverhampton Wanderers,False,2020,,0,5,16,3,3,0,1,37.1,256,370,1,9,0.4,3,16,22,8,6
+Crystal Palace,Tottenham Hotspur,True,2020,Selhurst Park,0,13,11,3,7,0,1,47.2,337,422,9,24,0.5,2,12,22,10,11
+Crystal Palace,Tottenham Hotspur,False,2020,Selhurst Park,0,7,13,2,2,0,1,52.8,406,489,2,11,0.5,2,21,26,22,17
+Everton,AFC Bournemouth,False,2020,Goodison Park,0,13,9,0,5,0,4,30,189,282,9,24,0.4,4,13,18,13,12
+Everton,AFC Bournemouth,True,2020,Goodison Park,0,13,11,1,2,0,4,70,589,687,10,21,0.6,3,16,26,6,23
+Leicester City,Manchester United,True,2020,King Power Stadium,0,14,12,1,3,1,1,45.8,344,425,7,18,0.5,4,11,23,16,12
+Leicester City,Manchester United,False,2020,King Power Stadium,0,7,11,5,3,0,3,54.2,426,518,1,7,0.5,1,12,21,9,8
+Manchester City,Norwich City,True,2020,Etihad Stadium,0,31,7,1,9,0,4,73.1,661,722,6,24,0.8,9,8,12,10,5
+Manchester City,Norwich City,False,2020,Etihad Stadium,0,5,4,1,0,0,4,26.9,192,268,0,3,0.4,0,5,14,14,26
+Newcastle United,Liverpool,False,2020,St. James' Park,0,14,5,0,4,0,1,74.7,705,792,4,17,0.6,3,5,12,8,8
+Newcastle United,Liverpool,True,2020,St. James' Park,0,3,11,1,2,0,3,25.3,175,267,0,7,0.3,0,15,23,8,23
+Southampton,Sheffield United,False,2020,St. Mary's Stadium,0,5,16,1,1,0,1,27.9,161,260,3,11,0.3,2,9,12,11,34
+Southampton,Sheffield United,True,2020,St. Mary's Stadium,0,13,9,0,9,0,2,72.1,587,684,0,27,0.4,6,10,11,7,8
+West Ham United,Aston Villa,False,2020,London Stadium,0,13,13,1,7,0,0,37,186,277,3,14,0.3,3,3,13,10,11
+West Ham United,Aston Villa,True,2020,London Stadium,0,10,16,2,0,0,3,63,391,480,3,10,0.4,3,8,15,6,26
